@@ -1,7 +1,6 @@
 # Ignorance-Question-Work-Full-Corpus
 
-All supporting documents and scripts for the Full Ignorance Corpus focusing on prenatal nutrition. 
-
+All supporting documents and scripts for the Full Ignorance Corpus focusing on prenatal nutrition. The full corpus can be found here: https://github.com/UCDenver-ccp/Ignorance-Question-Corpus
 ## Folders:
 
 1. Corpus_Construction: The python and bash scripts used to create the corpus including
