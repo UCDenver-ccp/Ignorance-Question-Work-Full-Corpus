@@ -17,6 +17,8 @@ All supporting documents and scripts for the Full Ignorance Corpus focusing on p
 
 	c. run_split_articles_into_train_eval.sh: split all files annotation files into a train set of size 65 and a held-out evaluation set of 26 (split_all_articles_into_train_eval.py)
 
+	d. run_make_eval_and_train_lists.sh: scripts to create PMCID lists for the eval and train sets (make_eval_and_train_lists.py)
+
 	d. Output_Folders: all folders for the outputs of the above two scripts
 
 		i.  PMCID_files_sentences: all sentence files per pmcid
