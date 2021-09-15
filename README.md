@@ -15,7 +15,9 @@ All supporting documents and scripts for the Full Ignorance Corpus focusing on p
 
 	b. run_combine_all_tokenized_files_by_pmcid.sh: combines all tokenized files into a binary ignorance or not and all combined (combine_all_tokenized_files_by_pmcid.py)
 
-	c. Output_Folders: all folders for the outputs of the above two scripts
+	c. run_split_articles_into_train_eval.sh: split all files annotation files into a train set of size 65 and a held-out evaluation set of 26 (split_all_articles_into_train_eval.py)
+
+	d. Output_Folders: all folders for the outputs of the above two scripts
 
 		i.  PMCID_files_sentences: all sentence files per pmcid
 
