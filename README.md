@@ -26,5 +26,5 @@ All supporting documents and scripts for the Full Ignorance Corpus focusing on p
 		ii. Tokenized_Files: all tokenized files by ignorance taxonomy category
 
 3. Sentence_Analysis:
-
-4. Word_Analysis:
+    
+4. Word_Analysis: all files to create classification algorithms on the word-level identifying the lexical cues. For more details see the README.md in the folder.
