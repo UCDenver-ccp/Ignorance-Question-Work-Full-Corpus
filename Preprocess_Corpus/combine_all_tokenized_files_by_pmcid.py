@@ -22,7 +22,7 @@ def get_all_articles_of_interest(article_path, output_path):
 
 
 
-def combine_tokenized_file_by_pmcid(pmcid_filename, tokenized_file_path, ontologies, ontology_shortcut_dict, biotags_to_change, full_output_path):
+def combine_tokenized_file_by_pmcid(pmcid_filename, tokenized_file_path, ontologies, ontology_shortcut_dict, biotag_duplicate_dict, biotags_to_change, full_output_path):
     biotags_count_per_pmcid = 0
     overlap_count_per_pmcid = 0
     for o, ontology in enumerate(ontologies):
@@ -36,7 +36,7 @@ def combine_tokenized_file_by_pmcid(pmcid_filename, tokenized_file_path, ontolog
             ##find the rows with B, I, O- and add the correct ontology shortcut to it -
             for biotag in biotags_to_change:
                 biotag_indices_list = pmcid_full_df.loc[pmcid_full_df['BIO_TAG'] == biotag].index.values
-                for i in biotag_indices_list:
+                for i in biotag_indices_list: ##TODO: fix the order so its standard
                     pmcid_full_df.at[i, 'BIO_TAG'] = '%s-%s' %(biotag.replace('-', ''), ontology_shortcut_dict[ontology]) #want to ensure that we get rid of the extra dash from O-
                     # print(pmcid_full_df.loc[[i]])
                 biotags_count_per_pmcid += len(biotag_indices_list)
@@ -145,6 +145,10 @@ def combine_tokenized_file_by_pmcid(pmcid_filename, tokenized_file_path, ontolog
     else:
         pass
 
+    ##need to fix the double biotags to be standard in the correct way from the biotag all combined creation
+    #https://stackoverflow.com/questions/20250771/remap-values-in-pandas-column-with-a-dict
+    pmcid_full_df.replace({'BIO_TAG' : biotag_duplicate_dict})
+
 
     ##print out the new pmcid_full_df dataframe with the information
     pmcid_full_df.to_pickle('%s%s' %(full_output_path, pmcid_filename.replace('.txt', '.pkl')))
@@ -196,6 +200,7 @@ if __name__ == '__main__':
     parser = argparse.ArgumentParser(description='')
     parser.add_argument('-tokenized_file_path', type=str, help='file path to the tokenized files in general')
     parser.add_argument('-biotags_to_change', type=str, help='a list of the possible biotags (delimited with , no spaces')
+    parser.add_argument('-biotag_combined_dict', type=str, help='path to the pkl file with the dictionary for used biotags for classification')
     parser.add_argument('-ontologies', type=str, help='a list of ontologies to combine by pmcid (delimited with , no spaces)')
     parser.add_argument('-output_path', type=str, help='file path to output the resulting tokenized files by pmcid')
     parser.add_argument('-combined_folder', type=str, help='folder to output the combined files (combine with output path)')
@@ -221,6 +226,12 @@ if __name__ == '__main__':
         # print(ontology, shortcut)
         ontology_shortcut_dict[ontology] = shortcut.upper()
 
+    ##read in the duplicate dict to be able to make sure we have the correct pairing
+    biotag_duplicate_dict_file = open(args.biotag_combined_dict, "rb")
+
+    biotag_duplicate_dict = pickle.load(biotag_duplicate_dict_file)
+    print(len(biotag_duplicate_dict))
+
 
 
     ##loop over each article and combine all tokenized file for that pmcid
@@ -233,7 +244,7 @@ if __name__ == '__main__':
     for pmcid_filename in all_articles_list:
         print('PMCID:', pmcid_filename.split('.')[0])
 
-        biotags_count_per_pmcid, overlap_count_per_pmcid, pmcid_full_df = combine_tokenized_file_by_pmcid(pmcid_filename, args.tokenized_file_path, ontologies, ontology_shortcut_dict, biotags_to_change, full_output_path)
+        biotags_count_per_pmcid, overlap_count_per_pmcid, pmcid_full_df = combine_tokenized_file_by_pmcid(pmcid_filename, args.tokenized_file_path, ontologies, ontology_shortcut_dict, biotag_duplicate_dict, biotags_to_change, full_output_path)
         total_biotags_count += biotags_count_per_pmcid
         total_overlap_count += overlap_count_per_pmcid
 
