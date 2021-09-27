@@ -197,7 +197,7 @@ class NerProcessor(DataProcessor):
             self._read_data(os.path.join(data_dir, "test.tsv")), "test")
 
     def get_labels(self):
-        return ['I-PC', 'B-PU-PC', 'O-AOC', 'I-DT', 'B-FU-IE', 'I-PU', 'O-FU', 'O-FW', 'O-SR', 'I-QABTW', 'B-ACF', 'I-FW', 'O-IE', 'I-AOC', 'B-AOC-DT', 'O-PC', 'I-IE-QABTW', 'I-IE', 'I-ACF-AOC', 'B-FP', 'B-IE', 'B-DT', 'B-FU', 'I-SR', 'B-QABTW', 'B-FW', 'O-DT', 'B-EQ', 'B-PC', 'O-PU', 'I-FP', 'B-ACF-AOC', 'I-FW-IC', 'I-FU', 'B-AOC', 'I-ACF', 'I-SR-PC', 'O-QABTW', 'O', 'B-SR', 'I-IC', 'B-PU', 'O-ACF', 'B-FP-AOC', 'B-IC', 'X', "[CLS]", "[SEP]"]
+        return ['B-FU', 'B-FU-EQ', 'B-FU-IE', 'B-FU-PU', 'B-FU-SR', 'B-FU-FW', 'B-FU-FP', 'B-FU-IC', 'B-FU-ACF', 'B-FU-AOC', 'B-FU-DT', 'B-FU-PC', 'B-FU-QABTW', 'B-EQ', 'B-EQ-IE', 'B-EQ-PU', 'B-EQ-SR', 'B-EQ-FW', 'B-EQ-FP', 'B-EQ-IC', 'B-EQ-ACF', 'B-EQ-AOC', 'B-EQ-DT', 'B-EQ-PC', 'B-EQ-QABTW', 'B-IE', 'B-IE-PU', 'B-IE-SR', 'B-IE-FW', 'B-IE-FP', 'B-IE-IC', 'B-IE-ACF', 'B-IE-AOC', 'B-IE-DT', 'B-IE-PC', 'B-IE-QABTW', 'B-PU', 'B-PU-SR', 'B-PU-FW', 'B-PU-FP', 'B-PU-IC', 'B-PU-ACF', 'B-PU-AOC', 'B-PU-DT', 'B-PU-PC', 'B-PU-QABTW', 'B-SR', 'B-SR-FW', 'B-SR-FP', 'B-SR-IC', 'B-SR-ACF', 'B-SR-AOC', 'B-SR-DT', 'B-SR-PC', 'B-SR-QABTW', 'B-FW', 'B-FW-FP', 'B-FW-IC', 'B-FW-ACF', 'B-FW-AOC', 'B-FW-DT', 'B-FW-PC', 'B-FW-QABTW', 'B-FP', 'B-FP-IC', 'B-FP-ACF', 'B-FP-AOC', 'B-FP-DT', 'B-FP-PC', 'B-FP-QABTW', 'B-IC', 'B-IC-ACF', 'B-IC-AOC', 'B-IC-DT', 'B-IC-PC', 'B-IC-QABTW', 'B-ACF', 'B-ACF-AOC', 'B-ACF-DT', 'B-ACF-PC', 'B-ACF-QABTW', 'B-AOC', 'B-AOC-DT', 'B-AOC-PC', 'B-AOC-QABTW', 'B-DT', 'B-DT-PC', 'B-DT-QABTW', 'B-PC', 'B-PC-QABTW', 'B-QABTW', 'I-FU', 'I-FU-EQ', 'I-FU-IE', 'I-FU-PU', 'I-FU-SR', 'I-FU-FW', 'I-FU-FP', 'I-FU-IC', 'I-FU-ACF', 'I-FU-AOC', 'I-FU-DT', 'I-FU-PC', 'I-FU-QABTW', 'I-EQ', 'I-EQ-IE', 'I-EQ-PU', 'I-EQ-SR', 'I-EQ-FW', 'I-EQ-FP', 'I-EQ-IC', 'I-EQ-ACF', 'I-EQ-AOC', 'I-EQ-DT', 'I-EQ-PC', 'I-EQ-QABTW', 'I-IE', 'I-IE-PU', 'I-IE-SR', 'I-IE-FW', 'I-IE-FP', 'I-IE-IC', 'I-IE-ACF', 'I-IE-AOC', 'I-IE-DT', 'I-IE-PC', 'I-IE-QABTW', 'I-PU', 'I-PU-SR', 'I-PU-FW', 'I-PU-FP', 'I-PU-IC', 'I-PU-ACF', 'I-PU-AOC', 'I-PU-DT', 'I-PU-PC', 'I-PU-QABTW', 'I-SR', 'I-SR-FW', 'I-SR-FP', 'I-SR-IC', 'I-SR-ACF', 'I-SR-AOC', 'I-SR-DT', 'I-SR-PC', 'I-SR-QABTW', 'I-FW', 'I-FW-FP', 'I-FW-IC', 'I-FW-ACF', 'I-FW-AOC', 'I-FW-DT', 'I-FW-PC', 'I-FW-QABTW', 'I-FP', 'I-FP-IC', 'I-FP-ACF', 'I-FP-AOC', 'I-FP-DT', 'I-FP-PC', 'I-FP-QABTW', 'I-IC', 'I-IC-ACF', 'I-IC-AOC', 'I-IC-DT', 'I-IC-PC', 'I-IC-QABTW', 'I-ACF', 'I-ACF-AOC', 'I-ACF-DT', 'I-ACF-PC', 'I-ACF-QABTW', 'I-AOC', 'I-AOC-DT', 'I-AOC-PC', 'I-AOC-QABTW', 'I-DT', 'I-DT-PC', 'I-DT-QABTW', 'I-PC', 'I-PC-QABTW', 'I-QABTW', 'O-FU', 'O-FU-EQ', 'O-FU-IE', 'O-FU-PU', 'O-FU-SR', 'O-FU-FW', 'O-FU-FP', 'O-FU-IC', 'O-FU-ACF', 'O-FU-AOC', 'O-FU-DT', 'O-FU-PC', 'O-FU-QABTW', 'O-EQ', 'O-EQ-IE', 'O-EQ-PU', 'O-EQ-SR', 'O-EQ-FW', 'O-EQ-FP', 'O-EQ-IC', 'O-EQ-ACF', 'O-EQ-AOC', 'O-EQ-DT', 'O-EQ-PC', 'O-EQ-QABTW', 'O-IE', 'O-IE-PU', 'O-IE-SR', 'O-IE-FW', 'O-IE-FP', 'O-IE-IC', 'O-IE-ACF', 'O-IE-AOC', 'O-IE-DT', 'O-IE-PC', 'O-IE-QABTW', 'O-PU', 'O-PU-SR', 'O-PU-FW', 'O-PU-FP', 'O-PU-IC', 'O-PU-ACF', 'O-PU-AOC', 'O-PU-DT', 'O-PU-PC', 'O-PU-QABTW', 'O-SR', 'O-SR-FW', 'O-SR-FP', 'O-SR-IC', 'O-SR-ACF', 'O-SR-AOC', 'O-SR-DT', 'O-SR-PC', 'O-SR-QABTW', 'O-FW', 'O-FW-FP', 'O-FW-IC', 'O-FW-ACF', 'O-FW-AOC', 'O-FW-DT', 'O-FW-PC', 'O-FW-QABTW', 'O-FP', 'O-FP-IC', 'O-FP-ACF', 'O-FP-AOC', 'O-FP-DT', 'O-FP-PC', 'O-FP-QABTW', 'O-IC', 'O-IC-ACF', 'O-IC-AOC', 'O-IC-DT', 'O-IC-PC', 'O-IC-QABTW', 'O-ACF', 'O-ACF-AOC', 'O-ACF-DT', 'O-ACF-PC', 'O-ACF-QABTW', 'O-AOC', 'O-AOC-DT', 'O-AOC-PC', 'O-AOC-QABTW', 'O-DT', 'O-DT-PC', 'O-DT-QABTW', 'O-PC', 'O-PC-QABTW', 'O-QABTW']
         # return ["B", "I", "O", "O-", "X", "[CLS]", "[SEP]"]
 
     def _create_example(self, lines, set_type):
@@ -384,7 +384,7 @@ def create_model(bert_config, is_training, input_ids, input_mask,
         output_layer = tf.reshape(output_layer, [-1, hidden_size])
         logits = tf.matmul(output_layer, output_weight, transpose_b=True)
         logits = tf.nn.bias_add(logits, output_bias)
-        logits = tf.reshape(logits, [-1, FLAGS.max_seq_length, 49])
+        logits = tf.reshape(logits, [-1, FLAGS.max_seq_length, 274])
         # mask = tf.cast(input_mask,tf.float32)
         # loss = tf.contrib.seq2seq.sequence_loss(logits,labels,mask)
         # return (loss, logits, predict)
@@ -450,9 +450,9 @@ def model_fn_builder(bert_config, num_labels, init_checkpoint, learning_rate,
             def metric_fn(per_example_loss, label_ids, logits):
                 # def metric_fn(label_ids, logits):
                 predictions = tf.argmax(logits, axis=-1, output_type=tf.int32)
-                precision = tf_metrics.precision(label_ids, predictions, 49, [1, 2], average="macro")
-                recall = tf_metrics.recall(label_ids, predictions, 49, [1, 2], average="macro")
-                f = tf_metrics.f1(label_ids, predictions, 49, [1, 2], average="macro")
+                precision = tf_metrics.precision(label_ids, predictions, 274, [1, 2], average="macro")
+                recall = tf_metrics.recall(label_ids, predictions, 274, [1, 2], average="macro")
+                f = tf_metrics.f1(label_ids, predictions, 274, [1, 2], average="macro")
                 #
                 return {
                     "eval_precision": precision,
