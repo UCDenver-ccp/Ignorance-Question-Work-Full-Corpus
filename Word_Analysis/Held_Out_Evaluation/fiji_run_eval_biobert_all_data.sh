@@ -32,6 +32,8 @@ train_dev='train_dev.tsv'
 ##the original base model for BioBERT for running the algorithm
 biobert_original='Ignorance-Question-Work-Full-Corpus/Word_Analysis/BioBERT_Classification/biobert_v1.0_pubmed_pmc/'
 
+biobert_scripts='Ignorance-Question-Work-Full-Corpus/Word_Analysis/BioBERT_Classification/biobert'
+
 
 ##loop over each ontology and run the corresponding BioBERT model
 for i in "${arr[@]}"
@@ -79,7 +81,7 @@ do
     ## Run BioBERT span detection algorithm
     #https://blog.insightdatascience.com/using-bert-for-state-of-the-art-pre-training-for-natural-language-processing-1d87142c29e7
     ##move label2idx.pkl to output directory to make this work with eval (also changed run_ner.py to get rid of error)
-    python3 biobert/run_ner.py --do_train=true --do_predict=true --vocab_file=$scratch_file_path$biobert_original/vocab.txt --bert_config_file=$scratch_file_path$biobert_original/bert_config.json --init_checkpoint=$OUTPUT_DIR$model$global_step  --mmax_seq_length=410 --num_train_epochs=0.1 --data_dir=$NER_DIR --output_dir=$OUTPUT_DIR
+    python3 $all_file_path$biobert_scripts/run_ner.py --do_train=true --do_predict=true --vocab_file=$scratch_file_path$biobert_original/vocab.txt --bert_config_file=$scratch_file_path$biobert_original/bert_config.json --init_checkpoint=$OUTPUT_DIR$model$global_step  --mmax_seq_length=410 --num_train_epochs=0.1 --data_dir=$NER_DIR --output_dir=$OUTPUT_DIR
 
 
 done
