@@ -1,0 +1,12 @@
+anomaly_curious_finding
+NUM SENTENCES WITH DISCONTINUITIES	2
+NUM TOTAL DISCONTINUITIES:	12
+
+           precision    recall  f1-score   support
+
+        B       0.97      0.98      0.97       341
+        I       0.86      0.89      0.88        56
+     disc       0.40      1.00      0.57         2
+
+micro avg       0.95      0.96      0.96       399
+macro avg       0.95      0.96      0.96       399

@@ -1,0 +1,12 @@
+question_answered_by_this_work
+NUM SENTENCES WITH DISCONTINUITIES	8
+NUM TOTAL DISCONTINUITIES:	19
+
+           precision    recall  f1-score   support
+
+        I       0.88      0.90      0.89       126
+        B       0.90      0.95      0.92       186
+     disc       0.00      0.00      0.00         8
+
+micro avg       0.89      0.90      0.90       320
+macro avg       0.87      0.90      0.89       320

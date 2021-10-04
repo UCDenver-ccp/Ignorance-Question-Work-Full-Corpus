@@ -1,0 +1,12 @@
+incomplete_evidence
+NUM SENTENCES WITH DISCONTINUITIES	55
+NUM TOTAL DISCONTINUITIES:	93
+
+           precision    recall  f1-score   support
+
+        I       0.87      0.92      0.90       622
+        B       0.93      0.96      0.95      2132
+     disc       0.75      0.80      0.77        55
+
+micro avg       0.92      0.95      0.93      2809
+macro avg       0.92      0.95      0.93      2809
