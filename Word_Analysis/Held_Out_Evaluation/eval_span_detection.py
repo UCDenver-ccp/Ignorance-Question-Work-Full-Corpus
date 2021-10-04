@@ -2579,6 +2579,14 @@ def biobert_model(tokenized_file_path, ontologies, save_models_path, output_path
 
                     ont_biobert_test.write('\n')
 
+            with open('%s%s/%s_test.tsv' % (tokenized_file_path, 'BIOBERT', ontology), 'w+') as ont_biobert_test:
+                # use the true labels from the training information per ontology
+                for i, b_sentence in enumerate(X_eval_biobert):
+                    for j, b_word in enumerate(b_sentence):
+                        ont_biobert_test.write('%s\t%s\n' % (b_word, true_labels_dict[ontology][i][j]))
+
+                    ont_biobert_test.write('\n')
+
 
 
 

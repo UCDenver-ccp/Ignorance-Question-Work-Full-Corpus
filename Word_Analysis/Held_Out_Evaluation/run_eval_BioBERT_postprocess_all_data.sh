@@ -74,6 +74,7 @@ if [ $algos == $biobert ]; then
         results_path=$fiji_path$eval_path$output_path$i/$biobert
         local_path=$all_file_path$eval_path$output_path$i/$biobert
         scp mabo1182@fiji.colorado.edu:$results_path/*.txt $local_path/
+        rm $local_path/logits.txt
 #        scp mabo1182@fiji.colorado.edu:$results_path/token_test.txt $local_path
 #        scp mabo1182@fiji.colorado.edu:$results_path/label_test.txt $local_path
     done
