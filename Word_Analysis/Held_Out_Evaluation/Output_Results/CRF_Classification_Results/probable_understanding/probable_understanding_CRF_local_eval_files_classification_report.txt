@@ -1,0 +1,74 @@
+CRF FILE REPORT FOR DOCUMENTS: ['PMC6000839', 'PMC3800883', 'PMC2885310', 'PMC4311629', 'PMC3400371', 'PMC4897523', 'PMC3272870', 'PMC3313761', 'PMC3342123', 'PMC3427250', 'PMC4653418', 'PMC3279448', 'PMC6011374', 'PMC5812027', 'PMC2396486', 'PMC3915248', 'PMC3933411', 'PMC5240907', 'PMC4231606', 'PMC5539754', 'PMC5226708', 'PMC5524288', 'PMC3789799', 'PMC5546866', 'PMC5405375', 'PMC2722583']
+
+all sentence prediction length: 3774
+FULL MODEL RESULTS
+BIO- FLAT CLASSIFICATION REPORT
+              precision    recall  f1-score   support
+
+           B      0.877     0.750     0.809       541
+           I      0.950     0.738     0.831       103
+           O      0.999     1.000     0.999    130781
+          O-      1.000     1.000     1.000         2
+
+    accuracy                          0.998    131427
+   macro avg      0.956     0.872     0.910    131427
+weighted avg      0.998     0.998     0.998    131427
+
+
+BINARY PREDICTIONS WITH B,I,O- SKLEARN CLASSIFICATION
+               precision    recall  f1-score   support
+
+not_ignorance      0.976     0.985     0.981      3358
+    ignorance      0.868     0.808     0.837       416
+
+     accuracy                          0.965      3774
+    macro avg      0.922     0.896     0.909      3774
+ weighted avg      0.964     0.965     0.965      3774
+
+
+SEQEVAL PREDICTIONS REPORT WITH BIO-
+           precision    recall  f1-score   support
+
+        B       0.88      0.75      0.81       541
+        I       0.95      0.69      0.80        75
+     disc       1.00      1.00      1.00         2
+
+micro avg       0.88      0.74      0.81       618
+macro avg       0.89      0.74      0.81       618
+
+
+
+MOST MODEL RESULTS
+BIO- FLAT CLASSIFICATION REPORT
+              precision    recall  f1-score   support
+
+           B      0.872     0.778     0.822       541
+           I      0.931     0.786     0.853       103
+           O      0.999     0.999     0.999    130781
+          O-      1.000     1.000     1.000         2
+
+    accuracy                          0.998    131427
+   macro avg      0.950     0.891     0.919    131427
+weighted avg      0.998     0.998     0.998    131427
+
+
+BINARY PREDICTIONS WITH B,I,O- SKLEARN CLASSIFICATION
+               precision    recall  f1-score   support
+
+not_ignorance      0.979     0.984     0.982      3358
+    ignorance      0.867     0.829     0.848       416
+
+     accuracy                          0.967      3774
+    macro avg      0.923     0.907     0.915      3774
+ weighted avg      0.967     0.967     0.967      3774
+
+
+SEQEVAL PREDICTIONS REPORT WITH BIO-
+           precision    recall  f1-score   support
+
+        B       0.87      0.78      0.82       541
+        I       0.93      0.73      0.82        75
+     disc       1.00      1.00      1.00         2
+
+micro avg       0.88      0.77      0.82       618
+macro avg       0.88      0.77      0.82       618

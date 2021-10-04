@@ -1,0 +1,57 @@
+CRF FILE REPORT FOR DOCUMENTS: ['PMC6000839', 'PMC3800883', 'PMC2885310', 'PMC4311629', 'PMC3400371', 'PMC4897523', 'PMC3272870', 'PMC3313761', 'PMC3342123', 'PMC3427250', 'PMC4653418', 'PMC3279448', 'PMC6011374', 'PMC5812027', 'PMC2396486', 'PMC3915248', 'PMC3933411', 'PMC5240907', 'PMC4231606', 'PMC5539754', 'PMC5226708', 'PMC5524288', 'PMC3789799', 'PMC5546866', 'PMC5405375', 'PMC2722583']
+
+sentence prediction length: 192
+              precision    recall  f1-score   support
+
+           B      0.962     0.735     0.833       170
+           I      0.941     0.561     0.703        57
+           O      0.988     0.999     0.993      5573
+          O-      0.000     0.000     0.000         0
+
+   micro avg      0.987     0.987     0.987      5800
+   macro avg      0.723     0.574     0.633      5800
+weighted avg      0.987     0.987     0.986      5800
+
+
+FULL BINARY PREDICTIONS WITH B,I,O-
+               precision    recall  f1-score   support
+
+not_ignorance      0.835     0.958     0.892        95
+    ignorance      0.952     0.814     0.878        97
+
+     accuracy                          0.885       192
+    macro avg      0.893     0.886     0.885       192
+ weighted avg      0.894     0.885     0.885       192
+
+
+REGEX ONLY BINARY PREDICTIONS WITH B,I,O-
+               precision    recall  f1-score   support
+
+not_ignorance      0.835     0.958     0.892        95
+    ignorance      0.952     0.814     0.878        97
+
+     accuracy                          0.885       192
+    macro avg      0.893     0.886     0.885       192
+ weighted avg      0.894     0.885     0.885       192
+
+
+FULL BINARY PREDICTIONS WITH B
+               precision    recall  f1-score   support
+
+not_ignorance      0.835     0.958     0.892        95
+    ignorance      0.952     0.814     0.878        97
+
+     accuracy                          0.885       192
+    macro avg      0.893     0.886     0.885       192
+ weighted avg      0.894     0.885     0.885       192
+
+
+FULL BINARY PREDICTIONS WITH B, I
+               precision    recall  f1-score   support
+
+not_ignorance      0.835     0.958     0.892        95
+    ignorance      0.952     0.814     0.878        97
+
+     accuracy                          0.885       192
+    macro avg      0.893     0.886     0.885       192
+ weighted avg      0.894     0.885     0.885       192

@@ -1,0 +1,100 @@
+CRF FILE REPORT FOR DOCUMENTS: ['PMC6000839', 'PMC3800883', 'PMC2885310', 'PMC4311629', 'PMC3400371', 'PMC4897523', 'PMC3272870', 'PMC3313761', 'PMC3342123', 'PMC3427250', 'PMC4653418', 'PMC3279448', 'PMC6011374', 'PMC5812027', 'PMC2396486', 'PMC3915248', 'PMC3933411', 'PMC5240907', 'PMC4231606', 'PMC5539754', 'PMC5226708', 'PMC5524288', 'PMC3789799', 'PMC5546866', 'PMC5405375', 'PMC2722583']
+
+sentence prediction length: 142
+              precision    recall  f1-score   support
+
+           O      0.979     0.994     0.987      3618
+       B-ACF      0.500     0.333     0.400         6
+       I-ACF      0.000     0.000     0.000         0
+       O-ACF      0.000     0.000     0.000         0
+   B-ACF-AOC      0.000     0.000     0.000         0
+   I-ACF-AOC      0.000     0.000     0.000         0
+       B-AOC      0.636     0.778     0.700         9
+       I-AOC      0.000     0.000     0.000         1
+       O-AOC      0.000     0.000     0.000         0
+    B-AOC-DT      0.000     0.000     0.000         0
+        B-DT      0.500     0.500     0.500         2
+        I-DT      0.750     1.000     0.857         3
+        O-DT      0.000     0.000     0.000         0
+        B-EQ      1.000     1.000     1.000         1
+        I-EQ      0.000     0.000     0.000         0
+    B-EQ-AOC      0.000     0.000     0.000         0
+        B-FP      1.000     1.000     1.000         1
+        I-FP      0.000     0.000     0.000         0
+    B-FP-AOC      0.000     0.000     0.000         0
+        B-FU      0.000     0.000     0.000         1
+        I-FU      0.000     0.000     0.000         0
+        O-FU      0.000     0.000     0.000         0
+     B-FU-IE      0.000     0.000     0.000         0
+        B-FW      1.000     0.857     0.923        14
+        I-FW      0.833     0.833     0.833        12
+        O-FW      0.000     0.000     0.000         0
+     I-FW-IC      0.000     0.000     0.000         0
+        B-IC      0.889     0.727     0.800        11
+        I-IC      1.000     0.625     0.769         8
+        O-IC      0.000     0.000     0.000         0
+        B-IE      0.796     0.683     0.735        63
+        I-IE      1.000     0.655     0.792        29
+        O-IE      0.000     0.000     0.000         0
+  I-IE-QABTW      0.000     0.000     0.000         0
+        B-PC      0.909     0.909     0.909        11
+        I-PC      1.000     1.000     1.000         4
+        O-PC      0.000     0.000     0.000         0
+        B-PU      0.875     0.538     0.667        13
+        I-PU      0.000     0.000     0.000         7
+        O-PU      0.000     0.000     0.000         0
+     B-PU-PC      0.000     0.000     0.000         0
+     B-QABTW      1.000     0.538     0.700        13
+     I-QABTW      1.000     0.429     0.600        14
+     O-QABTW      0.000     0.000     0.000         0
+        B-SR      0.946     0.854     0.897        41
+        I-SR      0.000     0.000     0.000         1
+        O-SR      0.000     0.000     0.000         0
+
+   micro avg      0.973     0.973     0.973      3883
+   macro avg      0.353     0.303     0.321      3883
+weighted avg      0.970     0.973     0.970      3883
+
+
+FULL BINARY PREDICTIONS WITH B,I,O-
+               precision    recall  f1-score   support
+
+not_ignorance      0.893     0.905     0.899        74
+    ignorance      0.896     0.882     0.889        68
+
+     accuracy                          0.894       142
+    macro avg      0.894     0.894     0.894       142
+ weighted avg      0.894     0.894     0.894       142
+
+
+REGEX ONLY BINARY PREDICTIONS WITH B,I,O-
+               precision    recall  f1-score   support
+
+not_ignorance      0.893     0.905     0.899        74
+    ignorance      0.896     0.882     0.889        68
+
+     accuracy                          0.894       142
+    macro avg      0.894     0.894     0.894       142
+ weighted avg      0.894     0.894     0.894       142
+
+
+FULL BINARY PREDICTIONS WITH B
+               precision    recall  f1-score   support
+
+not_ignorance      1.000     1.000     1.000       142
+    ignorance      0.000     0.000     0.000         0
+
+    micro avg      1.000     1.000     1.000       142
+    macro avg      0.500     0.500     0.500       142
+ weighted avg      1.000     1.000     1.000       142
+
+
+FULL BINARY PREDICTIONS WITH B, I
+               precision    recall  f1-score   support
+
+not_ignorance      1.000     1.000     1.000       142
+    ignorance      0.000     0.000     0.000         0
+
+    micro avg      1.000     1.000     1.000       142
+    macro avg      0.500     0.500     0.500       142
+ weighted avg      1.000     1.000     1.000       142
