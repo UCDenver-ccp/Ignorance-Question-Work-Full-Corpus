@@ -2388,8 +2388,31 @@ def run_models(tokenized_file_path, ontology, save_models_path, output_path, exc
 
         local_eval_files_creport_CRF.write('\n\n')
         local_eval_files_creport_CRF.write('SEQEVAL PREDICTIONS REPORT WITH BIO-\n')
-        local_eval_files_creport_CRF.write(classification_report(y_eval_crf_all, full_X_eval_crf_pred_all))
+        ##ONLY FOR SEQEVAL WE CHANGE THE O- TO I-DISC
+        y_eval_crf_all_seqeval = []
+        full_X_eval_crf_pred_all_seqeval = []
+        for t, y in enumerate(y_eval_crf_all):
+            y_new_sent = []
+            for r in y:
+                if r == 'O-':
+                    y_new_sent += ['I-disc']
+                else:
+                    y_new_sent += [r]
 
+            y_eval_crf_all_seqeval += [y_new_sent]
+
+            x = full_X_eval_crf_pred_all[t]
+            x_new_sent = []
+            for q in x:
+                if q == 'O-':
+                    x_new_sent += ['I-disc']
+                else:
+                    x_new_sent += [q]
+            full_X_eval_crf_pred_all_seqeval += [x_new_sent]
+
+
+        # local_eval_files_creport_CRF.write(classification_report(y_eval_crf_all, full_X_eval_crf_pred_all))
+        local_eval_files_creport_CRF.write(classification_report(y_eval_crf_all_seqeval, full_X_eval_crf_pred_all_seqeval))
 
         local_eval_files_creport_CRF.write('\n\n\n')
         ##MOST MODEL RESULTS
@@ -2410,7 +2433,23 @@ def run_models(tokenized_file_path, ontology, save_models_path, output_path, exc
 
         local_eval_files_creport_CRF.write('\n\n')
         local_eval_files_creport_CRF.write('SEQEVAL PREDICTIONS REPORT WITH BIO-\n')
-        local_eval_files_creport_CRF.write(classification_report(y_eval_crf_all, most_X_eval_crf_pred_all))
+
+        ##ONLY FOR SEQEVAL WE CHANGE THE O- TO I-DISC
+        most_X_eval_crf_pred_all_seqeval = []
+        for t, y in enumerate(y_eval_crf_all):
+
+            x = most_X_eval_crf_pred_all[t]
+            x_new_sent = []
+            for q in x:
+                if q == 'O-':
+                    x_new_sent += ['I-disc']
+                else:
+                    x_new_sent += [q]
+            most_X_eval_crf_pred_all_seqeval += [x_new_sent]
+
+
+        # local_eval_files_creport_CRF.write(classification_report(y_eval_crf_all, most_X_eval_crf_pred_all))
+        local_eval_files_creport_CRF.write(classification_report(y_eval_crf_all_seqeval, most_X_eval_crf_pred_all_seqeval))
 
 
 def biobert_model(tokenized_file_path, ontologies, save_models_path, output_path, excluded_files, gold_standard, gs_tokenized_files, algos, pmcid_sentence_file_path,  all_lcs_path, gpu_count=1):
