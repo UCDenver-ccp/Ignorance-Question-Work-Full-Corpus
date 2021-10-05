@@ -163,7 +163,10 @@ def eval_preprocess_docs(eval_path, article_path, tokenized_files, pmcid_sentenc
 
     ##capture the summary per article
     output_path = eval_path+tokenized_files
-    eval_preprocess_summary_path = eval_path + 'eval_preprocess_article_summary.txt'
+    if 'TRAINING' in tokenized_files.upper():
+        eval_preprocess_summary_path = eval_path + 'eval_preprocess_article_summary_training.txt'
+    else:
+        eval_preprocess_summary_path = eval_path + 'eval_preprocess_article_summary.txt'
     eval_summary = open(eval_preprocess_summary_path, 'w+')
     eval_summary.write('%s\t%s\t%s\n' %('ARTICLE', 'TOTAL_SENTENCE_COUNT', 'TOTAL_WORD_COUNT'))
 
