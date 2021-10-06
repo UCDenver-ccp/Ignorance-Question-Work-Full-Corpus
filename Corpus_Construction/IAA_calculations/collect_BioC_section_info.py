@@ -4,6 +4,7 @@ import os
 import xml
 import xml.etree.ElementTree as ET
 import gzip
+import argparse
 
 
 def get_list_of_pmcids(article_path):
@@ -93,11 +94,18 @@ def process_BioC_section_file(BioC_xml_path, pmc_filename_list, possible_section
 
 
 if __name__ == '__main__':
+    parser = argparse.ArgumentParser()
+
+    parser.add_argument('-article_path', type=str, help='the full path to the articles')
+    parser.add_argument('-save_xml_path', type=str, help='the file path to save the xml files')
+
+
+    args = parser.parse_args()
 
     ##get the article names we need to grab from BioC API
-    article_path = '/Users/MaylaB/Dropbox/Documents/0_Thesis_stuff-Larry_Sonia/0_Gold_Standard_Annotation/Articles/'
+    # article_path = '/Users/MaylaB/Dropbox/Documents/0_Thesis_stuff-Larry_Sonia/0_Gold_Standard_Annotation/Articles/'
 
-    pmc_filename_list = get_list_of_pmcids(article_path)
+    pmc_filename_list = get_list_of_pmcids(args.article_path)
 
 
     ##Get the BioC format section info
@@ -105,12 +113,12 @@ if __name__ == '__main__':
     api_url_base = 'https://www.ncbi.nlm.nih.gov/research/bionlp/RESTful/pmcoa.cgi/BioC_'
     format = 'xml/'
     encoding = '/unicode'
-    save_xml_path = '/Users/MaylaB/Dropbox/Documents/0_Thesis_stuff-Larry_Sonia/0_Gold_Standard_Annotation/section_info_BioC/'
+    # save_xml_path = '/Users/MaylaB/Dropbox/Documents/0_Thesis_stuff-Larry_Sonia/0_Gold_Standard_Annotation/section_info_BioC/'
 
-    # get_all_BioC_section_files(api_url_base, format, encoding, pmc_filename_list, save_xml_path)
+    get_all_BioC_section_files(api_url_base, format, encoding, pmc_filename_list, args.save_xml_path)
 
 
     ##process the BioC full text files to grab out the section information
     ##section names
     possible_section_names_dict = {'TITLE':'title', 'ABSTRACT':'abstract', 'INTRO':'introduction', 'METHODS':'methods', 'RESULTS':'results', 'DISCUSS':'discussion', 'CONCL':'conclusion'}
-    process_BioC_section_file(save_xml_path, pmc_filename_list, possible_section_names_dict)
+    process_BioC_section_file(args.save_xml_path, pmc_filename_list, possible_section_names_dict)

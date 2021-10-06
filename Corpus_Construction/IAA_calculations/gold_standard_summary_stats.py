@@ -455,16 +455,34 @@ def gold_standard_summary(output_path, it_annotation_counts_dict, lc_count_per_i
 
 
 if __name__ == '__main__':
-    gs_path = '/Users/MaylaB/Dropbox/Documents/0_Thesis_stuff-Larry_Sonia/0_Gold_Standard_Annotation/'
-    gs_path_v2 = '/Users/MaylaB/Dropbox/Documents/0_Thesis_stuff-Larry_Sonia/0_Gold_Standard_Annotation_v2/'
+    parser = argparse.ArgumentParser()
 
-    article_path = 'Articles/'
-    annotation_path = 'Annotations/'
+    parser.add_argument('-gs_path', type=str, help='the file path to the gold standard data')
+    parser.add_argument('-article_path', type=str, help='the file for the articles')
+    parser.add_argument('-annotation_path', type=str, help='the file for the annotations')
+    parser.add_argument('-all_lcs_path', type=str, help='the file path to the all_lcs_path starting with the ontology file')
+    parser.add_argument('-section_info_path', type=str, help='section info folder (BioC usually)')
+    parser.add_argument('-section_format', type=str, help='format (BioC)')
+
+
+    args = parser.parse_args()
+
+
+
+
+
+
+
+    # gs_path = '/Users/MaylaB/Dropbox/Documents/0_Thesis_stuff-Larry_Sonia/0_Gold_Standard_Annotation/'
+    # gs_path_v2 = '/Users/MaylaB/Dropbox/Documents/0_Thesis_stuff-Larry_Sonia/0_Gold_Standard_Annotation_v2/'
+
+    # article_path = 'Articles/'
+    # annotation_path = 'Annotations/'
 
 
     ##ALL LCS PATH - NEED TO CHANGE FOR EACH UPDATE!
     # all_lc_path = 'Ontologies/Ontology_Of_Ignorance_all_cues_2020-03-27.txt'
-    all_lc_path = 'Ontologies/Ontology_Of_Ignorance_all_cues_2020-08-25.txt'
+    # all_lc_path = 'Ontologies/Ontology_Of_Ignorance_all_cues_2020-08-25.txt'
 
 
     # ##possible section names for the regex-sections.annot
@@ -474,12 +492,16 @@ if __name__ == '__main__':
 
     ##NEED TO GRAB SECTION INFORMATION
     # ##possible section names for the BioC-sections.annot
-    section_info_path = 'section_info_BioC/'
-    section_format = 'BioC-sections'
+    # section_info_path = 'section_info_BioC/'
+    # section_format = 'BioC-sections'
     possible_section_names = ['title', 'abstract', 'introduction', 'methods', 'results', 'discussion', 'conclusion']
 
+
+
+
+
     ##gather all lexical cues and unique its
-    all_lcs_dict, unique_its, lc_count_per_it = get_all_lcs(gs_path+all_lc_path)
+    all_lcs_dict, unique_its, lc_count_per_it = get_all_lcs(args.gs_path+args.all_lcs_path)
     unique_its.add('SUBJECT_SCOPE')
     print(type(unique_its))
 
@@ -495,15 +517,15 @@ if __name__ == '__main__':
 
     # print(unique_its)
     ##gather all annotation information for each ignorance type
-    it_annotation_counts_dict, total_scope_annotations, it_stats_per_article_dict, final_no_sections_count, final_section_info  = annotation_information(all_lcs_dict, unique_its, gs_path+annotation_path, gs_path+section_info_path, section_format, possible_section_names)
+    it_annotation_counts_dict, total_scope_annotations, it_stats_per_article_dict, final_no_sections_count, final_section_info  = annotation_information(all_lcs_dict, unique_its, args.gs_path+args.annotation_path, args.gs_path+args.section_info_path, args.section_format, possible_section_names)
     # print(it_annotation_counts_dict)
     # print(article_annot_info_dict)
 
     #gather all article information
-    total_sentences, total_words, total_unique_words = article_information(gs_path+article_path)
+    total_sentences, total_words, total_unique_words = article_information(args.gs_path+args.article_path)
 
 
     ##output all the information
-    gold_standard_summary(gs_path, it_annotation_counts_dict, lc_count_per_it, it_stats_per_article_dict, total_scope_annotations, total_sentences, total_words, total_unique_words, final_no_sections_count, final_section_info)
+    gold_standard_summary(args.gs_path, it_annotation_counts_dict, lc_count_per_it, it_stats_per_article_dict, total_scope_annotations, total_sentences, total_words, total_unique_words, final_no_sections_count, final_section_info)
 
 
