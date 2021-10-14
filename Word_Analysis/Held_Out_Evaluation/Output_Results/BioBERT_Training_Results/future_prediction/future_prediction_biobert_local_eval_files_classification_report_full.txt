@@ -1,0 +1,11 @@
+future_prediction
+NUM SENTENCES WITH DISCONTINUITIES	0
+NUM TOTAL DISCONTINUITIES:	0
+
+           precision    recall  f1-score   support
+
+        B       0.96      0.99      0.97       283
+        I       0.96      0.91      0.94        58
+
+micro avg       0.96      0.98      0.97       341
+macro avg       0.96      0.98      0.97       341

@@ -1,0 +1,12 @@
+superficial_relationship
+NUM SENTENCES WITH DISCONTINUITIES	2
+NUM TOTAL DISCONTINUITIES:	68
+
+           precision    recall  f1-score   support
+
+        B       0.97      0.99      0.98      2742
+        I       0.89      0.89      0.89       103
+     disc       0.00      0.00      0.00         2
+
+micro avg       0.97      0.98      0.98      2847
+macro avg       0.97      0.98      0.98      2847

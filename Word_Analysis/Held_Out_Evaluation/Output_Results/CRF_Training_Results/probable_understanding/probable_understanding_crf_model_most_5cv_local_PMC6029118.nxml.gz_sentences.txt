@@ -1,0 +1,233 @@
+PMCID	SENTENCE_NUMBER	SENTENCE	SENTENCE_INDICES	IGNORANCE_CLASSIFICATION
+PMC6029118.nxml.gz	0	['A community-based cluster randomised controlled trial in rural Bangladesh to evaluate the impact of the use of iron-folic acid supplements early in pregnancy on the risk of neonatal mortality: the Shonjibon trial\n\nAbstract\n\nBackground\nIron-deficiency is the most common nutritional deficiency globally.']	(0, 302)	FALSE
+PMC6029118.nxml.gz	1	['Due to the high iron requirements for pregnancy, it is highly prevalent and severe in pregnant women.']	(303, 404)	FALSE
+PMC6029118.nxml.gz	2	['There is strong evidence that maternal iron deficiency anaemia increases the risk of adverse perinatal outcomes.']	(405, 517)	FALSE
+PMC6029118.nxml.gz	3	['However, most of the evidence is from observational epidemiological studies except for a very few randomised controlled trials.']	(518, 645)	FALSE
+PMC6029118.nxml.gz	4	['IFA supplements have also been found to reduce the preterm delivery rate and neonatal mortality attributable to prematurity and birth asphyxia.']	(646, 789)	FALSE
+PMC6029118.nxml.gz	5	['These results combined indicate that IFA supplements in populations of iron-deficient pregnant women could lead to a decrease in the number of neonatal deaths mediated by reduced rates of preterm delivery.']	(790, 995)	FALSE
+PMC6029118.nxml.gz	6	['In this paper, we describe the protocol of a community-based cluster randomised controlled trial that aims to evaluate the impact of maternal antenatal IFA supplements on perinatal outcomes.']	(996, 1186)	FALSE
+PMC6029118.nxml.gz	7	['Methods/design\nThe effect of the early use of iron-folic acid supplements on neonatal mortality will be examined using a community based, cluster randomised controlled trial in five districts with 30,000 live births.']	(1188, 1404)	FALSE
+PMC6029118.nxml.gz	8	['In intervention clusters trained BRAC village volunteers will identify pregnant women & provide iron-folic acid supplements.']	(1405, 1529)	FALSE
+PMC6029118.nxml.gz	9	['Groundwater iron levels will be measured in all study households using a validated test kit.']	(1530, 1622)	FALSE
+PMC6029118.nxml.gz	10	['The analysis will follow the intention to treat principle.']	(1623, 1681)	FALSE
+PMC6029118.nxml.gz	11	['We will compare neonatal mortality rates & their 95% confidence intervals adjusted for clustering between treatment groups in each groundwater iron-level group.']	(1682, 1842)	FALSE
+PMC6029118.nxml.gz	12	['Cox proportional hazards mixed models will be used for mortality outcomes & will include groundwater iron level as an interaction term in the mortality model.']	(1843, 2001)	FALSE
+PMC6029118.nxml.gz	13	['Discussion\nThis paper aims to describe the study protocol of a community based randomised controlled trial evaluating the impact of the use of iron-folic acid supplements early in pregnancy on the risk of neonatal mortality.']	(2003, 2227)	FALSE
+PMC6029118.nxml.gz	14	['This study is critical because it will determine if antenatal IFA supplements commenced in the first trimester of pregnancy, rather than later, will significantly reduce neonatal deaths in the first month of life, and if this approach is cost-effective.']	(2228, 2481)	FALSE
+PMC6029118.nxml.gz	15	['Trial registration\nThis trial has been registered with the Australian New Zealand Clinical Trials Registry (ANZCTR) on 31 May 2012.']	(2483, 2614)	FALSE
+PMC6029118.nxml.gz	16	['The registration ID isACTRN12612000588897.']	(2615, 2657)	FALSE
+PMC6029118.nxml.gz	17	['Background\nGlobally, 2.6 million children died in the neonatal period, the first 28\xa0days of life in 2016 [1].']	(2659, 2768)	FALSE
+PMC6029118.nxml.gz	18	['Over the last two decades, there has been a substantial global reduction in under-5 child mortality rates.']	(2769, 2875)	FALSE
+PMC6029118.nxml.gz	19	['Compared to that, the reductions in neonatal deaths have been slower.']	(2876, 2945)	FALSE
+PMC6029118.nxml.gz	20	['Neonatal deaths accounted for 46% of all under-five deaths in 2016 compared with 37·4% in 1990 [1,2].']	(2946, 3047)	FALSE
+PMC6029118.nxml.gz	21	['Effective interventions directed specifically at preventing neonatal deaths are required to improve overall child survival.']	(3048, 3171)	FALSE
+PMC6029118.nxml.gz	22	['A systematic review in 2005 found that up to 70% of neonatal deaths, worldwide, could be averted by implementing sixteen evidence-based interventions at near universal coverage (99%) that incorporated preconception, antenatal, intrapartum and postnatal interventions [3].']	(3172, 3443)	FALSE
+PMC6029118.nxml.gz	23	['However, this review did not include antenatal iron and folic acid (IFA) supplementation for pregnant women.']	(3444, 3552)	FALSE
+PMC6029118.nxml.gz	24	['At that time no trials had reported the effects of IFA on neonatal mortality, although these supplements were known to benefit both maternal and infant health [3].']	(3553, 3716)	FALSE
+PMC6029118.nxml.gz	25	['Iron-deficiency is the most common nutritional deficiency globally.']	(3717, 3784)	FALSE
+PMC6029118.nxml.gz	26	['Due to the high iron requirements for pregnancy, it is highly prevalent and severe in pregnant women [4].']	(3785, 3890)	FALSE
+PMC6029118.nxml.gz	27	['In Bangladesh, 42% of all women of reproductive age and nearly 50% of pregnant women had anaemia in 2011 [5].']	(3891, 4000)	FALSE
+PMC6029118.nxml.gz	28	['However, the prevalence of iron deficiency was lower.']	(4001, 4054)	FALSE
+PMC6029118.nxml.gz	29	['The first national micronutrients status survey, published in early 2013, reported that iron deficiency among non-pregnant non-lactating women was 7.1%.']	(4055, 4207)	FALSE
+PMC6029118.nxml.gz	30	['The ferritin level was significantly higher in areas where groundwater iron concentration was high.']	(4208, 4307)	FALSE
+PMC6029118.nxml.gz	31	['The survey findings also suggest a positive association between natural iron content in groundwater and iron status of women [6].']	(4308, 4437)	FALSE
+PMC6029118.nxml.gz	32	['There is strong evidence that maternal iron deficiency anaemia increases the risk of adverse perinatal outcomes.']	(4438, 4550)	FALSE
+PMC6029118.nxml.gz	33	['However, most of the evidence is from observational epidemiological studies except for a very few randomised controlled trials.']	(4551, 4678)	FALSE
+PMC6029118.nxml.gz	34	['A community-based cluster randomised trial from China reported a 54% reduction of early neonatal mortality in newborns of women who received IFA supplements compared to those receiving folic acid alone (HR 0.46, 95%CI: 0.21–0.98) [7].']	(4679, 4913)	FALSE
+PMC6029118.nxml.gz	35	['Secondary analyses of this trial found a 71% reduction in neonatal mortality in women who started IFA supplements in the first trimester of pregnancy (HR 0.29, 95%CI: 0.09–0.88) [8].']	(4914, 5096)	FALSE
+PMC6029118.nxml.gz	36	['A meta-analysis of prospective observational studies, reported reductions in perinatal mortality (stillbirth and early neonatal mortality) with each 1\xa0g/dl increase in the population mean haemoglobin (RR 0.72, 95%CI: 0.65–0.81) [9].']	(5097, 5329)	FALSE
+PMC6029118.nxml.gz	37	['A pooled analysis of data from Indonesian Demographic and Health Surveys, which included 40,576 singleton live-born infants, found mothers using any IFA supplements during pregnancy significantly reduced the risk of early neonatal death of their newborns after adjustment for potential confounders [10].']	(5330, 5633)	FALSE
+PMC6029118.nxml.gz	38	['Similarly, a pooled analysis from Pakistan on 8512 live births reported maternal antenatal IFA supplements significantly reduced the adjusted risk of death on day 0 by 33% and during the neonatal period by 29%.']	(5634, 5844)	FALSE
+PMC6029118.nxml.gz	39	['Initiating IFA supplements in the first four months of pregnancy, significantly reduced the adjusted risk of neonatal mortality by 35% [11].']	(5845, 5985)	FALSE
+PMC6029118.nxml.gz	40	['IFA supplements have also been found to reduce the preterm delivery rate and neonatal mortality attributable to prematurity and birth asphyxia [7].']	(5986, 6133)	FALSE
+PMC6029118.nxml.gz	41	['Other studies from low-income countries have reported that preterm delivery is one of the main contributors to neonatal deaths [12,13].']	(6134, 6269)	FALSE
+PMC6029118.nxml.gz	42	['These results combined indicate that IFA supplements in populations of iron-deficient pregnant women could lead to a decrease in the number of neonatal deaths mediated by reduced rates of preterm delivery.']	(6270, 6475)	FALSE
+PMC6029118.nxml.gz	43	['We thus propose a large-scale prospective trial to measure the impact of the early introduction of antenatal iron/folic acid supplementation in pregnancy on neonatal outcomes in rural Bangladesh.']	(6476, 6671)	TRUE
+PMC6029118.nxml.gz	44	['We will employ a community-based, cluster randomized controlled trial design, in which pregnant women will be randomly allocated to the enhanced iron/folic acid distribution program, or to the current usual programs.']	(6672, 6888)	FALSE
+PMC6029118.nxml.gz	45	['We have chosen the current usual programs as our comparator.']	(6889, 6949)	TRUE
+PMC6029118.nxml.gz	46	['We didn’t consider placebo because WHO and Government of Bangladesh have a recommendation that pregnant women should receive 60\xa0mg of iron supplementation.']	(6950, 7105)	FALSE
+PMC6029118.nxml.gz	47	['But the implementation of this recommendation is inadequate.']	(7106, 7166)	FALSE
+PMC6029118.nxml.gz	48	['Surveys indicate that only 52% of rural women reported any use of iron/folic acid in their last pregnancy but this dropped to 39% for the poorest households, and to 34% for women with no education (3).']	(7167, 7368)	FALSE
+PMC6029118.nxml.gz	49	['Also, the median gestation when women start antenatal care (and would have access to iron/folic acid supplements) is 5.2\xa0months (3) .']	(7369, 7502)	FALSE
+PMC6029118.nxml.gz	50	['Objectives and hypothesis\nThe trial objectives are to evaluate the effect of early availability and promotion of IFA supplements on neonatal mortality, low birthweight and preterm delivery.']	(7504, 7693)	FALSE
+PMC6029118.nxml.gz	51	['The primary hypothesis is that in a community-based, cluster randomized controlled trial of women from rural Bangladesh, daily supplementation with 60\xa0mg elemental iron and 400\xa0μg folic acid starting in the first trimester of pregnancy, and sustained for at least 180\xa0days, will reduce neonatal mortality by 25% from 33/1000 to 24.8/1000 live births compared to usual iron-folic acid supplementation programs.']	(7694, 8103)	FALSE
+PMC6029118.nxml.gz	52	['The secondary hypotheses are that the early availability and promotion of IFA supplements in intervention clusters will reduce preterm delivery by 30% (15% in control to 10.5% in intervention), and low birth weight by 30% (15% in control to 10.5% in intervention).']	(8104, 8368)	FALSE
+PMC6029118.nxml.gz	53	['We further hypothesised that household wealth and maternal education would modify the neonatal mortality responses with a greater reduction for women from the poorest households, and women with no education.']	(8369, 8576)	FALSE
+PMC6029118.nxml.gz	54	['We also hypothesised that the early start to IFA supplements would not increase iron-related side effects, e.g.']	(8577, 8688)	FALSE
+PMC6029118.nxml.gz	55	['nausea & vomiting in intervention clusters and will be cost-effective in reducing neonatal mortality in intervention clusters.']	(8689, 8815)	FALSE
+PMC6029118.nxml.gz	56	['Methods\n\nStudy design\nThis study is a cluster randomised controlled trial, with 2-arm parallel groups, superiority design and 1:1 allocation ratio.']	(8817, 8964)	FALSE
+PMC6029118.nxml.gz	57	['The cohort of the mother-child dyads will be followed up from recruitment until 42\xa0days after birth.']	(8965, 9065)	FALSE
+PMC6029118.nxml.gz	58	['Study setting\nWe will conduct the Shonjibon trial in five districts in Dhaka Division, Bangladesh.']	(9067, 9165)	FALSE
+PMC6029118.nxml.gz	59	['These districts are Netrokona, Kishoreganj, Mymensingh, Sherpur, and Gazipur, with a total number of 47 Upazila (subdistricts) and a combined population of 20 million.']	(9166, 9333)	FALSE
+PMC6029118.nxml.gz	60	['Our study implementing partner BRAC, a non-government organisation co-ordinates a community-based maternal, neonatal and child health program in the area which includes a prospective pregnancy surveillance and home-based antenatal care program.']	(9334, 9578)	FALSE
+PMC6029118.nxml.gz	61	['The Shonjibon study area will consist of 24 Upazilas from these five districts (Fig.']	(9579, 9663)	FALSE
+PMC6029118.nxml.gz	62	['1).']	(9664, 9667)	FALSE
+PMC6029118.nxml.gz	63	['We will exclude five Upazilas from Kishoreganj, six Upazilas from Netrokona and two Upazilas from Sherpur because of insufficient BRAC Program Officer (PO) coverage.']	(9668, 9833)	FALSE
+PMC6029118.nxml.gz	64	['We will also exclude three Upazilas from Gazipur because of the high number of garment industries, which would have high numbers of working women and would be difficult to follow-up and eight Upazilas from Mymensingh because of the high prevalence of malaria and kalazar.']	(9834, 10105)	FALSE
+PMC6029118.nxml.gz	65	['Caption (FIG): FIG.']	(10107, 10126)	FALSE
+PMC6029118.nxml.gz	66	['1\n\nMap of study area, Shonjibon Trial (created by the authors)\n\nCluster selection\nWe will define a cluster as a BRAC PO area, which will consist of a pair of BRAC village field workers (called Shasthya Kormi or SK) and their 20 BRAC village volunteers (referred to as Shasthya Shebika or SS) who are supervised by a single BRAC PO.']	(10127, 10458)	FALSE
+PMC6029118.nxml.gz	67	['A BRAC PO area approximately comprises of 40 to 50 villages with an average population of 13,000 people.']	(10459, 10563)	FALSE
+PMC6029118.nxml.gz	68	['We will have a total number of 112 BRAC PO for randomisation.']	(10564, 10625)	FALSE
+PMC6029118.nxml.gz	69	['We will randomly select 100 clusters with an equal number of clusters in each arm.']	(10626, 10708)	FALSE
+PMC6029118.nxml.gz	70	['The research team took written approval for the study from Directorate General of Health Service (DGHS) under Ministry of Health & Family Welfare before allocating the clusters to a treatment group or the trial interventions begin.']	(10709, 10940)	FALSE
+PMC6029118.nxml.gz	71	['Eligibility criteria for inclusion of cluster\nWe will exclude any potential BRAC PO area (cluster) if there are any other maternal and or neonatal interventions either by the government or non-government organisations in the area.']	(10942, 11172)	FALSE
+PMC6029118.nxml.gz	72	['We will identify any such program by contacting local officials in the sub-districts in the Dhaka Division.']	(11173, 11280)	FALSE
+PMC6029118.nxml.gz	73	['We will exclude areas where access is extremely difficult, for example in flood-prone areas.']	(11281, 11373)	FALSE
+PMC6029118.nxml.gz	74	['All women aged between 15 to 49\xa0years, who are pregnant and their gestational age is ≤90\xa0days, and are permanent residents of the Shonjibon study area will be eligible for the study.']	(11374, 11556)	FALSE
+PMC6029118.nxml.gz	75	['Formative research\nBefore the intervention started, we conducted a formative study using qualitative methods.']	(11558, 11667)	FALSE
+PMC6029118.nxml.gz	76	['We collected the data from July to October 2012, in two villages, one in Mymensingh and one in Netrokona – two of the five districts included in the Shonjibon Trial.']	(11668, 11833)	FALSE
+PMC6029118.nxml.gz	77	['The field team consisted of three women and two men trained in anthropology or social sciences, who had experience in collecting qualitative data.']	(11834, 11980)	FALSE
+PMC6029118.nxml.gz	78	['Four qualitative methods – in-depth interviews (35 pregnant women, 20 older women and 11 husbands), key informant interviews (20 with CHWs, program managers, informal care providers, gynaecologists and traditional birth attendants), focus group discussions (2 with Shasthya Shebika and 1 with female college students) and observations of the lowest level of health facility (community clinics) (2) were conducted.']	(11981, 12394)	FALSE
+PMC6029118.nxml.gz	79	['We explore women’s and family members’ perceptions of: cultural norms during pregnancy; birth weight; IFA supplementation; and experience using IFA supplements during pregnancy.']	(12395, 12572)	FALSE
+PMC6029118.nxml.gz	80	['We conducted the key informant interviews to understand the community norms around IFA supplementation, and challenges and successes of the existing programme.']	(12573, 12732)	FALSE
+PMC6029118.nxml.gz	81	['We used FGDs to understand both perceptions regarding the need for IFA tablets during pregnancy and the state of IFA supplementation programmes.']	(12733, 12877)	FALSE
+PMC6029118.nxml.gz	82	['In two community clinics, we conducted an hour-long observation to understand the implementation of the national IFA programme.']	(12878, 13005)	FALSE
+PMC6029118.nxml.gz	83	['Intervention\nFrom the formative study, we identified culturally appropriate and feasible ways of implementing the intervention [14].']	(13007, 13139)	FALSE
+PMC6029118.nxml.gz	84	['The findings of the formative study suggested that introduction of IFA supplements early in pregnancy is feasible with support from BRAC or government community health workers.']	(13140, 13316)	TRUE
+PMC6029118.nxml.gz	85	['The formative study also suggested to include culturally sensitive reasons for the use of IFA supplements during pregnancy, improvement of the community health-worker training modules and to standardise messages across all health workers.']	(13317, 13555)	FALSE
+PMC6029118.nxml.gz	86	['We conducted a pilot study in four BRAC village fieldworker areas, two with intervention and two comparison areas, to test the feasibility of our intervention.']	(13556, 13715)	FALSE
+PMC6029118.nxml.gz	87	['Early identification of pregnancy\nIn the intervention clusters, trained SS will identify pregnant women through systematic door-to-door visits of the households in her catchment area and follow-up with all women of reproductive age about their recent history of missed menstrual periods.']	(13717, 14004)	FALSE
+PMC6029118.nxml.gz	88	['We will financially incentivise the SS for early identification of pregnant women.']	(14005, 14087)	FALSE
+PMC6029118.nxml.gz	89	['Regular supply of IFA supplements and counselling\nUpon receiving the consent icddr,b study staff (Field Implementers or FI) will hand over the first two months of supply of iron-folic acid capsules, each containing 60\xa0mg of elemental iron and 400μg of folic acid.']	(14089, 14352)	FALSE
+PMC6029118.nxml.gz	90	['She will also counsel the mother about the benefits of IFA supplements in pregnancy.']	(14353, 14437)	FALSE
+PMC6029118.nxml.gz	91	['The SS will then make regular fortnightly visits to the woman until delivery to ensure resupply of supplements, and provide counselling in support of early uptake, continued use, and compliance with the supplementation regime until delivery.']	(14438, 14679)	FALSE
+PMC6029118.nxml.gz	92	['This intervention is consistent with the Bangladesh Ministry of Health guidelines.']	(14680, 14762)	FALSE
+PMC6029118.nxml.gz	93	['Improve adherence and monitor compliance\nTo improve adherence, a local pharmaceutical company (Eskayef Bangladesh Limited) will produce IFA supplements in an attractive capsule shell and special blister package.']	(14764, 14975)	FALSE
+PMC6029118.nxml.gz	94	['Each strip will consist of 15 capsules.']	(14976, 15015)	FALSE
+PMC6029118.nxml.gz	95	['At the time of enrolment, we will assign each mother a box consisting of 8\xa0months of supply of iron-folic acid supplements.']	(15016, 15139)	FALSE
+PMC6029118.nxml.gz	96	['We will attach the details of the pregnant women to the box during registration in the trial.']	(15140, 15233)	FALSE
+PMC6029118.nxml.gz	97	['At the time of resupply, the SS will collect the empty strips from the previous round.']	(15234, 15320)	FALSE
+PMC6029118.nxml.gz	98	['If she finds any unused capsules, she will inquire about the missing doses and further counsel the women about the importance of regular consumption of IFA supplements.']	(15321, 15489)	FALSE
+PMC6029118.nxml.gz	99	['We will provide a specially designed medicine box to each participant to preserve the medicine.']	(15490, 15585)	FALSE
+PMC6029118.nxml.gz	100	['It will also serve as a reminder for regular consumption and safely store the medicines away from child access.']	(15586, 15697)	FALSE
+PMC6029118.nxml.gz	101	['In addition to this, a special call centre will be set up centrally where trained nutrition counsellors will systematically make bi-weekly calls to monitor compliance with the supplementation regime.']	(15698, 15897)	FALSE
+PMC6029118.nxml.gz	102	['Concomitant treatment\nThe research team will advise all Shonjibon study participants in the intervention arm not to consume any additional iron or folic acid supplements from other sources during her pregnancy.']	(15899, 16109)	FALSE
+PMC6029118.nxml.gz	103	['Management and training\nOverall around 3920 SS and 100 FI will deliver the intervention, under the supervision of central field supervisory team.']	(16111, 16256)	FALSE
+PMC6029118.nxml.gz	104	['There will be one FI for each cluster.']	(16257, 16295)	FALSE
+PMC6029118.nxml.gz	105	['The central team will comprise of three research fellows, one medical officer and one research investigator and one BRAC national manager.']	(16296, 16434)	FALSE
+PMC6029118.nxml.gz	106	['The field supervision team will comprise of five Field Research Officers and five District Managers.']	(16435, 16535)	FALSE
+PMC6029118.nxml.gz	107	['We will train the BRAC village workers and volunteers in sub-district health centres to detect and monitor pregnancies, to maintain pregnancy records, to manage supply and distribution of supplements, communication and counselling skills for behaviour change related to use of iron-folic acid supplements.']	(16536, 16841)	FALSE
+PMC6029118.nxml.gz	108	['The central team will train the field team and monitor the process of delivery of the intervention.']	(16842, 16941)	FALSE
+PMC6029118.nxml.gz	109	['The BRAC PO will provide technical support to the SK and SS, and will help them resolve any problems through regular meetings in the field.']	(16942, 17081)	FALSE
+PMC6029118.nxml.gz	110	['Control\nWe used usual iron supplementation program as the comparator.']	(17083, 17152)	FALSE
+PMC6029118.nxml.gz	111	['We will identify and confirm pregnant women in the control clusters using methods similar to those described for the intervention arm.']	(17153, 17287)	FALSE
+PMC6029118.nxml.gz	112	['Women will not receive any additional information or counselling other than usual standard care provided by the existing BRAC structure.']	(17288, 17424)	FALSE
+PMC6029118.nxml.gz	113	['Both intervention and control treatment arms will receive the usual antenatal and postnatal care services by BRAC.']	(17425, 17539)	FALSE
+PMC6029118.nxml.gz	114	['Trial outcomes\nThe primary trial outcome will be the difference in the neonatal mortality rate between the intervention and control areas.']	(17541, 17679)	FALSE
+PMC6029118.nxml.gz	115	['The secondary trial outcomes will include: (1) percentage of women using IFA supplements in the first trimester of pregnancy; (2) percentage of live births with low birth weight and with preterm delivery; (3) percentage of neonatal deaths attributable to preterm delivery, and to birth asphyxia; (4) mean marginal additional expenditure associated with early IFA supplements, and the mean cost per neonatal death prevented; (5) the percentage of pregnant women reporting side effects including nausea and vomiting.']	(17680, 18194)	FALSE
+PMC6029118.nxml.gz	116	['Outcome measurements\n\nNeonatal deaths\nWe will investigate all neonatal deaths reported by the SS to the Field Implementers or by maternal recall at the final follow-up visit at 42\xa0days postpartum, using standard questionnaires collected by trained staff.']	(18196, 18450)	FALSE
+PMC6029118.nxml.gz	117	['We will use this data to calculate estimates of neonatal mortality in both arms from baseline to the end of the intervention period.']	(18451, 18583)	FALSE
+PMC6029118.nxml.gz	118	['Verbal autopsy\nTrained Field Research Officers will interview caretakers of infants who die in the neonatal period using the World Health Organization (WHO) Standard Verbal Autopsy Questionnaire [15] within one month of the death.']	(18585, 18815)	FALSE
+PMC6029118.nxml.gz	119	['Investigators will extract and code the symptoms from both the closed-ended questions and open narratives.']	(18816, 18922)	FALSE
+PMC6029118.nxml.gz	120	['We will use physician-certified verbal autopsy method to identify cases of death related to preterm delivery and birth asphyxia using the hierarchical assignment of causes of death.']	(18923, 19104)	FALSE
+PMC6029118.nxml.gz	121	['At least two physicians will independently review the data, and they will base their decision on an agreement.']	(19105, 19215)	FALSE
+PMC6029118.nxml.gz	122	['Review by a third physician will resolve any discrepancy between the two diagnoses.']	(19216, 19299)	FALSE
+PMC6029118.nxml.gz	123	['Birth weight\nWe will measure birth weight within 24\xa0h of delivery using standard methods with a portable electronic scale.']	(19301, 19423)	FALSE
+PMC6029118.nxml.gz	124	['The SS will notify the Field Implementers of any births in their area, and both will visit the mother and her infant within 24\xa0h, although measurements will be accepted up to 72\xa0h after birth.']	(19424, 19616)	FALSE
+PMC6029118.nxml.gz	125	['Duration of gestation\nWe will measure the duration of gestation will be measured using the date of last menstrual period with the pregnancy confirmed by urine test in the field.']	(19618, 19795)	FALSE
+PMC6029118.nxml.gz	126	['Other measurements\nSocial, economic and demographic characteristics will be collected in a questionnaire collected at enrolment and will use standard demographic and health survey methods of an inventory of household assets to construct a wealth index, [16] as well as the socio-demographic characteristics of the mother.']	(19797, 20118)	FALSE
+PMC6029118.nxml.gz	127	['Cost-effectiveness analysis\nThe economic evaluation will take a societal perspective.']	(20120, 20205)	FALSE
+PMC6029118.nxml.gz	128	['We will base the data for the cost-effectiveness analysis on the costs and outcomes observed in the trial.']	(20206, 20312)	FALSE
+PMC6029118.nxml.gz	129	['The costs of the intervention will include cost and distribution of the supplements, training of SS workers, organisational costs associated with the administration of the programme and the cost of incentives.']	(20313, 20522)	FALSE
+PMC6029118.nxml.gz	130	['We will ask the participants to record use of health services at each follow-up interview, which will enable assessment of potential cost offsets particularly associated with differences in rates of birth complications and neonatal morbidity.']	(20523, 20765)	FALSE
+PMC6029118.nxml.gz	131	['We will estimate incremental cost-effectiveness ratios as incremental cost per neonate death avoided; per low birth weight infant avoided and per life-year saved.']	(20766, 20928)	FALSE
+PMC6029118.nxml.gz	132	['Years of life saved will be based on any difference in survival of mothers and infants observed during the trial and estimated using current life expectancy in Bangladesh.']	(20929, 21100)	FALSE
+PMC6029118.nxml.gz	133	['Standard methods for estimating uncertainty and a cost-effectiveness acceptability curve will be generated to provide information on the probability that the intervention is cost-effective, at different willingness to pay thresholds.']	(21101, 21334)	TRUE
+PMC6029118.nxml.gz	134	['Groundwater iron\nWe will measure the level of groundwater iron in all the households of our study using a validated test kit tool [±0.1\xa0mg/L, FerroVer method, HACH Iron Test kit, Model IR-18B].']	(21336, 21529)	FALSE
+PMC6029118.nxml.gz	135	['Sampling frame and sample size\nTo detect a 25% reduction in neonatal mortality (33 neonatal deaths/1000 live births in control to 24.8 neonatal deaths/1000 live births in the intervention group), with 90% power, 5% two-sided alpha, 1:1 ratio of treatment allocation and intra-cluster correlation coefficient (ICC) of 0.0245, we require 100 clusters (each covering an average of 4000 households), or 50 clusters per treatment group, with a total of 30,000 live births over one year.']	(21531, 22012)	FALSE
+PMC6029118.nxml.gz	136	['This sample would allow detection of a 22% relative difference between treatment groups with 80% power.']	(22013, 22116)	FALSE
+PMC6029118.nxml.gz	137	['To detect a 30% reduction in preterm delivery from 15% in control compared to 10.5% in the intervention arm, assuming 80% power, 5% level of significance, intracluster correlation of 0.012 for small birth size (Bangladesh DHS data), would require a sample size of 1300/arm or 40 pregnant women from 64 clusters.']	(22117, 22428)	FALSE
+PMC6029118.nxml.gz	138	['A smaller sample size of 570 women/arm or 40 pregnant women from 28 clusters is needed to detect a 30% reduction in LBW with the same assumptions.']	(22429, 22575)	FALSE
+PMC6029118.nxml.gz	139	['Our cluster is one BRAC PO area that consists of ~\u200913,000 people.']	(22576, 22641)	FALSE
+PMC6029118.nxml.gz	140	['Assuming a crude birth rate of 23 per 1000 people, 10% loss of pregnancies before birth and 15% loss to follow up each cluster will yield 300 births over 15\xa0months, and this will be sufficient to reach the desired sample size.']	(22642, 22868)	FALSE
+PMC6029118.nxml.gz	141	['Recruitment and consent of women\nIn the intervention clusters, SSs will make systematic door-to-door visits to identify new pregnancies through menstrual cycle tracking of all women of reproductive age.']	(22870, 23072)	FALSE
+PMC6029118.nxml.gz	142	['Once the woman reports a missed period, the SS will immediately notify the Field Implementers by mobile phone.']	(23073, 23183)	FALSE
+PMC6029118.nxml.gz	143	['The Field Implementers will then visit the pregnant mother along with the SS within the next 48\xa0h to conduct a pregnancy test and enquire about the last menstrual period.']	(23184, 23354)	FALSE
+PMC6029118.nxml.gz	144	['If the pregnancy test is positive and the pregnancy is within the first trimester, the Field Implementers will register the mother and seek written consent.']	(23355, 23511)	FALSE
+PMC6029118.nxml.gz	145	['We will obtain written, witnessed informed consent from all participants.']	(23512, 23585)	FALSE
+PMC6029118.nxml.gz	146	['Assignment of treatments\nAn investigator remote from the field area will assign the interventions to eligible clusters using a fixed randomisation scheme with a uniform allocation ratio of treatments, stratified by subdistrict or Upazila.']	(23587, 23825)	FALSE
+PMC6029118.nxml.gz	147	['The random allocation sequence will be generated using Stata 12 software (StataCorp.']	(23826, 23910)	FALSE
+PMC6029118.nxml.gz	148	['2011.']	(23911, 23916)	FALSE
+PMC6029118.nxml.gz	149	['Stata Statistical Software: Release 12.']	(23917, 23956)	FALSE
+PMC6029118.nxml.gz	150	['College Station, TX: StataCorp LP).']	(23957, 23992)	FALSE
+PMC6029118.nxml.gz	151	['The nature of the intervention precludes the masking of the treatments.']	(23993, 24064)	FALSE
+PMC6029118.nxml.gz	152	['Evaluation\n\nData collection team\nA separate team of trained data collectors not involved in the implementation of the intervention will collect data for evaluation.']	(24066, 24230)	FALSE
+PMC6029118.nxml.gz	153	['The evaluation team will consist of 135 data collectors, five field supervisors and five field research officers.']	(24231, 24344)	FALSE
+PMC6029118.nxml.gz	154	['Each data collector will be responsible for one cluster.']	(24345, 24401)	FALSE
+PMC6029118.nxml.gz	155	['We will train the evaluation team over a four-week period, and standardize measurement methods and retrain as needed every six months.']	(24402, 24536)	FALSE
+PMC6029118.nxml.gz	156	['Data collection schedule\nThe data collectors will visit each woman a total number of six times from the time of enrolment till 42\xa0days after delivery.']	(24538, 24688)	FALSE
+PMC6029118.nxml.gz	157	['These visits will be made between 12 and 14\xa0weeks, 20–24\xa0weeks, 28–32\xa0weeks, within 24\xa0h of delivery, 7–10\xa0days after delivery, 38–42\xa0days after delivery (Fig.']	(24689, 24848)	FALSE
+PMC6029118.nxml.gz	158	['2).']	(24849, 24852)	FALSE
+PMC6029118.nxml.gz	159	['Caption (FIG): FIG.']	(24854, 24873)	FALSE
+PMC6029118.nxml.gz	160	['2\n\nTrial flow chart and intervention schedule\n\nTypes of information collected\nOver the pregnancy and neonatal period, data collectors will collect information regarding household characteristics, reproductive history, pregnancy information, medication history, details about consumption of IFA supplements, current health status, any side effects from the supplements, antenatal care, birth outcome, birth weight, immediate newborn care and neonatal deaths.']	(24874, 25331)	FALSE
+PMC6029118.nxml.gz	161	['We will also collect information on exposure to household air pollution and out of pocket expenses for any antenatal and postnatal care seeking (Table1).']	(25332, 25485)	FALSE
+PMC6029118.nxml.gz	162	['Caption (TABLE-WRAP): TABLE 1\n\nSchedule of enrolment, interventions, and assessments\n\nElectronic data collection tool\nData will be captured using an android application developed using Java.']	(25487, 25677)	FALSE
+PMC6029118.nxml.gz	163	['Each data collector will use Samsung Galaxy 7\xa0in.']	(25678, 25727)	FALSE
+PMC6029118.nxml.gz	164	['tablet with Internet enabled SIM card for data collection and transmission of data from the community to central database server.']	(25728, 25857)	FALSE
+PMC6029118.nxml.gz	165	['The application will navigate the data collectors through a step-by-step process while interviewing the pregnant women to collect all required information to be collected at each specific visit.']	(25858, 26052)	FALSE
+PMC6029118.nxml.gz	166	['Some validation rules will be set in the application to prevent errors during data collection.']	(26053, 26147)	FALSE
+PMC6029118.nxml.gz	167	['Rules will include logical and range checks, uniqueness check and skipping rules as appropriate.']	(26148, 26244)	FALSE
+PMC6029118.nxml.gz	168	['Initially, the Field Implementers will enter all the required registration information of the woman into the system.']	(26245, 26361)	FALSE
+PMC6029118.nxml.gz	169	['As soon as the data is uploaded to the server, information will be passed to the separate evaluation team for first follow up visit.']	(26362, 26494)	FALSE
+PMC6029118.nxml.gz	170	['Each data collector will need to log into the system using a pre-assigned unique user ID and password.']	(26495, 26597)	FALSE
+PMC6029118.nxml.gz	171	['During the first visit, the data collector will download the details of the newly registered pregnant women for her assigned cluster from the central server.']	(26598, 26755)	FALSE
+PMC6029118.nxml.gz	172	['This information, filtered according to the geographical area, comes from the registration data collected by the Field Implementers.']	(26756, 26888)	FALSE
+PMC6029118.nxml.gz	173	['During the subsequent visits, the app will provide each data collector with a list of women, for whom a follow-up visit is scheduled within seven days.']	(26889, 27040)	FALSE
+PMC6029118.nxml.gz	174	['We will use different colour coding to highlight visits that are pending or imminent.']	(27041, 27126)	FALSE
+PMC6029118.nxml.gz	175	['To verify physical presence of the data collectors at the households we will record a Geographic Information System (GIS) data point.']	(27127, 27260)	FALSE
+PMC6029118.nxml.gz	176	['The system will also generate daily reports of the completed interviews and enrolment and make them available on the online monitoring interface (in real time).']	(27261, 27421)	FALSE
+PMC6029118.nxml.gz	177	['At the end of each interview, the data collector will store the data on the local device and then upload the data to the central server after the end of a day’s work.']	(27422, 27588)	FALSE
+PMC6029118.nxml.gz	178	['We will maintain a backup copy of the database on a different server.']	(27589, 27658)	FALSE
+PMC6029118.nxml.gz	179	['Statistical analysis\nData analysis will be by intention to treat.']	(27660, 27725)	FALSE
+PMC6029118.nxml.gz	180	['We will conduct analyses at the infant level adjusted for the cluster randomisation.']	(27726, 27810)	FALSE
+PMC6029118.nxml.gz	181	['The primary analyses will compare the neonatal mortality rates and their 95% confidence intervals adjusted for clustering and groundwater iron level in each group.']	(27811, 27974)	FALSE
+PMC6029118.nxml.gz	182	['Secondary analyses will examine each outcome variable using separate mixed models.']	(27975, 28057)	FALSE
+PMC6029118.nxml.gz	183	['We will use Cox proportional hazards mixed models for mortality outcomes and include groundwater iron level as an interaction term in the mortality model.']	(28058, 28212)	FALSE
+PMC6029118.nxml.gz	184	['We will use population average Poisson model for other outcomes including preterm, small for gestation and low birth weights.']	(28213, 28338)	FALSE
+PMC6029118.nxml.gz	185	['Models will include treatment group as a fixed effect, community-cluster as a random effect to account for the cluster effect.']	(28339, 28465)	FALSE
+PMC6029118.nxml.gz	186	['The models will evaluate the impact of the interventions over time by testing for an interaction between time and intervention group.']	(28466, 28599)	FALSE
+PMC6029118.nxml.gz	187	['We will conduct analyses to identify the subgroups (based on household wealth, sex of infant and maternal education) that modify the response to the intervention.']	(28600, 28762)	FALSE
+PMC6029118.nxml.gz	188	['We will check the model assumptions and make appropriate adjustments to the analysis where necessary.']	(28763, 28864)	FALSE
+PMC6029118.nxml.gz	189	['Descriptive analysis will be performed to present the cause of death.']	(28865, 28934)	FALSE
+PMC6029118.nxml.gz	190	['We will compare the causes of death by sex of newborn, the time-period of death, and treatment arms (intervention Vs control).']	(28935, 29061)	FALSE
+PMC6029118.nxml.gz	191	['χ2test or Fisher’s Exact test after adjusting for cluster effect will be used when appropriate.']	(29062, 29157)	FALSE
+PMC6029118.nxml.gz	192	['The economic analysis will estimate the incremental cost per life saved per year of the intervention over standard care.']	(29158, 29278)	FALSE
+PMC6029118.nxml.gz	193	['We will use sensitivity analyses of the findings to assess uncertainty in key parameters.']	(29279, 29368)	FALSE
+PMC6029118.nxml.gz	194	['Stata V.14 (StataCorp.']	(29369, 29391)	FALSE
+PMC6029118.nxml.gz	195	['2015.']	(29392, 29397)	FALSE
+PMC6029118.nxml.gz	196	['Stata Statistical Software: Release 14.']	(29398, 29437)	FALSE
+PMC6029118.nxml.gz	197	['College Station, TX: Stata Corp LP.)']	(29438, 29474)	FALSE
+PMC6029118.nxml.gz	198	['will be used for all analyses.']	(29475, 29505)	FALSE
+PMC6029118.nxml.gz	199	['Data monitoring\n\nElectronic data monitoring tool\nWe will develop an online monitoring system, which will provide us real-time information on enrolment status, adherence of the data collectors with the evaluation schedule and quality of data for key variables.']	(29507, 29766)	FALSE
+PMC6029118.nxml.gz	200	['This system will allow the field supervisors to monitor the performance of individual data collectors.']	(29767, 29869)	FALSE
+PMC6029118.nxml.gz	201	['All reports will be auto-generated from the system and will be available anytime for the investigators’ assessment.']	(29870, 29985)	FALSE
+PMC6029118.nxml.gz	202	['Data safety and monitoring board\nThe research team will establish an independent data safety and monitoring board (DSMB) consisting of an independent paediatrician, a clinical trial specialist and a biostatistician.']	(29987, 30202)	FALSE
+PMC6029118.nxml.gz	203	['This DSMB is responsible for assessing the interim data, data quality, data completeness, adequacy of compliance with goals for recruitment and retention, and factors that might affect the study outcome or compromise the confidentiality of the trial data.']	(30203, 30458)	TRUE
+PMC6029118.nxml.gz	204	['Any unintended effects of trial intervention will also be notified to data safety and monitoring board.']	(30459, 30562)	FALSE
+PMC6029118.nxml.gz	205	['Advisory committee\nTo facilitate the overall implementation process and to engage policymakers and other key decision makers, we will establish a national project advisory committee consisting of Ministry of Health and Family Welfare staff, staff, representatives from UNICEF, WHO, the Obstetric and Gynaecological, the Perinatal, and the Nutrition Societies of Bangladesh.']	(30564, 30937)	FALSE
+PMC6029118.nxml.gz	206	['This committee will assist in translating the Shonjibon study findings into policy.']	(30938, 31021)	FALSE
+PMC6029118.nxml.gz	207	['In addition, we will establish five district advisory committees consisting of local health officers, local government officials, local community groups, other relevant NGOs and project staff to help guide the research team.']	(31022, 31246)	FALSE
+PMC6029118.nxml.gz	208	['Access to data\nAll collected data will be accessible by the study investigators.']	(31248, 31328)	FALSE
+PMC6029118.nxml.gz	209	['All the investigators will have the right to analyse and publish data.']	(31329, 31399)	FALSE
+PMC6029118.nxml.gz	210	['We will only share datasets with all personally identifiable information removed, and every reasonable effort to keep the identification of study subjects in the strictest confidence.']	(31400, 31583)	TRUE
+PMC6029118.nxml.gz	211	['Dissemination plan\nThe research team will share the lessons learned from the study widely throughout Bangladesh and among global audiences.']	(31585, 31724)	FALSE
+PMC6029118.nxml.gz	212	['The authors will organise dissemination seminars to share the findings with all relevant stakeholders.']	(31725, 31827)	FALSE
+PMC6029118.nxml.gz	213	['We will present the intermediate and immediate results, which support the hypotheses generated from the trial, at national and international conferences and publish them in conference proceedings.']	(31828, 32024)	FALSE
+PMC6029118.nxml.gz	214	['We will publish the analysis of the outcomes in the form of internal documents, working papers, and in international peer-reviewed journals.']	(32025, 32165)	FALSE
+PMC6029118.nxml.gz	215	['Authorship eligibility will be based on recommendation from International committee for medical journals editors (ICMJE).']	(32166, 32287)	FALSE
+PMC6029118.nxml.gz	216	['Discussion\nIron deficiency is associated with increased risk of maternal death, preterm delivery, impaired foetal growth and development, low birth weight, increased neonatal mortality and impaired infant development [17].']	(32289, 32511)	FALSE
+PMC6029118.nxml.gz	217	['In resource-poor countries, rates of maternal anaemia remain high.']	(32512, 32578)	FALSE
+PMC6029118.nxml.gz	218	['Although the importance of IFA supplements to prevent maternal anaemia and mortality is widely accepted, most antenatal IFA supplements distribution programs are of low priority.']	(32579, 32757)	TRUE
+PMC6029118.nxml.gz	219	['Evaluations of these programs using maternal anaemia as the outcome report little or no impact because of the multiple causes of maternal anaemia, low compliance, and inadequate distribution programs.']	(32758, 32958)	FALSE
+PMC6029118.nxml.gz	220	['Recent surveys in Bangladesh indicate that only 52% of rural women reported any use of IFA supplements in their last pregnancy, but this falls to 39% for the poorest households, and to 34% for women with no education [5].']	(32959, 33180)	FALSE
+PMC6029118.nxml.gz	221	['In the Projahnmo trial conducted in rural Bangladesh, only 40% of women in the baseline surveys reported any use of IFA supplements in pregnancy [18].']	(33181, 33331)	FALSE
+PMC6029118.nxml.gz	222	['Access to IFA supplements is through antenatal care, however, in rural Bangladesh, the median gestation that women commence antenatal care is 5.2\xa0months, and 44% of women report no use of antenatal care [5].']	(33332, 33539)	FALSE
+PMC6029118.nxml.gz	223	['The Projahnmo trial demonstrated improved IFA supplements as 84% of pregnant women in the home-care treatment arm reported IFA supplements use in pregnancy [18].']	(33540, 33701)	FALSE
+PMC6029118.nxml.gz	224	['Although they did not start early, these figures indicate there is a substantial opportunity to improve IFA supplements distribution in rural Bangladesh.']	(33702, 33855)	FALSE
+PMC6029118.nxml.gz	225	['There is limited evidence about the optimal timing of IFA supplementation in pregnancy.']	(33856, 33943)	FALSE
+PMC6029118.nxml.gz	226	['Promising evidence came from a trial in China investigating the effects of IFA supplements in pregnancy on neonatal deaths [19].']	(33944, 34072)	TRUE
+PMC6029118.nxml.gz	227	['However, the neonatal mortality analyses were post-hoc analyses, and the sample size was small resulting in poor precision in the effect estimates, and reduced power to explore all the factors modifying the effects on neonatal mortality.']	(34073, 34310)	FALSE
+PMC6029118.nxml.gz	228	['Thus, the impact of early IFA supplements on neonatal mortality needs confirmation in a larger scale trial.']	(34311, 34418)	TRUE
+PMC6029118.nxml.gz	229	['This project will determine if antenatal IFA supplements commenced in the first trimester of pregnancy, rather than later, will significantly reduce neonatal deaths in the first month of life, and if this approach is cost-effective.']	(34419, 34651)	FALSE
+PMC6029118.nxml.gz	230	['It will also provide valuable evidence about the role of groundwater iron level in modifying the responses of antenatal IFA supplements on neonatal mortality since there is already some evidence which suggests a positive, dose-response association between natural iron in groundwater and the iron status of women [6].']	(34652, 34969)	FALSE
+PMC6029118.nxml.gz	231	['PubMed Central:']	(34971, 34986)	FALSE

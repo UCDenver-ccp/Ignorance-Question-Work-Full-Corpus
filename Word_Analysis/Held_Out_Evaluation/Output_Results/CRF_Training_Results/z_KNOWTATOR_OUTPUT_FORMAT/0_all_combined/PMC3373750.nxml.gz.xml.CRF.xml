@@ -1,0 +1,409 @@
+<?xml version="1.0" ?>
+<knowtator-project>
+   <document id="PMC3373750.nxml.gz" text-file="PMC3373750.nxml.gz.txt">
+      <annotation annotator="Default" id="PMC3373750.nxml.gz-1" type="identity">
+         <class id="little_is_known"/>
+         <span end="151" id="PMC3373750.nxml.gz-2" start="136">Little is known</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC3373750.nxml.gz-3" type="identity">
+         <class id="explicit_question"/>
+         <span end="151" id="PMC3373750.nxml.gz-4" start="136">Little is known</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC3373750.nxml.gz-5" type="identity">
+         <class id="what"/>
+         <span end="557" id="PMC3373750.nxml.gz-6" start="553">what</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC3373750.nxml.gz-7" type="identity">
+         <class id="asked"/>
+         <span end="726" id="PMC3373750.nxml.gz-8" start="721">asked</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC3373750.nxml.gz-9" type="identity">
+         <class id="how"/>
+         <span end="810" id="PMC3373750.nxml.gz-10" start="807">how</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC3373750.nxml.gz-11" type="identity">
+         <class id="incomplete_evidence"/>
+         <span end="151" id="PMC3373750.nxml.gz-12" start="136">Little is known</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC3373750.nxml.gz-13" type="identity">
+         <class id="incomplete_evidence"/>
+         <span end="557" id="PMC3373750.nxml.gz-14" start="553">what</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC3373750.nxml.gz-15" type="identity">
+         <class id="incomplete_evidence"/>
+         <span end="726" id="PMC3373750.nxml.gz-16" start="721">asked</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC3373750.nxml.gz-17" type="identity">
+         <class id="incomplete_evidence"/>
+         <span end="810" id="PMC3373750.nxml.gz-18" start="807">how</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC3373750.nxml.gz-19" type="identity">
+         <class id="did_not_find"/>
+         <span end="1360" id="PMC3373750.nxml.gz-20" start="1348">did not find</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC3373750.nxml.gz-21" type="identity">
+         <class id="other_studies"/>
+         <span end="1665" id="PMC3373750.nxml.gz-22" start="1652">other studies</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC3373750.nxml.gz-23" type="identity">
+         <class id="probable_understanding"/>
+         <span end="151" id="PMC3373750.nxml.gz-24" start="136">Little is known</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC3373750.nxml.gz-25" type="identity">
+         <class id="probable_understanding"/>
+         <span end="557" id="PMC3373750.nxml.gz-26" start="553">what</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC3373750.nxml.gz-27" type="identity">
+         <class id="probable_understanding"/>
+         <span end="726" id="PMC3373750.nxml.gz-28" start="721">asked</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC3373750.nxml.gz-29" type="identity">
+         <class id="probable_understanding"/>
+         <span end="810" id="PMC3373750.nxml.gz-30" start="807">how</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC3373750.nxml.gz-31" type="identity">
+         <class id="probable_understanding"/>
+         <span end="1360" id="PMC3373750.nxml.gz-32" start="1348">did not find</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC3373750.nxml.gz-33" type="identity">
+         <class id="probable_understanding"/>
+         <span end="1665" id="PMC3373750.nxml.gz-34" start="1652">other studies</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC3373750.nxml.gz-35" type="identity">
+         <class id="likely"/>
+         <span end="1088" id="PMC3373750.nxml.gz-36" start="1082">likely</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC3373750.nxml.gz-37" type="identity">
+         <class id="likely"/>
+         <span end="1199" id="PMC3373750.nxml.gz-38" start="1193">likely</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC3373750.nxml.gz-39" type="identity">
+         <class id="superficial_relationship"/>
+         <span end="151" id="PMC3373750.nxml.gz-40" start="136">Little is known</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC3373750.nxml.gz-41" type="identity">
+         <class id="superficial_relationship"/>
+         <span end="557" id="PMC3373750.nxml.gz-42" start="553">what</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC3373750.nxml.gz-43" type="identity">
+         <class id="superficial_relationship"/>
+         <span end="726" id="PMC3373750.nxml.gz-44" start="721">asked</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC3373750.nxml.gz-45" type="identity">
+         <class id="superficial_relationship"/>
+         <span end="810" id="PMC3373750.nxml.gz-46" start="807">how</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC3373750.nxml.gz-47" type="identity">
+         <class id="superficial_relationship"/>
+         <span end="1360" id="PMC3373750.nxml.gz-48" start="1348">did not find</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC3373750.nxml.gz-49" type="identity">
+         <class id="superficial_relationship"/>
+         <span end="1665" id="PMC3373750.nxml.gz-50" start="1652">other studies</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC3373750.nxml.gz-51" type="identity">
+         <class id="superficial_relationship"/>
+         <span end="1088" id="PMC3373750.nxml.gz-52" start="1082">likely</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC3373750.nxml.gz-53" type="identity">
+         <class id="superficial_relationship"/>
+         <span end="1199" id="PMC3373750.nxml.gz-54" start="1193">likely</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC3373750.nxml.gz-55" type="identity">
+         <class id="future_work"/>
+         <span end="151" id="PMC3373750.nxml.gz-56" start="136">Little is known</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC3373750.nxml.gz-57" type="identity">
+         <class id="future_work"/>
+         <span end="557" id="PMC3373750.nxml.gz-58" start="553">what</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC3373750.nxml.gz-59" type="identity">
+         <class id="future_work"/>
+         <span end="726" id="PMC3373750.nxml.gz-60" start="721">asked</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC3373750.nxml.gz-61" type="identity">
+         <class id="future_work"/>
+         <span end="810" id="PMC3373750.nxml.gz-62" start="807">how</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC3373750.nxml.gz-63" type="identity">
+         <class id="future_work"/>
+         <span end="1360" id="PMC3373750.nxml.gz-64" start="1348">did not find</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC3373750.nxml.gz-65" type="identity">
+         <class id="future_work"/>
+         <span end="1665" id="PMC3373750.nxml.gz-66" start="1652">other studies</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC3373750.nxml.gz-67" type="identity">
+         <class id="future_work"/>
+         <span end="1088" id="PMC3373750.nxml.gz-68" start="1082">likely</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC3373750.nxml.gz-69" type="identity">
+         <class id="future_work"/>
+         <span end="1199" id="PMC3373750.nxml.gz-70" start="1193">likely</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC3373750.nxml.gz-71" type="identity">
+         <class id="future_prediction"/>
+         <span end="151" id="PMC3373750.nxml.gz-72" start="136">Little is known</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC3373750.nxml.gz-73" type="identity">
+         <class id="future_prediction"/>
+         <span end="557" id="PMC3373750.nxml.gz-74" start="553">what</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC3373750.nxml.gz-75" type="identity">
+         <class id="future_prediction"/>
+         <span end="726" id="PMC3373750.nxml.gz-76" start="721">asked</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC3373750.nxml.gz-77" type="identity">
+         <class id="future_prediction"/>
+         <span end="810" id="PMC3373750.nxml.gz-78" start="807">how</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC3373750.nxml.gz-79" type="identity">
+         <class id="future_prediction"/>
+         <span end="1360" id="PMC3373750.nxml.gz-80" start="1348">did not find</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC3373750.nxml.gz-81" type="identity">
+         <class id="future_prediction"/>
+         <span end="1665" id="PMC3373750.nxml.gz-82" start="1652">other studies</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC3373750.nxml.gz-83" type="identity">
+         <class id="future_prediction"/>
+         <span end="1088" id="PMC3373750.nxml.gz-84" start="1082">likely</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC3373750.nxml.gz-85" type="identity">
+         <class id="future_prediction"/>
+         <span end="1199" id="PMC3373750.nxml.gz-86" start="1193">likely</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC3373750.nxml.gz-87" type="identity">
+         <class id="important_consideration"/>
+         <span end="151" id="PMC3373750.nxml.gz-88" start="136">Little is known</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC3373750.nxml.gz-89" type="identity">
+         <class id="important_consideration"/>
+         <span end="557" id="PMC3373750.nxml.gz-90" start="553">what</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC3373750.nxml.gz-91" type="identity">
+         <class id="important_consideration"/>
+         <span end="726" id="PMC3373750.nxml.gz-92" start="721">asked</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC3373750.nxml.gz-93" type="identity">
+         <class id="important_consideration"/>
+         <span end="810" id="PMC3373750.nxml.gz-94" start="807">how</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC3373750.nxml.gz-95" type="identity">
+         <class id="important_consideration"/>
+         <span end="1360" id="PMC3373750.nxml.gz-96" start="1348">did not find</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC3373750.nxml.gz-97" type="identity">
+         <class id="important_consideration"/>
+         <span end="1665" id="PMC3373750.nxml.gz-98" start="1652">other studies</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC3373750.nxml.gz-99" type="identity">
+         <class id="important_consideration"/>
+         <span end="1088" id="PMC3373750.nxml.gz-100" start="1082">likely</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC3373750.nxml.gz-101" type="identity">
+         <class id="important_consideration"/>
+         <span end="1199" id="PMC3373750.nxml.gz-102" start="1193">likely</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC3373750.nxml.gz-103" type="identity">
+         <class id="important"/>
+         <span end="1787" id="PMC3373750.nxml.gz-104" start="1778">important</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC3373750.nxml.gz-105" type="identity">
+         <class id="anomaly_curious_finding"/>
+         <span end="151" id="PMC3373750.nxml.gz-106" start="136">Little is known</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC3373750.nxml.gz-107" type="identity">
+         <class id="anomaly_curious_finding"/>
+         <span end="557" id="PMC3373750.nxml.gz-108" start="553">what</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC3373750.nxml.gz-109" type="identity">
+         <class id="anomaly_curious_finding"/>
+         <span end="726" id="PMC3373750.nxml.gz-110" start="721">asked</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC3373750.nxml.gz-111" type="identity">
+         <class id="anomaly_curious_finding"/>
+         <span end="810" id="PMC3373750.nxml.gz-112" start="807">how</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC3373750.nxml.gz-113" type="identity">
+         <class id="anomaly_curious_finding"/>
+         <span end="1360" id="PMC3373750.nxml.gz-114" start="1348">did not find</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC3373750.nxml.gz-115" type="identity">
+         <class id="anomaly_curious_finding"/>
+         <span end="1665" id="PMC3373750.nxml.gz-116" start="1652">other studies</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC3373750.nxml.gz-117" type="identity">
+         <class id="anomaly_curious_finding"/>
+         <span end="1088" id="PMC3373750.nxml.gz-118" start="1082">likely</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC3373750.nxml.gz-119" type="identity">
+         <class id="anomaly_curious_finding"/>
+         <span end="1199" id="PMC3373750.nxml.gz-120" start="1193">likely</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC3373750.nxml.gz-121" type="identity">
+         <class id="anomaly_curious_finding"/>
+         <span end="1787" id="PMC3373750.nxml.gz-122" start="1778">important</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC3373750.nxml.gz-123" type="identity">
+         <class id="alternative_options_controversy"/>
+         <span end="151" id="PMC3373750.nxml.gz-124" start="136">Little is known</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC3373750.nxml.gz-125" type="identity">
+         <class id="alternative_options_controversy"/>
+         <span end="557" id="PMC3373750.nxml.gz-126" start="553">what</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC3373750.nxml.gz-127" type="identity">
+         <class id="alternative_options_controversy"/>
+         <span end="726" id="PMC3373750.nxml.gz-128" start="721">asked</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC3373750.nxml.gz-129" type="identity">
+         <class id="alternative_options_controversy"/>
+         <span end="810" id="PMC3373750.nxml.gz-130" start="807">how</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC3373750.nxml.gz-131" type="identity">
+         <class id="alternative_options_controversy"/>
+         <span end="1360" id="PMC3373750.nxml.gz-132" start="1348">did not find</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC3373750.nxml.gz-133" type="identity">
+         <class id="alternative_options_controversy"/>
+         <span end="1665" id="PMC3373750.nxml.gz-134" start="1652">other studies</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC3373750.nxml.gz-135" type="identity">
+         <class id="alternative_options_controversy"/>
+         <span end="1088" id="PMC3373750.nxml.gz-136" start="1082">likely</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC3373750.nxml.gz-137" type="identity">
+         <class id="alternative_options_controversy"/>
+         <span end="1199" id="PMC3373750.nxml.gz-138" start="1193">likely</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC3373750.nxml.gz-139" type="identity">
+         <class id="alternative_options_controversy"/>
+         <span end="1787" id="PMC3373750.nxml.gz-140" start="1778">important</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC3373750.nxml.gz-141" type="identity">
+         <class id="difficult_task"/>
+         <span end="151" id="PMC3373750.nxml.gz-142" start="136">Little is known</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC3373750.nxml.gz-143" type="identity">
+         <class id="difficult_task"/>
+         <span end="557" id="PMC3373750.nxml.gz-144" start="553">what</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC3373750.nxml.gz-145" type="identity">
+         <class id="difficult_task"/>
+         <span end="726" id="PMC3373750.nxml.gz-146" start="721">asked</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC3373750.nxml.gz-147" type="identity">
+         <class id="difficult_task"/>
+         <span end="810" id="PMC3373750.nxml.gz-148" start="807">how</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC3373750.nxml.gz-149" type="identity">
+         <class id="difficult_task"/>
+         <span end="1360" id="PMC3373750.nxml.gz-150" start="1348">did not find</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC3373750.nxml.gz-151" type="identity">
+         <class id="difficult_task"/>
+         <span end="1665" id="PMC3373750.nxml.gz-152" start="1652">other studies</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC3373750.nxml.gz-153" type="identity">
+         <class id="difficult_task"/>
+         <span end="1088" id="PMC3373750.nxml.gz-154" start="1082">likely</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC3373750.nxml.gz-155" type="identity">
+         <class id="difficult_task"/>
+         <span end="1199" id="PMC3373750.nxml.gz-156" start="1193">likely</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC3373750.nxml.gz-157" type="identity">
+         <class id="difficult_task"/>
+         <span end="1787" id="PMC3373750.nxml.gz-158" start="1778">important</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC3373750.nxml.gz-159" type="identity">
+         <class id="problem_complication"/>
+         <span end="151" id="PMC3373750.nxml.gz-160" start="136">Little is known</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC3373750.nxml.gz-161" type="identity">
+         <class id="problem_complication"/>
+         <span end="557" id="PMC3373750.nxml.gz-162" start="553">what</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC3373750.nxml.gz-163" type="identity">
+         <class id="problem_complication"/>
+         <span end="726" id="PMC3373750.nxml.gz-164" start="721">asked</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC3373750.nxml.gz-165" type="identity">
+         <class id="problem_complication"/>
+         <span end="810" id="PMC3373750.nxml.gz-166" start="807">how</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC3373750.nxml.gz-167" type="identity">
+         <class id="problem_complication"/>
+         <span end="1360" id="PMC3373750.nxml.gz-168" start="1348">did not find</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC3373750.nxml.gz-169" type="identity">
+         <class id="problem_complication"/>
+         <span end="1665" id="PMC3373750.nxml.gz-170" start="1652">other studies</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC3373750.nxml.gz-171" type="identity">
+         <class id="problem_complication"/>
+         <span end="1088" id="PMC3373750.nxml.gz-172" start="1082">likely</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC3373750.nxml.gz-173" type="identity">
+         <class id="problem_complication"/>
+         <span end="1199" id="PMC3373750.nxml.gz-174" start="1193">likely</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC3373750.nxml.gz-175" type="identity">
+         <class id="problem_complication"/>
+         <span end="1787" id="PMC3373750.nxml.gz-176" start="1778">important</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC3373750.nxml.gz-177" type="identity">
+         <class id="issues"/>
+         <span end="310" id="PMC3373750.nxml.gz-178" start="304">issues</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC3373750.nxml.gz-179" type="identity">
+         <class id="question_answered_by_this_work"/>
+         <span end="151" id="PMC3373750.nxml.gz-180" start="136">Little is known</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC3373750.nxml.gz-181" type="identity">
+         <class id="question_answered_by_this_work"/>
+         <span end="557" id="PMC3373750.nxml.gz-182" start="553">what</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC3373750.nxml.gz-183" type="identity">
+         <class id="question_answered_by_this_work"/>
+         <span end="726" id="PMC3373750.nxml.gz-184" start="721">asked</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC3373750.nxml.gz-185" type="identity">
+         <class id="question_answered_by_this_work"/>
+         <span end="810" id="PMC3373750.nxml.gz-186" start="807">how</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC3373750.nxml.gz-187" type="identity">
+         <class id="question_answered_by_this_work"/>
+         <span end="1360" id="PMC3373750.nxml.gz-188" start="1348">did not find</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC3373750.nxml.gz-189" type="identity">
+         <class id="question_answered_by_this_work"/>
+         <span end="1665" id="PMC3373750.nxml.gz-190" start="1652">other studies</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC3373750.nxml.gz-191" type="identity">
+         <class id="question_answered_by_this_work"/>
+         <span end="1088" id="PMC3373750.nxml.gz-192" start="1082">likely</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC3373750.nxml.gz-193" type="identity">
+         <class id="question_answered_by_this_work"/>
+         <span end="1199" id="PMC3373750.nxml.gz-194" start="1193">likely</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC3373750.nxml.gz-195" type="identity">
+         <class id="question_answered_by_this_work"/>
+         <span end="1787" id="PMC3373750.nxml.gz-196" start="1778">important</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC3373750.nxml.gz-197" type="identity">
+         <class id="question_answered_by_this_work"/>
+         <span end="310" id="PMC3373750.nxml.gz-198" start="304">issues</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC3373750.nxml.gz-199" type="identity">
+         <class id="sought"/>
+         <span end="286" id="PMC3373750.nxml.gz-200" start="280">sought</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC3373750.nxml.gz-201" type="identity">
+         <class id="to_examine"/>
+         <span end="297" id="PMC3373750.nxml.gz-202" start="287">to examine</span>
+      </annotation>
+   </document>
+</knowtator-project>

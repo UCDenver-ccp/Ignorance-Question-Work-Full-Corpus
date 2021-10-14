@@ -1,0 +1,717 @@
+<?xml version="1.0" ?>
+<knowtator-project>
+   <document id="PMC4683322.nxml.gz" text-file="PMC4683322.nxml.gz.txt">
+      <annotation annotator="Default" id="PMC4683322.nxml.gz-1" type="identity">
+         <class id="new"/>
+         <span end="2020" id="PMC4683322.nxml.gz-2" start="2017">new</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC4683322.nxml.gz-3" type="identity">
+         <class id="explicit_question"/>
+         <span end="2020" id="PMC4683322.nxml.gz-4" start="2017">new</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC4683322.nxml.gz-5" type="identity">
+         <class id="incomplete_evidence"/>
+         <span end="2020" id="PMC4683322.nxml.gz-6" start="2017">new</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC4683322.nxml.gz-7" type="identity">
+         <class id="has_been"/>
+         <span end="206" id="PMC4683322.nxml.gz-8" start="198">has been</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC4683322.nxml.gz-9" type="identity">
+         <class id="previously"/>
+         <span end="217" id="PMC4683322.nxml.gz-10" start="207">previously</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC4683322.nxml.gz-11" type="identity">
+         <class id="demonstrated"/>
+         <span end="230" id="PMC4683322.nxml.gz-12" start="218">demonstrated</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC4683322.nxml.gz-13" type="identity">
+         <class id="has_been"/>
+         <span end="1186" id="PMC4683322.nxml.gz-14" start="1178">has been</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC4683322.nxml.gz-15" type="identity">
+         <class id="identified"/>
+         <span end="1197" id="PMC4683322.nxml.gz-16" start="1187">identified</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC4683322.nxml.gz-17" type="identity">
+         <class id="could_be"/>
+         <span end="1954" id="PMC4683322.nxml.gz-18" start="1946">could be</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC4683322.nxml.gz-19" type="identity">
+         <class id="show"/>
+         <span end="2016" id="PMC4683322.nxml.gz-20" start="2012">show</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC4683322.nxml.gz-21" type="identity">
+         <class id="may_be"/>
+         <span end="2102" id="PMC4683322.nxml.gz-22" start="2096">may be</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC4683322.nxml.gz-23" type="identity">
+         <class id="has_been"/>
+         <span end="2907" id="PMC4683322.nxml.gz-24" start="2899">has been</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC4683322.nxml.gz-25" type="identity">
+         <class id="previously"/>
+         <span end="2918" id="PMC4683322.nxml.gz-26" start="2908">previously</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC4683322.nxml.gz-27" type="identity">
+         <class id="demonstrated"/>
+         <span end="2931" id="PMC4683322.nxml.gz-28" start="2919">demonstrated</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC4683322.nxml.gz-29" type="identity">
+         <class id="has_been"/>
+         <span end="5758" id="PMC4683322.nxml.gz-30" start="5750">has been</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC4683322.nxml.gz-31" type="identity">
+         <class id="identified"/>
+         <span end="5769" id="PMC4683322.nxml.gz-32" start="5759">identified</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC4683322.nxml.gz-33" type="identity">
+         <class id="probable_understanding"/>
+         <span end="2020" id="PMC4683322.nxml.gz-34" start="2017">new</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC4683322.nxml.gz-35" type="identity">
+         <class id="probable_understanding"/>
+         <span end="206" id="PMC4683322.nxml.gz-36" start="198">has been</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC4683322.nxml.gz-37" type="identity">
+         <class id="probable_understanding"/>
+         <span end="217" id="PMC4683322.nxml.gz-38" start="207">previously</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC4683322.nxml.gz-39" type="identity">
+         <class id="probable_understanding"/>
+         <span end="230" id="PMC4683322.nxml.gz-40" start="218">demonstrated</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC4683322.nxml.gz-41" type="identity">
+         <class id="probable_understanding"/>
+         <span end="1186" id="PMC4683322.nxml.gz-42" start="1178">has been</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC4683322.nxml.gz-43" type="identity">
+         <class id="probable_understanding"/>
+         <span end="1197" id="PMC4683322.nxml.gz-44" start="1187">identified</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC4683322.nxml.gz-45" type="identity">
+         <class id="probable_understanding"/>
+         <span end="1954" id="PMC4683322.nxml.gz-46" start="1946">could be</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC4683322.nxml.gz-47" type="identity">
+         <class id="probable_understanding"/>
+         <span end="2016" id="PMC4683322.nxml.gz-48" start="2012">show</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC4683322.nxml.gz-49" type="identity">
+         <class id="probable_understanding"/>
+         <span end="2102" id="PMC4683322.nxml.gz-50" start="2096">may be</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC4683322.nxml.gz-51" type="identity">
+         <class id="probable_understanding"/>
+         <span end="2907" id="PMC4683322.nxml.gz-52" start="2899">has been</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC4683322.nxml.gz-53" type="identity">
+         <class id="probable_understanding"/>
+         <span end="2918" id="PMC4683322.nxml.gz-54" start="2908">previously</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC4683322.nxml.gz-55" type="identity">
+         <class id="probable_understanding"/>
+         <span end="2931" id="PMC4683322.nxml.gz-56" start="2919">demonstrated</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC4683322.nxml.gz-57" type="identity">
+         <class id="probable_understanding"/>
+         <span end="5758" id="PMC4683322.nxml.gz-58" start="5750">has been</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC4683322.nxml.gz-59" type="identity">
+         <class id="probable_understanding"/>
+         <span end="5769" id="PMC4683322.nxml.gz-60" start="5759">identified</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC4683322.nxml.gz-61" type="identity">
+         <class id="superficial_relationship"/>
+         <span end="2020" id="PMC4683322.nxml.gz-62" start="2017">new</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC4683322.nxml.gz-63" type="identity">
+         <class id="superficial_relationship"/>
+         <span end="206" id="PMC4683322.nxml.gz-64" start="198">has been</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC4683322.nxml.gz-65" type="identity">
+         <class id="superficial_relationship"/>
+         <span end="217" id="PMC4683322.nxml.gz-66" start="207">previously</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC4683322.nxml.gz-67" type="identity">
+         <class id="superficial_relationship"/>
+         <span end="230" id="PMC4683322.nxml.gz-68" start="218">demonstrated</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC4683322.nxml.gz-69" type="identity">
+         <class id="superficial_relationship"/>
+         <span end="1186" id="PMC4683322.nxml.gz-70" start="1178">has been</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC4683322.nxml.gz-71" type="identity">
+         <class id="superficial_relationship"/>
+         <span end="1197" id="PMC4683322.nxml.gz-72" start="1187">identified</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC4683322.nxml.gz-73" type="identity">
+         <class id="superficial_relationship"/>
+         <span end="1954" id="PMC4683322.nxml.gz-74" start="1946">could be</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC4683322.nxml.gz-75" type="identity">
+         <class id="superficial_relationship"/>
+         <span end="2016" id="PMC4683322.nxml.gz-76" start="2012">show</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC4683322.nxml.gz-77" type="identity">
+         <class id="superficial_relationship"/>
+         <span end="2102" id="PMC4683322.nxml.gz-78" start="2096">may be</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC4683322.nxml.gz-79" type="identity">
+         <class id="superficial_relationship"/>
+         <span end="2907" id="PMC4683322.nxml.gz-80" start="2899">has been</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC4683322.nxml.gz-81" type="identity">
+         <class id="superficial_relationship"/>
+         <span end="2918" id="PMC4683322.nxml.gz-82" start="2908">previously</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC4683322.nxml.gz-83" type="identity">
+         <class id="superficial_relationship"/>
+         <span end="2931" id="PMC4683322.nxml.gz-84" start="2919">demonstrated</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC4683322.nxml.gz-85" type="identity">
+         <class id="superficial_relationship"/>
+         <span end="5758" id="PMC4683322.nxml.gz-86" start="5750">has been</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC4683322.nxml.gz-87" type="identity">
+         <class id="superficial_relationship"/>
+         <span end="5769" id="PMC4683322.nxml.gz-88" start="5759">identified</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC4683322.nxml.gz-89" type="identity">
+         <class id="superficial_relationship"/>
+         <span end="3342" id="PMC4683322.nxml.gz-90" start="3333">predicted</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC4683322.nxml.gz-91" type="identity">
+         <class id="future_work"/>
+         <span end="2020" id="PMC4683322.nxml.gz-92" start="2017">new</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC4683322.nxml.gz-93" type="identity">
+         <class id="future_work"/>
+         <span end="206" id="PMC4683322.nxml.gz-94" start="198">has been</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC4683322.nxml.gz-95" type="identity">
+         <class id="future_work"/>
+         <span end="217" id="PMC4683322.nxml.gz-96" start="207">previously</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC4683322.nxml.gz-97" type="identity">
+         <class id="future_work"/>
+         <span end="230" id="PMC4683322.nxml.gz-98" start="218">demonstrated</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC4683322.nxml.gz-99" type="identity">
+         <class id="future_work"/>
+         <span end="1186" id="PMC4683322.nxml.gz-100" start="1178">has been</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC4683322.nxml.gz-101" type="identity">
+         <class id="future_work"/>
+         <span end="1197" id="PMC4683322.nxml.gz-102" start="1187">identified</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC4683322.nxml.gz-103" type="identity">
+         <class id="future_work"/>
+         <span end="1954" id="PMC4683322.nxml.gz-104" start="1946">could be</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC4683322.nxml.gz-105" type="identity">
+         <class id="future_work"/>
+         <span end="2016" id="PMC4683322.nxml.gz-106" start="2012">show</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC4683322.nxml.gz-107" type="identity">
+         <class id="future_work"/>
+         <span end="2102" id="PMC4683322.nxml.gz-108" start="2096">may be</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC4683322.nxml.gz-109" type="identity">
+         <class id="future_work"/>
+         <span end="2907" id="PMC4683322.nxml.gz-110" start="2899">has been</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC4683322.nxml.gz-111" type="identity">
+         <class id="future_work"/>
+         <span end="2918" id="PMC4683322.nxml.gz-112" start="2908">previously</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC4683322.nxml.gz-113" type="identity">
+         <class id="future_work"/>
+         <span end="2931" id="PMC4683322.nxml.gz-114" start="2919">demonstrated</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC4683322.nxml.gz-115" type="identity">
+         <class id="future_work"/>
+         <span end="5758" id="PMC4683322.nxml.gz-116" start="5750">has been</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC4683322.nxml.gz-117" type="identity">
+         <class id="future_work"/>
+         <span end="5769" id="PMC4683322.nxml.gz-118" start="5759">identified</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC4683322.nxml.gz-119" type="identity">
+         <class id="future_work"/>
+         <span end="3342" id="PMC4683322.nxml.gz-120" start="3333">predicted</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC4683322.nxml.gz-121" type="identity">
+         <class id="future_prediction"/>
+         <span end="2020" id="PMC4683322.nxml.gz-122" start="2017">new</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC4683322.nxml.gz-123" type="identity">
+         <class id="future_prediction"/>
+         <span end="206" id="PMC4683322.nxml.gz-124" start="198">has been</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC4683322.nxml.gz-125" type="identity">
+         <class id="future_prediction"/>
+         <span end="217" id="PMC4683322.nxml.gz-126" start="207">previously</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC4683322.nxml.gz-127" type="identity">
+         <class id="future_prediction"/>
+         <span end="230" id="PMC4683322.nxml.gz-128" start="218">demonstrated</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC4683322.nxml.gz-129" type="identity">
+         <class id="future_prediction"/>
+         <span end="1186" id="PMC4683322.nxml.gz-130" start="1178">has been</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC4683322.nxml.gz-131" type="identity">
+         <class id="future_prediction"/>
+         <span end="1197" id="PMC4683322.nxml.gz-132" start="1187">identified</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC4683322.nxml.gz-133" type="identity">
+         <class id="future_prediction"/>
+         <span end="1954" id="PMC4683322.nxml.gz-134" start="1946">could be</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC4683322.nxml.gz-135" type="identity">
+         <class id="future_prediction"/>
+         <span end="2016" id="PMC4683322.nxml.gz-136" start="2012">show</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC4683322.nxml.gz-137" type="identity">
+         <class id="future_prediction"/>
+         <span end="2102" id="PMC4683322.nxml.gz-138" start="2096">may be</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC4683322.nxml.gz-139" type="identity">
+         <class id="future_prediction"/>
+         <span end="2907" id="PMC4683322.nxml.gz-140" start="2899">has been</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC4683322.nxml.gz-141" type="identity">
+         <class id="future_prediction"/>
+         <span end="2918" id="PMC4683322.nxml.gz-142" start="2908">previously</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC4683322.nxml.gz-143" type="identity">
+         <class id="future_prediction"/>
+         <span end="2931" id="PMC4683322.nxml.gz-144" start="2919">demonstrated</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC4683322.nxml.gz-145" type="identity">
+         <class id="future_prediction"/>
+         <span end="5758" id="PMC4683322.nxml.gz-146" start="5750">has been</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC4683322.nxml.gz-147" type="identity">
+         <class id="future_prediction"/>
+         <span end="5769" id="PMC4683322.nxml.gz-148" start="5759">identified</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC4683322.nxml.gz-149" type="identity">
+         <class id="predicted"/>
+         <span end="3342" id="PMC4683322.nxml.gz-150" start="3333">predicted</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC4683322.nxml.gz-151" type="identity">
+         <class id="important_consideration"/>
+         <span end="2020" id="PMC4683322.nxml.gz-152" start="2017">new</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC4683322.nxml.gz-153" type="identity">
+         <class id="important_consideration"/>
+         <span end="206" id="PMC4683322.nxml.gz-154" start="198">has been</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC4683322.nxml.gz-155" type="identity">
+         <class id="important_consideration"/>
+         <span end="217" id="PMC4683322.nxml.gz-156" start="207">previously</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC4683322.nxml.gz-157" type="identity">
+         <class id="important_consideration"/>
+         <span end="230" id="PMC4683322.nxml.gz-158" start="218">demonstrated</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC4683322.nxml.gz-159" type="identity">
+         <class id="important_consideration"/>
+         <span end="1186" id="PMC4683322.nxml.gz-160" start="1178">has been</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC4683322.nxml.gz-161" type="identity">
+         <class id="important_consideration"/>
+         <span end="1197" id="PMC4683322.nxml.gz-162" start="1187">identified</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC4683322.nxml.gz-163" type="identity">
+         <class id="important_consideration"/>
+         <span end="1954" id="PMC4683322.nxml.gz-164" start="1946">could be</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC4683322.nxml.gz-165" type="identity">
+         <class id="important_consideration"/>
+         <span end="2016" id="PMC4683322.nxml.gz-166" start="2012">show</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC4683322.nxml.gz-167" type="identity">
+         <class id="important_consideration"/>
+         <span end="2102" id="PMC4683322.nxml.gz-168" start="2096">may be</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC4683322.nxml.gz-169" type="identity">
+         <class id="important_consideration"/>
+         <span end="2907" id="PMC4683322.nxml.gz-170" start="2899">has been</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC4683322.nxml.gz-171" type="identity">
+         <class id="important_consideration"/>
+         <span end="2918" id="PMC4683322.nxml.gz-172" start="2908">previously</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC4683322.nxml.gz-173" type="identity">
+         <class id="important_consideration"/>
+         <span end="2931" id="PMC4683322.nxml.gz-174" start="2919">demonstrated</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC4683322.nxml.gz-175" type="identity">
+         <class id="important_consideration"/>
+         <span end="5758" id="PMC4683322.nxml.gz-176" start="5750">has been</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC4683322.nxml.gz-177" type="identity">
+         <class id="important_consideration"/>
+         <span end="5769" id="PMC4683322.nxml.gz-178" start="5759">identified</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC4683322.nxml.gz-179" type="identity">
+         <class id="important_consideration"/>
+         <span end="3342" id="PMC4683322.nxml.gz-180" start="3333">predicted</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC4683322.nxml.gz-181" type="identity">
+         <class id="important"/>
+         <span end="243" id="PMC4683322.nxml.gz-182" start="234">important</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC4683322.nxml.gz-183" type="identity">
+         <class id="important"/>
+         <span end="2944" id="PMC4683322.nxml.gz-184" start="2935">important</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC4683322.nxml.gz-185" type="identity">
+         <class id="anomaly_curious_finding"/>
+         <span end="2020" id="PMC4683322.nxml.gz-186" start="2017">new</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC4683322.nxml.gz-187" type="identity">
+         <class id="anomaly_curious_finding"/>
+         <span end="206" id="PMC4683322.nxml.gz-188" start="198">has been</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC4683322.nxml.gz-189" type="identity">
+         <class id="anomaly_curious_finding"/>
+         <span end="217" id="PMC4683322.nxml.gz-190" start="207">previously</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC4683322.nxml.gz-191" type="identity">
+         <class id="anomaly_curious_finding"/>
+         <span end="230" id="PMC4683322.nxml.gz-192" start="218">demonstrated</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC4683322.nxml.gz-193" type="identity">
+         <class id="anomaly_curious_finding"/>
+         <span end="1186" id="PMC4683322.nxml.gz-194" start="1178">has been</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC4683322.nxml.gz-195" type="identity">
+         <class id="anomaly_curious_finding"/>
+         <span end="1197" id="PMC4683322.nxml.gz-196" start="1187">identified</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC4683322.nxml.gz-197" type="identity">
+         <class id="anomaly_curious_finding"/>
+         <span end="1954" id="PMC4683322.nxml.gz-198" start="1946">could be</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC4683322.nxml.gz-199" type="identity">
+         <class id="anomaly_curious_finding"/>
+         <span end="2016" id="PMC4683322.nxml.gz-200" start="2012">show</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC4683322.nxml.gz-201" type="identity">
+         <class id="anomaly_curious_finding"/>
+         <span end="2102" id="PMC4683322.nxml.gz-202" start="2096">may be</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC4683322.nxml.gz-203" type="identity">
+         <class id="anomaly_curious_finding"/>
+         <span end="2907" id="PMC4683322.nxml.gz-204" start="2899">has been</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC4683322.nxml.gz-205" type="identity">
+         <class id="anomaly_curious_finding"/>
+         <span end="2918" id="PMC4683322.nxml.gz-206" start="2908">previously</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC4683322.nxml.gz-207" type="identity">
+         <class id="anomaly_curious_finding"/>
+         <span end="2931" id="PMC4683322.nxml.gz-208" start="2919">demonstrated</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC4683322.nxml.gz-209" type="identity">
+         <class id="anomaly_curious_finding"/>
+         <span end="5758" id="PMC4683322.nxml.gz-210" start="5750">has been</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC4683322.nxml.gz-211" type="identity">
+         <class id="anomaly_curious_finding"/>
+         <span end="5769" id="PMC4683322.nxml.gz-212" start="5759">identified</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC4683322.nxml.gz-213" type="identity">
+         <class id="anomaly_curious_finding"/>
+         <span end="3342" id="PMC4683322.nxml.gz-214" start="3333">predicted</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC4683322.nxml.gz-215" type="identity">
+         <class id="anomaly_curious_finding"/>
+         <span end="243" id="PMC4683322.nxml.gz-216" start="234">important</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC4683322.nxml.gz-217" type="identity">
+         <class id="anomaly_curious_finding"/>
+         <span end="2944" id="PMC4683322.nxml.gz-218" start="2935">important</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC4683322.nxml.gz-219" type="identity">
+         <class id="alternative_options_controversy"/>
+         <span end="2020" id="PMC4683322.nxml.gz-220" start="2017">new</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC4683322.nxml.gz-221" type="identity">
+         <class id="alternative_options_controversy"/>
+         <span end="206" id="PMC4683322.nxml.gz-222" start="198">has been</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC4683322.nxml.gz-223" type="identity">
+         <class id="alternative_options_controversy"/>
+         <span end="217" id="PMC4683322.nxml.gz-224" start="207">previously</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC4683322.nxml.gz-225" type="identity">
+         <class id="alternative_options_controversy"/>
+         <span end="230" id="PMC4683322.nxml.gz-226" start="218">demonstrated</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC4683322.nxml.gz-227" type="identity">
+         <class id="alternative_options_controversy"/>
+         <span end="1186" id="PMC4683322.nxml.gz-228" start="1178">has been</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC4683322.nxml.gz-229" type="identity">
+         <class id="alternative_options_controversy"/>
+         <span end="1197" id="PMC4683322.nxml.gz-230" start="1187">identified</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC4683322.nxml.gz-231" type="identity">
+         <class id="alternative_options_controversy"/>
+         <span end="1954" id="PMC4683322.nxml.gz-232" start="1946">could be</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC4683322.nxml.gz-233" type="identity">
+         <class id="alternative_options_controversy"/>
+         <span end="2016" id="PMC4683322.nxml.gz-234" start="2012">show</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC4683322.nxml.gz-235" type="identity">
+         <class id="alternative_options_controversy"/>
+         <span end="2102" id="PMC4683322.nxml.gz-236" start="2096">may be</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC4683322.nxml.gz-237" type="identity">
+         <class id="alternative_options_controversy"/>
+         <span end="2907" id="PMC4683322.nxml.gz-238" start="2899">has been</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC4683322.nxml.gz-239" type="identity">
+         <class id="alternative_options_controversy"/>
+         <span end="2918" id="PMC4683322.nxml.gz-240" start="2908">previously</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC4683322.nxml.gz-241" type="identity">
+         <class id="alternative_options_controversy"/>
+         <span end="2931" id="PMC4683322.nxml.gz-242" start="2919">demonstrated</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC4683322.nxml.gz-243" type="identity">
+         <class id="alternative_options_controversy"/>
+         <span end="5758" id="PMC4683322.nxml.gz-244" start="5750">has been</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC4683322.nxml.gz-245" type="identity">
+         <class id="alternative_options_controversy"/>
+         <span end="5769" id="PMC4683322.nxml.gz-246" start="5759">identified</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC4683322.nxml.gz-247" type="identity">
+         <class id="alternative_options_controversy"/>
+         <span end="3342" id="PMC4683322.nxml.gz-248" start="3333">predicted</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC4683322.nxml.gz-249" type="identity">
+         <class id="alternative_options_controversy"/>
+         <span end="243" id="PMC4683322.nxml.gz-250" start="234">important</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC4683322.nxml.gz-251" type="identity">
+         <class id="alternative_options_controversy"/>
+         <span end="2944" id="PMC4683322.nxml.gz-252" start="2935">important</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC4683322.nxml.gz-253" type="identity">
+         <class id="difficult_task"/>
+         <span end="2020" id="PMC4683322.nxml.gz-254" start="2017">new</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC4683322.nxml.gz-255" type="identity">
+         <class id="difficult_task"/>
+         <span end="206" id="PMC4683322.nxml.gz-256" start="198">has been</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC4683322.nxml.gz-257" type="identity">
+         <class id="difficult_task"/>
+         <span end="217" id="PMC4683322.nxml.gz-258" start="207">previously</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC4683322.nxml.gz-259" type="identity">
+         <class id="difficult_task"/>
+         <span end="230" id="PMC4683322.nxml.gz-260" start="218">demonstrated</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC4683322.nxml.gz-261" type="identity">
+         <class id="difficult_task"/>
+         <span end="1186" id="PMC4683322.nxml.gz-262" start="1178">has been</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC4683322.nxml.gz-263" type="identity">
+         <class id="difficult_task"/>
+         <span end="1197" id="PMC4683322.nxml.gz-264" start="1187">identified</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC4683322.nxml.gz-265" type="identity">
+         <class id="difficult_task"/>
+         <span end="1954" id="PMC4683322.nxml.gz-266" start="1946">could be</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC4683322.nxml.gz-267" type="identity">
+         <class id="difficult_task"/>
+         <span end="2016" id="PMC4683322.nxml.gz-268" start="2012">show</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC4683322.nxml.gz-269" type="identity">
+         <class id="difficult_task"/>
+         <span end="2102" id="PMC4683322.nxml.gz-270" start="2096">may be</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC4683322.nxml.gz-271" type="identity">
+         <class id="difficult_task"/>
+         <span end="2907" id="PMC4683322.nxml.gz-272" start="2899">has been</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC4683322.nxml.gz-273" type="identity">
+         <class id="difficult_task"/>
+         <span end="2918" id="PMC4683322.nxml.gz-274" start="2908">previously</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC4683322.nxml.gz-275" type="identity">
+         <class id="difficult_task"/>
+         <span end="2931" id="PMC4683322.nxml.gz-276" start="2919">demonstrated</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC4683322.nxml.gz-277" type="identity">
+         <class id="difficult_task"/>
+         <span end="5758" id="PMC4683322.nxml.gz-278" start="5750">has been</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC4683322.nxml.gz-279" type="identity">
+         <class id="difficult_task"/>
+         <span end="5769" id="PMC4683322.nxml.gz-280" start="5759">identified</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC4683322.nxml.gz-281" type="identity">
+         <class id="difficult_task"/>
+         <span end="3342" id="PMC4683322.nxml.gz-282" start="3333">predicted</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC4683322.nxml.gz-283" type="identity">
+         <class id="difficult_task"/>
+         <span end="243" id="PMC4683322.nxml.gz-284" start="234">important</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC4683322.nxml.gz-285" type="identity">
+         <class id="difficult_task"/>
+         <span end="2944" id="PMC4683322.nxml.gz-286" start="2935">important</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC4683322.nxml.gz-287" type="identity">
+         <class id="problem_complication"/>
+         <span end="2020" id="PMC4683322.nxml.gz-288" start="2017">new</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC4683322.nxml.gz-289" type="identity">
+         <class id="problem_complication"/>
+         <span end="206" id="PMC4683322.nxml.gz-290" start="198">has been</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC4683322.nxml.gz-291" type="identity">
+         <class id="problem_complication"/>
+         <span end="217" id="PMC4683322.nxml.gz-292" start="207">previously</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC4683322.nxml.gz-293" type="identity">
+         <class id="problem_complication"/>
+         <span end="230" id="PMC4683322.nxml.gz-294" start="218">demonstrated</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC4683322.nxml.gz-295" type="identity">
+         <class id="problem_complication"/>
+         <span end="1186" id="PMC4683322.nxml.gz-296" start="1178">has been</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC4683322.nxml.gz-297" type="identity">
+         <class id="problem_complication"/>
+         <span end="1197" id="PMC4683322.nxml.gz-298" start="1187">identified</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC4683322.nxml.gz-299" type="identity">
+         <class id="problem_complication"/>
+         <span end="1954" id="PMC4683322.nxml.gz-300" start="1946">could be</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC4683322.nxml.gz-301" type="identity">
+         <class id="problem_complication"/>
+         <span end="2016" id="PMC4683322.nxml.gz-302" start="2012">show</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC4683322.nxml.gz-303" type="identity">
+         <class id="problem_complication"/>
+         <span end="2102" id="PMC4683322.nxml.gz-304" start="2096">may be</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC4683322.nxml.gz-305" type="identity">
+         <class id="problem_complication"/>
+         <span end="2907" id="PMC4683322.nxml.gz-306" start="2899">has been</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC4683322.nxml.gz-307" type="identity">
+         <class id="problem_complication"/>
+         <span end="2918" id="PMC4683322.nxml.gz-308" start="2908">previously</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC4683322.nxml.gz-309" type="identity">
+         <class id="problem_complication"/>
+         <span end="2931" id="PMC4683322.nxml.gz-310" start="2919">demonstrated</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC4683322.nxml.gz-311" type="identity">
+         <class id="problem_complication"/>
+         <span end="5758" id="PMC4683322.nxml.gz-312" start="5750">has been</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC4683322.nxml.gz-313" type="identity">
+         <class id="problem_complication"/>
+         <span end="5769" id="PMC4683322.nxml.gz-314" start="5759">identified</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC4683322.nxml.gz-315" type="identity">
+         <class id="problem_complication"/>
+         <span end="3342" id="PMC4683322.nxml.gz-316" start="3333">predicted</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC4683322.nxml.gz-317" type="identity">
+         <class id="problem_complication"/>
+         <span end="243" id="PMC4683322.nxml.gz-318" start="234">important</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC4683322.nxml.gz-319" type="identity">
+         <class id="problem_complication"/>
+         <span end="2944" id="PMC4683322.nxml.gz-320" start="2935">important</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC4683322.nxml.gz-321" type="identity">
+         <class id="question_answered_by_this_work"/>
+         <span end="2020" id="PMC4683322.nxml.gz-322" start="2017">new</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC4683322.nxml.gz-323" type="identity">
+         <class id="question_answered_by_this_work"/>
+         <span end="206" id="PMC4683322.nxml.gz-324" start="198">has been</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC4683322.nxml.gz-325" type="identity">
+         <class id="question_answered_by_this_work"/>
+         <span end="217" id="PMC4683322.nxml.gz-326" start="207">previously</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC4683322.nxml.gz-327" type="identity">
+         <class id="question_answered_by_this_work"/>
+         <span end="230" id="PMC4683322.nxml.gz-328" start="218">demonstrated</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC4683322.nxml.gz-329" type="identity">
+         <class id="question_answered_by_this_work"/>
+         <span end="1186" id="PMC4683322.nxml.gz-330" start="1178">has been</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC4683322.nxml.gz-331" type="identity">
+         <class id="question_answered_by_this_work"/>
+         <span end="1197" id="PMC4683322.nxml.gz-332" start="1187">identified</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC4683322.nxml.gz-333" type="identity">
+         <class id="question_answered_by_this_work"/>
+         <span end="1954" id="PMC4683322.nxml.gz-334" start="1946">could be</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC4683322.nxml.gz-335" type="identity">
+         <class id="question_answered_by_this_work"/>
+         <span end="2016" id="PMC4683322.nxml.gz-336" start="2012">show</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC4683322.nxml.gz-337" type="identity">
+         <class id="question_answered_by_this_work"/>
+         <span end="2102" id="PMC4683322.nxml.gz-338" start="2096">may be</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC4683322.nxml.gz-339" type="identity">
+         <class id="question_answered_by_this_work"/>
+         <span end="2907" id="PMC4683322.nxml.gz-340" start="2899">has been</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC4683322.nxml.gz-341" type="identity">
+         <class id="question_answered_by_this_work"/>
+         <span end="2918" id="PMC4683322.nxml.gz-342" start="2908">previously</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC4683322.nxml.gz-343" type="identity">
+         <class id="question_answered_by_this_work"/>
+         <span end="2931" id="PMC4683322.nxml.gz-344" start="2919">demonstrated</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC4683322.nxml.gz-345" type="identity">
+         <class id="question_answered_by_this_work"/>
+         <span end="5758" id="PMC4683322.nxml.gz-346" start="5750">has been</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC4683322.nxml.gz-347" type="identity">
+         <class id="question_answered_by_this_work"/>
+         <span end="5769" id="PMC4683322.nxml.gz-348" start="5759">identified</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC4683322.nxml.gz-349" type="identity">
+         <class id="question_answered_by_this_work"/>
+         <span end="3342" id="PMC4683322.nxml.gz-350" start="3333">predicted</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC4683322.nxml.gz-351" type="identity">
+         <class id="question_answered_by_this_work"/>
+         <span end="243" id="PMC4683322.nxml.gz-352" start="234">important</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC4683322.nxml.gz-353" type="identity">
+         <class id="question_answered_by_this_work"/>
+         <span end="2944" id="PMC4683322.nxml.gz-354" start="2935">important</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC4683322.nxml.gz-355" type="identity">
+         <class id="here"/>
+         <span end="573" id="PMC4683322.nxml.gz-356" start="569">Here</span>
+      </annotation>
+   </document>
+</knowtator-project>

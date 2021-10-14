@@ -1,0 +1,337 @@
+T0	incomplete_evidence 3282 3290	has been
+T1	incomplete_evidence 3291 3299	proposed
+T2	incomplete_evidence 3538 3546	revealed
+T3	incomplete_evidence 3779 3788	concluded
+T4	incomplete_evidence 4534 4538	some
+T5	probable_understanding 3282 3290	has been
+T6	probable_understanding 3291 3299	proposed
+T7	probable_understanding 3538 3546	revealed
+T8	probable_understanding 3779 3788	concluded
+T9	probable_understanding 4534 4538	some
+T10	superficial_relationship 3282 3290	has been
+T11	superficial_relationship 3291 3299	proposed
+T12	superficial_relationship 3538 3546	revealed
+T13	superficial_relationship 3779 3788	concluded
+T14	superficial_relationship 4534 4538	some
+T15	superficial_relationship 1975 1981	impact
+T16	superficial_relationship 3560 3566	impact
+T17	superficial_relationship 3717 3723	impact
+T18	superficial_relationship 4683 4690	related
+T19	superficial_relationship 5428 5435	related
+T20	future_work 3282 3290	has been
+T21	future_work 3291 3299	proposed
+T22	future_work 3538 3546	revealed
+T23	future_work 3779 3788	concluded
+T24	future_work 4534 4538	some
+T25	future_work 1975 1981	impact
+T26	future_work 3560 3566	impact
+T27	future_work 3717 3723	impact
+T28	future_work 4683 4690	related
+T29	future_work 5428 5435	related
+T30	future_work 4664 4675	recommended
+T31	future_work 4730 4738	strategy
+T32	future_prediction 3282 3290	has been
+T33	future_prediction 3291 3299	proposed
+T34	future_prediction 3538 3546	revealed
+T35	future_prediction 3779 3788	concluded
+T36	future_prediction 4534 4538	some
+T37	future_prediction 1975 1981	impact
+T38	future_prediction 3560 3566	impact
+T39	future_prediction 3717 3723	impact
+T40	future_prediction 4683 4690	related
+T41	future_prediction 5428 5435	related
+T42	future_prediction 4664 4675	recommended
+T43	future_prediction 4730 4738	strategy
+T44	important_consideration 3282 3290	has been
+T45	important_consideration 3291 3299	proposed
+T46	important_consideration 3538 3546	revealed
+T47	important_consideration 3779 3788	concluded
+T48	important_consideration 4534 4538	some
+T49	important_consideration 1975 1981	impact
+T50	important_consideration 3560 3566	impact
+T51	important_consideration 3717 3723	impact
+T52	important_consideration 4683 4690	related
+T53	important_consideration 5428 5435	related
+T54	important_consideration 4664 4675	recommended
+T55	important_consideration 4730 4738	strategy
+T56	important_consideration 1323 1328	needs
+T57	important_consideration 2543 2552	concerned
+T58	important_consideration 2661 2666	still
+T59	anomaly_curious_finding 3282 3290	has been
+T60	anomaly_curious_finding 3291 3299	proposed
+T61	anomaly_curious_finding 3538 3546	revealed
+T62	anomaly_curious_finding 3779 3788	concluded
+T63	anomaly_curious_finding 4534 4538	some
+T64	anomaly_curious_finding 1975 1981	impact
+T65	anomaly_curious_finding 3560 3566	impact
+T66	anomaly_curious_finding 3717 3723	impact
+T67	anomaly_curious_finding 4683 4690	related
+T68	anomaly_curious_finding 5428 5435	related
+T69	anomaly_curious_finding 4664 4675	recommended
+T70	anomaly_curious_finding 4730 4738	strategy
+T71	anomaly_curious_finding 1323 1328	needs
+T72	anomaly_curious_finding 2543 2552	concerned
+T73	anomaly_curious_finding 2661 2666	still
+T74	alternative_options_controversy 3282 3290	has been
+T75	alternative_options_controversy 3291 3299	proposed
+T76	alternative_options_controversy 3538 3546	revealed
+T77	alternative_options_controversy 3779 3788	concluded
+T78	alternative_options_controversy 4534 4538	some
+T79	alternative_options_controversy 1975 1981	impact
+T80	alternative_options_controversy 3560 3566	impact
+T81	alternative_options_controversy 3717 3723	impact
+T82	alternative_options_controversy 4683 4690	related
+T83	alternative_options_controversy 5428 5435	related
+T84	alternative_options_controversy 4664 4675	recommended
+T85	alternative_options_controversy 4730 4738	strategy
+T86	alternative_options_controversy 1323 1328	needs
+T87	alternative_options_controversy 2543 2552	concerned
+T88	alternative_options_controversy 2661 2666	still
+T89	difficult_task 3282 3290	has been
+T90	difficult_task 3291 3299	proposed
+T91	difficult_task 3538 3546	revealed
+T92	difficult_task 3779 3788	concluded
+T93	difficult_task 4534 4538	some
+T94	difficult_task 1975 1981	impact
+T95	difficult_task 3560 3566	impact
+T96	difficult_task 3717 3723	impact
+T97	difficult_task 4683 4690	related
+T98	difficult_task 5428 5435	related
+T99	difficult_task 4664 4675	recommended
+T100	difficult_task 4730 4738	strategy
+T101	difficult_task 1323 1328	needs
+T102	difficult_task 2543 2552	concerned
+T103	difficult_task 2661 2666	still
+T104	problem_complication 3282 3290	has been
+T105	problem_complication 3291 3299	proposed
+T106	problem_complication 3538 3546	revealed
+T107	problem_complication 3779 3788	concluded
+T108	problem_complication 4534 4538	some
+T109	problem_complication 1975 1981	impact
+T110	problem_complication 3560 3566	impact
+T111	problem_complication 3717 3723	impact
+T112	problem_complication 4683 4690	related
+T113	problem_complication 5428 5435	related
+T114	problem_complication 4664 4675	recommended
+T115	problem_complication 4730 4738	strategy
+T116	problem_complication 1323 1328	needs
+T117	problem_complication 2543 2552	concerned
+T118	problem_complication 2661 2666	still
+T119	question_answered_by_this_work 3282 3290	has been
+T120	question_answered_by_this_work 3291 3299	proposed
+T121	question_answered_by_this_work 3538 3546	revealed
+T122	question_answered_by_this_work 3779 3788	concluded
+T123	question_answered_by_this_work 4534 4538	some
+T124	question_answered_by_this_work 1975 1981	impact
+T125	question_answered_by_this_work 3560 3566	impact
+T126	question_answered_by_this_work 3717 3723	impact
+T127	question_answered_by_this_work 4683 4690	related
+T128	question_answered_by_this_work 5428 5435	related
+T129	question_answered_by_this_work 4664 4675	recommended
+T130	question_answered_by_this_work 4730 4738	strategy
+T131	question_answered_by_this_work 1323 1328	needs
+T132	question_answered_by_this_work 2543 2552	concerned
+T133	question_answered_by_this_work 2661 2666	still
+T134	question_answered_by_this_work 1907 1916	rationale
+T135	incomplete_evidence 3282 3290	has been
+T136	incomplete_evidence 3291 3299	proposed
+T137	incomplete_evidence 3518 3526	Findings
+T138	incomplete_evidence 3538 3546	revealed
+T139	incomplete_evidence 3649 3662	another study
+T140	incomplete_evidence 3779 3788	concluded
+T141	probable_understanding 3282 3290	has been
+T142	probable_understanding 3291 3299	proposed
+T143	probable_understanding 3518 3526	Findings
+T144	probable_understanding 3538 3546	revealed
+T145	probable_understanding 3649 3662	another study
+T146	probable_understanding 3779 3788	concluded
+T147	probable_understanding 1907 1916	rationale
+T148	probable_understanding 3829 3839	definitely
+T149	probable_understanding 5383 5388	...about
+T150	superficial_relationship 3282 3290	has been
+T151	superficial_relationship 3291 3299	proposed
+T152	superficial_relationship 3518 3526	Findings
+T153	superficial_relationship 3538 3546	revealed
+T154	superficial_relationship 3649 3662	another study
+T155	superficial_relationship 3779 3788	concluded
+T156	superficial_relationship 1907 1916	rationale
+T157	superficial_relationship 3829 3839	definitely
+T158	superficial_relationship 5383 5388	...about
+T159	superficial_relationship 634 642	reflects
+T160	superficial_relationship 717 726	effective
+T161	superficial_relationship 1975 1981	impact
+T162	superficial_relationship 3560 3566	impact
+T163	superficial_relationship 3717 3723	impact
+T164	future_work 3282 3290	has been
+T165	future_work 3291 3299	proposed
+T166	future_work 3518 3526	Findings
+T167	future_work 3538 3546	revealed
+T168	future_work 3649 3662	another study
+T169	future_work 3779 3788	concluded
+T170	future_work 1907 1916	rationale
+T171	future_work 3829 3839	definitely
+T172	future_work 5383 5388	...about
+T173	future_work 634 642	reflects
+T174	future_work 717 726	effective
+T175	future_work 1975 1981	impact
+T176	future_work 3560 3566	impact
+T177	future_work 3717 3723	impact
+T178	future_work 727 735	strategy
+T179	future_work 4664 4675	recommended
+T180	future_work 4730 4738	strategy
+T181	future_work 4997 5005	planning
+T182	future_prediction 3282 3290	has been
+T183	future_prediction 3291 3299	proposed
+T184	future_prediction 3518 3526	Findings
+T185	future_prediction 3538 3546	revealed
+T186	future_prediction 3649 3662	another study
+T187	future_prediction 3779 3788	concluded
+T188	future_prediction 1907 1916	rationale
+T189	future_prediction 3829 3839	definitely
+T190	future_prediction 5383 5388	...about
+T191	future_prediction 634 642	reflects
+T192	future_prediction 717 726	effective
+T193	future_prediction 1975 1981	impact
+T194	future_prediction 3560 3566	impact
+T195	future_prediction 3717 3723	impact
+T196	future_prediction 727 735	strategy
+T197	future_prediction 4664 4675	recommended
+T198	future_prediction 4730 4738	strategy
+T199	future_prediction 4997 5005	planning
+T200	important_consideration 3282 3290	has been
+T201	important_consideration 3291 3299	proposed
+T202	important_consideration 3518 3526	Findings
+T203	important_consideration 3538 3546	revealed
+T204	important_consideration 3649 3662	another study
+T205	important_consideration 3779 3788	concluded
+T206	important_consideration 1907 1916	rationale
+T207	important_consideration 3829 3839	definitely
+T208	important_consideration 5383 5388	...about
+T209	important_consideration 634 642	reflects
+T210	important_consideration 717 726	effective
+T211	important_consideration 1975 1981	impact
+T212	important_consideration 3560 3566	impact
+T213	important_consideration 3717 3723	impact
+T214	important_consideration 727 735	strategy
+T215	important_consideration 4664 4675	recommended
+T216	important_consideration 4730 4738	strategy
+T217	important_consideration 4997 5005	planning
+T218	important_consideration 657 667	obligation
+T219	important_consideration 2543 2552	concerned
+T220	important_consideration 2661 2666	still
+T221	important_consideration 3902 3909	mission
+T222	anomaly_curious_finding 3282 3290	has been
+T223	anomaly_curious_finding 3291 3299	proposed
+T224	anomaly_curious_finding 3518 3526	Findings
+T225	anomaly_curious_finding 3538 3546	revealed
+T226	anomaly_curious_finding 3649 3662	another study
+T227	anomaly_curious_finding 3779 3788	concluded
+T228	anomaly_curious_finding 1907 1916	rationale
+T229	anomaly_curious_finding 3829 3839	definitely
+T230	anomaly_curious_finding 5383 5388	...about
+T231	anomaly_curious_finding 634 642	reflects
+T232	anomaly_curious_finding 717 726	effective
+T233	anomaly_curious_finding 1975 1981	impact
+T234	anomaly_curious_finding 3560 3566	impact
+T235	anomaly_curious_finding 3717 3723	impact
+T236	anomaly_curious_finding 727 735	strategy
+T237	anomaly_curious_finding 4664 4675	recommended
+T238	anomaly_curious_finding 4730 4738	strategy
+T239	anomaly_curious_finding 4997 5005	planning
+T240	anomaly_curious_finding 657 667	obligation
+T241	anomaly_curious_finding 2543 2552	concerned
+T242	anomaly_curious_finding 2661 2666	still
+T243	anomaly_curious_finding 3902 3909	mission
+T244	alternative_options_controversy 3282 3290	has been
+T245	alternative_options_controversy 3291 3299	proposed
+T246	alternative_options_controversy 3518 3526	Findings
+T247	alternative_options_controversy 3538 3546	revealed
+T248	alternative_options_controversy 3649 3662	another study
+T249	alternative_options_controversy 3779 3788	concluded
+T250	alternative_options_controversy 1907 1916	rationale
+T251	alternative_options_controversy 3829 3839	definitely
+T252	alternative_options_controversy 5383 5388	...about
+T253	alternative_options_controversy 634 642	reflects
+T254	alternative_options_controversy 717 726	effective
+T255	alternative_options_controversy 1975 1981	impact
+T256	alternative_options_controversy 3560 3566	impact
+T257	alternative_options_controversy 3717 3723	impact
+T258	alternative_options_controversy 727 735	strategy
+T259	alternative_options_controversy 4664 4675	recommended
+T260	alternative_options_controversy 4730 4738	strategy
+T261	alternative_options_controversy 4997 5005	planning
+T262	alternative_options_controversy 657 667	obligation
+T263	alternative_options_controversy 2543 2552	concerned
+T264	alternative_options_controversy 2661 2666	still
+T265	alternative_options_controversy 3902 3909	mission
+T266	alternative_options_controversy 3143 3152	Different
+T267	difficult_task 3282 3290	has been
+T268	difficult_task 3291 3299	proposed
+T269	difficult_task 3518 3526	Findings
+T270	difficult_task 3538 3546	revealed
+T271	difficult_task 3649 3662	another study
+T272	difficult_task 3779 3788	concluded
+T273	difficult_task 1907 1916	rationale
+T274	difficult_task 3829 3839	definitely
+T275	difficult_task 5383 5388	...about
+T276	difficult_task 634 642	reflects
+T277	difficult_task 717 726	effective
+T278	difficult_task 1975 1981	impact
+T279	difficult_task 3560 3566	impact
+T280	difficult_task 3717 3723	impact
+T281	difficult_task 727 735	strategy
+T282	difficult_task 4664 4675	recommended
+T283	difficult_task 4730 4738	strategy
+T284	difficult_task 4997 5005	planning
+T285	difficult_task 657 667	obligation
+T286	difficult_task 2543 2552	concerned
+T287	difficult_task 2661 2666	still
+T288	difficult_task 3902 3909	mission
+T289	difficult_task 3143 3152	Different
+T290	problem_complication 3282 3290	has been
+T291	problem_complication 3291 3299	proposed
+T292	problem_complication 3518 3526	Findings
+T293	problem_complication 3538 3546	revealed
+T294	problem_complication 3649 3662	another study
+T295	problem_complication 3779 3788	concluded
+T296	problem_complication 1907 1916	rationale
+T297	problem_complication 3829 3839	definitely
+T298	problem_complication 5383 5388	...about
+T299	problem_complication 634 642	reflects
+T300	problem_complication 717 726	effective
+T301	problem_complication 1975 1981	impact
+T302	problem_complication 3560 3566	impact
+T303	problem_complication 3717 3723	impact
+T304	problem_complication 727 735	strategy
+T305	problem_complication 4664 4675	recommended
+T306	problem_complication 4730 4738	strategy
+T307	problem_complication 4997 5005	planning
+T308	problem_complication 657 667	obligation
+T309	problem_complication 2543 2552	concerned
+T310	problem_complication 2661 2666	still
+T311	problem_complication 3902 3909	mission
+T312	problem_complication 3143 3152	Different
+T313	question_answered_by_this_work 3282 3290	has been
+T314	question_answered_by_this_work 3291 3299	proposed
+T315	question_answered_by_this_work 3518 3526	Findings
+T316	question_answered_by_this_work 3538 3546	revealed
+T317	question_answered_by_this_work 3649 3662	another study
+T318	question_answered_by_this_work 3779 3788	concluded
+T319	question_answered_by_this_work 1907 1916	rationale
+T320	question_answered_by_this_work 3829 3839	definitely
+T321	question_answered_by_this_work 5383 5388	...about
+T322	question_answered_by_this_work 634 642	reflects
+T323	question_answered_by_this_work 717 726	effective
+T324	question_answered_by_this_work 1975 1981	impact
+T325	question_answered_by_this_work 3560 3566	impact
+T326	question_answered_by_this_work 3717 3723	impact
+T327	question_answered_by_this_work 727 735	strategy
+T328	question_answered_by_this_work 4664 4675	recommended
+T329	question_answered_by_this_work 4730 4738	strategy
+T330	question_answered_by_this_work 4997 5005	planning
+T331	question_answered_by_this_work 657 667	obligation
+T332	question_answered_by_this_work 2543 2552	concerned
+T333	question_answered_by_this_work 2661 2666	still
+T334	question_answered_by_this_work 3902 3909	mission
+T335	question_answered_by_this_work 3143 3152	Different
+T336	question_answered_by_this_work 3701 3712	to evaluate

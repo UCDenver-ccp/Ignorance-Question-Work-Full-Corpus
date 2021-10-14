@@ -1,0 +1,57 @@
+CRF FILE REPORT FOR DOCUMENTS: ['PMC1247630', 'PMC1474522', 'PMC2009866', 'PMC4428817', 'PMC5501061', 'PMC6022422', 'PMC1533075', 'PMC1626394', 'PMC2265032', 'PMC2516588', 'PMC2672462', 'PMC2874300', 'PMC2889879', 'PMC2898025', 'PMC2999828', 'PMC3205727', 'PMC3348565', 'PMC3373750', 'PMC3513049', 'PMC3679768', 'PMC3914197', 'PMC4122855', 'PMC4304064', 'PMC4352710', 'PMC4377896', 'PMC4500436', 'PMC4564405', 'PMC4653409', 'PMC4683322', 'PMC4859539', 'PMC4954778', 'PMC4992225', 'PMC5030620', 'PMC5143410', 'PMC5187359', 'PMC5273824', 'PMC5540678', 'PMC5685050', 'PMC6029118', 'PMC6033232', 'PMC6039335', 'PMC6054603', 'PMC6056931', 'PMC2722408', 'PMC2727050', 'PMC2913107', 'PMC3075531', 'PMC3169551', 'PMC3271033', 'PMC3424155', 'PMC3470091', 'PMC3659910', 'PMC3710985', 'PMC3828574', 'PMC4037583', 'PMC4275682', 'PMC4327187', 'PMC4380518', 'PMC4488777', 'PMC4715834', 'PMC4973215', 'PMC5340372', 'PMC5439533', 'PMC5658906', 'PMC5732505']
+
+sentence prediction length: 15
+              precision    recall  f1-score   support
+
+           B      0.846     1.000     0.917        11
+           I      0.833     1.000     0.909         5
+           O      1.000     0.993     0.997       441
+          O-      0.000     0.000     0.000         0
+
+   micro avg      0.993     0.993     0.993       457
+   macro avg      0.670     0.748     0.706       457
+weighted avg      0.994     0.993     0.994       457
+
+
+FULL BINARY PREDICTIONS WITH B,I,O-
+               precision    recall  f1-score   support
+
+not_ignorance      1.000     0.889     0.941         9
+    ignorance      0.857     1.000     0.923         6
+
+     accuracy                          0.933        15
+    macro avg      0.929     0.944     0.932        15
+ weighted avg      0.943     0.933     0.934        15
+
+
+REGEX ONLY BINARY PREDICTIONS WITH B,I,O-
+               precision    recall  f1-score   support
+
+not_ignorance      1.000     0.889     0.941         9
+    ignorance      0.857     1.000     0.923         6
+
+     accuracy                          0.933        15
+    macro avg      0.929     0.944     0.932        15
+ weighted avg      0.943     0.933     0.934        15
+
+
+FULL BINARY PREDICTIONS WITH B
+               precision    recall  f1-score   support
+
+not_ignorance      1.000     0.889     0.941         9
+    ignorance      0.857     1.000     0.923         6
+
+     accuracy                          0.933        15
+    macro avg      0.929     0.944     0.932        15
+ weighted avg      0.943     0.933     0.934        15
+
+
+FULL BINARY PREDICTIONS WITH B, I
+               precision    recall  f1-score   support
+
+not_ignorance      1.000     0.889     0.941         9
+    ignorance      0.857     1.000     0.923         6
+
+     accuracy                          0.933        15
+    macro avg      0.929     0.944     0.932        15
+ weighted avg      0.943     0.933     0.934        15

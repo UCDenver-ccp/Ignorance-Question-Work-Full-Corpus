@@ -1,0 +1,22 @@
+0_all_combined
+NUM SENTENCES WITH DISCONTINUITIES	0
+NUM TOTAL DISCONTINUITIES:	0
+
+           precision    recall  f1-score   support
+
+       SR       0.90      0.95      0.92      2744
+      ACF       0.73      0.75      0.74       689
+       IC       0.81      0.82      0.81      1265
+       IE       0.80      0.88      0.84      4484
+    QABTW       0.68      0.86      0.76       440
+       FP       0.85      0.78      0.81       283
+       PU       0.73      0.79      0.76      1156
+       DT       0.68      0.65      0.67       233
+      AOC       0.71      0.80      0.75      1084
+       PC       0.63      0.69      0.66       352
+       FW       0.73      0.79      0.76       702
+       EQ       0.88      0.88      0.88       134
+       FU       0.60      0.65      0.62       262
+
+micro avg       0.79      0.85      0.82     13828
+macro avg       0.79      0.85      0.82     13828
