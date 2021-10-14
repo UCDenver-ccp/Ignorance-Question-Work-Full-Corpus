@@ -11,10 +11,13 @@ articles='Articles/' #want files.txt
 ##folder to the concept annotations within the craft path
 concept_annotation='Annotations/'
 
-
+ontology_file_path='Ontologies/Ontology_Of_Ignorance.owl'
+all_lcs_path='Ontologies/Ontology_Of_Ignorance_all_cues_2021-07-30.txt'
 
 ##list of ontologies that have annotations to preproess
 ontologies='full_unknown,explicit_question,incomplete_evidence,probable_understanding,superficial_relationship,future_work,future_prediction,important_consideration,anomaly_curious_finding,alternative_options_controversy,difficult_task,problem_complication,question_answered_by_this_work,1_binary_combined' #0_all_combined
+
+broad_categories='epistemics,barriers,levels_of_evidence,future_opportunities'
 
 ##output path for the BIO- format files that are tokenized
 eval_path='Ignorance-Question-Work-Full-Corpus/Word_Analysis/Held_Out_Evaluation/'
@@ -42,8 +45,9 @@ training_files='PMC1247630,PMC1474522,PMC2009866,PMC4428817,PMC5501061,PMC602242
 ###the algo and the corresponding results file
 algos='CRF,BIOBERT'
 results_folders='CRF_Classification_Results,BioBERT_Classification_Results'
-output_folder='z_BIONLP_OUTPUT_FORMAT/'
-separate_all_combined_output='13_separate_combined'
+output_folder='z_KNOWTATOR_OUTPUT_FORMAT/'
+bionlp_folder='z_BIONLP_OUTPUT_FORMAT/'
+file_types='0_all_combined,1_binary_combined,13_separate_combined'
 
 
-python3 final_output_knowtator_format.py -ontologies=$ontologies -algos=$algos -result_folders=$results_folders -results_path=$all_file_path$eval_path$output_results -output_folder=$output_folder -evaluation_files=$eval_files -separate_all_combined_output=$separate_all_combined_output
+python3 final_output_knowtator_format.py -ontologies=$ontologies -all_lcs_path=$all_file_path$corpus_path$all_lcs_path -ontology_file_path=$all_file_path$corpus_path$ontology_file_path -broad_categories=$broad_categories -article_path=$all_file_path$corpus_path$articles -xml_folder=$output_folder -bionlp_folder=$bionlp_folder -algos=$algos -result_folders=$results_folders -results_path=$all_file_path$eval_path$output_results -file_types=$file_types -evaluation_files=$eval_files

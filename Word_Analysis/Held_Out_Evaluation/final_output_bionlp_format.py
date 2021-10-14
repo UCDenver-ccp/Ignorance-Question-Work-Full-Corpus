@@ -230,7 +230,7 @@ def preprocess_data(tokenized_file_path, ontology, ontology_dict, evaluation_fil
     return ontology_dict
 
 
-#TODO!!
+
 def output_all_files(pmcid_output_dict, ontology, ontology_dict, disc_error_output_file):
 
 
@@ -306,6 +306,18 @@ def output_all_files(pmcid_output_dict, ontology, ontology_dict, disc_error_outp
                             pass
                         else:
                             updated_word_indices_list_short += [updated_word_indices_list[i]]
+                    # if updated_word.endswith(' ...') or updated_word.startswith('... '):
+                    #     print(updated_word)
+                    #     print(updated_word_indices_list)
+                    #     print(updated_word_indices_list_short)
+                    #
+                    #     raise Exception('HOLD!')
+                    # if updated_word == 'not only ...':
+                    #     print(updated_word)
+                    #     print(updated_word_indices_list)
+                    #     print(updated_word_indices_list_short)
+
+                        # raise Exception('HOLD!')
 
 
                 #final output
@@ -314,33 +326,46 @@ def output_all_files(pmcid_output_dict, ontology, ontology_dict, disc_error_outp
                 # or T5656	CL:0000540 9966 9972	Neuron
 
                 ##loop over and check if they are consecutive and combine if they are
-                first_s = updated_word_indices_list[0][0]
-                last_e = updated_word_indices_list[-1][-1]
-                current_e = last_e
-                current_s = first_s
-                final_word_indices_list = []
-                if len(updated_word_indices_list_short) == 1:
-                    final_word_indices_list = updated_word_indices_list_short
-                else:
-                    for j in range(len(updated_word_indices_list_short)-1):
-                        s1, e1 = updated_word_indices_list_short[j]
-                        s2, e2 = updated_word_indices_list_short[j+1]
 
-                        # if e2 == last_e:
-                        #     final_word_indices_list += [(current_s, e2)]
 
-                        if (int(e1) + 1 == int(s2) or int(e1) == int(s2)) and updated_word.split(' ')[j+1] != '...':
-                            pass
-                        else:
-                            if final_word_indices_list:
-                                final_word_indices_list += [(current_s, e1)]
-                                current_s = s2
+                if updated_word_indices_list_short:
+                    first_s = updated_word_indices_list_short[0][0]
+                    last_e = updated_word_indices_list_short[-1][-1]
+                    current_e = last_e
+                    current_s = first_s
+                    final_word_indices_list = []
+
+                    if len(updated_word_indices_list_short) == 1:
+                        final_word_indices_list = updated_word_indices_list_short
+                    else:
+                        for j in range(len(updated_word_indices_list_short)-1):
+                            s1, e1 = updated_word_indices_list_short[j]
+                            s2, e2 = updated_word_indices_list_short[j+1]
+
+                            # if e2 == last_e:
+                            #     final_word_indices_list += [(current_s, e2)]
+
+                            if (int(e1) + 1 == int(s2) or int(e1) == int(s2)) and updated_word.split(' ')[j+1] != '...':
+                                pass
                             else:
-                                final_word_indices_list += [(first_s, e1)]
-                                current_s = s2
+                                if final_word_indices_list:
+                                    final_word_indices_list += [(current_s, e1)]
+                                    current_s = s2
+                                else:
+                                    final_word_indices_list += [(first_s, e1)]
+                                    current_s = s2
 
-                    ##add the final info to the end here
-                    final_word_indices_list += [(current_s, last_e)]
+                        ##add the final info to the end here
+                        final_word_indices_list += [(current_s, last_e)]
+                else:
+                    if updated_word != '...':
+                        print(updated_word_indices_list_short)
+                        print(updated_word_indices_list)
+                        print(updated_word)
+                        raise Exception('ERROR: Issue with updated word existing when it is a real word and not just ...')
+                    else:
+                        continue
+
 
                 if len(updated_word.split(' ... ')) != len(final_word_indices_list):
                     print(updated_word)
@@ -352,6 +377,12 @@ def output_all_files(pmcid_output_dict, ontology, ontology_dict, disc_error_outp
                 else:
                     pass
 
+                # if updated_word == 'not only ...':
+                #     print(updated_word)
+                #     print(updated_word_indices_list)
+                #     print(updated_word_indices_list_short)
+                #     print(final_word_indices_list)
+                #     print(current_s, e2, last_e)
 
 
                 for (s, e) in final_word_indices_list:
@@ -367,6 +398,11 @@ def output_all_files(pmcid_output_dict, ontology, ontology_dict, disc_error_outp
                 #output to the dictionary per pmcid
                 # print(pmcid_output_dict)
                 # if pmcid_output_dict.get(current_pmcid):
+                if updated_word == '...':
+                    raise Exception('ERROR: Issue with blank concepts getting through')
+                else:
+                    pass
+
                 pmcid_output_dict[current_pmcid] += [(sentence_num, ontology, word_indices_output, updated_word)]
                 # else:
                 #     print(current_pmcid)
