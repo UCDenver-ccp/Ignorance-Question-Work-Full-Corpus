@@ -465,9 +465,9 @@
 463	PMC3427250.nxml.gz	PMC3427250.nxml.gz_13	2122	2202	status	NN	2145	2151	O	None	None	None
 464	PMC3427250.nxml.gz	PMC3427250.nxml.gz_13	2122	2202	is	VBZ	2152	2154	O	None	None	None
 465	PMC3427250.nxml.gz	PMC3427250.nxml.gz_13	2122	2202	a	DT	2155	2156	O	None	None	None
-466	PMC3427250.nxml.gz	PMC3427250.nxml.gz_13	2122	2202	well	RB	2157	2161	B	probable_understanding_2021_10_13_Instance_173	None	None
-467	PMC3427250.nxml.gz	PMC3427250.nxml.gz_13	2122	2202	-	:	2161	2162	I	probable_understanding_2021_10_13_Instance_173	None	None
-468	PMC3427250.nxml.gz	PMC3427250.nxml.gz_13	2122	2202	known	VBN	2162	2167	I	probable_understanding_2021_10_13_Instance_173	None	None
+466	PMC3427250.nxml.gz	PMC3427250.nxml.gz_13	2122	2202	well	RB	2157	2161	B	probable_understanding_2021_10_19_Instance_173	None	None
+467	PMC3427250.nxml.gz	PMC3427250.nxml.gz_13	2122	2202	-	:	2161	2162	I	probable_understanding_2021_10_19_Instance_173	None	None
+468	PMC3427250.nxml.gz	PMC3427250.nxml.gz_13	2122	2202	known	VBN	2162	2167	I	probable_understanding_2021_10_19_Instance_173	None	None
 469	PMC3427250.nxml.gz	PMC3427250.nxml.gz_13	2122	2202	determinant	NN	2168	2179	O	None	None	None
 470	PMC3427250.nxml.gz	PMC3427250.nxml.gz_13	2122	2202	of	IN	2180	2182	O	None	None	None
 471	PMC3427250.nxml.gz	PMC3427250.nxml.gz_13	2122	2202	bone	NN	2183	2187	O	None	None	None
@@ -913,9 +913,9 @@
 911	PMC3427250.nxml.gz	PMC3427250.nxml.gz_26	4228	4342	calcium	NN	4292	4299	O	None	None	None
 912	PMC3427250.nxml.gz	PMC3427250.nxml.gz_26	4228	4342	absorption	NN	4300	4310	O	None	None	None
 913	PMC3427250.nxml.gz	PMC3427250.nxml.gz_26	4228	4342	is	VBZ	4311	4313	O	None	None	None
-914	PMC3427250.nxml.gz	PMC3427250.nxml.gz_26	4228	4342	since	IN	4314	4319	B	probable_understanding_2021_10_13_Instance_174	None	None
-915	PMC3427250.nxml.gz	PMC3427250.nxml.gz_26	4228	4342	long	RB	4320	4324	B	probable_understanding_2021_10_13_Instance_175	None	None
-916	PMC3427250.nxml.gz	PMC3427250.nxml.gz_26	4228	4342	acknowledged	VBN	4325	4337	I	probable_understanding_2021_10_13_Instance_175	None	None
+914	PMC3427250.nxml.gz	PMC3427250.nxml.gz_26	4228	4342	since	IN	4314	4319	B	probable_understanding_2021_10_19_Instance_174	None	None
+915	PMC3427250.nxml.gz	PMC3427250.nxml.gz_26	4228	4342	long	RB	4320	4324	B	probable_understanding_2021_10_19_Instance_175	None	None
+916	PMC3427250.nxml.gz	PMC3427250.nxml.gz_26	4228	4342	acknowledged	VBN	4325	4337	I	probable_understanding_2021_10_19_Instance_175	None	None
 917	PMC3427250.nxml.gz	PMC3427250.nxml.gz_26	4228	4342	[	RB	4337	4338	O	None	None	None
 918	PMC3427250.nxml.gz	PMC3427250.nxml.gz_26	4228	4342	24	CD	4338	4340	O	None	None	None
 919	PMC3427250.nxml.gz	PMC3427250.nxml.gz_26	4228	4342	].	NNS	4340	4342	O	None	None	None
@@ -1121,7 +1121,7 @@
 1119	PMC3427250.nxml.gz	PMC3427250.nxml.gz_33	5223	5445	European	JJ	5426	5434	O	None	None	None
 1120	PMC3427250.nxml.gz	PMC3427250.nxml.gz_33	5223	5445	countries	NNS	5435	5444	O	None	None	None
 1121	PMC3427250.nxml.gz	PMC3427250.nxml.gz_33	5223	5445	.	.	5444	5445	O	None	None	None
-1122	PMC3427250.nxml.gz	PMC3427250.nxml.gz_34	5446	5707	Therefore	RB	5446	5455	B	probable_understanding_2021_10_13_Instance_176	None	None
+1122	PMC3427250.nxml.gz	PMC3427250.nxml.gz_34	5446	5707	Therefore	RB	5446	5455	B	probable_understanding_2021_10_19_Instance_176	None	None
 1123	PMC3427250.nxml.gz	PMC3427250.nxml.gz_34	5446	5707	the	DT	5456	5459	O	None	None	None
 1124	PMC3427250.nxml.gz	PMC3427250.nxml.gz_34	5446	5707	aim	NN	5460	5463	O	None	None	None
 1125	PMC3427250.nxml.gz	PMC3427250.nxml.gz_34	5446	5707	of	IN	5464	5466	O	None	None	None
@@ -4694,7 +4694,7 @@
 4692	PMC3427250.nxml.gz	PMC3427250.nxml.gz_111	22299	22424	skin	NN	22356	22360	O	None	None	None
 4693	PMC3427250.nxml.gz	PMC3427250.nxml.gz_111	22299	22424	and	CC	22361	22364	O	None	None	None
 4694	PMC3427250.nxml.gz	PMC3427250.nxml.gz_111	22299	22424	might	MD	22365	22370	O	None	None	None
-4695	PMC3427250.nxml.gz	PMC3427250.nxml.gz_111	22299	22424	therefore	RB	22371	22380	B	probable_understanding_2021_10_13_Instance_177	None	None
+4695	PMC3427250.nxml.gz	PMC3427250.nxml.gz_111	22299	22424	therefore	RB	22371	22380	B	probable_understanding_2021_10_19_Instance_177	None	None
 4696	PMC3427250.nxml.gz	PMC3427250.nxml.gz_111	22299	22424	reduce	VB	22381	22387	O	None	None	None
 4697	PMC3427250.nxml.gz	PMC3427250.nxml.gz_111	22299	22424	the	DT	22388	22391	O	None	None	None
 4698	PMC3427250.nxml.gz	PMC3427250.nxml.gz_111	22299	22424	skin	NN	22392	22396	O	None	None	None
@@ -4862,8 +4862,8 @@
 4860	PMC3427250.nxml.gz	PMC3427250.nxml.gz_117	23093	23340	and	CC	23205	23208	O	None	None	None
 4861	PMC3427250.nxml.gz	PMC3427250.nxml.gz_117	23093	23340	recognize	VB	23209	23218	O	None	None	None
 4862	PMC3427250.nxml.gz	PMC3427250.nxml.gz_117	23093	23340	that	DT	23219	23223	O	None	None	None
-4863	PMC3427250.nxml.gz	PMC3427250.nxml.gz_117	23093	23340	at	IN	23224	23226	B	probable_understanding_2021_10_13_Instance_178	None	None
-4864	PMC3427250.nxml.gz	PMC3427250.nxml.gz_117	23093	23340	least	JJS	23227	23232	I	probable_understanding_2021_10_13_Instance_178	None	None
+4863	PMC3427250.nxml.gz	PMC3427250.nxml.gz_117	23093	23340	at	IN	23224	23226	B	probable_understanding_2021_10_19_Instance_178	None	None
+4864	PMC3427250.nxml.gz	PMC3427250.nxml.gz_117	23093	23340	least	JJS	23227	23232	I	probable_understanding_2021_10_19_Instance_178	None	None
 4865	PMC3427250.nxml.gz	PMC3427250.nxml.gz_117	23093	23340	1500	CD	23233	23237	O	None	None	None
 4866	PMC3427250.nxml.gz	PMC3427250.nxml.gz_117	23093	23340	–	JJ	23237	23238	O	None	None	None
 4867	PMC3427250.nxml.gz	PMC3427250.nxml.gz_117	23093	23340	2000	CD	23238	23242	O	None	None	None
@@ -5012,7 +5012,7 @@
 5010	PMC3427250.nxml.gz	PMC3427250.nxml.gz_120	23890	24083	countries	NNS	23940	23949	O	None	None	None
 5011	PMC3427250.nxml.gz	PMC3427250.nxml.gz_120	23890	24083	,	,	23949	23950	O	None	None	None
 5012	PMC3427250.nxml.gz	PMC3427250.nxml.gz_120	23890	24083	we	PRP	23951	23953	O	None	None	None
-5013	PMC3427250.nxml.gz	PMC3427250.nxml.gz_120	23890	24083	suspect	VBP	23954	23961	B	probable_understanding_2021_10_13_Instance_179	None	None
+5013	PMC3427250.nxml.gz	PMC3427250.nxml.gz_120	23890	24083	suspect	VBP	23954	23961	B	probable_understanding_2021_10_19_Instance_179	None	None
 5014	PMC3427250.nxml.gz	PMC3427250.nxml.gz_120	23890	24083	that	IN	23962	23966	O	None	None	None
 5015	PMC3427250.nxml.gz	PMC3427250.nxml.gz_120	23890	24083	the	DT	23967	23970	O	None	None	None
 5016	PMC3427250.nxml.gz	PMC3427250.nxml.gz_120	23890	24083	prevalence	NN	23971	23981	O	None	None	None
@@ -5022,7 +5022,7 @@
 5020	PMC3427250.nxml.gz	PMC3427250.nxml.gz_120	23890	24083	deficiency	NN	23995	24005	O	None	None	None
 5021	PMC3427250.nxml.gz	PMC3427250.nxml.gz_120	23890	24083	in	IN	24006	24008	O	None	None	None
 5022	PMC3427250.nxml.gz	PMC3427250.nxml.gz_120	23890	24083	Belgium	NNP	24009	24016	O	None	None	None
-5023	PMC3427250.nxml.gz	PMC3427250.nxml.gz_120	23890	24083	likely	JJ	24017	24023	B	probable_understanding_2021_10_13_Instance_180	None	None
+5023	PMC3427250.nxml.gz	PMC3427250.nxml.gz_120	23890	24083	likely	JJ	24017	24023	B	probable_understanding_2021_10_19_Instance_180	None	None
 5024	PMC3427250.nxml.gz	PMC3427250.nxml.gz_120	23890	24083	reflects	VBZ	24024	24032	O	None	None	None
 5025	PMC3427250.nxml.gz	PMC3427250.nxml.gz_120	23890	24083	the	DT	24033	24036	O	None	None	None
 5026	PMC3427250.nxml.gz	PMC3427250.nxml.gz_120	23890	24083	situation	NN	24037	24046	O	None	None	None
@@ -5195,7 +5195,7 @@
 5193	PMC3427250.nxml.gz	PMC3427250.nxml.gz_125	24852	25028	]–[	$	25021	25024	O	None	None	None
 5194	PMC3427250.nxml.gz	PMC3427250.nxml.gz_125	24852	25028	22	CD	25024	25026	O	None	None	None
 5195	PMC3427250.nxml.gz	PMC3427250.nxml.gz_125	24852	25028	].	NN	25026	25028	O	None	None	None
-5196	PMC3427250.nxml.gz	PMC3427250.nxml.gz_126	25029	25238	Therefore	RB	25029	25038	B	probable_understanding_2021_10_13_Instance_181	None	None
+5196	PMC3427250.nxml.gz	PMC3427250.nxml.gz_126	25029	25238	Therefore	RB	25029	25038	B	probable_understanding_2021_10_19_Instance_181	None	None
 5197	PMC3427250.nxml.gz	PMC3427250.nxml.gz_126	25029	25238	,	,	25038	25039	O	None	None	None
 5198	PMC3427250.nxml.gz	PMC3427250.nxml.gz_126	25029	25238	there	EX	25040	25045	O	None	None	None
 5199	PMC3427250.nxml.gz	PMC3427250.nxml.gz_126	25029	25238	is	VBZ	25046	25048	O	None	None	None
@@ -5242,7 +5242,7 @@
 5240	PMC3427250.nxml.gz	PMC3427250.nxml.gz_127	25239	25432	in	IN	25307	25309	O	None	None	None
 5241	PMC3427250.nxml.gz	PMC3427250.nxml.gz_127	25239	25432	Belgium	NNP	25310	25317	O	None	None	None
 5242	PMC3427250.nxml.gz	PMC3427250.nxml.gz_127	25239	25432	and	CC	25318	25321	O	None	None	None
-5243	PMC3427250.nxml.gz	PMC3427250.nxml.gz_127	25239	25432	probably	RB	25322	25330	B	probable_understanding_2021_10_13_Instance_182	None	None
+5243	PMC3427250.nxml.gz	PMC3427250.nxml.gz_127	25239	25432	probably	RB	25322	25330	B	probable_understanding_2021_10_19_Instance_182	None	None
 5244	PMC3427250.nxml.gz	PMC3427250.nxml.gz_127	25239	25432	in	IN	25331	25333	O	None	None	None
 5245	PMC3427250.nxml.gz	PMC3427250.nxml.gz_127	25239	25432	many	JJ	25334	25338	O	None	None	None
 5246	PMC3427250.nxml.gz	PMC3427250.nxml.gz_127	25239	25432	European	JJ	25339	25347	O	None	None	None
@@ -5352,13 +5352,13 @@
 5350	PMC3427250.nxml.gz	PMC3427250.nxml.gz_130	25796	26081	per	IN	25948	25951	O	None	None	None
 5351	PMC3427250.nxml.gz	PMC3427250.nxml.gz_130	25796	26081	day	NN	25952	25955	O	None	None	None
 5352	PMC3427250.nxml.gz	PMC3427250.nxml.gz_130	25796	26081	,	,	25955	25956	O	None	None	None
-5353	PMC3427250.nxml.gz	PMC3427250.nxml.gz_130	25796	26081	therefore	RB	25957	25966	B	probable_understanding_2021_10_13_Instance_183	None	None
+5353	PMC3427250.nxml.gz	PMC3427250.nxml.gz_130	25796	26081	therefore	RB	25957	25966	B	probable_understanding_2021_10_19_Instance_183	None	None
 5354	PMC3427250.nxml.gz	PMC3427250.nxml.gz_130	25796	26081	a	DT	25967	25968	O	None	None	None
 5355	PMC3427250.nxml.gz	PMC3427250.nxml.gz_130	25796	26081	prudent	JJ	25969	25976	O	None	None	None
 5356	PMC3427250.nxml.gz	PMC3427250.nxml.gz_130	25796	26081	step	NN	25977	25981	O	None	None	None
 5357	PMC3427250.nxml.gz	PMC3427250.nxml.gz_130	25796	26081	should	MD	25982	25988	O	None	None	None
-5358	PMC3427250.nxml.gz	PMC3427250.nxml.gz_130	25796	26081	at	IN	25989	25991	B	probable_understanding_2021_10_13_Instance_184	None	None
-5359	PMC3427250.nxml.gz	PMC3427250.nxml.gz_130	25796	26081	least	JJS	25992	25997	I	probable_understanding_2021_10_13_Instance_184	None	None
+5358	PMC3427250.nxml.gz	PMC3427250.nxml.gz_130	25796	26081	at	IN	25989	25991	B	probable_understanding_2021_10_19_Instance_184	None	None
+5359	PMC3427250.nxml.gz	PMC3427250.nxml.gz_130	25796	26081	least	JJS	25992	25997	I	probable_understanding_2021_10_19_Instance_184	None	None
 5360	PMC3427250.nxml.gz	PMC3427250.nxml.gz_130	25796	26081	be	VB	25998	26000	O	None	None	None
 5361	PMC3427250.nxml.gz	PMC3427250.nxml.gz_130	25796	26081	to	TO	26001	26003	O	None	None	None
 5362	PMC3427250.nxml.gz	PMC3427250.nxml.gz_130	25796	26081	increase	VB	26004	26012	O	None	None	None

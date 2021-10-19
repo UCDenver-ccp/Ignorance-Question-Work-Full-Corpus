@@ -346,7 +346,7 @@
 344	PMC3342123.nxml.gz	PMC3342123.nxml.gz_10	1934	2023	checkpoint	NN	2000	2010	O	None	None	None
 345	PMC3342123.nxml.gz	PMC3342123.nxml.gz_10	1934	2023	regulation	NN	2011	2021	O	None	None	None
 346	PMC3342123.nxml.gz	PMC3342123.nxml.gz_10	1934	2023	).	NN	2021	2023	O	None	None	None
-347	PMC3342123.nxml.gz	PMC3342123.nxml.gz_11	2024	2110	Notably	RB	2024	2031	B	anomaly_curious_finding_2021_10_13_Instance_73	None	None
+347	PMC3342123.nxml.gz	PMC3342123.nxml.gz_11	2024	2110	Notably	RB	2024	2031	B	anomaly_curious_finding_2021_10_19_Instance_73	None	None
 348	PMC3342123.nxml.gz	PMC3342123.nxml.gz_11	2024	2110	,	,	2031	2032	O	None	None	None
 349	PMC3342123.nxml.gz	PMC3342123.nxml.gz_11	2024	2110	at	IN	2033	2035	O	None	None	None
 350	PMC3342123.nxml.gz	PMC3342123.nxml.gz_11	2024	2110	stage	NN	2036	2041	O	None	None	None
@@ -581,7 +581,7 @@
 579	PMC3342123.nxml.gz	PMC3342123.nxml.gz_17	3242	3479	-	:	3474	3475	O	None	None	None
 580	PMC3342123.nxml.gz	PMC3342123.nxml.gz_17	3242	3479	10	CD	3475	3477	O	None	None	None
 581	PMC3342123.nxml.gz	PMC3342123.nxml.gz_17	3242	3479	].	NN	3477	3479	O	None	None	None
-582	PMC3342123.nxml.gz	PMC3342123.nxml.gz_18	3480	3626	Interestingly	RB	3480	3493	B	anomaly_curious_finding_2021_10_13_Instance_74	None	None
+582	PMC3342123.nxml.gz	PMC3342123.nxml.gz_18	3480	3626	Interestingly	RB	3480	3493	B	anomaly_curious_finding_2021_10_19_Instance_74	None	None
 583	PMC3342123.nxml.gz	PMC3342123.nxml.gz_18	3480	3626	,	,	3493	3494	O	None	None	None
 584	PMC3342123.nxml.gz	PMC3342123.nxml.gz_18	3480	3626	epidemiological	JJ	3495	3510	O	None	None	None
 585	PMC3342123.nxml.gz	PMC3342123.nxml.gz_18	3480	3626	studies	NNS	3511	3518	O	None	None	None
@@ -1007,7 +1007,7 @@
 1005	PMC3342123.nxml.gz	PMC3342123.nxml.gz_32	5925	6253	fetal	JJ	5937	5942	O	None	None	None
 1006	PMC3342123.nxml.gz	PMC3342123.nxml.gz_32	5925	6253	programming	NN	5943	5954	O	None	None	None
 1007	PMC3342123.nxml.gz	PMC3342123.nxml.gz_32	5925	6253	becomes	VBZ	5955	5962	O	None	None	None
-1008	PMC3342123.nxml.gz	PMC3342123.nxml.gz_32	5925	6253	apparent	JJ	5963	5971	B	anomaly_curious_finding_2021_10_13_Instance_75	None	None
+1008	PMC3342123.nxml.gz	PMC3342123.nxml.gz_32	5925	6253	apparent	JJ	5963	5971	B	anomaly_curious_finding_2021_10_19_Instance_75	None	None
 1009	PMC3342123.nxml.gz	PMC3342123.nxml.gz_32	5925	6253	as	IN	5972	5974	O	None	None	None
 1010	PMC3342123.nxml.gz	PMC3342123.nxml.gz_32	5925	6253	an	DT	5975	5977	O	None	None	None
 1011	PMC3342123.nxml.gz	PMC3342123.nxml.gz_32	5925	6253	altered	JJ	5978	5985	O	None	None	None
@@ -1502,7 +1502,7 @@
 1500	PMC3342123.nxml.gz	PMC3342123.nxml.gz_43	8187	8303	,	,	8297	8298	O	None	None	None
 1501	PMC3342123.nxml.gz	PMC3342123.nxml.gz_43	8187	8303	879	CD	8298	8301	O	None	None	None
 1502	PMC3342123.nxml.gz	PMC3342123.nxml.gz_43	8187	8303	).	NN	8301	8303	O	None	None	None
-1503	PMC3342123.nxml.gz	PMC3342123.nxml.gz_44	8304	8439	Notably	RB	8304	8311	B	anomaly_curious_finding_2021_10_13_Instance_76	None	None
+1503	PMC3342123.nxml.gz	PMC3342123.nxml.gz_44	8304	8439	Notably	RB	8304	8311	B	anomaly_curious_finding_2021_10_19_Instance_76	None	None
 1504	PMC3342123.nxml.gz	PMC3342123.nxml.gz_44	8304	8439	,	,	8311	8312	O	None	None	None
 1505	PMC3342123.nxml.gz	PMC3342123.nxml.gz_44	8304	8439	q	SYM	8313	8314	O	None	None	None
 1506	PMC3342123.nxml.gz	PMC3342123.nxml.gz_44	8304	8439	-	:	8314	8315	O	None	None	None
@@ -1513,7 +1513,7 @@
 1511	PMC3342123.nxml.gz	PMC3342123.nxml.gz_44	8304	8439	within	IN	8349	8355	O	None	None	None
 1512	PMC3342123.nxml.gz	PMC3342123.nxml.gz_44	8304	8439	diet	JJ	8356	8360	O	None	None	None
 1513	PMC3342123.nxml.gz	PMC3342123.nxml.gz_44	8304	8439	were	VBD	8361	8365	O	None	None	None
-1514	PMC3342123.nxml.gz	PMC3342123.nxml.gz_44	8304	8439	remarkable	JJ	8366	8376	B	anomaly_curious_finding_2021_10_13_Instance_77	None	None
+1514	PMC3342123.nxml.gz	PMC3342123.nxml.gz_44	8304	8439	remarkable	JJ	8366	8376	B	anomaly_curious_finding_2021_10_19_Instance_77	None	None
 1515	PMC3342123.nxml.gz	PMC3342123.nxml.gz_44	8304	8439	lower	JJR	8377	8382	O	None	None	None
 1516	PMC3342123.nxml.gz	PMC3342123.nxml.gz_44	8304	8439	(	(	8383	8384	O	None	None	None
 1517	PMC3342123.nxml.gz	PMC3342123.nxml.gz_44	8304	8439	q	JJ	8385	8386	O	None	None	None
@@ -6463,7 +6463,7 @@
 6461	PMC3342123.nxml.gz	PMC3342123.nxml.gz_161	32583	32977	postnatal	JJ	32660	32669	O	None	None	None
 6462	PMC3342123.nxml.gz	PMC3342123.nxml.gz_161	32583	32977	development	NN	32670	32681	O	None	None	None
 6463	PMC3342123.nxml.gz	PMC3342123.nxml.gz_161	32583	32977	a	DT	32682	32683	O	None	None	None
-6464	PMC3342123.nxml.gz	PMC3342123.nxml.gz_161	32583	32977	remarkable	JJ	32684	32694	B	anomaly_curious_finding_2021_10_13_Instance_78	None	None
+6464	PMC3342123.nxml.gz	PMC3342123.nxml.gz_161	32583	32977	remarkable	JJ	32684	32694	B	anomaly_curious_finding_2021_10_19_Instance_78	None	None
 6465	PMC3342123.nxml.gz	PMC3342123.nxml.gz_161	32583	32977	number	NN	32695	32701	O	None	None	None
 6466	PMC3342123.nxml.gz	PMC3342123.nxml.gz_161	32583	32977	of	IN	32702	32704	O	None	None	None
 6467	PMC3342123.nxml.gz	PMC3342123.nxml.gz_161	32583	32977	diet	JJ	32705	32709	O	None	None	None
@@ -6909,7 +6909,7 @@
 6907	PMC3342123.nxml.gz	PMC3342123.nxml.gz_174	34880	35182	richer	JJR	35164	35170	O	None	None	None
 6908	PMC3342123.nxml.gz	PMC3342123.nxml.gz_174	34880	35182	conditions	NNS	35171	35181	O	None	None	None
 6909	PMC3342123.nxml.gz	PMC3342123.nxml.gz_174	34880	35182	.	.	35181	35182	O	None	None	None
-6910	PMC3342123.nxml.gz	PMC3342123.nxml.gz_175	35183	35421	Although	IN	35183	35191	B	anomaly_curious_finding_2021_10_13_Instance_79	None	None
+6910	PMC3342123.nxml.gz	PMC3342123.nxml.gz_175	35183	35421	Although	IN	35183	35191	B	anomaly_curious_finding_2021_10_19_Instance_79	None	None
 6911	PMC3342123.nxml.gz	PMC3342123.nxml.gz_175	35183	35421	essential	JJ	35192	35201	O	None	None	None
 6912	PMC3342123.nxml.gz	PMC3342123.nxml.gz_175	35183	35421	amino	NN	35202	35207	O	None	None	None
 6913	PMC3342123.nxml.gz	PMC3342123.nxml.gz_175	35183	35421	acids	NNS	35208	35213	O	None	None	None

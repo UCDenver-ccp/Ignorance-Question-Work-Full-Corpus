@@ -38,7 +38,7 @@
 36	PMC2396486.nxml.gz	PMC2396486.nxml.gz_1	209	363	DVD	NNP	243	246	O	None	None	None
 37	PMC2396486.nxml.gz	PMC2396486.nxml.gz_1	209	363	deficiency	NN	247	257	O	None	None	None
 38	PMC2396486.nxml.gz	PMC2396486.nxml.gz_1	209	363	is	VBZ	258	260	O	None	None	None
-39	PMC2396486.nxml.gz	PMC2396486.nxml.gz_1	209	363	associated	VBN	261	271	B	superficial_relationship_2021_10_13_Instance_1	None	None
+39	PMC2396486.nxml.gz	PMC2396486.nxml.gz_1	209	363	associated	VBN	261	271	B	superficial_relationship_2021_10_19_Instance_1	None	None
 40	PMC2396486.nxml.gz	PMC2396486.nxml.gz_1	209	363	with	IN	272	276	O	None	None	None
 41	PMC2396486.nxml.gz	PMC2396486.nxml.gz_1	209	363	a	DT	277	278	O	None	None	None
 42	PMC2396486.nxml.gz	PMC2396486.nxml.gz_1	209	363	range	NN	279	284	O	None	None	None
@@ -62,7 +62,7 @@
 60	PMC2396486.nxml.gz	PMC2396486.nxml.gz_2	364	737	accumbens	VBZ	384	393	O	None	None	None
 61	PMC2396486.nxml.gz	PMC2396486.nxml.gz_2	364	737	has	VBZ	394	397	O	None	None	None
 62	PMC2396486.nxml.gz	PMC2396486.nxml.gz_2	364	737	been	VBN	398	402	O	None	None	None
-63	PMC2396486.nxml.gz	PMC2396486.nxml.gz_2	364	737	implicated	VBN	403	413	B	superficial_relationship_2021_10_13_Instance_2	None	None
+63	PMC2396486.nxml.gz	PMC2396486.nxml.gz_2	364	737	implicated	VBN	403	413	B	superficial_relationship_2021_10_19_Instance_2	None	None
 64	PMC2396486.nxml.gz	PMC2396486.nxml.gz_2	364	737	in	IN	414	416	O	None	None	None
 65	PMC2396486.nxml.gz	PMC2396486.nxml.gz_2	364	737	neuropsychiatric	JJ	417	433	O	None	None	None
 66	PMC2396486.nxml.gz	PMC2396486.nxml.gz_2	364	737	disorders	NNS	434	443	O	None	None	None
@@ -230,11 +230,11 @@
 228	PMC2396486.nxml.gz	PMC2396486.nxml.gz_8	1172	1299	.	.	1298	1299	O	None	None	None
 229	PMC2396486.nxml.gz	PMC2396486.nxml.gz_9	1300	1411	Other	JJ	1300	1305	O	None	None	None
 230	PMC2396486.nxml.gz	PMC2396486.nxml.gz_9	1300	1411	proteins	NNS	1306	1314	O	None	None	None
-231	PMC2396486.nxml.gz	PMC2396486.nxml.gz_9	1300	1411	associated	VBN	1315	1325	B	superficial_relationship_2021_10_13_Instance_3	None	None
+231	PMC2396486.nxml.gz	PMC2396486.nxml.gz_9	1300	1411	associated	VBN	1315	1325	B	superficial_relationship_2021_10_19_Instance_3	None	None
 232	PMC2396486.nxml.gz	PMC2396486.nxml.gz_9	1300	1411	with	IN	1326	1330	O	None	None	None
 233	PMC2396486.nxml.gz	PMC2396486.nxml.gz_9	1300	1411	DVD	NNP	1331	1334	O	None	None	None
 234	PMC2396486.nxml.gz	PMC2396486.nxml.gz_9	1300	1411	deficiency	NN	1335	1345	O	None	None	None
-235	PMC2396486.nxml.gz	PMC2396486.nxml.gz_9	1300	1411	related	VBN	1346	1353	B	superficial_relationship_2021_10_13_Instance_4	None	None
+235	PMC2396486.nxml.gz	PMC2396486.nxml.gz_9	1300	1411	related	VBN	1346	1353	B	superficial_relationship_2021_10_19_Instance_4	None	None
 236	PMC2396486.nxml.gz	PMC2396486.nxml.gz_9	1300	1411	to	TO	1354	1356	O	None	None	None
 237	PMC2396486.nxml.gz	PMC2396486.nxml.gz_9	1300	1411	mitochondrial	JJ	1357	1370	O	None	None	None
 238	PMC2396486.nxml.gz	PMC2396486.nxml.gz_9	1300	1411	function	NN	1371	1379	O	None	None	None
@@ -252,7 +252,7 @@
 250	PMC2396486.nxml.gz	PMC2396486.nxml.gz_10	1413	1542	D	NNP	1447	1448	O	None	None	None
 251	PMC2396486.nxml.gz	PMC2396486.nxml.gz_10	1413	1542	deficiency	NN	1449	1459	O	None	None	None
 252	PMC2396486.nxml.gz	PMC2396486.nxml.gz_10	1413	1542	was	VBD	1460	1463	O	None	None	None
-253	PMC2396486.nxml.gz	PMC2396486.nxml.gz_10	1413	1542	associated	VBN	1464	1474	B	superficial_relationship_2021_10_13_Instance_5	None	None
+253	PMC2396486.nxml.gz	PMC2396486.nxml.gz_10	1413	1542	associated	VBN	1464	1474	B	superficial_relationship_2021_10_19_Instance_5	None	None
 254	PMC2396486.nxml.gz	PMC2396486.nxml.gz_10	1413	1542	with	IN	1475	1479	O	None	None	None
 255	PMC2396486.nxml.gz	PMC2396486.nxml.gz_10	1413	1542	subtle	JJ	1480	1486	O	None	None	None
 256	PMC2396486.nxml.gz	PMC2396486.nxml.gz_10	1413	1542	changes	NNS	1487	1494	O	None	None	None
@@ -267,7 +267,7 @@
 265	PMC2396486.nxml.gz	PMC2396486.nxml.gz_11	1543	1900	Disruptions	NNS	1543	1554	O	None	None	None
 266	PMC2396486.nxml.gz	PMC2396486.nxml.gz_11	1543	1900	in	IN	1555	1557	O	None	None	None
 267	PMC2396486.nxml.gz	PMC2396486.nxml.gz_11	1543	1900	pathways	NNS	1558	1566	O	None	None	None
-268	PMC2396486.nxml.gz	PMC2396486.nxml.gz_11	1543	1900	related	VBN	1567	1574	B	superficial_relationship_2021_10_13_Instance_6	None	None
+268	PMC2396486.nxml.gz	PMC2396486.nxml.gz_11	1543	1900	related	VBN	1567	1574	B	superficial_relationship_2021_10_19_Instance_6	None	None
 269	PMC2396486.nxml.gz	PMC2396486.nxml.gz_11	1543	1900	to	TO	1575	1577	O	None	None	None
 270	PMC2396486.nxml.gz	PMC2396486.nxml.gz_11	1543	1900	calcium	VB	1578	1585	O	None	None	None
 271	PMC2396486.nxml.gz	PMC2396486.nxml.gz_11	1543	1900	-	:	1585	1586	O	None	None	None
@@ -283,7 +283,7 @@
 281	PMC2396486.nxml.gz	PMC2396486.nxml.gz_11	1543	1900	the	DT	1651	1654	O	None	None	None
 282	PMC2396486.nxml.gz	PMC2396486.nxml.gz_11	1543	1900	behavioural	JJ	1655	1666	O	None	None	None
 283	PMC2396486.nxml.gz	PMC2396486.nxml.gz_11	1543	1900	features	NNS	1667	1675	O	None	None	None
-284	PMC2396486.nxml.gz	PMC2396486.nxml.gz_11	1543	1900	associated	VBN	1676	1686	B	superficial_relationship_2021_10_13_Instance_7	None	None
+284	PMC2396486.nxml.gz	PMC2396486.nxml.gz_11	1543	1900	associated	VBN	1676	1686	B	superficial_relationship_2021_10_19_Instance_7	None	None
 285	PMC2396486.nxml.gz	PMC2396486.nxml.gz_11	1543	1900	with	IN	1687	1691	O	None	None	None
 286	PMC2396486.nxml.gz	PMC2396486.nxml.gz_11	1543	1900	animal	JJ	1692	1698	O	None	None	None
 287	PMC2396486.nxml.gz	PMC2396486.nxml.gz_11	1543	1900	models	NNS	1699	1705	O	None	None	None
@@ -384,7 +384,7 @@
 382	PMC2396486.nxml.gz	PMC2396486.nxml.gz_13	2118	2364	vitamin	NN	2246	2253	O	None	None	None
 383	PMC2396486.nxml.gz	PMC2396486.nxml.gz_13	2118	2364	D	NNP	2254	2255	O	None	None	None
 384	PMC2396486.nxml.gz	PMC2396486.nxml.gz_13	2118	2364	‘	NNP	2256	2257	O	None	None	None
-385	PMC2396486.nxml.gz	PMC2396486.nxml.gz_13	2118	2364	fits	VBZ	2257	2261	B	superficial_relationship_2021_10_13_Instance_8	None	None
+385	PMC2396486.nxml.gz	PMC2396486.nxml.gz_13	2118	2364	fits	VBZ	2257	2261	B	superficial_relationship_2021_10_19_Instance_8	None	None
 386	PMC2396486.nxml.gz	PMC2396486.nxml.gz_13	2118	2364	’	NNP	2261	2262	O	None	None	None
 387	PMC2396486.nxml.gz	PMC2396486.nxml.gz_13	2118	2364	these	DT	2263	2268	O	None	None	None
 388	PMC2396486.nxml.gz	PMC2396486.nxml.gz_13	2118	2364	key	JJ	2269	2272	O	None	None	None
@@ -663,7 +663,7 @@
 661	PMC2396486.nxml.gz	PMC2396486.nxml.gz_24	3738	3837	has	VBZ	3767	3770	O	None	None	None
 662	PMC2396486.nxml.gz	PMC2396486.nxml.gz_24	3738	3837	been	VBN	3771	3775	O	None	None	None
 663	PMC2396486.nxml.gz	PMC2396486.nxml.gz_24	3738	3837	strongly	RB	3776	3784	O	None	None	None
-664	PMC2396486.nxml.gz	PMC2396486.nxml.gz_24	3738	3837	implicated	VBN	3785	3795	B	superficial_relationship_2021_10_13_Instance_9	None	None
+664	PMC2396486.nxml.gz	PMC2396486.nxml.gz_24	3738	3837	implicated	VBN	3785	3795	B	superficial_relationship_2021_10_19_Instance_9	None	None
 665	PMC2396486.nxml.gz	PMC2396486.nxml.gz_24	3738	3837	in	IN	3796	3798	O	None	None	None
 666	PMC2396486.nxml.gz	PMC2396486.nxml.gz_24	3738	3837	the	DT	3799	3802	O	None	None	None
 667	PMC2396486.nxml.gz	PMC2396486.nxml.gz_24	3738	3837	pathogenesis	NN	3803	3815	O	None	None	None
@@ -685,7 +685,7 @@
 683	PMC2396486.nxml.gz	PMC2396486.nxml.gz_25	3838	4038	,	,	3910	3911	O	None	None	None
 684	PMC2396486.nxml.gz	PMC2396486.nxml.gz_25	3838	4038	however	RB	3912	3919	O	None	None	None
 685	PMC2396486.nxml.gz	PMC2396486.nxml.gz_25	3838	4038	its	PRP$	3920	3923	O	None	None	None
-686	PMC2396486.nxml.gz	PMC2396486.nxml.gz_25	3838	4038	role	NN	3924	3928	B	superficial_relationship_2021_10_13_Instance_10	None	None
+686	PMC2396486.nxml.gz	PMC2396486.nxml.gz_25	3838	4038	role	NN	3924	3928	B	superficial_relationship_2021_10_19_Instance_10	None	None
 687	PMC2396486.nxml.gz	PMC2396486.nxml.gz_25	3838	4038	in	IN	3929	3931	O	None	None	None
 688	PMC2396486.nxml.gz	PMC2396486.nxml.gz_25	3838	4038	the	DT	3932	3935	O	None	None	None
 689	PMC2396486.nxml.gz	PMC2396486.nxml.gz_25	3838	4038	nucleus	NN	3936	3943	O	None	None	None
@@ -711,7 +711,7 @@
 709	PMC2396486.nxml.gz	PMC2396486.nxml.gz_26	4039	4181	accumbens	VBZ	4054	4063	O	None	None	None
 710	PMC2396486.nxml.gz	PMC2396486.nxml.gz_26	4039	4181	,	,	4063	4064	O	None	None	None
 711	PMC2396486.nxml.gz	PMC2396486.nxml.gz_26	4039	4181	dopamine	JJ	4065	4073	O	None	None	None
-712	PMC2396486.nxml.gz	PMC2396486.nxml.gz_26	4039	4181	influences	VBZ	4074	4084	B	superficial_relationship_2021_10_13_Instance_11	None	None
+712	PMC2396486.nxml.gz	PMC2396486.nxml.gz_26	4039	4181	influences	VBZ	4074	4084	B	superficial_relationship_2021_10_19_Instance_11	None	None
 713	PMC2396486.nxml.gz	PMC2396486.nxml.gz_26	4039	4181	the	DT	4085	4088	O	None	None	None
 714	PMC2396486.nxml.gz	PMC2396486.nxml.gz_26	4039	4181	integration	NN	4089	4100	O	None	None	None
 715	PMC2396486.nxml.gz	PMC2396486.nxml.gz_26	4039	4181	of	IN	4101	4103	O	None	None	None
@@ -745,8 +745,8 @@
 743	PMC2396486.nxml.gz	PMC2396486.nxml.gz_27	4182	4365	and	CC	4263	4266	O	None	None	None
 744	PMC2396486.nxml.gz	PMC2396486.nxml.gz_27	4182	4365	cortical	JJ	4267	4275	O	None	None	None
 745	PMC2396486.nxml.gz	PMC2396486.nxml.gz_27	4182	4365	functions	NNS	4276	4285	O	None	None	None
-746	PMC2396486.nxml.gz	PMC2396486.nxml.gz_27	4182	4365	relevant	VBP	4286	4294	B	superficial_relationship_2021_10_13_Instance_12	None	None
-747	PMC2396486.nxml.gz	PMC2396486.nxml.gz_27	4182	4365	to	TO	4295	4297	I	superficial_relationship_2021_10_13_Instance_12	None	None
+746	PMC2396486.nxml.gz	PMC2396486.nxml.gz_27	4182	4365	relevant	VBP	4286	4294	B	superficial_relationship_2021_10_19_Instance_12	None	None
+747	PMC2396486.nxml.gz	PMC2396486.nxml.gz_27	4182	4365	to	TO	4295	4297	I	superficial_relationship_2021_10_19_Instance_12	None	None
 748	PMC2396486.nxml.gz	PMC2396486.nxml.gz_27	4182	4365	the	DT	4298	4301	O	None	None	None
 749	PMC2396486.nxml.gz	PMC2396486.nxml.gz_27	4182	4365	pathophysiology	NN	4302	4317	O	None	None	None
 750	PMC2396486.nxml.gz	PMC2396486.nxml.gz_27	4182	4365	of	IN	4318	4320	O	None	None	None
@@ -812,7 +812,7 @@
 810	PMC2396486.nxml.gz	PMC2396486.nxml.gz_30	4656	4858	These	DT	4656	4661	O	None	None	None
 811	PMC2396486.nxml.gz	PMC2396486.nxml.gz_30	4656	4858	proteins	NNS	4662	4670	O	None	None	None
 812	PMC2396486.nxml.gz	PMC2396486.nxml.gz_30	4656	4858	are	VBP	4671	4674	O	None	None	None
-813	PMC2396486.nxml.gz	PMC2396486.nxml.gz_30	4656	4858	associated	VBN	4675	4685	B	superficial_relationship_2021_10_13_Instance_13	None	None
+813	PMC2396486.nxml.gz	PMC2396486.nxml.gz_30	4656	4858	associated	VBN	4675	4685	B	superficial_relationship_2021_10_19_Instance_13	None	None
 814	PMC2396486.nxml.gz	PMC2396486.nxml.gz_30	4656	4858	with	IN	4686	4690	O	None	None	None
 815	PMC2396486.nxml.gz	PMC2396486.nxml.gz_30	4656	4858	several	JJ	4691	4698	O	None	None	None
 816	PMC2396486.nxml.gz	PMC2396486.nxml.gz_30	4656	4858	biological	JJ	4699	4709	O	None	None	None
@@ -874,7 +874,7 @@
 872	PMC2396486.nxml.gz	PMC2396486.nxml.gz_32	5046	5167	further	RBR	5058	5065	O	None	None	None
 873	PMC2396486.nxml.gz	PMC2396486.nxml.gz_32	5046	5167	explore	VB	5066	5073	O	None	None	None
 874	PMC2396486.nxml.gz	PMC2396486.nxml.gz_32	5046	5167	the	DT	5074	5077	O	None	None	None
-875	PMC2396486.nxml.gz	PMC2396486.nxml.gz_32	5046	5167	impact	NN	5078	5084	B	superficial_relationship_2021_10_13_Instance_14	None	None
+875	PMC2396486.nxml.gz	PMC2396486.nxml.gz_32	5046	5167	impact	NN	5078	5084	B	superficial_relationship_2021_10_19_Instance_14	None	None
 876	PMC2396486.nxml.gz	PMC2396486.nxml.gz_32	5046	5167	of	IN	5085	5087	O	None	None	None
 877	PMC2396486.nxml.gz	PMC2396486.nxml.gz_32	5046	5167	DVD	NNP	5088	5091	O	None	None	None
 878	PMC2396486.nxml.gz	PMC2396486.nxml.gz_32	5046	5167	on	IN	5092	5094	O	None	None	None
@@ -3180,7 +3180,7 @@
 3178	PMC2396486.nxml.gz	PMC2396486.nxml.gz_93	16762	17123	of	IN	16788	16790	O	None	None	None
 3179	PMC2396486.nxml.gz	PMC2396486.nxml.gz_93	16762	17123	the	DT	16791	16794	O	None	None	None
 3180	PMC2396486.nxml.gz	PMC2396486.nxml.gz_93	16762	17123	network	NN	16795	16802	O	None	None	None
-3181	PMC2396486.nxml.gz	PMC2396486.nxml.gz_93	16762	17123	converge	NN	16803	16811	B	superficial_relationship_2021_10_13_Instance_15	None	None
+3181	PMC2396486.nxml.gz	PMC2396486.nxml.gz_93	16762	17123	converge	NN	16803	16811	B	superficial_relationship_2021_10_19_Instance_15	None	None
 3182	PMC2396486.nxml.gz	PMC2396486.nxml.gz_93	16762	17123	on	IN	16812	16814	O	None	None	None
 3183	PMC2396486.nxml.gz	PMC2396486.nxml.gz_93	16762	17123	MAPK1	NNP	16815	16820	O	None	None	None
 3184	PMC2396486.nxml.gz	PMC2396486.nxml.gz_93	16762	17123	,	,	16820	16821	O	None	None	None
@@ -3289,7 +3289,7 @@
 3287	PMC2396486.nxml.gz	PMC2396486.nxml.gz_97	17342	17545	D	NNP	17375	17376	O	None	None	None
 3288	PMC2396486.nxml.gz	PMC2396486.nxml.gz_97	17342	17545	deficiency	NN	17377	17387	O	None	None	None
 3289	PMC2396486.nxml.gz	PMC2396486.nxml.gz_97	17342	17545	is	VBZ	17388	17390	O	None	None	None
-3290	PMC2396486.nxml.gz	PMC2396486.nxml.gz_97	17342	17545	associated	VBN	17391	17401	B	superficial_relationship_2021_10_13_Instance_16	None	None
+3290	PMC2396486.nxml.gz	PMC2396486.nxml.gz_97	17342	17545	associated	VBN	17391	17401	B	superficial_relationship_2021_10_19_Instance_16	None	None
 3291	PMC2396486.nxml.gz	PMC2396486.nxml.gz_97	17342	17545	with	IN	17402	17406	O	None	None	None
 3292	PMC2396486.nxml.gz	PMC2396486.nxml.gz_97	17342	17545	a	DT	17407	17408	O	None	None	None
 3293	PMC2396486.nxml.gz	PMC2396486.nxml.gz_97	17342	17545	subtle	JJ	17409	17415	O	None	None	None
@@ -3299,10 +3299,10 @@
 3297	PMC2396486.nxml.gz	PMC2396486.nxml.gz_97	17342	17545	expression	NN	17434	17444	O	None	None	None
 3298	PMC2396486.nxml.gz	PMC2396486.nxml.gz_97	17342	17545	of	IN	17445	17447	O	None	None	None
 3299	PMC2396486.nxml.gz	PMC2396486.nxml.gz_97	17342	17545	protein	NN	17448	17455	O	None	None	None
-3300	PMC2396486.nxml.gz	PMC2396486.nxml.gz_97	17342	17545	involved	VBN	17456	17464	B	superficial_relationship_2021_10_13_Instance_17	None	None
+3300	PMC2396486.nxml.gz	PMC2396486.nxml.gz_97	17342	17545	involved	VBN	17456	17464	B	superficial_relationship_2021_10_19_Instance_17	None	None
 3301	PMC2396486.nxml.gz	PMC2396486.nxml.gz_97	17342	17545	in	IN	17465	17467	O	None	None	None
 3302	PMC2396486.nxml.gz	PMC2396486.nxml.gz_97	17342	17545	functions	NNS	17468	17477	O	None	None	None
-3303	PMC2396486.nxml.gz	PMC2396486.nxml.gz_97	17342	17545	related	VBN	17478	17485	B	superficial_relationship_2021_10_13_Instance_18	None	None
+3303	PMC2396486.nxml.gz	PMC2396486.nxml.gz_97	17342	17545	related	VBN	17478	17485	B	superficial_relationship_2021_10_19_Instance_18	None	None
 3304	PMC2396486.nxml.gz	PMC2396486.nxml.gz_97	17342	17545	to	TO	17486	17488	O	None	None	None
 3305	PMC2396486.nxml.gz	PMC2396486.nxml.gz_97	17342	17545	calcium	VB	17489	17496	O	None	None	None
 3306	PMC2396486.nxml.gz	PMC2396486.nxml.gz_97	17342	17545	binding	NN	17497	17504	O	None	None	None
@@ -3475,7 +3475,7 @@
 3473	PMC2396486.nxml.gz	PMC2396486.nxml.gz_102	18326	18731	.	.	18494	18495	O	None	None	None
 3474	PMC2396486.nxml.gz	PMC2396486.nxml.gz_102	18326	18731	The	DT	18496	18499	O	None	None	None
 3475	PMC2396486.nxml.gz	PMC2396486.nxml.gz_102	18326	18731	potential	JJ	18500	18509	O	None	None	None
-3476	PMC2396486.nxml.gz	PMC2396486.nxml.gz_102	18326	18731	links	NNS	18510	18515	B	superficial_relationship_2021_10_13_Instance_19	None	None
+3476	PMC2396486.nxml.gz	PMC2396486.nxml.gz_102	18326	18731	links	NNS	18510	18515	B	superficial_relationship_2021_10_19_Instance_19	None	None
 3477	PMC2396486.nxml.gz	PMC2396486.nxml.gz_102	18326	18731	between	IN	18516	18523	O	None	None	None
 3478	PMC2396486.nxml.gz	PMC2396486.nxml.gz_102	18326	18731	vitamin	NN	18524	18531	O	None	None	None
 3479	PMC2396486.nxml.gz	PMC2396486.nxml.gz_102	18326	18731	D	NNP	18532	18533	O	None	None	None
@@ -3529,7 +3529,7 @@
 3527	PMC2396486.nxml.gz	PMC2396486.nxml.gz_103	18732	18872	endocytosis	NN	18783	18794	O	None	None	None
 3528	PMC2396486.nxml.gz	PMC2396486.nxml.gz_103	18732	18872	,	,	18794	18795	O	None	None	None
 3529	PMC2396486.nxml.gz	PMC2396486.nxml.gz_103	18732	18872	a	DT	18796	18797	O	None	None	None
-3530	PMC2396486.nxml.gz	PMC2396486.nxml.gz_103	18732	18872	role	NN	18798	18802	B	superficial_relationship_2021_10_13_Instance_20	None	None
+3530	PMC2396486.nxml.gz	PMC2396486.nxml.gz_103	18732	18872	role	NN	18798	18802	B	superficial_relationship_2021_10_19_Instance_20	None	None
 3531	PMC2396486.nxml.gz	PMC2396486.nxml.gz_103	18732	18872	of	IN	18803	18805	O	None	None	None
 3532	PMC2396486.nxml.gz	PMC2396486.nxml.gz_103	18732	18872	particular	JJ	18806	18816	O	None	None	None
 3533	PMC2396486.nxml.gz	PMC2396486.nxml.gz_103	18732	18872	importance	NN	18817	18827	O	None	None	None
@@ -3593,7 +3593,7 @@
 3591	PMC2396486.nxml.gz	PMC2396486.nxml.gz_106	19127	19250	suggest	VBP	19142	19149	O	None	None	None
 3592	PMC2396486.nxml.gz	PMC2396486.nxml.gz_106	19127	19250	that	IN	19150	19154	O	None	None	None
 3593	PMC2396486.nxml.gz	PMC2396486.nxml.gz_106	19127	19250	proteins	VBZ	19155	19163	O	None	None	None
-3594	PMC2396486.nxml.gz	PMC2396486.nxml.gz_106	19127	19250	involved	VBN	19164	19172	B	superficial_relationship_2021_10_13_Instance_21	None	None
+3594	PMC2396486.nxml.gz	PMC2396486.nxml.gz_106	19127	19250	involved	VBN	19164	19172	B	superficial_relationship_2021_10_19_Instance_21	None	None
 3595	PMC2396486.nxml.gz	PMC2396486.nxml.gz_106	19127	19250	in	IN	19173	19175	O	None	None	None
 3596	PMC2396486.nxml.gz	PMC2396486.nxml.gz_106	19127	19250	SNAP	NNP	19176	19180	O	None	None	None
 3597	PMC2396486.nxml.gz	PMC2396486.nxml.gz_106	19127	19250	and	CC	19181	19184	O	None	None	None
@@ -3848,7 +3848,7 @@
 3846	PMC2396486.nxml.gz	PMC2396486.nxml.gz_114	20371	20663	),	NN	20595	20597	O	None	None	None
 3847	PMC2396486.nxml.gz	PMC2396486.nxml.gz_114	20371	20663	which	WDT	20598	20603	O	None	None	None
 3848	PMC2396486.nxml.gz	PMC2396486.nxml.gz_114	20371	20663	is	VBZ	20604	20606	O	None	None	None
-3849	PMC2396486.nxml.gz	PMC2396486.nxml.gz_114	20371	20663	involved	VBN	20607	20615	B	superficial_relationship_2021_10_13_Instance_22	None	None
+3849	PMC2396486.nxml.gz	PMC2396486.nxml.gz_114	20371	20663	involved	VBN	20607	20615	B	superficial_relationship_2021_10_19_Instance_22	None	None
 3850	PMC2396486.nxml.gz	PMC2396486.nxml.gz_114	20371	20663	in	IN	20616	20618	O	None	None	None
 3851	PMC2396486.nxml.gz	PMC2396486.nxml.gz_114	20371	20663	the	DT	20619	20622	O	None	None	None
 3852	PMC2396486.nxml.gz	PMC2396486.nxml.gz_114	20371	20663	degradation	NN	20623	20634	O	None	None	None
@@ -3865,7 +3865,7 @@
 3863	PMC2396486.nxml.gz	PMC2396486.nxml.gz_115	20664	20826	neurotensin	NNS	20686	20697	O	None	None	None
 3864	PMC2396486.nxml.gz	PMC2396486.nxml.gz_115	20664	20826	can	MD	20698	20701	O	None	None	None
 3865	PMC2396486.nxml.gz	PMC2396486.nxml.gz_115	20664	20826	indirectly	RB	20702	20712	O	None	None	None
-3866	PMC2396486.nxml.gz	PMC2396486.nxml.gz_115	20664	20826	influence	VB	20713	20722	B	superficial_relationship_2021_10_13_Instance_23	None	None
+3866	PMC2396486.nxml.gz	PMC2396486.nxml.gz_115	20664	20826	influence	VB	20713	20722	B	superficial_relationship_2021_10_19_Instance_23	None	None
 3867	PMC2396486.nxml.gz	PMC2396486.nxml.gz_115	20664	20826	dopaminergic	JJ	20723	20735	O	None	None	None
 3868	PMC2396486.nxml.gz	PMC2396486.nxml.gz_115	20664	20826	transmission	NN	20736	20748	O	None	None	None
 3869	PMC2396486.nxml.gz	PMC2396486.nxml.gz_115	20664	20826	in	IN	20749	20751	O	None	None	None
@@ -3984,7 +3984,7 @@
 3982	PMC2396486.nxml.gz	PMC2396486.nxml.gz_119	21332	21524	studies	NNS	21391	21398	O	None	None	None
 3983	PMC2396486.nxml.gz	PMC2396486.nxml.gz_119	21332	21524	)	)	21398	21399	O	None	None	None
 3984	PMC2396486.nxml.gz	PMC2396486.nxml.gz_119	21332	21524	have	VBP	21400	21404	O	None	None	None
-3985	PMC2396486.nxml.gz	PMC2396486.nxml.gz_119	21332	21524	linked	VBN	21405	21411	B	superficial_relationship_2021_10_13_Instance_24	None	None
+3985	PMC2396486.nxml.gz	PMC2396486.nxml.gz_119	21332	21524	linked	VBN	21405	21411	B	superficial_relationship_2021_10_19_Instance_24	None	None
 3986	PMC2396486.nxml.gz	PMC2396486.nxml.gz_119	21332	21524	schizophrenia	NN	21412	21425	O	None	None	None
 3987	PMC2396486.nxml.gz	PMC2396486.nxml.gz_119	21332	21524	with	IN	21426	21430	O	None	None	None
 3988	PMC2396486.nxml.gz	PMC2396486.nxml.gz_119	21332	21524	alterations	NNS	21431	21442	O	None	None	None
@@ -4114,7 +4114,7 @@
 4112	PMC2396486.nxml.gz	PMC2396486.nxml.gz_122	22038	22223	buffering	NN	22091	22100	O	None	None	None
 4113	PMC2396486.nxml.gz	PMC2396486.nxml.gz_122	22038	22223	proteins	NNS	22101	22109	O	None	None	None
 4114	PMC2396486.nxml.gz	PMC2396486.nxml.gz_122	22038	22223	may	MD	22110	22113	O	None	None	None
-4115	PMC2396486.nxml.gz	PMC2396486.nxml.gz_122	22038	22223	affect	VB	22114	22120	B	superficial_relationship_2021_10_13_Instance_25	None	None
+4115	PMC2396486.nxml.gz	PMC2396486.nxml.gz_122	22038	22223	affect	VB	22114	22120	B	superficial_relationship_2021_10_19_Instance_25	None	None
 4116	PMC2396486.nxml.gz	PMC2396486.nxml.gz_122	22038	22223	the	DT	22121	22124	O	None	None	None
 4117	PMC2396486.nxml.gz	PMC2396486.nxml.gz_122	22038	22223	ability	NN	22125	22132	O	None	None	None
 4118	PMC2396486.nxml.gz	PMC2396486.nxml.gz_122	22038	22223	of	IN	22133	22135	O	None	None	None
@@ -4346,7 +4346,7 @@
 4344	PMC2396486.nxml.gz	PMC2396486.nxml.gz_131	23406	23538	D	NNP	23443	23444	O	None	None	None
 4345	PMC2396486.nxml.gz	PMC2396486.nxml.gz_131	23406	23538	deficiency	NN	23445	23455	O	None	None	None
 4346	PMC2396486.nxml.gz	PMC2396486.nxml.gz_131	23406	23538	is	VBZ	23456	23458	O	None	None	None
-4347	PMC2396486.nxml.gz	PMC2396486.nxml.gz_131	23406	23538	associated	VBN	23459	23469	B	superficial_relationship_2021_10_13_Instance_26	None	None
+4347	PMC2396486.nxml.gz	PMC2396486.nxml.gz_131	23406	23538	associated	VBN	23459	23469	B	superficial_relationship_2021_10_19_Instance_26	None	None
 4348	PMC2396486.nxml.gz	PMC2396486.nxml.gz_131	23406	23538	with	IN	23470	23474	O	None	None	None
 4349	PMC2396486.nxml.gz	PMC2396486.nxml.gz_131	23406	23538	subtle	JJ	23475	23481	O	None	None	None
 4350	PMC2396486.nxml.gz	PMC2396486.nxml.gz_131	23406	23538	changes	NNS	23482	23489	O	None	None	None
@@ -4365,7 +4365,7 @@
 4363	PMC2396486.nxml.gz	PMC2396486.nxml.gz_132	23539	23731	suggest	VBP	23554	23561	O	None	None	None
 4364	PMC2396486.nxml.gz	PMC2396486.nxml.gz_132	23539	23731	that	IN	23562	23566	O	None	None	None
 4365	PMC2396486.nxml.gz	PMC2396486.nxml.gz_132	23539	23731	pathways	NNS	23567	23575	O	None	None	None
-4366	PMC2396486.nxml.gz	PMC2396486.nxml.gz_132	23539	23731	involved	VBN	23576	23584	B	superficial_relationship_2021_10_13_Instance_27	None	None
+4366	PMC2396486.nxml.gz	PMC2396486.nxml.gz_132	23539	23731	involved	VBN	23576	23584	B	superficial_relationship_2021_10_19_Instance_27	None	None
 4367	PMC2396486.nxml.gz	PMC2396486.nxml.gz_132	23539	23731	in	IN	23585	23587	O	None	None	None
 4368	PMC2396486.nxml.gz	PMC2396486.nxml.gz_132	23539	23731	calcium	NN	23588	23595	O	None	None	None
 4369	PMC2396486.nxml.gz	PMC2396486.nxml.gz_132	23539	23731	binding	NN	23596	23603	O	None	None	None
@@ -4377,7 +4377,7 @@
 4375	PMC2396486.nxml.gz	PMC2396486.nxml.gz_132	23539	23731	the	DT	23644	23647	O	None	None	None
 4376	PMC2396486.nxml.gz	PMC2396486.nxml.gz_132	23539	23731	behavioural	JJ	23648	23659	O	None	None	None
 4377	PMC2396486.nxml.gz	PMC2396486.nxml.gz_132	23539	23731	features	NNS	23660	23668	O	None	None	None
-4378	PMC2396486.nxml.gz	PMC2396486.nxml.gz_132	23539	23731	associated	VBN	23669	23679	B	superficial_relationship_2021_10_13_Instance_28	None	None
+4378	PMC2396486.nxml.gz	PMC2396486.nxml.gz_132	23539	23731	associated	VBN	23669	23679	B	superficial_relationship_2021_10_19_Instance_28	None	None
 4379	PMC2396486.nxml.gz	PMC2396486.nxml.gz_132	23539	23731	with	IN	23680	23684	O	None	None	None
 4380	PMC2396486.nxml.gz	PMC2396486.nxml.gz_132	23539	23731	this	DT	23685	23689	O	None	None	None
 4381	PMC2396486.nxml.gz	PMC2396486.nxml.gz_132	23539	23731	particular	JJ	23690	23700	O	None	None	None
@@ -4406,7 +4406,7 @@
 4404	PMC2396486.nxml.gz	PMC2396486.nxml.gz_133	23732	23923	vitamin	NN	23852	23859	O	None	None	None
 4405	PMC2396486.nxml.gz	PMC2396486.nxml.gz_133	23732	23923	D	NNP	23860	23861	O	None	None	None
 4406	PMC2396486.nxml.gz	PMC2396486.nxml.gz_133	23732	23923	deficiency	NN	23862	23872	O	None	None	None
-4407	PMC2396486.nxml.gz	PMC2396486.nxml.gz_133	23732	23923	impacts	NNS	23873	23880	B	superficial_relationship_2021_10_13_Instance_29	None	None
+4407	PMC2396486.nxml.gz	PMC2396486.nxml.gz_133	23732	23923	impacts	NNS	23873	23880	B	superficial_relationship_2021_10_19_Instance_29	None	None
 4408	PMC2396486.nxml.gz	PMC2396486.nxml.gz_133	23732	23923	adversely	RB	23881	23890	O	None	None	None
 4409	PMC2396486.nxml.gz	PMC2396486.nxml.gz_133	23732	23923	on	IN	23891	23893	O	None	None	None
 4410	PMC2396486.nxml.gz	PMC2396486.nxml.gz_133	23732	23923	normal	JJ	23894	23900	O	None	None	None

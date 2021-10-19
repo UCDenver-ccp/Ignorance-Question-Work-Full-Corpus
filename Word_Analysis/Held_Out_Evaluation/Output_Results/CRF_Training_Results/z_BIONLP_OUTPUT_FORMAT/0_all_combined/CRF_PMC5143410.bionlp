@@ -1,275 +1,32 @@
 T0	full_unknown 3581 3596	remains unclear
-T1	explicit_question 3581 3596	remains unclear
-T2	incomplete_evidence 3581 3596	remains unclear
-T3	incomplete_evidence 91 96	first
-T4	incomplete_evidence 238 247	have been
-T5	incomplete_evidence 248 252	only
-T6	incomplete_evidence 503 507	rare
-T7	incomplete_evidence 2353 2356	can
-T8	incomplete_evidence 2504 2512	could be
-T9	incomplete_evidence 2642 2646	only
-T10	incomplete_evidence 3671 3677	notion
-T11	incomplete_evidence 3785 3791	theory
-T12	incomplete_evidence 3917 3925	previous
-T13	incomplete_evidence 3958 3966	believed
-T14	incomplete_evidence 4465 4470	might
-T15	incomplete_evidence 4532 4535	may
-T16	incomplete_evidence 4543 4547	rare
-T17	incomplete_evidence 4583 4591	possible
-T18	probable_understanding 3581 3596	remains unclear
-T19	probable_understanding 91 96	first
-T20	probable_understanding 238 247	have been
-T21	probable_understanding 248 252	only
-T22	probable_understanding 503 507	rare
-T23	probable_understanding 2353 2356	can
-T24	probable_understanding 2504 2512	could be
-T25	probable_understanding 2642 2646	only
-T26	probable_understanding 3671 3677	notion
-T27	probable_understanding 3785 3791	theory
-T28	probable_understanding 3917 3925	previous
-T29	probable_understanding 3958 3966	believed
-T30	probable_understanding 4465 4470	might
-T31	probable_understanding 4532 4535	may
-T32	probable_understanding 4543 4547	rare
-T33	probable_understanding 4583 4591	possible
-T34	probable_understanding 419 428	Therefore
-T35	probable_understanding 512 518	likely
-T36	probable_understanding 519 524	often
-T37	probable_understanding 539 555	To our knowledge
-T38	probable_understanding 4374 4380	likely
-T39	superficial_relationship 3581 3596	remains unclear
-T40	superficial_relationship 91 96	first
-T41	superficial_relationship 238 247	have been
-T42	superficial_relationship 248 252	only
-T43	superficial_relationship 503 507	rare
-T44	superficial_relationship 2353 2356	can
-T45	superficial_relationship 2504 2512	could be
-T46	superficial_relationship 2642 2646	only
-T47	superficial_relationship 3671 3677	notion
-T48	superficial_relationship 3785 3791	theory
-T49	superficial_relationship 3917 3925	previous
-T50	superficial_relationship 3958 3966	believed
-T51	superficial_relationship 4465 4470	might
-T52	superficial_relationship 4532 4535	may
-T53	superficial_relationship 4543 4547	rare
-T54	superficial_relationship 4583 4591	possible
-T55	superficial_relationship 419 428	Therefore
-T56	superficial_relationship 512 518	likely
-T57	superficial_relationship 519 524	often
-T58	superficial_relationship 539 555	To our knowledge
-T59	superficial_relationship 4374 4380	likely
-T60	future_work 3581 3596	remains unclear
-T61	future_work 91 96	first
-T62	future_work 238 247	have been
-T63	future_work 248 252	only
-T64	future_work 503 507	rare
-T65	future_work 2353 2356	can
-T66	future_work 2504 2512	could be
-T67	future_work 2642 2646	only
-T68	future_work 3671 3677	notion
-T69	future_work 3785 3791	theory
-T70	future_work 3917 3925	previous
-T71	future_work 3958 3966	believed
-T72	future_work 4465 4470	might
-T73	future_work 4532 4535	may
-T74	future_work 4543 4547	rare
-T75	future_work 4583 4591	possible
-T76	future_work 419 428	Therefore
-T77	future_work 512 518	likely
-T78	future_work 519 524	often
-T79	future_work 539 555	To our knowledge
-T80	future_work 4374 4380	likely
-T81	future_work 4692 4701	should be
-T82	future_prediction 3581 3596	remains unclear
-T83	future_prediction 91 96	first
-T84	future_prediction 238 247	have been
-T85	future_prediction 248 252	only
-T86	future_prediction 503 507	rare
-T87	future_prediction 2353 2356	can
-T88	future_prediction 2504 2512	could be
-T89	future_prediction 2642 2646	only
-T90	future_prediction 3671 3677	notion
-T91	future_prediction 3785 3791	theory
-T92	future_prediction 3917 3925	previous
-T93	future_prediction 3958 3966	believed
-T94	future_prediction 4465 4470	might
-T95	future_prediction 4532 4535	may
-T96	future_prediction 4543 4547	rare
-T97	future_prediction 4583 4591	possible
-T98	future_prediction 419 428	Therefore
-T99	future_prediction 512 518	likely
-T100	future_prediction 519 524	often
-T101	future_prediction 539 555	To our knowledge
-T102	future_prediction 4374 4380	likely
-T103	future_prediction 4692 4701	should be
-T104	important_consideration 3581 3596	remains unclear
-T105	important_consideration 91 96	first
-T106	important_consideration 238 247	have been
-T107	important_consideration 248 252	only
-T108	important_consideration 503 507	rare
-T109	important_consideration 2353 2356	can
-T110	important_consideration 2504 2512	could be
-T111	important_consideration 2642 2646	only
-T112	important_consideration 3671 3677	notion
-T113	important_consideration 3785 3791	theory
-T114	important_consideration 3917 3925	previous
-T115	important_consideration 3958 3966	believed
-T116	important_consideration 4465 4470	might
-T117	important_consideration 4532 4535	may
-T118	important_consideration 4543 4547	rare
-T119	important_consideration 4583 4591	possible
-T120	important_consideration 419 428	Therefore
-T121	important_consideration 512 518	likely
-T122	important_consideration 519 524	often
-T123	important_consideration 539 555	To our knowledge
-T124	important_consideration 4374 4380	likely
-T125	important_consideration 4692 4701	should be
-T126	important_consideration 436 443	crucial
-T127	important_consideration 4702 4707	aware
-T128	anomaly_curious_finding 3581 3596	remains unclear
-T129	anomaly_curious_finding 91 96	first
-T130	anomaly_curious_finding 238 247	have been
-T131	anomaly_curious_finding 248 252	only
-T132	anomaly_curious_finding 503 507	rare
-T133	anomaly_curious_finding 2353 2356	can
-T134	anomaly_curious_finding 2504 2512	could be
-T135	anomaly_curious_finding 2642 2646	only
-T136	anomaly_curious_finding 3671 3677	notion
-T137	anomaly_curious_finding 3785 3791	theory
-T138	anomaly_curious_finding 3917 3925	previous
-T139	anomaly_curious_finding 3958 3966	believed
-T140	anomaly_curious_finding 4465 4470	might
-T141	anomaly_curious_finding 4532 4535	may
-T142	anomaly_curious_finding 4543 4547	rare
-T143	anomaly_curious_finding 4583 4591	possible
-T144	anomaly_curious_finding 419 428	Therefore
-T145	anomaly_curious_finding 512 518	likely
-T146	anomaly_curious_finding 519 524	often
-T147	anomaly_curious_finding 539 555	To our knowledge
-T148	anomaly_curious_finding 4374 4380	likely
-T149	anomaly_curious_finding 4692 4701	should be
-T150	anomaly_curious_finding 436 443	crucial
-T151	anomaly_curious_finding 4702 4707	aware
-T152	anomaly_curious_finding 2271 2278	appears
-T153	alternative_options_controversy 3581 3596	remains unclear
-T154	alternative_options_controversy 91 96	first
-T155	alternative_options_controversy 238 247	have been
-T156	alternative_options_controversy 248 252	only
-T157	alternative_options_controversy 503 507	rare
-T158	alternative_options_controversy 2353 2356	can
-T159	alternative_options_controversy 2504 2512	could be
-T160	alternative_options_controversy 2642 2646	only
-T161	alternative_options_controversy 3671 3677	notion
-T162	alternative_options_controversy 3785 3791	theory
-T163	alternative_options_controversy 3917 3925	previous
-T164	alternative_options_controversy 3958 3966	believed
-T165	alternative_options_controversy 4465 4470	might
-T166	alternative_options_controversy 4532 4535	may
-T167	alternative_options_controversy 4543 4547	rare
-T168	alternative_options_controversy 4583 4591	possible
-T169	alternative_options_controversy 419 428	Therefore
-T170	alternative_options_controversy 512 518	likely
-T171	alternative_options_controversy 519 524	often
-T172	alternative_options_controversy 539 555	To our knowledge
-T173	alternative_options_controversy 4374 4380	likely
-T174	alternative_options_controversy 4692 4701	should be
-T175	alternative_options_controversy 436 443	crucial
-T176	alternative_options_controversy 4702 4707	aware
-T177	alternative_options_controversy 2271 2278	appears
-T178	alternative_options_controversy 2950 2956	rather
-T179	alternative_options_controversy 3239 3246	However
-T180	alternative_options_controversy 3779 3784	other
-T181	alternative_options_controversy 4811 4817	rather
-T182	difficult_task 3581 3596	remains unclear
-T183	difficult_task 91 96	first
-T184	difficult_task 238 247	have been
-T185	difficult_task 248 252	only
-T186	difficult_task 503 507	rare
-T187	difficult_task 2353 2356	can
-T188	difficult_task 2504 2512	could be
-T189	difficult_task 2642 2646	only
-T190	difficult_task 3671 3677	notion
-T191	difficult_task 3785 3791	theory
-T192	difficult_task 3917 3925	previous
-T193	difficult_task 3958 3966	believed
-T194	difficult_task 4465 4470	might
-T195	difficult_task 4532 4535	may
-T196	difficult_task 4543 4547	rare
-T197	difficult_task 4583 4591	possible
-T198	difficult_task 419 428	Therefore
-T199	difficult_task 512 518	likely
-T200	difficult_task 519 524	often
-T201	difficult_task 539 555	To our knowledge
-T202	difficult_task 4374 4380	likely
-T203	difficult_task 4692 4701	should be
-T204	difficult_task 436 443	crucial
-T205	difficult_task 4702 4707	aware
-T206	difficult_task 2271 2278	appears
-T207	difficult_task 2950 2956	rather
-T208	difficult_task 3239 3246	However
-T209	difficult_task 3779 3784	other
-T210	difficult_task 4811 4817	rather
-T211	problem_complication 3581 3596	remains unclear
-T212	problem_complication 91 96	first
-T213	problem_complication 238 247	have been
-T214	problem_complication 248 252	only
-T215	problem_complication 503 507	rare
-T216	problem_complication 2353 2356	can
-T217	problem_complication 2504 2512	could be
-T218	problem_complication 2642 2646	only
-T219	problem_complication 3671 3677	notion
-T220	problem_complication 3785 3791	theory
-T221	problem_complication 3917 3925	previous
-T222	problem_complication 3958 3966	believed
-T223	problem_complication 4465 4470	might
-T224	problem_complication 4532 4535	may
-T225	problem_complication 4543 4547	rare
-T226	problem_complication 4583 4591	possible
-T227	problem_complication 419 428	Therefore
-T228	problem_complication 512 518	likely
-T229	problem_complication 519 524	often
-T230	problem_complication 539 555	To our knowledge
-T231	problem_complication 4374 4380	likely
-T232	problem_complication 4692 4701	should be
-T233	problem_complication 436 443	crucial
-T234	problem_complication 4702 4707	aware
-T235	problem_complication 2271 2278	appears
-T236	problem_complication 2950 2956	rather
-T237	problem_complication 3239 3246	However
-T238	problem_complication 3779 3784	other
-T239	problem_complication 4811 4817	rather
-T240	problem_complication 525 537	misdiagnosed
-T241	problem_complication 2513 2525	misdiagnosed
-T242	problem_complication 4474 4486	misdiagnosed
-T243	question_answered_by_this_work 3581 3596	remains unclear
-T244	question_answered_by_this_work 91 96	first
-T245	question_answered_by_this_work 238 247	have been
-T246	question_answered_by_this_work 248 252	only
-T247	question_answered_by_this_work 503 507	rare
-T248	question_answered_by_this_work 2353 2356	can
-T249	question_answered_by_this_work 2504 2512	could be
-T250	question_answered_by_this_work 2642 2646	only
-T251	question_answered_by_this_work 3671 3677	notion
-T252	question_answered_by_this_work 3785 3791	theory
-T253	question_answered_by_this_work 3917 3925	previous
-T254	question_answered_by_this_work 3958 3966	believed
-T255	question_answered_by_this_work 4465 4470	might
-T256	question_answered_by_this_work 4532 4535	may
-T257	question_answered_by_this_work 4543 4547	rare
-T258	question_answered_by_this_work 4583 4591	possible
-T259	question_answered_by_this_work 419 428	Therefore
-T260	question_answered_by_this_work 512 518	likely
-T261	question_answered_by_this_work 519 524	often
-T262	question_answered_by_this_work 539 555	To our knowledge
-T263	question_answered_by_this_work 4374 4380	likely
-T264	question_answered_by_this_work 4692 4701	should be
-T265	question_answered_by_this_work 436 443	crucial
-T266	question_answered_by_this_work 4702 4707	aware
-T267	question_answered_by_this_work 2271 2278	appears
-T268	question_answered_by_this_work 2950 2956	rather
-T269	question_answered_by_this_work 3239 3246	However
-T270	question_answered_by_this_work 3779 3784	other
-T271	question_answered_by_this_work 4811 4817	rather
-T272	question_answered_by_this_work 525 537	misdiagnosed
-T273	question_answered_by_this_work 2513 2525	misdiagnosed
-T274	question_answered_by_this_work 4474 4486	misdiagnosed
+T1	incomplete_evidence 91 96	first
+T2	incomplete_evidence 238 247	have been
+T3	incomplete_evidence 248 252	only
+T4	incomplete_evidence 503 507	rare
+T5	incomplete_evidence 2353 2356	can
+T6	incomplete_evidence 2504 2512	could be
+T7	incomplete_evidence 2642 2646	only
+T8	incomplete_evidence 3671 3677	notion
+T9	incomplete_evidence 3785 3791	theory
+T10	incomplete_evidence 3917 3925	previous
+T11	incomplete_evidence 3958 3966	believed
+T12	incomplete_evidence 4465 4470	might
+T13	incomplete_evidence 4532 4535	may
+T14	incomplete_evidence 4543 4547	rare
+T15	incomplete_evidence 4583 4591	possible
+T16	probable_understanding 419 428	Therefore
+T17	probable_understanding 512 518	likely
+T18	probable_understanding 519 524	often
+T19	probable_understanding 539 555	To our knowledge
+T20	probable_understanding 4374 4380	likely
+T21	future_work 4692 4701	should be
+T22	important_consideration 436 443	crucial
+T23	important_consideration 4702 4707	aware
+T24	anomaly_curious_finding 2271 2278	appears
+T25	alternative_options_controversy 2950 2956	rather
+T26	alternative_options_controversy 3239 3246	However
+T27	alternative_options_controversy 3779 3784	other
+T28	alternative_options_controversy 4811 4817	rather
+T29	problem_complication 525 537	misdiagnosed
+T30	problem_complication 2513 2525	misdiagnosed
+T31	problem_complication 4474 4486	misdiagnosed

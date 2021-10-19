@@ -6,7 +6,7 @@
 4	PMC3789799.nxml.gz	PMC3789799.nxml.gz_0	0	220	-	:	27	28	O	None	None	None
 5	PMC3789799.nxml.gz	PMC3789799.nxml.gz_0	0	220	Induced	VBD	28	35	O	None	None	None
 6	PMC3789799.nxml.gz	PMC3789799.nxml.gz_0	0	220	Mutations	NNS	36	45	O	None	None	None
-7	PMC3789799.nxml.gz	PMC3789799.nxml.gz_0	0	220	Affecting	NNP	46	55	B	superficial_relationship_2021_10_13_Instance_359	None	None
+7	PMC3789799.nxml.gz	PMC3789799.nxml.gz_0	0	220	Affecting	NNP	46	55	B	superficial_relationship_2021_10_19_Instance_359	None	None
 8	PMC3789799.nxml.gz	PMC3789799.nxml.gz_0	0	220	Mouse	NNP	56	61	O	None	None	None
 9	PMC3789799.nxml.gz	PMC3789799.nxml.gz_0	0	220	Skeletal	NNP	62	70	O	None	None	None
 10	PMC3789799.nxml.gz	PMC3789799.nxml.gz_0	0	220	Morphology	NNP	71	81	O	None	None	None
@@ -194,7 +194,7 @@
 192	PMC3789799.nxml.gz	PMC3789799.nxml.gz_7	1030	1169	in	IN	1119	1121	O	None	None	None
 193	PMC3789799.nxml.gz	PMC3789799.nxml.gz_7	1030	1169	genes	NNS	1122	1127	O	None	None	None
 194	PMC3789799.nxml.gz	PMC3789799.nxml.gz_7	1030	1169	that	WDT	1128	1132	O	None	None	None
-195	PMC3789799.nxml.gz	PMC3789799.nxml.gz_7	1030	1169	contribute	VBP	1133	1143	B	superficial_relationship_2021_10_13_Instance_360	None	None
+195	PMC3789799.nxml.gz	PMC3789799.nxml.gz_7	1030	1169	contribute	VBP	1133	1143	B	superficial_relationship_2021_10_19_Instance_360	None	None
 196	PMC3789799.nxml.gz	PMC3789799.nxml.gz_7	1030	1169	to	TO	1144	1146	O	None	None	None
 197	PMC3789799.nxml.gz	PMC3789799.nxml.gz_7	1030	1169	vertebral	JJ	1147	1156	O	None	None	None
 198	PMC3789799.nxml.gz	PMC3789799.nxml.gz_7	1030	1169	development	NN	1157	1168	O	None	None	None
@@ -223,7 +223,7 @@
 221	PMC3789799.nxml.gz	PMC3789799.nxml.gz_8	1170	1473	,	,	1312	1313	O	None	None	None
 222	PMC3789799.nxml.gz	PMC3789799.nxml.gz_8	1170	1473	can	MD	1314	1317	O	None	None	None
 223	PMC3789799.nxml.gz	PMC3789799.nxml.gz_8	1170	1473	all	DT	1318	1321	O	None	None	None
-224	PMC3789799.nxml.gz	PMC3789799.nxml.gz_8	1170	1473	contribute	VB	1322	1332	B	superficial_relationship_2021_10_13_Instance_361	None	None
+224	PMC3789799.nxml.gz	PMC3789799.nxml.gz_8	1170	1473	contribute	VB	1322	1332	B	superficial_relationship_2021_10_19_Instance_361	None	None
 225	PMC3789799.nxml.gz	PMC3789799.nxml.gz_8	1170	1473	to	TO	1333	1335	O	None	None	None
 226	PMC3789799.nxml.gz	PMC3789799.nxml.gz_8	1170	1473	congenital	JJ	1336	1346	O	None	None	None
 227	PMC3789799.nxml.gz	PMC3789799.nxml.gz_8	1170	1473	defects	NNS	1347	1354	O	None	None	None
@@ -233,7 +233,7 @@
 231	PMC3789799.nxml.gz	PMC3789799.nxml.gz_8	1170	1473	),	VBD	1370	1372	O	None	None	None
 232	PMC3789799.nxml.gz	PMC3789799.nxml.gz_8	1170	1473	the	DT	1373	1376	O	None	None	None
 233	PMC3789799.nxml.gz	PMC3789799.nxml.gz_8	1170	1473	genetic	JJ	1377	1384	O	None	None	None
-234	PMC3789799.nxml.gz	PMC3789799.nxml.gz_8	1170	1473	contribution	NN	1385	1397	B	superficial_relationship_2021_10_13_Instance_362	None	None
+234	PMC3789799.nxml.gz	PMC3789799.nxml.gz_8	1170	1473	contribution	NN	1385	1397	B	superficial_relationship_2021_10_19_Instance_362	None	None
 235	PMC3789799.nxml.gz	PMC3789799.nxml.gz_8	1170	1473	to	TO	1398	1400	O	None	None	None
 236	PMC3789799.nxml.gz	PMC3789799.nxml.gz_8	1170	1473	the	DT	1401	1404	O	None	None	None
 237	PMC3789799.nxml.gz	PMC3789799.nxml.gz_8	1170	1473	pathogenesis	NN	1405	1417	O	None	None	None
@@ -361,7 +361,7 @@
 359	PMC3789799.nxml.gz	PMC3789799.nxml.gz_13	2070	2271	identify	VB	2133	2141	O	None	None	None
 360	PMC3789799.nxml.gz	PMC3789799.nxml.gz_13	2070	2271	causal	NN	2142	2148	O	None	None	None
 361	PMC3789799.nxml.gz	PMC3789799.nxml.gz_13	2070	2271	genes	NNS	2149	2154	O	None	None	None
-362	PMC3789799.nxml.gz	PMC3789799.nxml.gz_13	2070	2271	underlying	VBG	2155	2165	B	superficial_relationship_2021_10_13_Instance_363	None	None
+362	PMC3789799.nxml.gz	PMC3789799.nxml.gz_13	2070	2271	underlying	VBG	2155	2165	B	superficial_relationship_2021_10_19_Instance_363	None	None
 363	PMC3789799.nxml.gz	PMC3789799.nxml.gz_13	2070	2271	spinal	JJ	2166	2172	O	None	None	None
 364	PMC3789799.nxml.gz	PMC3789799.nxml.gz_13	2070	2271	deformities	NNS	2173	2184	O	None	None	None
 365	PMC3789799.nxml.gz	PMC3789799.nxml.gz_13	2070	2271	can	MD	2185	2188	O	None	None	None
@@ -479,7 +479,7 @@
 477	PMC3789799.nxml.gz	PMC3789799.nxml.gz_17	2620	2905	phenotype	NN	2824	2833	O	None	None	None
 478	PMC3789799.nxml.gz	PMC3789799.nxml.gz_17	2620	2905	–	NNP	2833	2834	O	None	None	None
 479	PMC3789799.nxml.gz	PMC3789799.nxml.gz_17	2620	2905	genotype	NN	2834	2842	O	None	None	None
-480	PMC3789799.nxml.gz	PMC3789799.nxml.gz_17	2620	2905	relationships	NNS	2843	2856	B	superficial_relationship_2021_10_13_Instance_364	None	None
+480	PMC3789799.nxml.gz	PMC3789799.nxml.gz_17	2620	2905	relationships	NNS	2843	2856	B	superficial_relationship_2021_10_19_Instance_364	None	None
 481	PMC3789799.nxml.gz	PMC3789799.nxml.gz_17	2620	2905	in	IN	2857	2859	O	None	None	None
 482	PMC3789799.nxml.gz	PMC3789799.nxml.gz_17	2620	2905	an	DT	2860	2862	O	None	None	None
 483	PMC3789799.nxml.gz	PMC3789799.nxml.gz_17	2620	2905	unbiased	JJ	2863	2871	O	None	None	None
@@ -501,7 +501,7 @@
 499	PMC3789799.nxml.gz	PMC3789799.nxml.gz_18	2906	3143	of	IN	2952	2954	O	None	None	None
 500	PMC3789799.nxml.gz	PMC3789799.nxml.gz_18	2906	3143	two	CD	2955	2958	O	None	None	None
 501	PMC3789799.nxml.gz	PMC3789799.nxml.gz_18	2906	3143	mutations	NNS	2959	2968	O	None	None	None
-502	PMC3789799.nxml.gz	PMC3789799.nxml.gz_18	2906	3143	affecting	VBG	2969	2978	B	superficial_relationship_2021_10_13_Instance_365	None	None
+502	PMC3789799.nxml.gz	PMC3789799.nxml.gz_18	2906	3143	affecting	VBG	2969	2978	B	superficial_relationship_2021_10_19_Instance_365	None	None
 503	PMC3789799.nxml.gz	PMC3789799.nxml.gz_18	2906	3143	skeletal	JJ	2979	2987	O	None	None	None
 504	PMC3789799.nxml.gz	PMC3789799.nxml.gz_18	2906	3143	morphology	NN	2988	2998	O	None	None	None
 505	PMC3789799.nxml.gz	PMC3789799.nxml.gz_18	2906	3143	,	,	2998	2999	O	None	None	None
@@ -1070,7 +1070,7 @@
 1068	PMC3789799.nxml.gz	PMC3789799.nxml.gz_36	5809	6003	two	CD	5939	5942	O	None	None	None
 1069	PMC3789799.nxml.gz	PMC3789799.nxml.gz_36	5809	6003	mutations	NNS	5943	5952	O	None	None	None
 1070	PMC3789799.nxml.gz	PMC3789799.nxml.gz_36	5809	6003	that	WDT	5953	5957	O	None	None	None
-1071	PMC3789799.nxml.gz	PMC3789799.nxml.gz_36	5809	6003	contribute	VBP	5958	5968	B	superficial_relationship_2021_10_13_Instance_366	None	None
+1071	PMC3789799.nxml.gz	PMC3789799.nxml.gz_36	5809	6003	contribute	VBP	5958	5968	B	superficial_relationship_2021_10_19_Instance_366	None	None
 1072	PMC3789799.nxml.gz	PMC3789799.nxml.gz_36	5809	6003	to	TO	5969	5971	O	None	None	None
 1073	PMC3789799.nxml.gz	PMC3789799.nxml.gz_36	5809	6003	skeletal	JJ	5972	5980	O	None	None	None
 1074	PMC3789799.nxml.gz	PMC3789799.nxml.gz_36	5809	6003	malformations	NNS	5981	5994	O	None	None	None
@@ -1602,7 +1602,7 @@
 1600	PMC3789799.nxml.gz	PMC3789799.nxml.gz_55	8595	8785	).	NN	8783	8785	O	None	None	None
 1601	PMC3789799.nxml.gz	PMC3789799.nxml.gz_56	8786	8952	The	DT	8786	8789	O	None	None	None
 1602	PMC3789799.nxml.gz	PMC3789799.nxml.gz_56	8786	8952	mutation	NN	8790	8798	O	None	None	None
-1603	PMC3789799.nxml.gz	PMC3789799.nxml.gz_56	8786	8952	underlying	VBG	8799	8809	B	superficial_relationship_2021_10_13_Instance_367	None	None
+1603	PMC3789799.nxml.gz	PMC3789799.nxml.gz_56	8786	8952	underlying	VBG	8799	8809	B	superficial_relationship_2021_10_19_Instance_367	None	None
 1604	PMC3789799.nxml.gz	PMC3789799.nxml.gz_56	8786	8952	the	DT	8810	8813	O	None	None	None
 1605	PMC3789799.nxml.gz	PMC3789799.nxml.gz_56	8786	8952	Skm1	NNP	8814	8818	O	None	None	None
 1606	PMC3789799.nxml.gz	PMC3789799.nxml.gz_56	8786	8952	phenotype	NN	8819	8828	O	None	None	None
@@ -1780,7 +1780,7 @@
 1778	PMC3789799.nxml.gz	PMC3789799.nxml.gz_63	9666	9810	Identification	NNP	9691	9705	O	None	None	None
 1779	PMC3789799.nxml.gz	PMC3789799.nxml.gz_63	9666	9810	of	IN	9706	9708	O	None	None	None
 1780	PMC3789799.nxml.gz	PMC3789799.nxml.gz_63	9666	9810	mutations	NNS	9709	9718	O	None	None	None
-1781	PMC3789799.nxml.gz	PMC3789799.nxml.gz_63	9666	9810	underlying	VBG	9719	9729	B	superficial_relationship_2021_10_13_Instance_368	None	None
+1781	PMC3789799.nxml.gz	PMC3789799.nxml.gz_63	9666	9810	underlying	VBG	9719	9729	B	superficial_relationship_2021_10_19_Instance_368	None	None
 1782	PMC3789799.nxml.gz	PMC3789799.nxml.gz_63	9666	9810	skeletal	JJ	9730	9738	O	None	None	None
 1783	PMC3789799.nxml.gz	PMC3789799.nxml.gz_63	9666	9810	morphology	NN	9739	9749	O	None	None	None
 1784	PMC3789799.nxml.gz	PMC3789799.nxml.gz_63	9666	9810	mutant	JJ	9750	9756	O	None	None	None
@@ -2041,7 +2041,7 @@
 2039	PMC3789799.nxml.gz	PMC3789799.nxml.gz_72	10763	11077	genes	NNS	10963	10968	O	None	None	None
 2040	PMC3789799.nxml.gz	PMC3789799.nxml.gz_72	10763	11077	with	IN	10969	10973	O	None	None	None
 2041	PMC3789799.nxml.gz	PMC3789799.nxml.gz_72	10763	11077	the	DT	10974	10977	O	None	None	None
-2042	PMC3789799.nxml.gz	PMC3789799.nxml.gz_72	10763	11077	associated	VBN	10978	10988	B	superficial_relationship_2021_10_13_Instance_369	None	None
+2042	PMC3789799.nxml.gz	PMC3789799.nxml.gz_72	10763	11077	associated	VBN	10978	10988	B	superficial_relationship_2021_10_19_Instance_369	None	None
 2043	PMC3789799.nxml.gz	PMC3789799.nxml.gz_72	10763	11077	mouse	NN	10989	10994	O	None	None	None
 2044	PMC3789799.nxml.gz	PMC3789799.nxml.gz_72	10763	11077	phenotype	NN	10995	11004	O	None	None	None
 2045	PMC3789799.nxml.gz	PMC3789799.nxml.gz_72	10763	11077	of	IN	11005	11007	O	None	None	None
@@ -2546,7 +2546,7 @@
 2544	PMC3789799.nxml.gz	PMC3789799.nxml.gz_92	13409	13635	have	VBP	13460	13464	O	None	None	None
 2545	PMC3789799.nxml.gz	PMC3789799.nxml.gz_92	13409	13635	previously	RB	13465	13475	O	None	None	None
 2546	PMC3789799.nxml.gz	PMC3789799.nxml.gz_92	13409	13635	been	VBN	13476	13480	O	None	None	None
-2547	PMC3789799.nxml.gz	PMC3789799.nxml.gz_92	13409	13635	associated	VBN	13481	13491	B	superficial_relationship_2021_10_13_Instance_370	None	None
+2547	PMC3789799.nxml.gz	PMC3789799.nxml.gz_92	13409	13635	associated	VBN	13481	13491	B	superficial_relationship_2021_10_19_Instance_370	None	None
 2548	PMC3789799.nxml.gz	PMC3789799.nxml.gz_92	13409	13635	with	IN	13492	13496	O	None	None	None
 2549	PMC3789799.nxml.gz	PMC3789799.nxml.gz_92	13409	13635	skeletal	JJ	13497	13505	O	None	None	None
 2550	PMC3789799.nxml.gz	PMC3789799.nxml.gz_92	13409	13635	abnormalities	NNS	13506	13519	O	None	None	None
@@ -2617,7 +2617,7 @@
 2615	PMC3789799.nxml.gz	PMC3789799.nxml.gz_94	13731	13978	comprise	NN	13882	13890	O	None	None	None
 2616	PMC3789799.nxml.gz	PMC3789799.nxml.gz_94	13731	13978	three	CD	13891	13896	O	None	None	None
 2617	PMC3789799.nxml.gz	PMC3789799.nxml.gz_94	13731	13978	structurally	RB	13897	13909	O	None	None	None
-2618	PMC3789799.nxml.gz	PMC3789799.nxml.gz_94	13731	13978	related	JJ	13910	13917	B	superficial_relationship_2021_10_13_Instance_371	None	None
+2618	PMC3789799.nxml.gz	PMC3789799.nxml.gz_94	13731	13978	related	JJ	13910	13917	B	superficial_relationship_2021_10_19_Instance_371	None	None
 2619	PMC3789799.nxml.gz	PMC3789799.nxml.gz_94	13731	13978	molecules	NNS	13918	13927	O	None	None	None
 2620	PMC3789799.nxml.gz	PMC3789799.nxml.gz_94	13731	13978	:	:	13927	13928	O	None	None	None
 2621	PMC3789799.nxml.gz	PMC3789799.nxml.gz_94	13731	13978	atrial	JJ	13929	13935	O	None	None	None
@@ -2645,7 +2645,7 @@
 2643	PMC3789799.nxml.gz	PMC3789799.nxml.gz_95	13979	14124	important	JJ	14014	14023	O	None	None	None
 2644	PMC3789799.nxml.gz	PMC3789799.nxml.gz_95	13979	14124	in	IN	14024	14026	O	None	None	None
 2645	PMC3789799.nxml.gz	PMC3789799.nxml.gz_95	13979	14124	osteoblast	JJ	14027	14037	O	None	None	None
-2646	PMC3789799.nxml.gz	PMC3789799.nxml.gz_95	13979	14124	regulation	NN	14038	14048	B	superficial_relationship_2021_10_13_Instance_372	None	None
+2646	PMC3789799.nxml.gz	PMC3789799.nxml.gz_95	13979	14124	regulation	NN	14038	14048	B	superficial_relationship_2021_10_19_Instance_372	None	None
 2647	PMC3789799.nxml.gz	PMC3789799.nxml.gz_95	13979	14124	,	,	14048	14049	O	None	None	None
 2648	PMC3789799.nxml.gz	PMC3789799.nxml.gz_95	13979	14124	shows	VBZ	14050	14055	O	None	None	None
 2649	PMC3789799.nxml.gz	PMC3789799.nxml.gz_95	13979	14124	homology	NN	14056	14064	O	None	None	None
@@ -2779,7 +2779,7 @@
 2777	PMC3789799.nxml.gz	PMC3789799.nxml.gz_103	14708	14802	this	DT	14722	14726	O	None	None	None
 2778	PMC3789799.nxml.gz	PMC3789799.nxml.gz_103	14708	14802	domain	NN	14727	14733	O	None	None	None
 2779	PMC3789799.nxml.gz	PMC3789799.nxml.gz_103	14708	14802	would	MD	14734	14739	O	None	None	None
-2780	PMC3789799.nxml.gz	PMC3789799.nxml.gz_103	14708	14802	prevent	VB	14740	14747	B	superficial_relationship_2021_10_13_Instance_373	None	None
+2780	PMC3789799.nxml.gz	PMC3789799.nxml.gz_103	14708	14802	prevent	VB	14740	14747	B	superficial_relationship_2021_10_19_Instance_373	None	None
 2781	PMC3789799.nxml.gz	PMC3789799.nxml.gz_103	14708	14802	clearance	NN	14748	14757	O	None	None	None
 2782	PMC3789799.nxml.gz	PMC3789799.nxml.gz_103	14708	14802	of	IN	14758	14760	O	None	None	None
 2783	PMC3789799.nxml.gz	PMC3789799.nxml.gz_103	14708	14802	the	DT	14761	14764	O	None	None	None
@@ -2862,7 +2862,7 @@
 2860	PMC3789799.nxml.gz	PMC3789799.nxml.gz_109	15078	15203	Skm1	NNP	15152	15156	O	None	None	None
 2861	PMC3789799.nxml.gz	PMC3789799.nxml.gz_109	15078	15203	mice	NN	15157	15161	O	None	None	None
 2862	PMC3789799.nxml.gz	PMC3789799.nxml.gz_109	15078	15203	may	MD	15162	15165	O	None	None	None
-2863	PMC3789799.nxml.gz	PMC3789799.nxml.gz_109	15078	15203	contribute	VB	15166	15176	B	superficial_relationship_2021_10_13_Instance_374	None	None
+2863	PMC3789799.nxml.gz	PMC3789799.nxml.gz_109	15078	15203	contribute	VB	15166	15176	B	superficial_relationship_2021_10_19_Instance_374	None	None
 2864	PMC3789799.nxml.gz	PMC3789799.nxml.gz_109	15078	15203	to	TO	15177	15179	O	None	None	None
 2865	PMC3789799.nxml.gz	PMC3789799.nxml.gz_109	15078	15203	the	DT	15180	15183	O	None	None	None
 2866	PMC3789799.nxml.gz	PMC3789799.nxml.gz_109	15078	15203	skeletal	JJ	15184	15192	O	None	None	None
@@ -2883,7 +2883,7 @@
 2881	PMC3789799.nxml.gz	PMC3789799.nxml.gz_110	15204	15348	shown	VBN	15258	15263	O	None	None	None
 2882	PMC3789799.nxml.gz	PMC3789799.nxml.gz_110	15204	15348	to	TO	15264	15266	O	None	None	None
 2883	PMC3789799.nxml.gz	PMC3789799.nxml.gz_110	15204	15348	be	VB	15267	15269	O	None	None	None
-2884	PMC3789799.nxml.gz	PMC3789799.nxml.gz_110	15204	15348	associated	VBN	15270	15280	B	superficial_relationship_2021_10_13_Instance_375	None	None
+2884	PMC3789799.nxml.gz	PMC3789799.nxml.gz_110	15204	15348	associated	VBN	15270	15280	B	superficial_relationship_2021_10_19_Instance_375	None	None
 2885	PMC3789799.nxml.gz	PMC3789799.nxml.gz_110	15204	15348	with	IN	15281	15285	O	None	None	None
 2886	PMC3789799.nxml.gz	PMC3789799.nxml.gz_110	15204	15348	overall	JJ	15286	15293	O	None	None	None
 2887	PMC3789799.nxml.gz	PMC3789799.nxml.gz_110	15204	15348	body	NN	15294	15298	O	None	None	None
@@ -3129,7 +3129,7 @@
 3127	PMC3789799.nxml.gz	PMC3789799.nxml.gz_121	16566	16800	Flnb	NNP	16581	16585	O	None	None	None
 3128	PMC3789799.nxml.gz	PMC3789799.nxml.gz_121	16566	16800	knockout	NN	16586	16594	O	None	None	None
 3129	PMC3789799.nxml.gz	PMC3789799.nxml.gz_121	16566	16800	is	VBZ	16595	16597	O	None	None	None
-3130	PMC3789799.nxml.gz	PMC3789799.nxml.gz_121	16566	16800	associated	VBN	16598	16608	B	superficial_relationship_2021_10_13_Instance_376	None	None
+3130	PMC3789799.nxml.gz	PMC3789799.nxml.gz_121	16566	16800	associated	VBN	16598	16608	B	superficial_relationship_2021_10_19_Instance_376	None	None
 3131	PMC3789799.nxml.gz	PMC3789799.nxml.gz_121	16566	16800	with	IN	16609	16613	O	None	None	None
 3132	PMC3789799.nxml.gz	PMC3789799.nxml.gz_121	16566	16800	embryonic	JJ	16614	16623	O	None	None	None
 3133	PMC3789799.nxml.gz	PMC3789799.nxml.gz_121	16566	16800	lethality	NN	16624	16633	O	None	None	None

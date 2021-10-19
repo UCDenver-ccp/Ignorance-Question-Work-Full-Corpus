@@ -16,7 +16,7 @@
 14	PMC3933411.nxml.gz	PMC3933411.nxml.gz_0	0	203	Pregnancy	NNP	117	126	O	None	None	None
 15	PMC3933411.nxml.gz	PMC3933411.nxml.gz_0	0	203	is	VBZ	127	129	O	None	None	None
 16	PMC3933411.nxml.gz	PMC3933411.nxml.gz_0	0	203	a	DT	130	131	O	None	None	None
-17	PMC3933411.nxml.gz	PMC3933411.nxml.gz_0	0	203	critical	JJ	132	140	B	important_consideration_2021_10_13_Instance_204	None	None
+17	PMC3933411.nxml.gz	PMC3933411.nxml.gz_0	0	203	critical	JJ	132	140	B	important_consideration_2021_10_19_Instance_204	None	None
 18	PMC3933411.nxml.gz	PMC3933411.nxml.gz_0	0	203	period	NN	141	147	O	None	None	None
 19	PMC3933411.nxml.gz	PMC3933411.nxml.gz_0	0	203	for	IN	148	151	O	None	None	None
 20	PMC3933411.nxml.gz	PMC3933411.nxml.gz_0	0	203	both	DT	152	156	O	None	None	None
@@ -33,7 +33,7 @@
 31	PMC3933411.nxml.gz	PMC3933411.nxml.gz_1	204	463	is	VBZ	226	228	O	None	None	None
 32	PMC3933411.nxml.gz	PMC3933411.nxml.gz_1	204	463	considered	VBN	229	239	O	None	None	None
 33	PMC3933411.nxml.gz	PMC3933411.nxml.gz_1	204	463	an	DT	240	242	O	None	None	None
-34	PMC3933411.nxml.gz	PMC3933411.nxml.gz_1	204	463	important	JJ	243	252	B	important_consideration_2021_10_13_Instance_205	None	None
+34	PMC3933411.nxml.gz	PMC3933411.nxml.gz_1	204	463	important	JJ	243	252	B	important_consideration_2021_10_19_Instance_205	None	None
 35	PMC3933411.nxml.gz	PMC3933411.nxml.gz_1	204	463	tool	NN	253	257	O	None	None	None
 36	PMC3933411.nxml.gz	PMC3933411.nxml.gz_1	204	463	for	IN	258	261	O	None	None	None
 37	PMC3933411.nxml.gz	PMC3933411.nxml.gz_1	204	463	promoting	VBG	262	271	O	None	None	None
@@ -678,7 +678,7 @@
 676	PMC3933411.nxml.gz	PMC3933411.nxml.gz_16	3056	3238	but	CC	3151	3154	O	None	None	None
 677	PMC3933411.nxml.gz	PMC3933411.nxml.gz_16	3056	3238	there	EX	3155	3160	O	None	None	None
 678	PMC3933411.nxml.gz	PMC3933411.nxml.gz_16	3056	3238	is	VBZ	3161	3163	O	None	None	None
-679	PMC3933411.nxml.gz	PMC3933411.nxml.gz_16	3056	3238	still	RB	3164	3169	B	important_consideration_2021_10_13_Instance_206	None	None
+679	PMC3933411.nxml.gz	PMC3933411.nxml.gz_16	3056	3238	still	RB	3164	3169	B	important_consideration_2021_10_19_Instance_206	None	None
 680	PMC3933411.nxml.gz	PMC3933411.nxml.gz_16	3056	3238	debate	JJ	3170	3176	O	None	None	None
 681	PMC3933411.nxml.gz	PMC3933411.nxml.gz_16	3056	3238	as	IN	3177	3179	O	None	None	None
 682	PMC3933411.nxml.gz	PMC3933411.nxml.gz_16	3056	3238	to	TO	3180	3182	O	None	None	None
@@ -699,9 +699,9 @@
 697	PMC3933411.nxml.gz	PMC3933411.nxml.gz_17	3239	3440	pregnancy	NN	3254	3263	O	None	None	None
 698	PMC3933411.nxml.gz	PMC3933411.nxml.gz_17	3239	3440	is	VBZ	3264	3266	O	None	None	None
 699	PMC3933411.nxml.gz	PMC3933411.nxml.gz_17	3239	3440	a	DT	3267	3268	O	None	None	None
-700	PMC3933411.nxml.gz	PMC3933411.nxml.gz_17	3239	3440	public	JJ	3269	3275	B	important_consideration_2021_10_13_Instance_207	None	None
-701	PMC3933411.nxml.gz	PMC3933411.nxml.gz_17	3239	3440	health	NN	3276	3282	I	important_consideration_2021_10_13_Instance_207	None	None
-702	PMC3933411.nxml.gz	PMC3933411.nxml.gz_17	3239	3440	problem	NN	3283	3290	B	important_consideration_2021_10_13_Instance_208	None	None
+700	PMC3933411.nxml.gz	PMC3933411.nxml.gz_17	3239	3440	public	JJ	3269	3275	B	important_consideration_2021_10_19_Instance_207	None	None
+701	PMC3933411.nxml.gz	PMC3933411.nxml.gz_17	3239	3440	health	NN	3276	3282	I	important_consideration_2021_10_19_Instance_207	None	None
+702	PMC3933411.nxml.gz	PMC3933411.nxml.gz_17	3239	3440	problem	NN	3283	3290	B	important_consideration_2021_10_19_Instance_208	None	None
 703	PMC3933411.nxml.gz	PMC3933411.nxml.gz_17	3239	3440	that	WDT	3291	3295	O	None	None	None
 704	PMC3933411.nxml.gz	PMC3933411.nxml.gz_17	3239	3440	affects	VBZ	3296	3303	O	None	None	None
 705	PMC3933411.nxml.gz	PMC3933411.nxml.gz_17	3239	3440	both	DT	3304	3308	O	None	None	None
@@ -916,9 +916,9 @@
 914	PMC3933411.nxml.gz	PMC3933411.nxml.gz_21	4135	4532	].	NN	4530	4532	O	None	None	None
 915	PMC3933411.nxml.gz	PMC3933411.nxml.gz_22	4533	4914	Several	JJ	4533	4540	O	None	None	None
 916	PMC3933411.nxml.gz	PMC3933411.nxml.gz_22	4533	4914	studies	NNS	4541	4548	O	None	None	None
-917	PMC3933411.nxml.gz	PMC3933411.nxml.gz_22	4533	4914	emphasize	VBP	4549	4558	B	important_consideration_2021_10_13_Instance_209	None	None
+917	PMC3933411.nxml.gz	PMC3933411.nxml.gz_22	4533	4914	emphasize	VBP	4549	4558	B	important_consideration_2021_10_19_Instance_209	None	None
 918	PMC3933411.nxml.gz	PMC3933411.nxml.gz_22	4533	4914	the	DT	4559	4562	O	None	None	None
-919	PMC3933411.nxml.gz	PMC3933411.nxml.gz_22	4533	4914	importance	NN	4563	4573	B	important_consideration_2021_10_13_Instance_210	None	None
+919	PMC3933411.nxml.gz	PMC3933411.nxml.gz_22	4533	4914	importance	NN	4563	4573	B	important_consideration_2021_10_19_Instance_210	None	None
 920	PMC3933411.nxml.gz	PMC3933411.nxml.gz_22	4533	4914	of	IN	4574	4576	O	None	None	None
 921	PMC3933411.nxml.gz	PMC3933411.nxml.gz_22	4533	4914	the	DT	4577	4580	O	None	None	None
 922	PMC3933411.nxml.gz	PMC3933411.nxml.gz_22	4533	4914	relationship	NN	4581	4593	O	None	None	None
@@ -1891,7 +1891,7 @@
 1889	PMC3933411.nxml.gz	PMC3933411.nxml.gz_47	9493	9713	,	,	9675	9676	O	None	None	None
 1890	PMC3933411.nxml.gz	PMC3933411.nxml.gz_47	9493	9713	and	CC	9677	9680	O	None	None	None
 1891	PMC3933411.nxml.gz	PMC3933411.nxml.gz_47	9493	9713	the	DT	9681	9684	O	None	None	None
-1892	PMC3933411.nxml.gz	PMC3933411.nxml.gz_47	9493	9713	importance	NN	9685	9695	B	important_consideration_2021_10_13_Instance_211	None	None
+1892	PMC3933411.nxml.gz	PMC3933411.nxml.gz_47	9493	9713	importance	NN	9685	9695	B	important_consideration_2021_10_19_Instance_211	None	None
 1893	PMC3933411.nxml.gz	PMC3933411.nxml.gz_47	9493	9713	of	IN	9696	9698	O	None	None	None
 1894	PMC3933411.nxml.gz	PMC3933411.nxml.gz_47	9493	9713	breastfeeding	NN	9699	9712	O	None	None	None
 1895	PMC3933411.nxml.gz	PMC3933411.nxml.gz_47	9493	9713	.	.	9712	9713	O	None	None	None
@@ -6409,7 +6409,7 @@
 6407	PMC3933411.nxml.gz	PMC3933411.nxml.gz_117	25864	26165	folic	JJ	25914	25919	O	None	None	None
 6408	PMC3933411.nxml.gz	PMC3933411.nxml.gz_117	25864	26165	acid	NN	25920	25924	O	None	None	None
 6409	PMC3933411.nxml.gz	PMC3933411.nxml.gz_117	25864	26165	is	VBZ	25925	25927	O	None	None	None
-6410	PMC3933411.nxml.gz	PMC3933411.nxml.gz_117	25864	26165	still	RB	25928	25933	B	important_consideration_2021_10_13_Instance_212	None	None
+6410	PMC3933411.nxml.gz	PMC3933411.nxml.gz_117	25864	26165	still	RB	25928	25933	B	important_consideration_2021_10_19_Instance_212	None	None
 6411	PMC3933411.nxml.gz	PMC3933411.nxml.gz_117	25864	26165	low	JJ	25934	25937	O	None	None	None
 6412	PMC3933411.nxml.gz	PMC3933411.nxml.gz_117	25864	26165	,	,	25937	25938	O	None	None	None
 6413	PMC3933411.nxml.gz	PMC3933411.nxml.gz_117	25864	26165	despite	IN	25939	25946	O	None	None	None
@@ -6435,8 +6435,8 @@
 6433	PMC3933411.nxml.gz	PMC3933411.nxml.gz_117	25864	26165	acid	NN	26053	26057	O	None	None	None
 6434	PMC3933411.nxml.gz	PMC3933411.nxml.gz_117	25864	26165	,	,	26057	26058	O	None	None	None
 6435	PMC3933411.nxml.gz	PMC3933411.nxml.gz_117	25864	26165	which	WDT	26059	26064	O	None	None	None
-6436	PMC3933411.nxml.gz	PMC3933411.nxml.gz_117	25864	26165	must	MD	26065	26069	B	important_consideration_2021_10_13_Instance_213	None	None
-6437	PMC3933411.nxml.gz	PMC3933411.nxml.gz_117	25864	26165	be	VB	26070	26072	I	important_consideration_2021_10_13_Instance_213	None	None
+6436	PMC3933411.nxml.gz	PMC3933411.nxml.gz_117	25864	26165	must	MD	26065	26069	B	important_consideration_2021_10_19_Instance_213	None	None
+6437	PMC3933411.nxml.gz	PMC3933411.nxml.gz_117	25864	26165	be	VB	26070	26072	I	important_consideration_2021_10_19_Instance_213	None	None
 6438	PMC3933411.nxml.gz	PMC3933411.nxml.gz_117	25864	26165	bought	VBN	26073	26079	O	None	None	None
 6439	PMC3933411.nxml.gz	PMC3933411.nxml.gz_117	25864	26165	over	IN	26080	26084	O	None	None	None
 6440	PMC3933411.nxml.gz	PMC3933411.nxml.gz_117	25864	26165	the	DT	26085	26088	O	None	None	None
@@ -6751,7 +6751,7 @@
 6749	PMC3933411.nxml.gz	PMC3933411.nxml.gz_126	27533	27875	could	MD	27799	27804	O	None	None	None
 6750	PMC3933411.nxml.gz	PMC3933411.nxml.gz_126	27533	27875	play	VB	27805	27809	O	None	None	None
 6751	PMC3933411.nxml.gz	PMC3933411.nxml.gz_126	27533	27875	an	DT	27810	27812	O	None	None	None
-6752	PMC3933411.nxml.gz	PMC3933411.nxml.gz_126	27533	27875	important	JJ	27813	27822	B	important_consideration_2021_10_13_Instance_214	None	None
+6752	PMC3933411.nxml.gz	PMC3933411.nxml.gz_126	27533	27875	important	JJ	27813	27822	B	important_consideration_2021_10_19_Instance_214	None	None
 6753	PMC3933411.nxml.gz	PMC3933411.nxml.gz_126	27533	27875	role	NN	27823	27827	O	None	None	None
 6754	PMC3933411.nxml.gz	PMC3933411.nxml.gz_126	27533	27875	in	IN	27828	27830	O	None	None	None
 6755	PMC3933411.nxml.gz	PMC3933411.nxml.gz_126	27533	27875	promoting	VBG	27831	27840	O	None	None	None
@@ -6782,7 +6782,7 @@
 6780	PMC3933411.nxml.gz	PMC3933411.nxml.gz_127	27876	28048	indicate	VB	27990	27998	O	None	None	None
 6781	PMC3933411.nxml.gz	PMC3933411.nxml.gz_127	27876	28048	the	DT	27999	28002	O	None	None	None
 6782	PMC3933411.nxml.gz	PMC3933411.nxml.gz_127	27876	28048	recognised	JJ	28003	28013	O	None	None	None
-6783	PMC3933411.nxml.gz	PMC3933411.nxml.gz_127	27876	28048	importance	NN	28014	28024	B	important_consideration_2021_10_13_Instance_215	None	None
+6783	PMC3933411.nxml.gz	PMC3933411.nxml.gz_127	27876	28048	importance	NN	28014	28024	B	important_consideration_2021_10_19_Instance_215	None	None
 6784	PMC3933411.nxml.gz	PMC3933411.nxml.gz_127	27876	28048	of	IN	28025	28027	O	None	None	None
 6785	PMC3933411.nxml.gz	PMC3933411.nxml.gz_127	27876	28048	early	JJ	28028	28033	O	None	None	None
 6786	PMC3933411.nxml.gz	PMC3933411.nxml.gz_127	27876	28048	prenatal	NN	28034	28042	O	None	None	None
@@ -7198,7 +7198,7 @@
 7196	PMC3933411.nxml.gz	PMC3933411.nxml.gz_141	30355	30498	This	DT	30355	30359	O	None	None	None
 7197	PMC3933411.nxml.gz	PMC3933411.nxml.gz_141	30355	30498	highlights	VBZ	30360	30370	O	None	None	None
 7198	PMC3933411.nxml.gz	PMC3933411.nxml.gz_141	30355	30498	the	DT	30371	30374	O	None	None	None
-7199	PMC3933411.nxml.gz	PMC3933411.nxml.gz_141	30355	30498	importance	NN	30375	30385	B	important_consideration_2021_10_13_Instance_216	None	None
+7199	PMC3933411.nxml.gz	PMC3933411.nxml.gz_141	30355	30498	importance	NN	30375	30385	B	important_consideration_2021_10_19_Instance_216	None	None
 7200	PMC3933411.nxml.gz	PMC3933411.nxml.gz_141	30355	30498	of	IN	30386	30388	O	None	None	None
 7201	PMC3933411.nxml.gz	PMC3933411.nxml.gz_141	30355	30498	prenatal	JJ	30389	30397	O	None	None	None
 7202	PMC3933411.nxml.gz	PMC3933411.nxml.gz_141	30355	30498	care	NN	30398	30402	O	None	None	None
@@ -7480,7 +7480,7 @@
 7478	PMC3933411.nxml.gz	PMC3933411.nxml.gz_148	31881	32113	,	,	31942	31943	O	None	None	None
 7479	PMC3933411.nxml.gz	PMC3933411.nxml.gz_148	31881	32113	is	VBZ	31944	31946	O	None	None	None
 7480	PMC3933411.nxml.gz	PMC3933411.nxml.gz_148	31881	32113	an	DT	31947	31949	O	None	None	None
-7481	PMC3933411.nxml.gz	PMC3933411.nxml.gz_148	31881	32113	important	JJ	31950	31959	B	important_consideration_2021_10_13_Instance_217	None	None
+7481	PMC3933411.nxml.gz	PMC3933411.nxml.gz_148	31881	32113	important	JJ	31950	31959	B	important_consideration_2021_10_19_Instance_217	None	None
 7482	PMC3933411.nxml.gz	PMC3933411.nxml.gz_148	31881	32113	factor	NN	31960	31966	O	None	None	None
 7483	PMC3933411.nxml.gz	PMC3933411.nxml.gz_148	31881	32113	that	WDT	31967	31971	O	None	None	None
 7484	PMC3933411.nxml.gz	PMC3933411.nxml.gz_148	31881	32113	could	MD	31972	31977	O	None	None	None
@@ -7616,7 +7616,7 @@
 7614	PMC3933411.nxml.gz	PMC3933411.nxml.gz_152	32636	32811	BRFSS	NNP	32700	32705	O	None	None	None
 7615	PMC3933411.nxml.gz	PMC3933411.nxml.gz_152	32636	32811	)	)	32705	32706	O	None	None	None
 7616	PMC3933411.nxml.gz	PMC3933411.nxml.gz_152	32636	32811	also	RB	32707	32711	O	None	None	None
-7617	PMC3933411.nxml.gz	PMC3933411.nxml.gz_152	32636	32811	emphasize	VBP	32712	32721	B	important_consideration_2021_10_13_Instance_218	None	None
+7617	PMC3933411.nxml.gz	PMC3933411.nxml.gz_152	32636	32811	emphasize	VBP	32712	32721	B	important_consideration_2021_10_19_Instance_218	None	None
 7618	PMC3933411.nxml.gz	PMC3933411.nxml.gz_152	32636	32811	the	DT	32722	32725	O	None	None	None
 7619	PMC3933411.nxml.gz	PMC3933411.nxml.gz_152	32636	32811	role	NN	32726	32730	O	None	None	None
 7620	PMC3933411.nxml.gz	PMC3933411.nxml.gz_152	32636	32811	of	IN	32731	32733	O	None	None	None
@@ -7834,7 +7834,7 @@
 7832	PMC3933411.nxml.gz	PMC3933411.nxml.gz_157	33673	34048	beliefs	VB	33956	33963	O	None	None	None
 7833	PMC3933411.nxml.gz	PMC3933411.nxml.gz_157	33673	34048	about	IN	33964	33969	O	None	None	None
 7834	PMC3933411.nxml.gz	PMC3933411.nxml.gz_157	33673	34048	the	DT	33970	33973	O	None	None	None
-7835	PMC3933411.nxml.gz	PMC3933411.nxml.gz_157	33673	34048	importance	NN	33974	33984	B	important_consideration_2021_10_13_Instance_219	None	None
+7835	PMC3933411.nxml.gz	PMC3933411.nxml.gz_157	33673	34048	importance	NN	33974	33984	B	important_consideration_2021_10_19_Instance_219	None	None
 7836	PMC3933411.nxml.gz	PMC3933411.nxml.gz_157	33673	34048	of	IN	33985	33987	O	None	None	None
 7837	PMC3933411.nxml.gz	PMC3933411.nxml.gz_157	33673	34048	vitamins	NNS	33988	33996	O	None	None	None
 7838	PMC3933411.nxml.gz	PMC3933411.nxml.gz_157	33673	34048	during	IN	33997	34003	O	None	None	None
@@ -7964,7 +7964,7 @@
 7962	PMC3933411.nxml.gz	PMC3933411.nxml.gz_162	34674	34955	results	NNS	34690	34697	O	None	None	None
 7963	PMC3933411.nxml.gz	PMC3933411.nxml.gz_162	34674	34955	highlight	VBD	34698	34707	O	None	None	None
 7964	PMC3933411.nxml.gz	PMC3933411.nxml.gz_162	34674	34955	the	DT	34708	34711	O	None	None	None
-7965	PMC3933411.nxml.gz	PMC3933411.nxml.gz_162	34674	34955	importance	NN	34712	34722	B	important_consideration_2021_10_13_Instance_220	None	None
+7965	PMC3933411.nxml.gz	PMC3933411.nxml.gz_162	34674	34955	importance	NN	34712	34722	B	important_consideration_2021_10_19_Instance_220	None	None
 7966	PMC3933411.nxml.gz	PMC3933411.nxml.gz_162	34674	34955	of	IN	34723	34725	O	None	None	None
 7967	PMC3933411.nxml.gz	PMC3933411.nxml.gz_162	34674	34955	nutritional	JJ	34726	34737	O	None	None	None
 7968	PMC3933411.nxml.gz	PMC3933411.nxml.gz_162	34674	34955	knowledge	NN	34738	34747	O	None	None	None
@@ -8026,7 +8026,7 @@
 8024	PMC3933411.nxml.gz	PMC3933411.nxml.gz_163	34956	35090	is	VBZ	35047	35049	O	None	None	None
 8025	PMC3933411.nxml.gz	PMC3933411.nxml.gz_163	34956	35090	of	IN	35050	35052	O	None	None	None
 8026	PMC3933411.nxml.gz	PMC3933411.nxml.gz_163	34956	35090	particular	JJ	35053	35063	O	None	None	None
-8027	PMC3933411.nxml.gz	PMC3933411.nxml.gz_163	34956	35090	importance	NN	35064	35074	B	important_consideration_2021_10_13_Instance_221	None	None
+8027	PMC3933411.nxml.gz	PMC3933411.nxml.gz_163	34956	35090	importance	NN	35064	35074	B	important_consideration_2021_10_19_Instance_221	None	None
 8028	PMC3933411.nxml.gz	PMC3933411.nxml.gz_163	34956	35090	for	IN	35075	35078	O	None	None	None
 8029	PMC3933411.nxml.gz	PMC3933411.nxml.gz_163	34956	35090	folic	JJ	35079	35084	O	None	None	None
 8030	PMC3933411.nxml.gz	PMC3933411.nxml.gz_163	34956	35090	acid	NN	35085	35089	O	None	None	None
@@ -8070,10 +8070,10 @@
 8068	PMC3933411.nxml.gz	PMC3933411.nxml.gz_164	35091	35459	analyses	VBZ	35283	35291	O	None	None	None
 8069	PMC3933411.nxml.gz	PMC3933411.nxml.gz_164	35091	35459	;	:	35291	35292	O	None	None	None
 8070	PMC3933411.nxml.gz	PMC3933411.nxml.gz_164	35091	35459	we	PRP	35293	35295	O	None	None	None
-8071	PMC3933411.nxml.gz	PMC3933411.nxml.gz_164	35091	35459	must	MD	35296	35300	B	important_consideration_2021_10_13_Instance_222	None	None
+8071	PMC3933411.nxml.gz	PMC3933411.nxml.gz_164	35091	35459	must	MD	35296	35300	B	important_consideration_2021_10_19_Instance_222	None	None
 8072	PMC3933411.nxml.gz	PMC3933411.nxml.gz_164	35091	35459	therefore	RB	35301	35310	O-	None	None	None
-8073	PMC3933411.nxml.gz	PMC3933411.nxml.gz_164	35091	35459	be	VB	35311	35313	I	important_consideration_2021_10_13_Instance_222	None	None
-8074	PMC3933411.nxml.gz	PMC3933411.nxml.gz_164	35091	35459	cautious	JJ	35314	35322	B	important_consideration_2021_10_13_Instance_223	None	None
+8073	PMC3933411.nxml.gz	PMC3933411.nxml.gz_164	35091	35459	be	VB	35311	35313	I	important_consideration_2021_10_19_Instance_222	None	None
+8074	PMC3933411.nxml.gz	PMC3933411.nxml.gz_164	35091	35459	cautious	JJ	35314	35322	B	important_consideration_2021_10_19_Instance_223	None	None
 8075	PMC3933411.nxml.gz	PMC3933411.nxml.gz_164	35091	35459	about	IN	35323	35328	O	None	None	None
 8076	PMC3933411.nxml.gz	PMC3933411.nxml.gz_164	35091	35459	the	DT	35329	35332	O	None	None	None
 8077	PMC3933411.nxml.gz	PMC3933411.nxml.gz_164	35091	35459	conclusions	NNS	35333	35344	O	None	None	None
@@ -8144,13 +8144,13 @@
 8142	PMC3933411.nxml.gz	PMC3933411.nxml.gz_165	35460	35779	to	TO	35748	35750	O	None	None	None
 8143	PMC3933411.nxml.gz	PMC3933411.nxml.gz_165	35460	35779	be	VB	35751	35753	O	None	None	None
 8144	PMC3933411.nxml.gz	PMC3933411.nxml.gz_165	35460	35779	an	DT	35754	35756	O	None	None	None
-8145	PMC3933411.nxml.gz	PMC3933411.nxml.gz_165	35460	35779	important	JJ	35757	35766	B	important_consideration_2021_10_13_Instance_224	None	None
+8145	PMC3933411.nxml.gz	PMC3933411.nxml.gz_165	35460	35779	important	JJ	35757	35766	B	important_consideration_2021_10_19_Instance_224	None	None
 8146	PMC3933411.nxml.gz	PMC3933411.nxml.gz_165	35460	35779	determinant	NN	35767	35778	O	None	None	None
 8147	PMC3933411.nxml.gz	PMC3933411.nxml.gz_165	35460	35779	.	.	35778	35779	O	None	None	None
 8148	PMC3933411.nxml.gz	PMC3933411.nxml.gz_166	35780	35933	Additional	JJ	35780	35790	O	None	None	None
 8149	PMC3933411.nxml.gz	PMC3933411.nxml.gz_166	35780	35933	studies	NNS	35791	35798	O	None	None	None
 8150	PMC3933411.nxml.gz	PMC3933411.nxml.gz_166	35780	35933	are	VBP	35799	35802	O	None	None	None
-8151	PMC3933411.nxml.gz	PMC3933411.nxml.gz_166	35780	35933	required	VBN	35803	35811	B	important_consideration_2021_10_13_Instance_225	None	None
+8151	PMC3933411.nxml.gz	PMC3933411.nxml.gz_166	35780	35933	required	VBN	35803	35811	B	important_consideration_2021_10_19_Instance_225	None	None
 8152	PMC3933411.nxml.gz	PMC3933411.nxml.gz_166	35780	35933	better	RBR	35812	35818	O	None	None	None
 8153	PMC3933411.nxml.gz	PMC3933411.nxml.gz_166	35780	35933	to	TO	35819	35821	O	None	None	None
 8154	PMC3933411.nxml.gz	PMC3933411.nxml.gz_166	35780	35933	understand	VB	35822	35832	O	None	None	None
@@ -8235,8 +8235,8 @@
 8233	PMC3933411.nxml.gz	PMC3933411.nxml.gz_169	36317	36498	,	,	36349	36350	O	None	None	None
 8234	PMC3933411.nxml.gz	PMC3933411.nxml.gz_169	36317	36498	this	DT	36351	36355	O	None	None	None
 8235	PMC3933411.nxml.gz	PMC3933411.nxml.gz_169	36317	36498	is	VBZ	36356	36358	O	None	None	None
-8236	PMC3933411.nxml.gz	PMC3933411.nxml.gz_169	36317	36498	crucially	RB	36359	36368	B	important_consideration_2021_10_13_Instance_226	None	None
-8237	PMC3933411.nxml.gz	PMC3933411.nxml.gz_169	36317	36498	important	JJ	36369	36378	B	important_consideration_2021_10_13_Instance_227	None	None
+8236	PMC3933411.nxml.gz	PMC3933411.nxml.gz_169	36317	36498	crucially	RB	36359	36368	B	important_consideration_2021_10_19_Instance_226	None	None
+8237	PMC3933411.nxml.gz	PMC3933411.nxml.gz_169	36317	36498	important	JJ	36369	36378	B	important_consideration_2021_10_19_Instance_227	None	None
 8238	PMC3933411.nxml.gz	PMC3933411.nxml.gz_169	36317	36498	,	,	36378	36379	O	None	None	None
 8239	PMC3933411.nxml.gz	PMC3933411.nxml.gz_169	36317	36498	and	CC	36380	36383	O	None	None	None
 8240	PMC3933411.nxml.gz	PMC3933411.nxml.gz_169	36317	36498	should	MD	36384	36390	O	None	None	None

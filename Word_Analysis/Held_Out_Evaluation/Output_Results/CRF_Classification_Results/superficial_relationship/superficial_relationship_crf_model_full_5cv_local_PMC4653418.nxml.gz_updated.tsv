@@ -18,8 +18,8 @@
 16	PMC4653418.nxml.gz	PMC4653418.nxml.gz_0	0	205	Background	NNP	105	115	O	None	None	None
 17	PMC4653418.nxml.gz	PMC4653418.nxml.gz_0	0	205	The	DT	116	119	O	None	None	None
 18	PMC4653418.nxml.gz	PMC4653418.nxml.gz_0	0	205	known	VBN	120	125	O	None	None	None
-19	PMC4653418.nxml.gz	PMC4653418.nxml.gz_0	0	205	risk	NN	126	130	B	superficial_relationship_2021_10_13_Instance_582	None	None
-20	PMC4653418.nxml.gz	PMC4653418.nxml.gz_0	0	205	factors	NNS	131	138	I	superficial_relationship_2021_10_13_Instance_582	None	None
+19	PMC4653418.nxml.gz	PMC4653418.nxml.gz_0	0	205	risk	NN	126	130	B	superficial_relationship_2021_10_19_Instance_582	None	None
+20	PMC4653418.nxml.gz	PMC4653418.nxml.gz_0	0	205	factors	NNS	131	138	I	superficial_relationship_2021_10_19_Instance_582	None	None
 21	PMC4653418.nxml.gz	PMC4653418.nxml.gz_0	0	205	for	IN	139	142	O	None	None	None
 22	PMC4653418.nxml.gz	PMC4653418.nxml.gz_0	0	205	Gestational	NNP	143	154	O	None	None	None
 23	PMC4653418.nxml.gz	PMC4653418.nxml.gz_0	0	205	Diabetes	NNP	155	163	O	None	None	None
@@ -370,7 +370,7 @@
 368	PMC4653418.nxml.gz	PMC4653418.nxml.gz_13	1801	2148	kg	NN	1975	1977	O	None	None	None
 369	PMC4653418.nxml.gz	PMC4653418.nxml.gz_13	1801	2148	/	NNP	1977	1978	O	None	None	None
 370	PMC4653418.nxml.gz	PMC4653418.nxml.gz_13	1801	2148	m2is	NN	1978	1982	O	None	None	None
-371	PMC4653418.nxml.gz	PMC4653418.nxml.gz_13	1801	2148	associated	VBN	1983	1993	B	superficial_relationship_2021_10_13_Instance_583	None	None
+371	PMC4653418.nxml.gz	PMC4653418.nxml.gz_13	1801	2148	associated	VBN	1983	1993	B	superficial_relationship_2021_10_19_Instance_583	None	None
 372	PMC4653418.nxml.gz	PMC4653418.nxml.gz_13	1801	2148	with	IN	1994	1998	O	None	None	None
 373	PMC4653418.nxml.gz	PMC4653418.nxml.gz_13	1801	2148	greater	JJR	1999	2006	O	None	None	None
 374	PMC4653418.nxml.gz	PMC4653418.nxml.gz_13	1801	2148	weight	NN	2007	2013	O	None	None	None
@@ -411,7 +411,7 @@
 409	PMC4653418.nxml.gz	PMC4653418.nxml.gz_14	2150	2405	1	CD	2172	2173	O	None	None	None
 410	PMC4653418.nxml.gz	PMC4653418.nxml.gz_14	2150	2405	Risk	NNP	2175	2179	O	None	None	None
 411	PMC4653418.nxml.gz	PMC4653418.nxml.gz_14	2150	2405	factors	NNS	2180	2187	O	None	None	None
-412	PMC4653418.nxml.gz	PMC4653418.nxml.gz_14	2150	2405	related	VBD	2188	2195	B	superficial_relationship_2021_10_13_Instance_584	None	None
+412	PMC4653418.nxml.gz	PMC4653418.nxml.gz_14	2150	2405	related	VBD	2188	2195	B	superficial_relationship_2021_10_19_Instance_584	None	None
 413	PMC4653418.nxml.gz	PMC4653418.nxml.gz_14	2150	2405	to	TO	2196	2198	O	None	None	None
 414	PMC4653418.nxml.gz	PMC4653418.nxml.gz_14	2150	2405	the	DT	2199	2202	O	None	None	None
 415	PMC4653418.nxml.gz	PMC4653418.nxml.gz_14	2150	2405	development	NN	2203	2214	O	None	None	None
@@ -475,7 +475,7 @@
 473	PMC4653418.nxml.gz	PMC4653418.nxml.gz_16	2488	2599	nutritional	JJ	2514	2525	O	None	None	None
 474	PMC4653418.nxml.gz	PMC4653418.nxml.gz_16	2488	2599	status	NN	2526	2532	O	None	None	None
 475	PMC4653418.nxml.gz	PMC4653418.nxml.gz_16	2488	2599	was	VBD	2533	2536	O	None	None	None
-476	PMC4653418.nxml.gz	PMC4653418.nxml.gz_16	2488	2599	associated	VBN	2537	2547	B	superficial_relationship_2021_10_13_Instance_585	None	None
+476	PMC4653418.nxml.gz	PMC4653418.nxml.gz_16	2488	2599	associated	VBN	2537	2547	B	superficial_relationship_2021_10_19_Instance_585	None	None
 477	PMC4653418.nxml.gz	PMC4653418.nxml.gz_16	2488	2599	with	IN	2548	2552	O	None	None	None
 478	PMC4653418.nxml.gz	PMC4653418.nxml.gz_16	2488	2599	gestational	JJ	2553	2564	O	None	None	None
 479	PMC4653418.nxml.gz	PMC4653418.nxml.gz_16	2488	2599	weight	NN	2565	2571	O	None	None	None

@@ -1,6 +1,6 @@
 	PMCID	SENTENCE_NUM	SENTENCE_START	SENTENCE_END	WORD	POS_TAG	WORD_START	WORD_END	BIO_TAG	PMC_MENTION_ID	ONTOLOGY_CONCEPT_ID	ONTOLOGY_LABEL
 0	PMC2722583.nxml.gz	PMC2722583.nxml.gz_0	0	299	Haematological	JJ	0	14	O	None	None	None
-1	PMC2722583.nxml.gz	PMC2722583.nxml.gz_0	0	299	effects	NNS	15	22	B	superficial_relationship_2021_10_13_Instance_31	None	None
+1	PMC2722583.nxml.gz	PMC2722583.nxml.gz_0	0	299	effects	NNS	15	22	B	superficial_relationship_2021_10_19_Instance_31	None	None
 2	PMC2722583.nxml.gz	PMC2722583.nxml.gz_0	0	299	of	IN	23	25	O	None	None	None
 3	PMC2722583.nxml.gz	PMC2722583.nxml.gz_0	0	299	multimicronutrient	JJ	26	44	O	None	None	None
 4	PMC2722583.nxml.gz	PMC2722583.nxml.gz_0	0	299	supplementation	NN	45	60	O	None	None	None
@@ -399,7 +399,7 @@
 397	PMC2722583.nxml.gz	PMC2722583.nxml.gz_10	1906	2185	occur	VBP	2107	2112	O	None	None	None
 398	PMC2722583.nxml.gz	PMC2722583.nxml.gz_10	1906	2185	and	CC	2113	2116	O	None	None	None
 399	PMC2722583.nxml.gz	PMC2722583.nxml.gz_10	1906	2185	all	DT	2117	2120	O	None	None	None
-400	PMC2722583.nxml.gz	PMC2722583.nxml.gz_10	1906	2185	contribute	NN	2121	2131	B	superficial_relationship_2021_10_13_Instance_32	None	None
+400	PMC2722583.nxml.gz	PMC2722583.nxml.gz_10	1906	2185	contribute	NN	2121	2131	B	superficial_relationship_2021_10_19_Instance_32	None	None
 401	PMC2722583.nxml.gz	PMC2722583.nxml.gz_10	1906	2185	to	TO	2132	2134	O	None	None	None
 402	PMC2722583.nxml.gz	PMC2722583.nxml.gz_10	1906	2185	an	DT	2135	2137	O	None	None	None
 403	PMC2722583.nxml.gz	PMC2722583.nxml.gz_10	1906	2185	increased	VBN	2138	2147	O	None	None	None
@@ -413,7 +413,7 @@
 411	PMC2722583.nxml.gz	PMC2722583.nxml.gz_10	1906	2185	1998	CD	2179	2183	O	None	None	None
 412	PMC2722583.nxml.gz	PMC2722583.nxml.gz_10	1906	2185	).	NN	2183	2185	O	None	None	None
 413	PMC2722583.nxml.gz	PMC2722583.nxml.gz_11	2186	2447	The	DT	2186	2189	O	None	None	None
-414	PMC2722583.nxml.gz	PMC2722583.nxml.gz_11	2186	2447	prevention	NN	2190	2200	B	superficial_relationship_2021_10_13_Instance_33	None	None
+414	PMC2722583.nxml.gz	PMC2722583.nxml.gz_11	2186	2447	prevention	NN	2190	2200	B	superficial_relationship_2021_10_19_Instance_33	None	None
 415	PMC2722583.nxml.gz	PMC2722583.nxml.gz_11	2186	2447	of	IN	2201	2203	O	None	None	None
 416	PMC2722583.nxml.gz	PMC2722583.nxml.gz_11	2186	2447	multiple	JJ	2204	2212	O	None	None	None
 417	PMC2722583.nxml.gz	PMC2722583.nxml.gz_11	2186	2447	micronutrient	NN	2213	2226	O	None	None	None
@@ -435,7 +435,7 @@
 433	PMC2722583.nxml.gz	PMC2722583.nxml.gz_11	2186	2447	and	CC	2317	2320	O	None	None	None
 434	PMC2722583.nxml.gz	PMC2722583.nxml.gz_11	2186	2447	attention	NN	2321	2330	O	None	None	None
 435	PMC2722583.nxml.gz	PMC2722583.nxml.gz_11	2186	2447	has	VBZ	2331	2334	O	None	None	None
-436	PMC2722583.nxml.gz	PMC2722583.nxml.gz_11	2186	2447	tended	VBN	2335	2341	B	superficial_relationship_2021_10_13_Instance_34	None	None
+436	PMC2722583.nxml.gz	PMC2722583.nxml.gz_11	2186	2447	tended	VBN	2335	2341	B	superficial_relationship_2021_10_19_Instance_34	None	None
 437	PMC2722583.nxml.gz	PMC2722583.nxml.gz_11	2186	2447	to	TO	2342	2344	O	None	None	None
 438	PMC2722583.nxml.gz	PMC2722583.nxml.gz_11	2186	2447	focus	VB	2345	2350	O	None	None	None
 439	PMC2722583.nxml.gz	PMC2722583.nxml.gz_11	2186	2447	instead	RB	2351	2358	O	None	None	None
@@ -546,7 +546,7 @@
 544	PMC2722583.nxml.gz	PMC2722583.nxml.gz_14	2895	3116	supplementation	NN	2939	2954	O	None	None	None
 545	PMC2722583.nxml.gz	PMC2722583.nxml.gz_14	2895	3116	in	IN	2955	2957	O	None	None	None
 546	PMC2722583.nxml.gz	PMC2722583.nxml.gz_14	2895	3116	anaemia	JJ	2958	2965	O	None	None	None
-547	PMC2722583.nxml.gz	PMC2722583.nxml.gz_14	2895	3116	prevention	NN	2966	2976	B	superficial_relationship_2021_10_13_Instance_35	None	None
+547	PMC2722583.nxml.gz	PMC2722583.nxml.gz_14	2895	3116	prevention	NN	2966	2976	B	superficial_relationship_2021_10_19_Instance_35	None	None
 548	PMC2722583.nxml.gz	PMC2722583.nxml.gz_14	2895	3116	in	IN	2977	2979	O	None	None	None
 549	PMC2722583.nxml.gz	PMC2722583.nxml.gz_14	2895	3116	rural	JJ	2980	2985	O	None	None	None
 550	PMC2722583.nxml.gz	PMC2722583.nxml.gz_14	2895	3116	Gambian	JJ	2986	2993	O	None	None	None
@@ -2004,7 +2004,7 @@
 2002	PMC2722583.nxml.gz	PMC2722583.nxml.gz_71	11043	11181	for	IN	11086	11089	O	None	None	None
 2003	PMC2722583.nxml.gz	PMC2722583.nxml.gz_71	11043	11181	anaemia	NN	11090	11097	O	None	None	None
 2004	PMC2722583.nxml.gz	PMC2722583.nxml.gz_71	11043	11181	in	IN	11098	11100	O	None	None	None
-2005	PMC2722583.nxml.gz	PMC2722583.nxml.gz_71	11043	11181	relation	NN	11101	11109	B	superficial_relationship_2021_10_13_Instance_36	None	None
+2005	PMC2722583.nxml.gz	PMC2722583.nxml.gz_71	11043	11181	relation	NN	11101	11109	B	superficial_relationship_2021_10_19_Instance_36	None	None
 2006	PMC2722583.nxml.gz	PMC2722583.nxml.gz_71	11043	11181	to	TO	11110	11112	O	None	None	None
 2007	PMC2722583.nxml.gz	PMC2722583.nxml.gz_71	11043	11181	MMN	NNP	11113	11116	O	None	None	None
 2008	PMC2722583.nxml.gz	PMC2722583.nxml.gz_71	11043	11181	supplement	NN	11117	11127	O	None	None	None
@@ -2433,7 +2433,7 @@
 2431	PMC2722583.nxml.gz	PMC2722583.nxml.gz_85	12823	13032	.	.	13031	13032	O	None	None	None
 2432	PMC2722583.nxml.gz	PMC2722583.nxml.gz_86	13033	13158	Supplementation	NN	13033	13048	O	None	None	None
 2433	PMC2722583.nxml.gz	PMC2722583.nxml.gz_86	13033	13158	was	VBD	13049	13052	O	None	None	None
-2434	PMC2722583.nxml.gz	PMC2722583.nxml.gz_86	13033	13158	associated	VBN	13053	13063	B	superficial_relationship_2021_10_13_Instance_37	None	None
+2434	PMC2722583.nxml.gz	PMC2722583.nxml.gz_86	13033	13158	associated	VBN	13053	13063	B	superficial_relationship_2021_10_19_Instance_37	None	None
 2435	PMC2722583.nxml.gz	PMC2722583.nxml.gz_86	13033	13158	with	IN	13064	13068	O	None	None	None
 2436	PMC2722583.nxml.gz	PMC2722583.nxml.gz_86	13033	13158	increased	JJ	13069	13078	O	None	None	None
 2437	PMC2722583.nxml.gz	PMC2722583.nxml.gz_86	13033	13158	haemoglobin	NN	13079	13090	O	None	None	None
@@ -2695,7 +2695,7 @@
 2693	PMC2722583.nxml.gz	PMC2722583.nxml.gz_96	13993	14164	was	VBD	14098	14101	O	None	None	None
 2694	PMC2722583.nxml.gz	PMC2722583.nxml.gz_96	13993	14164	no	DT	14102	14104	O	None	None	None
 2695	PMC2722583.nxml.gz	PMC2722583.nxml.gz_96	13993	14164	significant	JJ	14105	14116	O	None	None	None
-2696	PMC2722583.nxml.gz	PMC2722583.nxml.gz_96	13993	14164	interaction	NN	14117	14128	B	superficial_relationship_2021_10_13_Instance_38	None	None
+2696	PMC2722583.nxml.gz	PMC2722583.nxml.gz_96	13993	14164	interaction	NN	14117	14128	B	superficial_relationship_2021_10_19_Instance_38	None	None
 2697	PMC2722583.nxml.gz	PMC2722583.nxml.gz_96	13993	14164	between	IN	14129	14136	O	None	None	None
 2698	PMC2722583.nxml.gz	PMC2722583.nxml.gz_96	13993	14164	age	NN	14137	14140	O	None	None	None
 2699	PMC2722583.nxml.gz	PMC2722583.nxml.gz_96	13993	14164	and	CC	14141	14144	O	None	None	None
@@ -2736,7 +2736,7 @@
 2734	PMC2722583.nxml.gz	PMC2722583.nxml.gz_98	14293	14502	to	TO	14353	14355	O	None	None	None
 2735	PMC2722583.nxml.gz	PMC2722583.nxml.gz_98	14293	14502	evaluate	VB	14356	14364	O	None	None	None
 2736	PMC2722583.nxml.gz	PMC2722583.nxml.gz_98	14293	14502	the	DT	14365	14368	O	None	None	None
-2737	PMC2722583.nxml.gz	PMC2722583.nxml.gz_98	14293	14502	effect	NN	14369	14375	B	superficial_relationship_2021_10_13_Instance_39	None	None
+2737	PMC2722583.nxml.gz	PMC2722583.nxml.gz_98	14293	14502	effect	NN	14369	14375	B	superficial_relationship_2021_10_19_Instance_39	None	None
 2738	PMC2722583.nxml.gz	PMC2722583.nxml.gz_98	14293	14502	of	IN	14376	14378	O	None	None	None
 2739	PMC2722583.nxml.gz	PMC2722583.nxml.gz_98	14293	14502	multiple	JJ	14379	14387	O	None	None	None
 2740	PMC2722583.nxml.gz	PMC2722583.nxml.gz_98	14293	14502	micronutrient	JJ	14388	14401	O	None	None	None
@@ -2774,7 +2774,7 @@
 2772	PMC2722583.nxml.gz	PMC2722583.nxml.gz_99	14503	14618	women	NNS	14612	14617	O	None	None	None
 2773	PMC2722583.nxml.gz	PMC2722583.nxml.gz_99	14503	14618	.	.	14617	14618	O	None	None	None
 2774	PMC2722583.nxml.gz	PMC2722583.nxml.gz_100	14619	14918	The	DT	14619	14622	O	None	None	None
-2775	PMC2722583.nxml.gz	PMC2722583.nxml.gz_100	14619	14918	associated	JJ	14623	14633	B	superficial_relationship_2021_10_13_Instance_40	None	None
+2775	PMC2722583.nxml.gz	PMC2722583.nxml.gz_100	14619	14918	associated	JJ	14623	14633	B	superficial_relationship_2021_10_19_Instance_40	None	None
 2776	PMC2722583.nxml.gz	PMC2722583.nxml.gz_100	14619	14918	decrease	NN	14634	14642	O	None	None	None
 2777	PMC2722583.nxml.gz	PMC2722583.nxml.gz_100	14619	14918	in	IN	14643	14645	O	None	None	None
 2778	PMC2722583.nxml.gz	PMC2722583.nxml.gz_100	14619	14918	ZnPP	NNP	14646	14650	O	None	None	None
@@ -2904,7 +2904,7 @@
 2902	PMC2722583.nxml.gz	PMC2722583.nxml.gz_104	15269	15481	is	VBZ	15381	15383	O	None	None	None
 2903	PMC2722583.nxml.gz	PMC2722583.nxml.gz_104	15269	15481	known	VBN	15384	15389	O	None	None	None
 2904	PMC2722583.nxml.gz	PMC2722583.nxml.gz_104	15269	15481	to	TO	15390	15392	O	None	None	None
-2905	PMC2722583.nxml.gz	PMC2722583.nxml.gz_104	15269	15481	correlate	VB	15393	15402	B	superficial_relationship_2021_10_13_Instance_41	None	None
+2905	PMC2722583.nxml.gz	PMC2722583.nxml.gz_104	15269	15481	correlate	VB	15393	15402	B	superficial_relationship_2021_10_19_Instance_41	None	None
 2906	PMC2722583.nxml.gz	PMC2722583.nxml.gz_104	15269	15481	with	IN	15403	15407	O	None	None	None
 2907	PMC2722583.nxml.gz	PMC2722583.nxml.gz_104	15269	15481	haemoglobin	NN	15408	15419	O	None	None	None
 2908	PMC2722583.nxml.gz	PMC2722583.nxml.gz_104	15269	15481	and	CC	15420	15423	O	None	None	None
@@ -2919,7 +2919,7 @@
 2917	PMC2722583.nxml.gz	PMC2722583.nxml.gz_104	15269	15481	).	NN	15479	15481	O	None	None	None
 2918	PMC2722583.nxml.gz	PMC2722583.nxml.gz_105	15482	15649	It	PRP	15482	15484	O	None	None	None
 2919	PMC2722583.nxml.gz	PMC2722583.nxml.gz_105	15482	15649	is	VBZ	15485	15487	O	None	None	None
-2920	PMC2722583.nxml.gz	PMC2722583.nxml.gz_105	15482	15649	influenced	VBN	15488	15498	B	superficial_relationship_2021_10_13_Instance_42	None	None
+2920	PMC2722583.nxml.gz	PMC2722583.nxml.gz_105	15482	15649	influenced	VBN	15488	15498	B	superficial_relationship_2021_10_19_Instance_42	None	None
 2921	PMC2722583.nxml.gz	PMC2722583.nxml.gz_105	15482	15649	by	IN	15499	15501	O	None	None	None
 2922	PMC2722583.nxml.gz	PMC2722583.nxml.gz_105	15482	15649	the	DT	15502	15505	O	None	None	None
 2923	PMC2722583.nxml.gz	PMC2722583.nxml.gz_105	15482	15649	size	NN	15506	15510	O	None	None	None
@@ -2953,7 +2953,7 @@
 2951	PMC2722583.nxml.gz	PMC2722583.nxml.gz_106	15650	15870	Interpretation	NN	15650	15664	O	None	None	None
 2952	PMC2722583.nxml.gz	PMC2722583.nxml.gz_106	15650	15870	of	IN	15665	15667	O	None	None	None
 2953	PMC2722583.nxml.gz	PMC2722583.nxml.gz_106	15650	15870	the	DT	15668	15671	O	None	None	None
-2954	PMC2722583.nxml.gz	PMC2722583.nxml.gz_106	15650	15870	effect	NN	15672	15678	B	superficial_relationship_2021_10_13_Instance_43	None	None
+2954	PMC2722583.nxml.gz	PMC2722583.nxml.gz_106	15650	15870	effect	NN	15672	15678	B	superficial_relationship_2021_10_19_Instance_43	None	None
 2955	PMC2722583.nxml.gz	PMC2722583.nxml.gz_106	15650	15870	of	IN	15679	15681	O	None	None	None
 2956	PMC2722583.nxml.gz	PMC2722583.nxml.gz_106	15650	15870	supplementation	NN	15682	15697	O	None	None	None
 2957	PMC2722583.nxml.gz	PMC2722583.nxml.gz_106	15650	15870	on	IN	15698	15700	O	None	None	None
@@ -2977,7 +2977,7 @@
 2975	PMC2722583.nxml.gz	PMC2722583.nxml.gz_106	15650	15870	indicate	VB	15807	15815	O	None	None	None
 2976	PMC2722583.nxml.gz	PMC2722583.nxml.gz_106	15650	15870	a	DT	15816	15817	O	None	None	None
 2977	PMC2722583.nxml.gz	PMC2722583.nxml.gz_106	15650	15870	ameliorating	JJ	15818	15830	O	None	None	None
-2978	PMC2722583.nxml.gz	PMC2722583.nxml.gz_106	15650	15870	effect	NN	15831	15837	B	superficial_relationship_2021_10_13_Instance_44	None	None
+2978	PMC2722583.nxml.gz	PMC2722583.nxml.gz_106	15650	15870	effect	NN	15831	15837	B	superficial_relationship_2021_10_19_Instance_44	None	None
 2979	PMC2722583.nxml.gz	PMC2722583.nxml.gz_106	15650	15870	of	IN	15838	15840	O	None	None	None
 2980	PMC2722583.nxml.gz	PMC2722583.nxml.gz_106	15650	15870	MMN	NNP	15841	15844	O	None	None	None
 2981	PMC2722583.nxml.gz	PMC2722583.nxml.gz_106	15650	15870	on	IN	15845	15847	O	None	None	None
@@ -2995,7 +2995,7 @@
 2993	PMC2722583.nxml.gz	PMC2722583.nxml.gz_107	15871	15978	CRP	NNP	15914	15917	O	None	None	None
 2994	PMC2722583.nxml.gz	PMC2722583.nxml.gz_107	15871	15978	concentration	NN	15918	15931	O	None	None	None
 2995	PMC2722583.nxml.gz	PMC2722583.nxml.gz_107	15871	15978	was	VBD	15932	15935	O	None	None	None
-2996	PMC2722583.nxml.gz	PMC2722583.nxml.gz_107	15871	15978	affected	VBN	15936	15944	B	superficial_relationship_2021_10_13_Instance_45	None	None
+2996	PMC2722583.nxml.gz	PMC2722583.nxml.gz_107	15871	15978	affected	VBN	15936	15944	B	superficial_relationship_2021_10_19_Instance_45	None	None
 2997	PMC2722583.nxml.gz	PMC2722583.nxml.gz_107	15871	15978	by	IN	15945	15947	O	None	None	None
 2998	PMC2722583.nxml.gz	PMC2722583.nxml.gz_107	15871	15978	micronutrient	JJ	15948	15961	O	None	None	None
 2999	PMC2722583.nxml.gz	PMC2722583.nxml.gz_107	15871	15978	supplementation	NN	15962	15977	O	None	None	None
@@ -3005,7 +3005,7 @@
 3003	PMC2722583.nxml.gz	PMC2722583.nxml.gz_108	15979	16204	studies	NNS	15993	16000	O	None	None	None
 3004	PMC2722583.nxml.gz	PMC2722583.nxml.gz_108	15979	16204	of	IN	16001	16003	O	None	None	None
 3005	PMC2722583.nxml.gz	PMC2722583.nxml.gz_108	15979	16204	inflammatory	JJ	16004	16016	O	None	None	None
-3006	PMC2722583.nxml.gz	PMC2722583.nxml.gz_108	15979	16204	markers	NNS	16017	16024	B	superficial_relationship_2021_10_13_Instance_46	None	None
+3006	PMC2722583.nxml.gz	PMC2722583.nxml.gz_108	15979	16204	markers	NNS	16017	16024	B	superficial_relationship_2021_10_19_Instance_46	None	None
 3007	PMC2722583.nxml.gz	PMC2722583.nxml.gz_108	15979	16204	and	CC	16025	16028	O	None	None	None
 3008	PMC2722583.nxml.gz	PMC2722583.nxml.gz_108	15979	16204	MMN	NNP	16029	16032	O	None	None	None
 3009	PMC2722583.nxml.gz	PMC2722583.nxml.gz_108	15979	16204	supplementation	NN	16033	16048	O	None	None	None
@@ -3106,7 +3106,7 @@
 3104	PMC2722583.nxml.gz	PMC2722583.nxml.gz_111	16532	16655	evaluation	NN	16582	16592	O	None	None	None
 3105	PMC2722583.nxml.gz	PMC2722583.nxml.gz_111	16532	16655	of	IN	16593	16595	O	None	None	None
 3106	PMC2722583.nxml.gz	PMC2722583.nxml.gz_111	16532	16655	the	DT	16596	16599	O	None	None	None
-3107	PMC2722583.nxml.gz	PMC2722583.nxml.gz_111	16532	16655	effects	NNS	16600	16607	B	superficial_relationship_2021_10_13_Instance_47	None	None
+3107	PMC2722583.nxml.gz	PMC2722583.nxml.gz_111	16532	16655	effects	NNS	16600	16607	B	superficial_relationship_2021_10_19_Instance_47	None	None
 3108	PMC2722583.nxml.gz	PMC2722583.nxml.gz_111	16532	16655	of	IN	16608	16610	O	None	None	None
 3109	PMC2722583.nxml.gz	PMC2722583.nxml.gz_111	16532	16655	micronutrients	NNS	16611	16625	O	None	None	None
 3110	PMC2722583.nxml.gz	PMC2722583.nxml.gz_111	16532	16655	on	IN	16626	16628	O	None	None	None
@@ -3135,7 +3135,7 @@
 3133	PMC2722583.nxml.gz	PMC2722583.nxml.gz_112	16656	16846	to	TO	16775	16777	O	None	None	None
 3134	PMC2722583.nxml.gz	PMC2722583.nxml.gz_112	16656	16846	the	DT	16778	16781	O	None	None	None
 3135	PMC2722583.nxml.gz	PMC2722583.nxml.gz_112	16656	16846	functional	JJ	16782	16792	O	None	None	None
-3136	PMC2722583.nxml.gz	PMC2722583.nxml.gz_112	16656	16846	effect	NN	16793	16799	B	superficial_relationship_2021_10_13_Instance_48	None	None
+3136	PMC2722583.nxml.gz	PMC2722583.nxml.gz_112	16656	16846	effect	NN	16793	16799	B	superficial_relationship_2021_10_19_Instance_48	None	None
 3137	PMC2722583.nxml.gz	PMC2722583.nxml.gz_112	16656	16846	of	IN	16800	16802	O	None	None	None
 3138	PMC2722583.nxml.gz	PMC2722583.nxml.gz_112	16656	16846	MMN	NNP	16803	16806	O	None	None	None
 3139	PMC2722583.nxml.gz	PMC2722583.nxml.gz_112	16656	16846	supplementation	NN	16807	16822	O	None	None	None
@@ -3178,7 +3178,7 @@
 3176	PMC2722583.nxml.gz	PMC2722583.nxml.gz_114	17043	17255	analysis	NN	17054	17062	O	None	None	None
 3177	PMC2722583.nxml.gz	PMC2722583.nxml.gz_114	17043	17255	of	IN	17063	17065	O	None	None	None
 3178	PMC2722583.nxml.gz	PMC2722583.nxml.gz_114	17043	17255	the	DT	17066	17069	O	None	None	None
-3179	PMC2722583.nxml.gz	PMC2722583.nxml.gz_114	17043	17255	effects	NNS	17070	17077	B	superficial_relationship_2021_10_13_Instance_49	None	None
+3179	PMC2722583.nxml.gz	PMC2722583.nxml.gz_114	17043	17255	effects	NNS	17070	17077	B	superficial_relationship_2021_10_19_Instance_49	None	None
 3180	PMC2722583.nxml.gz	PMC2722583.nxml.gz_114	17043	17255	of	IN	17078	17080	O	None	None	None
 3181	PMC2722583.nxml.gz	PMC2722583.nxml.gz_114	17043	17255	supplementation	NN	17081	17096	O	None	None	None
 3182	PMC2722583.nxml.gz	PMC2722583.nxml.gz_114	17043	17255	on	IN	17097	17099	O	None	None	None
@@ -3394,7 +3394,7 @@
 3392	PMC2722583.nxml.gz	PMC2722583.nxml.gz_119	18162	18485	regimen	NNS	18332	18339	O	None	None	None
 3393	PMC2722583.nxml.gz	PMC2722583.nxml.gz_119	18162	18485	,	,	18339	18340	O	None	None	None
 3394	PMC2722583.nxml.gz	PMC2722583.nxml.gz_119	18162	18485	although	IN	18341	18349	O	None	None	None
-3395	PMC2722583.nxml.gz	PMC2722583.nxml.gz_119	18162	18485	effects	NNS	18350	18357	B	superficial_relationship_2021_10_13_Instance_50	None	None
+3395	PMC2722583.nxml.gz	PMC2722583.nxml.gz_119	18162	18485	effects	NNS	18350	18357	B	superficial_relationship_2021_10_19_Instance_50	None	None
 3396	PMC2722583.nxml.gz	PMC2722583.nxml.gz_119	18162	18485	have	VBP	18358	18362	O	None	None	None
 3397	PMC2722583.nxml.gz	PMC2722583.nxml.gz_119	18162	18485	been	VBN	18363	18367	O	None	None	None
 3398	PMC2722583.nxml.gz	PMC2722583.nxml.gz_119	18162	18485	inconsistent	JJ	18368	18380	O	None	None	None
@@ -3429,7 +3429,7 @@
 3427	PMC2722583.nxml.gz	PMC2722583.nxml.gz_120	18486	18754	about	IN	18505	18510	O	None	None	None
 3428	PMC2722583.nxml.gz	PMC2722583.nxml.gz_120	18486	18754	possible	JJ	18511	18519	O	None	None	None
 3429	PMC2722583.nxml.gz	PMC2722583.nxml.gz_120	18486	18754	detrimental	JJ	18520	18531	O	None	None	None
-3430	PMC2722583.nxml.gz	PMC2722583.nxml.gz_120	18486	18754	interactions	NNS	18532	18544	B	superficial_relationship_2021_10_13_Instance_51	None	None
+3430	PMC2722583.nxml.gz	PMC2722583.nxml.gz_120	18486	18754	interactions	NNS	18532	18544	B	superficial_relationship_2021_10_19_Instance_51	None	None
 3431	PMC2722583.nxml.gz	PMC2722583.nxml.gz_120	18486	18754	between	IN	18545	18552	O	None	None	None
 3432	PMC2722583.nxml.gz	PMC2722583.nxml.gz_120	18486	18754	micronutrients	NNS	18553	18567	O	None	None	None
 3433	PMC2722583.nxml.gz	PMC2722583.nxml.gz_120	18486	18754	combined	VBN	18568	18576	O	None	None	None
@@ -3448,7 +3448,7 @@
 3446	PMC2722583.nxml.gz	PMC2722583.nxml.gz_120	18486	18754	synergistic	NN	18655	18666	O	None	None	None
 3447	PMC2722583.nxml.gz	PMC2722583.nxml.gz_120	18486	18754	and	CC	18667	18670	O	None	None	None
 3448	PMC2722583.nxml.gz	PMC2722583.nxml.gz_120	18486	18754	positive	JJ	18671	18679	O	None	None	None
-3449	PMC2722583.nxml.gz	PMC2722583.nxml.gz_120	18486	18754	effects	NNS	18680	18687	B	superficial_relationship_2021_10_13_Instance_52	None	None
+3449	PMC2722583.nxml.gz	PMC2722583.nxml.gz_120	18486	18754	effects	NNS	18680	18687	B	superficial_relationship_2021_10_19_Instance_52	None	None
 3450	PMC2722583.nxml.gz	PMC2722583.nxml.gz_120	18486	18754	of	IN	18688	18690	O	None	None	None
 3451	PMC2722583.nxml.gz	PMC2722583.nxml.gz_120	18486	18754	particular	JJ	18691	18701	O	None	None	None
 3452	PMC2722583.nxml.gz	PMC2722583.nxml.gz_120	18486	18754	combinations	NNS	18702	18714	O	None	None	None
@@ -3465,11 +3465,11 @@
 3463	PMC2722583.nxml.gz	PMC2722583.nxml.gz_121	18755	18840	of	IN	18766	18768	O	None	None	None
 3464	PMC2722583.nxml.gz	PMC2722583.nxml.gz_121	18755	18840	supplementation	NN	18769	18784	O	None	None	None
 3465	PMC2722583.nxml.gz	PMC2722583.nxml.gz_121	18755	18840	may	MD	18785	18788	O	None	None	None
-3466	PMC2722583.nxml.gz	PMC2722583.nxml.gz_121	18755	18840	likewise	VB	18789	18797	B	superficial_relationship_2021_10_13_Instance_53	None	None
+3466	PMC2722583.nxml.gz	PMC2722583.nxml.gz_121	18755	18840	likewise	VB	18789	18797	B	superficial_relationship_2021_10_19_Instance_53	None	None
 3467	PMC2722583.nxml.gz	PMC2722583.nxml.gz_121	18755	18840	be	VB	18798	18800	O	None	None	None
 3468	PMC2722583.nxml.gz	PMC2722583.nxml.gz_121	18755	18840	a	DT	18801	18802	O	None	None	None
 3469	PMC2722583.nxml.gz	PMC2722583.nxml.gz_121	18755	18840	crucial	JJ	18803	18810	O	None	None	None
-3470	PMC2722583.nxml.gz	PMC2722583.nxml.gz_121	18755	18840	factor	NN	18811	18817	B	superficial_relationship_2021_10_13_Instance_54	None	None
+3470	PMC2722583.nxml.gz	PMC2722583.nxml.gz_121	18755	18840	factor	NN	18811	18817	B	superficial_relationship_2021_10_19_Instance_54	None	None
 3471	PMC2722583.nxml.gz	PMC2722583.nxml.gz_121	18755	18840	(	(	18818	18819	O	None	None	None
 3472	PMC2722583.nxml.gz	PMC2722583.nxml.gz_121	18755	18840	Owens	NNP	18819	18824	O	None	None	None
 3473	PMC2722583.nxml.gz	PMC2722583.nxml.gz_121	18755	18840	and	CC	18825	18828	O	None	None	None
@@ -3521,7 +3521,7 @@
 3519	PMC2722583.nxml.gz	PMC2722583.nxml.gz_122	18841	19174	as	IN	19094	19096	O	None	None	None
 3520	PMC2722583.nxml.gz	PMC2722583.nxml.gz_122	18841	19174	yet	RB	19097	19100	O	None	None	None
 3521	PMC2722583.nxml.gz	PMC2722583.nxml.gz_122	18841	19174	unexplained	JJ	19101	19112	O	None	None	None
-3522	PMC2722583.nxml.gz	PMC2722583.nxml.gz_122	18841	19174	effect	NN	19113	19119	B	superficial_relationship_2021_10_13_Instance_55	None	None
+3522	PMC2722583.nxml.gz	PMC2722583.nxml.gz_122	18841	19174	effect	NN	19113	19119	B	superficial_relationship_2021_10_19_Instance_55	None	None
 3523	PMC2722583.nxml.gz	PMC2722583.nxml.gz_122	18841	19174	on	IN	19120	19122	O	None	None	None
 3524	PMC2722583.nxml.gz	PMC2722583.nxml.gz_122	18841	19174	maternal	JJ	19123	19131	O	None	None	None
 3525	PMC2722583.nxml.gz	PMC2722583.nxml.gz_122	18841	19174	morbidity	NN	19132	19141	O	None	None	None
@@ -3856,7 +3856,7 @@
 3854	PMC2722583.nxml.gz	PMC2722583.nxml.gz_131	20956	21159	week	NN	21039	21043	O	None	None	None
 3855	PMC2722583.nxml.gz	PMC2722583.nxml.gz_131	20956	21159	reported	VBD	21044	21052	O	None	None	None
 3856	PMC2722583.nxml.gz	PMC2722583.nxml.gz_131	20956	21159	haematological	JJ	21053	21067	O	None	None	None
-3857	PMC2722583.nxml.gz	PMC2722583.nxml.gz_131	20956	21159	effects	NNS	21068	21075	B	superficial_relationship_2021_10_13_Instance_56	None	None
+3857	PMC2722583.nxml.gz	PMC2722583.nxml.gz_131	20956	21159	effects	NNS	21068	21075	B	superficial_relationship_2021_10_19_Instance_56	None	None
 3858	PMC2722583.nxml.gz	PMC2722583.nxml.gz_131	20956	21159	which	WDT	21076	21081	O	None	None	None
 3859	PMC2722583.nxml.gz	PMC2722583.nxml.gz_131	20956	21159	were	VBD	21082	21086	O	None	None	None
 3860	PMC2722583.nxml.gz	PMC2722583.nxml.gz_131	20956	21159	of	IN	21087	21089	O	None	None	None
@@ -4165,7 +4165,7 @@
 4163	PMC2722583.nxml.gz	PMC2722583.nxml.gz_139	22670	22928	,	,	22888	22889	O	None	None	None
 4164	PMC2722583.nxml.gz	PMC2722583.nxml.gz_139	22670	22928	especially	RB	22890	22900	O	None	None	None
 4165	PMC2722583.nxml.gz	PMC2722583.nxml.gz_139	22670	22928	in	IN	22901	22903	O	None	None	None
-4166	PMC2722583.nxml.gz	PMC2722583.nxml.gz_139	22670	22928	relation	NN	22904	22912	B	superficial_relationship_2021_10_13_Instance_57	None	None
+4166	PMC2722583.nxml.gz	PMC2722583.nxml.gz_139	22670	22928	relation	NN	22904	22912	B	superficial_relationship_2021_10_19_Instance_57	None	None
 4167	PMC2722583.nxml.gz	PMC2722583.nxml.gz_139	22670	22928	to	TO	22913	22915	O	None	None	None
 4168	PMC2722583.nxml.gz	PMC2722583.nxml.gz_139	22670	22928	iron	VB	22916	22920	O	None	None	None
 4169	PMC2722583.nxml.gz	PMC2722583.nxml.gz_139	22670	22928	status	NN	22921	22927	O	None	None	None
@@ -4244,7 +4244,7 @@
 4242	PMC2722583.nxml.gz	PMC2722583.nxml.gz_142	23327	23521	benefit	NN	23366	23373	O	None	None	None
 4243	PMC2722583.nxml.gz	PMC2722583.nxml.gz_142	23327	23521	from	IN	23374	23378	O	None	None	None
 4244	PMC2722583.nxml.gz	PMC2722583.nxml.gz_142	23327	23521	and	CC	23379	23382	O	None	None	None
-4245	PMC2722583.nxml.gz	PMC2722583.nxml.gz_142	23327	23521	contribute	VB	23383	23393	B	superficial_relationship_2021_10_13_Instance_58	None	None
+4245	PMC2722583.nxml.gz	PMC2722583.nxml.gz_142	23327	23521	contribute	VB	23383	23393	B	superficial_relationship_2021_10_19_Instance_58	None	None
 4246	PMC2722583.nxml.gz	PMC2722583.nxml.gz_142	23327	23521	to	TO	23394	23396	O	None	None	None
 4247	PMC2722583.nxml.gz	PMC2722583.nxml.gz_142	23327	23521	datasets	NNS	23397	23405	O	None	None	None
 4248	PMC2722583.nxml.gz	PMC2722583.nxml.gz_142	23327	23521	based	VBN	23406	23411	O	None	None	None
@@ -4304,7 +4304,7 @@
 4302	PMC2722583.nxml.gz	PMC2722583.nxml.gz_143	23522	23852	well	RB	23746	23750	O	None	None	None
 4303	PMC2722583.nxml.gz	PMC2722583.nxml.gz_143	23522	23852	as	IN	23751	23753	O	None	None	None
 4304	PMC2722583.nxml.gz	PMC2722583.nxml.gz_143	23522	23852	the	DT	23754	23757	O	None	None	None
-4305	PMC2722583.nxml.gz	PMC2722583.nxml.gz_143	23522	23852	impact	NN	23758	23764	B	superficial_relationship_2021_10_13_Instance_59	None	None
+4305	PMC2722583.nxml.gz	PMC2722583.nxml.gz_143	23522	23852	impact	NN	23758	23764	B	superficial_relationship_2021_10_19_Instance_59	None	None
 4306	PMC2722583.nxml.gz	PMC2722583.nxml.gz_143	23522	23852	on	IN	23765	23767	O	None	None	None
 4307	PMC2722583.nxml.gz	PMC2722583.nxml.gz_143	23522	23852	broader	JJR	23768	23775	O	None	None	None
 4308	PMC2722583.nxml.gz	PMC2722583.nxml.gz_143	23522	23852	micronutrient	NN	23776	23789	O	None	None	None

@@ -1,500 +1,265 @@
-T0	full_unknown 24125 24127;24138 24146	no ... standard
+T0	full_unknown 24125 24146	no universal standard
 T1	full_unknown 25492 25500	no clear
-T2	full_unknown 25796 25798;25818 25824	no ... trials
-T3	explicit_question 24151 24156	which
-T4	explicit_question 24246 24250	what
-T5	explicit_question 24581 24585	what
-T6	incomplete_evidence 287 296	potential
-T7	incomplete_evidence 1329 1338	indicates
-T8	incomplete_evidence 1427 1436	potential
-T9	incomplete_evidence 1909 1923	Recent studies
-T10	incomplete_evidence 1924 1932	indicate
-T11	incomplete_evidence 1953 1978	lack sufficient knowledge
-T12	incomplete_evidence 2469 2478	potential
-T13	incomplete_evidence 2681 2687	may be
-T14	incomplete_evidence 2981 2996	many documented
-T15	incomplete_evidence 3544 3554	hypothesis
-T16	incomplete_evidence 3694 3698	some
-T17	incomplete_evidence 8624 8633	estimated
-T18	incomplete_evidence 14556 14561	found
-T19	incomplete_evidence 14710 14715	found
-T20	incomplete_evidence 14797 14802	found
-T21	incomplete_evidence 14905 14913	reported
-T22	incomplete_evidence 15094 15103	indicated
-T23	incomplete_evidence 15187 15199	demonstrated
-T24	incomplete_evidence 15348 15356	reported
-T25	incomplete_evidence 15720 15730	suggesting
-T26	incomplete_evidence 15753 15759	may be
-T27	incomplete_evidence 15884 15889	found
-T28	incomplete_evidence 16178 16190	demonstrated
-T29	incomplete_evidence 16397 16404	did not
-T30	incomplete_evidence 16656 16668	demonstrated
-T31	incomplete_evidence 16935 16944	indicated
-T32	incomplete_evidence 17265 17275	suggesting
-T33	incomplete_evidence 17296 17302	may be
-T34	incomplete_evidence 17670 17676	showed
-T35	incomplete_evidence 17878 17886	supports
-T36	incomplete_evidence 17980 17988	evidence
-T37	incomplete_evidence 18073 18083	indicating
-T38	incomplete_evidence 18402 18414	demonstrated
-T39	incomplete_evidence 19252 19264	demonstrated
-T40	incomplete_evidence 19361 19375	it is possible
-T41	incomplete_evidence 19398 19404	may be
-T42	incomplete_evidence 19451 19463	This concept
-T43	incomplete_evidence 19467 19476	supported
-T44	incomplete_evidence 19498 19503	found
-T45	incomplete_evidence 19565 19569	only
-T46	incomplete_evidence 19716 19721	found
-T47	incomplete_evidence 19874 19888	it is possible
-T48	incomplete_evidence 19926 19929	may
-T49	incomplete_evidence 20157 20165	suggests
-T50	incomplete_evidence 20231 20234	may
-T51	incomplete_evidence 20316 20323	limited
-T52	incomplete_evidence 20379 20384	small
-T53	incomplete_evidence 20520 20531	limitations
-T54	incomplete_evidence 20600 20613	these studies
-T55	incomplete_evidence 21066 21076	No studies
-T56	incomplete_evidence 21462 21468	limits
-T57	incomplete_evidence 21854 21857	may
-T58	incomplete_evidence 21970 21988	has been suggested
-T59	incomplete_evidence 23173 23187	has been shown
-T60	incomplete_evidence 23292 23295	may
-T61	incomplete_evidence 23358 23361	may
-T62	incomplete_evidence 23892 23900	reported
-T63	incomplete_evidence 23999 24006	did not
-T64	incomplete_evidence 24663 24671	has been
-T65	incomplete_evidence 24711 24722	potentially
-T66	incomplete_evidence 24998 25001	may
-T67	incomplete_evidence 25237 25240	may
-T68	incomplete_evidence 25486 25491	found
-T69	incomplete_evidence 25577 25583	may be
-T70	incomplete_evidence 25786 25795	have been
-T71	incomplete_evidence 26003 26018	Recent research
-T72	incomplete_evidence 26023 26032	suggested
-T73	incomplete_evidence 26092 26098	may be
-T74	incomplete_evidence 26137 26151	it is possible
-T75	incomplete_evidence 26471 26481	hypothesis
-T76	incomplete_evidence 26580 26598	available evidence
-T77	incomplete_evidence 26599 26608	indicates
-T78	incomplete_evidence 26713 26722	supported
-T79	incomplete_evidence 26766 26772	showed
-T80	incomplete_evidence 27167 27184	Existing evidence
-T81	incomplete_evidence 27276 27297	well designed studies
-T82	incomplete_evidence 27329 27342	evidence base
-T83	probable_understanding 2783 2787	Thus
-T84	probable_understanding 17835 17839	Thus
-T85	probable_understanding 18777 18783	likely
-T86	probable_understanding 19356 19360	Thus
-T87	probable_understanding 19869 19873	Thus
-T88	probable_understanding 20699 20709	preferably
-T89	probable_understanding 23332 23336	thus
-T90	probable_understanding 23745 23749	thus
-T91	probable_understanding 24985 24989	thus
-T92	probable_understanding 25944 25952	unlikely
-T93	superficial_relationship 568 579	association
-T94	superficial_relationship 1449 1456	effects
-T95	superficial_relationship 3385 3391	impact
-T96	superficial_relationship 3605 3615	influences
-T97	superficial_relationship 3743 3755	associations
-T98	superficial_relationship 4111 4123	relationship
-T99	superficial_relationship 4415 4427	relationship
-T100	superficial_relationship 5772 5782	associated
-T101	superficial_relationship 9473 9484	association
-T102	superficial_relationship 9653 9663	associated
-T103	superficial_relationship 10267 10277	associated
-T104	superficial_relationship 11811 11822	association
-T105	superficial_relationship 13108 13119	association
-T106	superficial_relationship 13751 13762	association
-T107	superficial_relationship 13931 13941	correlated
-T108	superficial_relationship 14749 14759	influenced
-T109	superficial_relationship 15211 15218	effects
-T110	superficial_relationship 15627 15638	association
-T111	superficial_relationship 16440 16451	association
-T112	superficial_relationship 17690 17696	impact
-T113	superficial_relationship 18426 18437	association
-T114	superficial_relationship 18876 18887	association
-T115	superficial_relationship 19072 19078	effect
-T116	superficial_relationship 19437 19449	associations
-T117	superficial_relationship 19791 19797	effect
-T118	superficial_relationship 20060 20070	associated
-T119	superficial_relationship 20235 20241	impact
-T120	superficial_relationship 20620 20628	prevents
-T121	superficial_relationship 20660 20672	relationship
-T122	superficial_relationship 22367 22379	interrelated
-T123	superficial_relationship 22380 22387	factors
-T124	superficial_relationship 22394 22400	impact
-T125	superficial_relationship 23194 23201	related
-T126	superficial_relationship 23296 23303	reflect
-T127	superficial_relationship 23350 23357	effects
-T128	superficial_relationship 23378 23388	attributed
-T129	superficial_relationship 24528 24538	depends on
-T130	superficial_relationship 25108 25118	associated
-T131	superficial_relationship 25168 25175	related
-T132	superficial_relationship 25501 25512	association
-T133	superficial_relationship 25616 25623	effects
-T134	superficial_relationship 25641 25651	associated
-T135	superficial_relationship 25859 25869	associated
-T136	superficial_relationship 26038 26045	effects
-T137	superficial_relationship 26099 26107	mediated
-T138	superficial_relationship 26649 26659	associated
-T139	superficial_relationship 26786 26792	impact
-T140	superficial_relationship 27425 27435	associated
-T141	superficial_relationship 27504 27516	contribution
-T142	future_work 238 247	encourage
-T143	future_work 1857 1866	encourage
-T144	future_work 2168 2183	recommendations
-T145	future_work 2378 2389	recommended
-T146	future_work 2734 2745	recommended
-T147	future_work 2843 2853	need to be
-T148	future_work 2854 2864	considered
-T149	future_work 2889 2895	should
-T150	future_work 17899 17914	recommendations
-T151	future_work 19405 19411	needed
-T152	future_work 19968 19978	considered
-T153	future_work 20404 20417	More research
-T154	future_work 20681 20697	further research
-T155	future_work 21138 21152	recommendation
-T156	future_work 22059 22065	should
-T157	future_work 26223 26238	recommendations
-T158	future_work 26276 26283	prudent
-T159	future_work 26287 26296	recommend
-T160	future_work 26959 26973	recommendation
-T161	future_work 27268 27275;27290 27297	Further ... studies
-T162	important_consideration 150 159	important
-T163	important_consideration 363 371	requires
-T164	important_consideration 1437 1448	detrimental
-T165	important_consideration 1505 1514	important
-T166	important_consideration 1629 1638	important
-T167	important_consideration 1993 2003	importance
-T168	important_consideration 2432 2441	essential
-T169	important_consideration 2598 2603	risks
-T170	important_consideration 2646 2655	important
-T171	important_consideration 17303 17311	relevant
-T172	important_consideration 19779 19790	detrimental
-T173	important_consideration 20434 20442	required
-T174	important_consideration 20476 20493	important to note
-T175	important_consideration 23750 23757	at risk
-T176	important_consideration 25012 25020	reliable
-T177	important_consideration 25706 25715	important
-T178	important_consideration 25976 25988	implications
-T179	important_consideration 27302 27310	required
-T180	anomaly_curious_finding 2103 2110	appears
-T181	anomaly_curious_finding 13767 13771	only
-T182	anomaly_curious_finding 17181 17185	only
-T183	anomaly_curious_finding 27008 27015	appears
-T184	alternative_options_controversy 1418 1426	outweigh
-T185	alternative_options_controversy 10192 10199	however
-T186	alternative_options_controversy 14343 14349	rather
-T187	alternative_options_controversy 14760 14767	whether
-T188	alternative_options_controversy 15054 15061	However
-T189	alternative_options_controversy 16613 16623	Conversely
-T190	alternative_options_controversy 19133 19140	However
-T191	alternative_options_controversy 19606 19611	while
-T192	alternative_options_controversy 20287 20294	However
-T193	alternative_options_controversy 22167 22178	differences
-T194	alternative_options_controversy 22606 22613	However
-T195	alternative_options_controversy 22926 22936	Conversely
-T196	alternative_options_controversy 23405 23411	rather
-T197	alternative_options_controversy 23607 23612	while
-T198	alternative_options_controversy 23979 23986	however
-T199	alternative_options_controversy 24386 24388	if
-T200	alternative_options_controversy 24848 24859	conflicting
-T201	alternative_options_controversy 26338 26344	rather
-T202	alternative_options_controversy 27482 27487	while
-T203	difficult_task 1207 1220	heterogeneity
-T204	difficult_task 14088 14101	heterogeneous
-T205	difficult_task 14270 14278	differed
-T206	difficult_task 14315 14328	heterogeneity
-T207	difficult_task 18666 18673	variety
-T208	difficult_task 18784 18788	vary
-T209	difficult_task 20846 20856	difficulty
-T210	difficult_task 21532 21543	variability
-T211	difficult_task 21668 21680	difficulties
-T212	difficult_task 24226 24233	varying
-T213	problem_complication 1200 1206	Due to
-T214	problem_complication 2132 2145	falling short
-T215	problem_complication 3721 3727	issues
-T216	problem_complication 9439 9449	confounder
-T217	problem_complication 14303 14309	Due to
-T218	problem_complication 18647 18665	ApplicabilityPoorA
-T219	problem_complication 20520 20531	limitations
-T220	problem_complication 20823 20834	problematic
-T221	problem_complication 20835 20841	due to
-T222	problem_complication 20927 20933	burden
-T223	problem_complication 21681 21687	due to
-T224	problem_complication 22434 22445	confounders
-T225	problem_complication 23761 23765	bias
-T226	problem_complication 27198 27210	insufficient
-T227	question_answered_by_this_work 3177 3188	This review
-T228	question_answered_by_this_work 3189 3196	focuses
-T229	question_answered_by_this_work 3429 3432	aim
-T230	question_answered_by_this_work 3436 3447	this review
-T231	question_answered_by_this_work 3530 3539	to assess
-T232	question_answered_by_this_work 3641 3652	This review
-T233	question_answered_by_this_work 18805 18809;18821 18827	This ... review
-T234	question_answered_by_this_work 26458 26466	assessed
-T235	full_unknown 24125 24146	no universal standard
-T236	full_unknown 25492 25500	no clear
-T237	full_unknown 25796 25798;25818 25824	...no ... trials
-T238	full_unknown 27121 27124	but
-T239	full_unknown 27125 27128	not
-T240	explicit_question 24151 24156	which
-T241	explicit_question 24246 24250	what
-T242	explicit_question 24539 24543	when
-T243	explicit_question 24581 24585	what
-T244	incomplete_evidence 287 296	potential
-T245	incomplete_evidence 1329 1338	indicates
-T246	incomplete_evidence 1427 1436	potential
-T247	incomplete_evidence 1909 1923	Recent studies
-T248	incomplete_evidence 1924 1932	indicate
-T249	incomplete_evidence 2469 2478	potential
-T250	incomplete_evidence 2681 2687	may be
-T251	incomplete_evidence 2981 2996	many documented
-T252	incomplete_evidence 3544 3554	hypothesis
-T253	incomplete_evidence 3694 3698	some
-T254	incomplete_evidence 5688 5701	did not yield
-T255	incomplete_evidence 13124 13136	less obvious
-T256	incomplete_evidence 13150 13154	only
-T257	incomplete_evidence 13767 13771	only
-T258	incomplete_evidence 14556 14561	found
-T259	incomplete_evidence 14710 14715	found
-T260	incomplete_evidence 14905 14913	reported
-T261	incomplete_evidence 15094 15103	indicated
-T262	incomplete_evidence 15187 15199	demonstrated
-T263	incomplete_evidence 15348 15356	reported
-T264	incomplete_evidence 15720 15730	suggesting
-T265	incomplete_evidence 15753 15759	may be
-T266	incomplete_evidence 15884 15889	found
-T267	incomplete_evidence 16178 16190	demonstrated
-T268	incomplete_evidence 16363 16370	smaller
-T269	incomplete_evidence 16397 16404	did not
-T270	incomplete_evidence 16656 16668	demonstrated
-T271	incomplete_evidence 16935 16944	indicated
-T272	incomplete_evidence 17181 17185	only
-T273	incomplete_evidence 17265 17275	suggesting
-T274	incomplete_evidence 17296 17302	may be
-T275	incomplete_evidence 17670 17676	showed
-T276	incomplete_evidence 17878 17886	supports
-T277	incomplete_evidence 18073 18083	indicating
-T278	incomplete_evidence 18101 18109	evidence
-T279	incomplete_evidence 18113 18123	supportive
-T280	incomplete_evidence 18360 18380	ConsistencyGoodSeven
-T281	incomplete_evidence 18402 18414	demonstrated
-T282	incomplete_evidence 18495 18518	impactSatisfactoryTrend
-T283	incomplete_evidence 19041 19045	only
-T284	incomplete_evidence 19206 19210	only
-T285	incomplete_evidence 19252 19264	demonstrated
-T286	incomplete_evidence 19361 19375	it is possible
-T287	incomplete_evidence 19398 19404	may be
-T288	incomplete_evidence 19467 19476	supported
-T289	incomplete_evidence 19498 19503	found
-T290	incomplete_evidence 19565 19569	only
-T291	incomplete_evidence 19716 19721	found
-T292	incomplete_evidence 19874 19888	it is possible
-T293	incomplete_evidence 19926 19929	may
-T294	incomplete_evidence 20157 20165	suggests
-T295	incomplete_evidence 20231 20234	may
-T296	incomplete_evidence 20316 20323	limited
-T297	incomplete_evidence 20379 20384	small
-T298	incomplete_evidence 20520 20531	limitations
-T299	incomplete_evidence 20633 20643	conclusion
-T300	incomplete_evidence 21066 21076	No studies
-T301	incomplete_evidence 21237 21245	reported
-T302	incomplete_evidence 21462 21468	limits
-T303	incomplete_evidence 21854 21857	may
-T304	incomplete_evidence 21970 21988	has been suggested
-T305	incomplete_evidence 22185 22189	Only
-T306	incomplete_evidence 22287 22291	only
-T307	incomplete_evidence 22765 22784	not always measured
-T308	incomplete_evidence 23059 23066	did not
-T309	incomplete_evidence 23119 23129	No studies
-T310	incomplete_evidence 23173 23187	has been shown
-T311	incomplete_evidence 23292 23295	may
-T312	incomplete_evidence 23358 23361	may
-T313	incomplete_evidence 23448 23458	considered
-T314	incomplete_evidence 23690 23697	did not
-T315	incomplete_evidence 23906 23910	only
-T316	incomplete_evidence 23999 24006	did not
-T317	incomplete_evidence 24049 24053	Only
-T318	incomplete_evidence 24308 24311	can
-T319	incomplete_evidence 24357 24360	can
-T320	incomplete_evidence 24663 24671	has been
-T321	incomplete_evidence 24711 24722	potentially
-T322	incomplete_evidence 24998 25001	may
-T323	incomplete_evidence 25048 25055	...studies
-T324	incomplete_evidence 25237 25240	may
-T325	incomplete_evidence 25486 25491	found
-T326	incomplete_evidence 25577 25583	may be
-T327	incomplete_evidence 25786 25795	have been
-T328	incomplete_evidence 26003 26018	Recent research
-T329	incomplete_evidence 26023 26032	suggested
-T330	incomplete_evidence 26092 26098	may be
-T331	incomplete_evidence 26137 26151	it is possible
-T332	incomplete_evidence 26471 26481	hypothesis
-T333	incomplete_evidence 26580 26598	available evidence
-T334	incomplete_evidence 26599 26608	indicates
-T335	incomplete_evidence 26713 26722	supported
-T336	incomplete_evidence 26766 26772	showed
-T337	incomplete_evidence 26893 26901	Based on
-T338	incomplete_evidence 27167 27184	Existing evidence
-T339	incomplete_evidence 27329 27342	evidence base
-T340	probable_understanding 2783 2787	Thus
-T341	probable_understanding 17835 17839	Thus
-T342	probable_understanding 18777 18783	likely
-T343	probable_understanding 19356 19360	Thus
-T344	probable_understanding 19869 19873	Thus
-T345	probable_understanding 20699 20709	preferably
-T346	probable_understanding 21511 21513	as
-T347	probable_understanding 23332 23336	thus
-T348	probable_understanding 23745 23749	thus
-T349	probable_understanding 24985 24989	thus
-T350	probable_understanding 25944 25952	unlikely
-T351	superficial_relationship 568 579	association
-T352	superficial_relationship 1449 1456	effects
-T353	superficial_relationship 3385 3391	impact
-T354	superficial_relationship 3605 3615	influences
-T355	superficial_relationship 3743 3755	associations
-T356	superficial_relationship 4415 4427	relationship
-T357	superficial_relationship 5772 5782	associated
-T358	superficial_relationship 9473 9484	association
-T359	superficial_relationship 9653 9663	associated
-T360	superficial_relationship 10267 10277	associated
-T361	superficial_relationship 13751 13762	association
-T362	superficial_relationship 13931 13941	correlated
-T363	superficial_relationship 14749 14759	influenced
-T364	superficial_relationship 17690 17696	impact
-T365	superficial_relationship 18426 18437	association
-T366	superficial_relationship 18876 18887	association
-T367	superficial_relationship 19072 19078	effect
-T368	superficial_relationship 19437 19449	associations
-T369	superficial_relationship 19791 19797	effect
-T370	superficial_relationship 19847 19849	...to
-T371	superficial_relationship 20060 20070	associated
-T372	superficial_relationship 20235 20241	impact
-T373	superficial_relationship 20660 20672	relationship
-T374	superficial_relationship 22367 22379	interrelated
-T375	superficial_relationship 22394 22400	impact
-T376	superficial_relationship 23194 23201	related
-T377	superficial_relationship 23296 23303	reflect
-T378	superficial_relationship 23350 23357	effects
-T379	superficial_relationship 23378 23388	attributed
-T380	superficial_relationship 24528 24538	depends on
-T381	superficial_relationship 25108 25118	associated
-T382	superficial_relationship 25168 25175	related
-T383	superficial_relationship 25616 25623	effects
-T384	superficial_relationship 25641 25651	associated
-T385	superficial_relationship 25859 25869	associated
-T386	superficial_relationship 26038 26045	effects
-T387	superficial_relationship 26649 26659	associated
-T388	superficial_relationship 26786 26792	impact
-T389	superficial_relationship 27425 27435	associated
-T390	superficial_relationship 27504 27516	contribution
-T391	future_work 238 247	encourage
-T392	future_work 380 393	consideration
-T393	future_work 1857 1866	encourage
-T394	future_work 2168 2183	recommendations
-T395	future_work 2378 2389	recommended
-T396	future_work 2843 2853	need to be
-T397	future_work 2854 2864	considered
-T398	future_work 2889 2895	should
-T399	future_work 17899 17914	recommendations
-T400	future_work 19405 19411	needed
-T401	future_work 19968 19978	considered
-T402	future_work 20404 20430	More research in this area
-T403	future_work 20681 20697	further research
-T404	future_work 21138 21152	recommendation
-T405	future_work 22059 22065	should
-T406	future_work 26223 26238	recommendations
-T407	future_work 26276 26283	prudent
-T408	future_work 26287 26296	recommend
-T409	future_work 26959 26973	recommendation
-T410	future_work 27268 27275;27290 27297	Further ... studies
-T411	future_work 27488 27499	considering
-T412	important_consideration 150 159	important
-T413	important_consideration 363 371	requires
-T414	important_consideration 1437 1448	detrimental
-T415	important_consideration 1505 1514	important
-T416	important_consideration 1629 1638	important
-T417	important_consideration 1993 2003	importance
-T418	important_consideration 2432 2441	essential
-T419	important_consideration 2575 2586	emphasising
-T420	important_consideration 2598 2603	risks
-T421	important_consideration 2646 2655	important
-T422	important_consideration 19779 19790	detrimental
-T423	important_consideration 20434 20442	required
-T424	important_consideration 20476 20493	important to note
-T425	important_consideration 23750 23757	at risk
-T426	important_consideration 25706 25715	important
-T427	important_consideration 25976 25988	implications
-T428	important_consideration 26180 26186	safely
-T429	important_consideration 27302 27310	required
-T430	anomaly_curious_finding 2103 2110	appears
-T431	anomaly_curious_finding 10192 10199	however
-T432	anomaly_curious_finding 22998 23001	...not
-T433	anomaly_curious_finding 27008 27015	appears
-T434	alternative_options_controversy 1418 1426	outweigh
-T435	alternative_options_controversy 10192 10199	however
-T436	alternative_options_controversy 14343 14349	rather
-T437	alternative_options_controversy 14760 14767	whether
-T438	alternative_options_controversy 15054 15061	However
-T439	alternative_options_controversy 16613 16623	Conversely
-T440	alternative_options_controversy 19133 19140	However
-T441	alternative_options_controversy 19606 19611	while
-T442	alternative_options_controversy 19819 19824	while
-T443	alternative_options_controversy 20036 20047	differences
-T444	alternative_options_controversy 20287 20294	However
-T445	alternative_options_controversy 21325 21330	while
-T446	alternative_options_controversy 21358 21369	assumptions
-T447	alternative_options_controversy 22606 22613	However
-T448	alternative_options_controversy 22926 22936	Conversely
-T449	alternative_options_controversy 23405 23411	rather
-T450	alternative_options_controversy 23607 23612	while
-T451	alternative_options_controversy 23676 23681	Other
-T452	alternative_options_controversy 23979 23986	however
-T453	alternative_options_controversy 24028 24033	other
-T454	alternative_options_controversy 24386 24388	if
-T455	alternative_options_controversy 24672 24682	criticised
-T456	alternative_options_controversy 24848 24859	conflicting
-T457	alternative_options_controversy 25042 25047	other
-T458	alternative_options_controversy 25680 25685	other
-T459	alternative_options_controversy 26338 26344	rather
-T460	alternative_options_controversy 27482 27487	while
-T461	difficult_task 1207 1220	heterogeneity
-T462	difficult_task 14088 14101	heterogeneous
-T463	difficult_task 14270 14278	differed
-T464	difficult_task 14315 14328	heterogeneity
-T465	difficult_task 18666 18673	variety
-T466	difficult_task 18784 18788	vary
-T467	difficult_task 20620 20628	prevents
-T468	difficult_task 20846 20856	difficulty
-T469	difficult_task 21532 21543	variability
-T470	difficult_task 21668 21680	difficulties
-T471	difficult_task 24226 24233	varying
-T472	problem_complication 1200 1206	Due to
-T473	problem_complication 2132 2139	falling
-T474	problem_complication 2140 2145	short
-T475	problem_complication 3721 3727	issues
-T476	problem_complication 9439 9449	confounder
-T477	problem_complication 14303 14309	Due to
-T478	problem_complication 20823 20834	problematic
-T479	problem_complication 20835 20841	due to
-T480	problem_complication 20927 20933	burden
-T481	problem_complication 21681 21687	due to
-T482	problem_complication 22434 22445	confounders
-T483	problem_complication 22893 22903	confounder
-T484	problem_complication 23761 23765	bias
-T485	problem_complication 24104 24114	confounder
-T486	problem_complication 25091 25097	Due to
-T487	problem_complication 27198 27210	insufficient
-T488	question_answered_by_this_work 470 481	This review
-T489	question_answered_by_this_work 555 560	focus
-T490	question_answered_by_this_work 1317 1328	This review
-T491	question_answered_by_this_work 3177 3188	This review
-T492	question_answered_by_this_work 3189 3196	focuses
-T493	question_answered_by_this_work 3429 3432	aim
-T494	question_answered_by_this_work 3436 3447	this review
-T495	question_answered_by_this_work 3530 3539	to assess
-T496	question_answered_by_this_work 3641 3652	This review
-T497	question_answered_by_this_work 18805 18827	This systematic review
-T498	question_answered_by_this_work 26451 26457	...review
-T499	question_answered_by_this_work 26458 26466	assessed
+T2	full_unknown 25796 25798;25818 25824	...no ... trials
+T3	full_unknown 27121 27124	but
+T4	full_unknown 27125 27128	not
+T5	explicit_question 24151 24156	which
+T6	explicit_question 24246 24250	what
+T7	explicit_question 24539 24543	when
+T8	explicit_question 24581 24585	what
+T9	incomplete_evidence 287 296	potential
+T10	incomplete_evidence 1329 1338	indicates
+T11	incomplete_evidence 1427 1436	potential
+T12	incomplete_evidence 1909 1923	Recent studies
+T13	incomplete_evidence 1924 1932	indicate
+T14	incomplete_evidence 2469 2478	potential
+T15	incomplete_evidence 2681 2687	may be
+T16	incomplete_evidence 2981 2996	many documented
+T17	incomplete_evidence 3544 3554	hypothesis
+T18	incomplete_evidence 3694 3698	some
+T19	incomplete_evidence 5688 5701	did not yield
+T20	incomplete_evidence 13124 13136	less obvious
+T21	incomplete_evidence 13150 13154	only
+T22	incomplete_evidence 13767 13771	only
+T23	incomplete_evidence 14556 14561	found
+T24	incomplete_evidence 14710 14715	found
+T25	incomplete_evidence 14905 14913	reported
+T26	incomplete_evidence 15094 15103	indicated
+T27	incomplete_evidence 15187 15199	demonstrated
+T28	incomplete_evidence 15348 15356	reported
+T29	incomplete_evidence 15720 15730	suggesting
+T30	incomplete_evidence 15753 15759	may be
+T31	incomplete_evidence 15884 15889	found
+T32	incomplete_evidence 16178 16190	demonstrated
+T33	incomplete_evidence 16363 16370	smaller
+T34	incomplete_evidence 16397 16404	did not
+T35	incomplete_evidence 16656 16668	demonstrated
+T36	incomplete_evidence 16935 16944	indicated
+T37	incomplete_evidence 17181 17185	only
+T38	incomplete_evidence 17265 17275	suggesting
+T39	incomplete_evidence 17296 17302	may be
+T40	incomplete_evidence 17670 17676	showed
+T41	incomplete_evidence 17878 17886	supports
+T42	incomplete_evidence 18073 18083	indicating
+T43	incomplete_evidence 18101 18109	evidence
+T44	incomplete_evidence 18113 18123	supportive
+T45	incomplete_evidence 18360 18380	ConsistencyGoodSeven
+T46	incomplete_evidence 18402 18414	demonstrated
+T47	incomplete_evidence 18495 18518	impactSatisfactoryTrend
+T48	incomplete_evidence 19041 19045	only
+T49	incomplete_evidence 19206 19210	only
+T50	incomplete_evidence 19252 19264	demonstrated
+T51	incomplete_evidence 19361 19375	it is possible
+T52	incomplete_evidence 19398 19404	may be
+T53	incomplete_evidence 19467 19476	supported
+T54	incomplete_evidence 19498 19503	found
+T55	incomplete_evidence 19565 19569	only
+T56	incomplete_evidence 19716 19721	found
+T57	incomplete_evidence 19874 19888	it is possible
+T58	incomplete_evidence 19926 19929	may
+T59	incomplete_evidence 20157 20165	suggests
+T60	incomplete_evidence 20231 20234	may
+T61	incomplete_evidence 20316 20323	limited
+T62	incomplete_evidence 20379 20384	small
+T63	incomplete_evidence 20520 20531	limitations
+T64	incomplete_evidence 20633 20643	conclusion
+T65	incomplete_evidence 21066 21076	No studies
+T66	incomplete_evidence 21237 21245	reported
+T67	incomplete_evidence 21462 21468	limits
+T68	incomplete_evidence 21854 21857	may
+T69	incomplete_evidence 21970 21988	has been suggested
+T70	incomplete_evidence 22185 22189	Only
+T71	incomplete_evidence 22287 22291	only
+T72	incomplete_evidence 22765 22784	not always measured
+T73	incomplete_evidence 23059 23066	did not
+T74	incomplete_evidence 23119 23129	No studies
+T75	incomplete_evidence 23173 23187	has been shown
+T76	incomplete_evidence 23292 23295	may
+T77	incomplete_evidence 23358 23361	may
+T78	incomplete_evidence 23448 23458	considered
+T79	incomplete_evidence 23690 23697	did not
+T80	incomplete_evidence 23906 23910	only
+T81	incomplete_evidence 23999 24006	did not
+T82	incomplete_evidence 24049 24053	Only
+T83	incomplete_evidence 24308 24311	can
+T84	incomplete_evidence 24357 24360	can
+T85	incomplete_evidence 24663 24671	has been
+T86	incomplete_evidence 24711 24722	potentially
+T87	incomplete_evidence 24998 25001	may
+T88	incomplete_evidence 25048 25055	...studies
+T89	incomplete_evidence 25237 25240	may
+T90	incomplete_evidence 25486 25491	found
+T91	incomplete_evidence 25577 25583	may be
+T92	incomplete_evidence 25786 25795	have been
+T93	incomplete_evidence 26003 26018	Recent research
+T94	incomplete_evidence 26023 26032	suggested
+T95	incomplete_evidence 26092 26098	may be
+T96	incomplete_evidence 26137 26151	it is possible
+T97	incomplete_evidence 26471 26481	hypothesis
+T98	incomplete_evidence 26580 26598	available evidence
+T99	incomplete_evidence 26599 26608	indicates
+T100	incomplete_evidence 26713 26722	supported
+T101	incomplete_evidence 26766 26772	showed
+T102	incomplete_evidence 26893 26901	Based on
+T103	incomplete_evidence 27167 27184	Existing evidence
+T104	incomplete_evidence 27329 27342	evidence base
+T105	probable_understanding 2783 2787	Thus
+T106	probable_understanding 17835 17839	Thus
+T107	probable_understanding 18777 18783	likely
+T108	probable_understanding 19356 19360	Thus
+T109	probable_understanding 19869 19873	Thus
+T110	probable_understanding 20699 20709	preferably
+T111	probable_understanding 21511 21513	as
+T112	probable_understanding 23332 23336	thus
+T113	probable_understanding 23745 23749	thus
+T114	probable_understanding 24985 24989	thus
+T115	probable_understanding 25944 25952	unlikely
+T116	superficial_relationship 568 579	association
+T117	superficial_relationship 1449 1456	effects
+T118	superficial_relationship 3385 3391	impact
+T119	superficial_relationship 3605 3615	influences
+T120	superficial_relationship 3743 3755	associations
+T121	superficial_relationship 4415 4427	relationship
+T122	superficial_relationship 5772 5782	associated
+T123	superficial_relationship 9473 9484	association
+T124	superficial_relationship 9653 9663	associated
+T125	superficial_relationship 10267 10277	associated
+T126	superficial_relationship 13751 13762	association
+T127	superficial_relationship 13931 13941	correlated
+T128	superficial_relationship 14749 14759	influenced
+T129	superficial_relationship 17690 17696	impact
+T130	superficial_relationship 18426 18437	association
+T131	superficial_relationship 18876 18887	association
+T132	superficial_relationship 19072 19078	effect
+T133	superficial_relationship 19437 19449	associations
+T134	superficial_relationship 19791 19797	effect
+T135	superficial_relationship 19847 19849	...to
+T136	superficial_relationship 20060 20070	associated
+T137	superficial_relationship 20235 20241	impact
+T138	superficial_relationship 20660 20672	relationship
+T139	superficial_relationship 22367 22379	interrelated
+T140	superficial_relationship 22394 22400	impact
+T141	superficial_relationship 23194 23201	related
+T142	superficial_relationship 23296 23303	reflect
+T143	superficial_relationship 23350 23357	effects
+T144	superficial_relationship 23378 23388	attributed
+T145	superficial_relationship 24528 24538	depends on
+T146	superficial_relationship 25108 25118	associated
+T147	superficial_relationship 25168 25175	related
+T148	superficial_relationship 25616 25623	effects
+T149	superficial_relationship 25641 25651	associated
+T150	superficial_relationship 25859 25869	associated
+T151	superficial_relationship 26038 26045	effects
+T152	superficial_relationship 26649 26659	associated
+T153	superficial_relationship 26786 26792	impact
+T154	superficial_relationship 27425 27435	associated
+T155	superficial_relationship 27504 27516	contribution
+T156	future_work 238 247	encourage
+T157	future_work 380 393	consideration
+T158	future_work 1857 1866	encourage
+T159	future_work 2168 2183	recommendations
+T160	future_work 2378 2389	recommended
+T161	future_work 2843 2853	need to be
+T162	future_work 2854 2864	considered
+T163	future_work 2889 2895	should
+T164	future_work 17899 17914	recommendations
+T165	future_work 19405 19411	needed
+T166	future_work 19968 19978	considered
+T167	future_work 20404 20430	More research in this area
+T168	future_work 20681 20697	further research
+T169	future_work 21138 21152	recommendation
+T170	future_work 22059 22065	should
+T171	future_work 26223 26238	recommendations
+T172	future_work 26276 26283	prudent
+T173	future_work 26287 26296	recommend
+T174	future_work 26959 26973	recommendation
+T175	future_work 27268 27275;27290 27297	Further ... studies
+T176	future_work 27488 27499	considering
+T177	important_consideration 150 159	important
+T178	important_consideration 363 371	requires
+T179	important_consideration 1437 1448	detrimental
+T180	important_consideration 1505 1514	important
+T181	important_consideration 1629 1638	important
+T182	important_consideration 1993 2003	importance
+T183	important_consideration 2432 2441	essential
+T184	important_consideration 2575 2586	emphasising
+T185	important_consideration 2598 2603	risks
+T186	important_consideration 2646 2655	important
+T187	important_consideration 19779 19790	detrimental
+T188	important_consideration 20434 20442	required
+T189	important_consideration 20476 20493	important to note
+T190	important_consideration 23750 23757	at risk
+T191	important_consideration 25706 25715	important
+T192	important_consideration 25976 25988	implications
+T193	important_consideration 26180 26186	safely
+T194	important_consideration 27302 27310	required
+T195	anomaly_curious_finding 2103 2110	appears
+T196	anomaly_curious_finding 10192 10199	however
+T197	anomaly_curious_finding 22998 23001	...not
+T198	anomaly_curious_finding 27008 27015	appears
+T199	alternative_options_controversy 1418 1426	outweigh
+T200	alternative_options_controversy 10192 10199	however
+T201	alternative_options_controversy 14343 14349	rather
+T202	alternative_options_controversy 14760 14767	whether
+T203	alternative_options_controversy 15054 15061	However
+T204	alternative_options_controversy 16613 16623	Conversely
+T205	alternative_options_controversy 19133 19140	However
+T206	alternative_options_controversy 19606 19611	while
+T207	alternative_options_controversy 19819 19824	while
+T208	alternative_options_controversy 20036 20047	differences
+T209	alternative_options_controversy 20287 20294	However
+T210	alternative_options_controversy 21325 21330	while
+T211	alternative_options_controversy 21358 21369	assumptions
+T212	alternative_options_controversy 22606 22613	However
+T213	alternative_options_controversy 22926 22936	Conversely
+T214	alternative_options_controversy 23405 23411	rather
+T215	alternative_options_controversy 23607 23612	while
+T216	alternative_options_controversy 23676 23681	Other
+T217	alternative_options_controversy 23979 23986	however
+T218	alternative_options_controversy 24028 24033	other
+T219	alternative_options_controversy 24386 24388	if
+T220	alternative_options_controversy 24672 24682	criticised
+T221	alternative_options_controversy 24848 24859	conflicting
+T222	alternative_options_controversy 25042 25047	other
+T223	alternative_options_controversy 25680 25685	other
+T224	alternative_options_controversy 26338 26344	rather
+T225	alternative_options_controversy 27482 27487	while
+T226	difficult_task 1207 1220	heterogeneity
+T227	difficult_task 14088 14101	heterogeneous
+T228	difficult_task 14270 14278	differed
+T229	difficult_task 14315 14328	heterogeneity
+T230	difficult_task 18666 18673	variety
+T231	difficult_task 18784 18788	vary
+T232	difficult_task 20620 20628	prevents
+T233	difficult_task 20846 20856	difficulty
+T234	difficult_task 21532 21543	variability
+T235	difficult_task 21668 21680	difficulties
+T236	difficult_task 24226 24233	varying
+T237	problem_complication 1200 1206	Due to
+T238	problem_complication 2132 2139	falling
+T239	problem_complication 2140 2145	short
+T240	problem_complication 3721 3727	issues
+T241	problem_complication 9439 9449	confounder
+T242	problem_complication 14303 14309	Due to
+T243	problem_complication 20823 20834	problematic
+T244	problem_complication 20835 20841	due to
+T245	problem_complication 20927 20933	burden
+T246	problem_complication 21681 21687	due to
+T247	problem_complication 22434 22445	confounders
+T248	problem_complication 22893 22903	confounder
+T249	problem_complication 23761 23765	bias
+T250	problem_complication 24104 24114	confounder
+T251	problem_complication 25091 25097	Due to
+T252	problem_complication 27198 27210	insufficient
+T253	question_answered_by_this_work 470 481	This review
+T254	question_answered_by_this_work 555 560	focus
+T255	question_answered_by_this_work 1317 1328	This review
+T256	question_answered_by_this_work 3177 3188	This review
+T257	question_answered_by_this_work 3189 3196	focuses
+T258	question_answered_by_this_work 3429 3432	aim
+T259	question_answered_by_this_work 3436 3447	this review
+T260	question_answered_by_this_work 3530 3539	to assess
+T261	question_answered_by_this_work 3641 3652	This review
+T262	question_answered_by_this_work 18805 18827	This systematic review
+T263	question_answered_by_this_work 26451 26457	...review
+T264	question_answered_by_this_work 26458 26466	assessed

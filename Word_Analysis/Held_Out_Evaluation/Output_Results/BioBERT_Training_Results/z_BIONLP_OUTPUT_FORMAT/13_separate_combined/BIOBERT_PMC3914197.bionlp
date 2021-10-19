@@ -1,72 +1,36 @@
 T0	full_unknown 5603 5622	not well understood
 T1	incomplete_evidence 123 127	rare
-T2	incomplete_evidence 269 292	high index of suspicion
-T3	incomplete_evidence 635 648	possibilities
-T4	incomplete_evidence 743 747	rare
-T5	incomplete_evidence 935 942	usually
-T6	incomplete_evidence 1399 1403	only
-T7	incomplete_evidence 1891 1899	revealed
-T8	incomplete_evidence 4068 4072	rare
-T9	incomplete_evidence 4178 4185	usually
+T2	incomplete_evidence 133 148	well recognized
+T3	incomplete_evidence 269 292	high index of suspicion
+T4	incomplete_evidence 635 648	possibilities
+T5	incomplete_evidence 743 747	rare
+T6	incomplete_evidence 935 942	usually
+T7	incomplete_evidence 4068 4072	rare
+T8	incomplete_evidence 4178 4185	usually
+T9	incomplete_evidence 4321 4323	is
 T10	incomplete_evidence 4324 4334	thought to
 T11	incomplete_evidence 4742 4749	usually
-T12	incomplete_evidence 5157 5160	can
-T13	incomplete_evidence 5383 5386	may
-T14	incomplete_evidence 5627 5635	has been
-T15	incomplete_evidence 5636 5648	hypothesized
-T16	incomplete_evidence 6140 6154	it is possible
-T17	incomplete_evidence 6175 6180	could
-T18	incomplete_evidence 6263 6268	could
-T19	incomplete_evidence 6351 6374	high index of suspicion
-T20	incomplete_evidence 6645 6648	may
-T21	probable_understanding 6129 6138	Therefore
-T22	probable_understanding 6296 6307	In light of
-T23	superficial_relationship 183 190	related
-T24	superficial_relationship 785 792	related
-T25	superficial_relationship 5182 5188	effect
-T26	future_work 6327 6336	recommend
-T27	important_consideration 330 338	required
-T28	anomaly_curious_finding 1050 1056	unique
-T29	anomaly_curious_finding 3484 3491	despite
-T30	alternative_options_controversy 1726 1733	However
-T31	alternative_options_controversy 5860 5877	On the other hand
-T32	difficult_task 2628 2639	complicated
-T33	problem_complication 748 760	complication
-T34	problem_complication 886 899	not available
+T12	incomplete_evidence 4901 4909	observed
+T13	incomplete_evidence 4946 4959	primary known
+T14	incomplete_evidence 5215 5228	is considered
+T15	incomplete_evidence 5383 5386	may
+T16	incomplete_evidence 5538 5551	is considered
+T17	incomplete_evidence 5627 5635	has been
+T18	incomplete_evidence 5636 5648	hypothesized
+T19	incomplete_evidence 6140 6154	it is possible
+T20	incomplete_evidence 6175 6180	could
+T21	incomplete_evidence 6263 6268	could
+T22	incomplete_evidence 6365 6374	...suspicion
+T23	incomplete_evidence 6645 6648	may
+T24	probable_understanding 6129 6138	Therefore
+T25	probable_understanding 6296 6307	In light of
+T26	superficial_relationship 31 41	Associated
+T27	superficial_relationship 183 190	related
+T28	superficial_relationship 785 792	related
+T29	future_work 6327 6336	recommend
+T30	important_consideration 330 338	required
+T31	anomaly_curious_finding 1050 1056	unique
+T32	alternative_options_controversy 5860 5877	On the other hand
+T33	problem_complication 150 162	complication
+T34	problem_complication 748 760	complication
 T35	problem_complication 4073 4085	complication
-T36	full_unknown 5603 5622	not well understood
-T37	incomplete_evidence 123 127	rare
-T38	incomplete_evidence 133 148	well recognized
-T39	incomplete_evidence 269 292	high index of suspicion
-T40	incomplete_evidence 635 648	possibilities
-T41	incomplete_evidence 743 747	rare
-T42	incomplete_evidence 935 942	usually
-T43	incomplete_evidence 4068 4072	rare
-T44	incomplete_evidence 4178 4185	usually
-T45	incomplete_evidence 4321 4323	is
-T46	incomplete_evidence 4324 4334	thought to
-T47	incomplete_evidence 4742 4749	usually
-T48	incomplete_evidence 4901 4909	observed
-T49	incomplete_evidence 4946 4959	primary known
-T50	incomplete_evidence 5215 5228	is considered
-T51	incomplete_evidence 5383 5386	may
-T52	incomplete_evidence 5538 5551	is considered
-T53	incomplete_evidence 5627 5635	has been
-T54	incomplete_evidence 5636 5648	hypothesized
-T55	incomplete_evidence 6140 6154	it is possible
-T56	incomplete_evidence 6175 6180	could
-T57	incomplete_evidence 6263 6268	could
-T58	incomplete_evidence 6365 6374	...suspicion
-T59	incomplete_evidence 6645 6648	may
-T60	probable_understanding 6129 6138	Therefore
-T61	probable_understanding 6296 6307	In light of
-T62	superficial_relationship 31 41	Associated
-T63	superficial_relationship 183 190	related
-T64	superficial_relationship 785 792	related
-T65	future_work 6327 6336	recommend
-T66	important_consideration 330 338	required
-T67	anomaly_curious_finding 1050 1056	unique
-T68	alternative_options_controversy 5860 5877	On the other hand
-T69	problem_complication 150 162	complication
-T70	problem_complication 748 760	complication
-T71	problem_complication 4073 4085	complication

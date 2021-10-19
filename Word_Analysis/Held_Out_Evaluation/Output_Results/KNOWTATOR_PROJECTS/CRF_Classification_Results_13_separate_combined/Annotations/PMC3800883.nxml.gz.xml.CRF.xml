@@ -1,0 +1,37 @@
+<?xml version="1.0" ?>
+<knowtator-project>
+   <document id="PMC3800883.nxml.gz" text-file="PMC3800883.nxml.gz.txt">
+      <annotation annotator="Default" id="PMC3800883.nxml.gz-1" type="identity">
+         <class id="explained"/>
+         <span end="273" id="PMC3800883.nxml.gz-2" start="264">explained</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC3800883.nxml.gz-3" type="identity">
+         <class id="thus"/>
+         <span end="456" id="PMC3800883.nxml.gz-4" start="452">Thus</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC3800883.nxml.gz-5" type="identity">
+         <class id="thus"/>
+         <span end="874" id="PMC3800883.nxml.gz-6" start="870">Thus</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC3800883.nxml.gz-7" type="identity">
+         <class id="proved"/>
+         <span end="1522" id="PMC3800883.nxml.gz-8" start="1516">proved</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC3800883.nxml.gz-9" type="identity">
+         <class id="thus"/>
+         <span end="1615" id="PMC3800883.nxml.gz-10" start="1611">Thus</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC3800883.nxml.gz-11" type="identity">
+         <class id="therefore"/>
+         <span end="1687" id="PMC3800883.nxml.gz-12" start="1678">therefore</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC3800883.nxml.gz-13" type="identity">
+         <class id="due_to"/>
+         <span end="177" id="PMC3800883.nxml.gz-14" start="171">due to</span>
+      </annotation>
+      <annotation annotator="Default" id="PMC3800883.nxml.gz-15" type="identity">
+         <class id="complication"/>
+         <span end="1609" id="PMC3800883.nxml.gz-16" start="1597">complication</span>
+      </annotation>
+   </document>
+</knowtator-project>

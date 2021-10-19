@@ -674,7 +674,7 @@
 672	PMC2885310.nxml.gz	PMC2885310.nxml.gz_19	3557	3834	pregnant	JJ	3600	3608	O	None	None	None
 673	PMC2885310.nxml.gz	PMC2885310.nxml.gz_19	3557	3834	women	NNS	3609	3614	O	None	None	None
 674	PMC2885310.nxml.gz	PMC2885310.nxml.gz_19	3557	3834	;	:	3614	3615	O	None	None	None
-675	PMC2885310.nxml.gz	PMC2885310.nxml.gz_19	3557	3834	hence	VB	3616	3621	B	probable_understanding_2021_10_13_Instance_32	None	None
+675	PMC2885310.nxml.gz	PMC2885310.nxml.gz_19	3557	3834	hence	VB	3616	3621	B	probable_understanding_2021_10_19_Instance_32	None	None
 676	PMC2885310.nxml.gz	PMC2885310.nxml.gz_19	3557	3834	very	RB	3622	3626	O	None	None	None
 677	PMC2885310.nxml.gz	PMC2885310.nxml.gz_19	3557	3834	little	JJ	3627	3633	O	None	None	None
 678	PMC2885310.nxml.gz	PMC2885310.nxml.gz_19	3557	3834	is	VBZ	3634	3636	O	None	None	None
@@ -705,12 +705,12 @@
 703	PMC2885310.nxml.gz	PMC2885310.nxml.gz_19	3557	3834	(	(	3828	3829	O	None	None	None
 704	PMC2885310.nxml.gz	PMC2885310.nxml.gz_19	3557	3834	GDM	NNP	3829	3832	O	None	None	None
 705	PMC2885310.nxml.gz	PMC2885310.nxml.gz_19	3557	3834	).	NNP	3832	3834	O	None	None	None
-706	PMC2885310.nxml.gz	PMC2885310.nxml.gz_20	3835	3970	To	TO	3835	3837	B	probable_understanding_2021_10_13_Instance_33	None	None
-707	PMC2885310.nxml.gz	PMC2885310.nxml.gz_20	3835	3970	the	DT	3838	3841	I	probable_understanding_2021_10_13_Instance_33	None	None
-708	PMC2885310.nxml.gz	PMC2885310.nxml.gz_20	3835	3970	best	JJS	3842	3846	I	probable_understanding_2021_10_13_Instance_33	None	None
-709	PMC2885310.nxml.gz	PMC2885310.nxml.gz_20	3835	3970	of	IN	3847	3849	I	probable_understanding_2021_10_13_Instance_33	None	None
-710	PMC2885310.nxml.gz	PMC2885310.nxml.gz_20	3835	3970	our	PRP$	3850	3853	I	probable_understanding_2021_10_13_Instance_33	None	None
-711	PMC2885310.nxml.gz	PMC2885310.nxml.gz_20	3835	3970	knowledge	NN	3854	3863	I	probable_understanding_2021_10_13_Instance_33	None	None
+706	PMC2885310.nxml.gz	PMC2885310.nxml.gz_20	3835	3970	To	TO	3835	3837	B	probable_understanding_2021_10_19_Instance_33	None	None
+707	PMC2885310.nxml.gz	PMC2885310.nxml.gz_20	3835	3970	the	DT	3838	3841	I	probable_understanding_2021_10_19_Instance_33	None	None
+708	PMC2885310.nxml.gz	PMC2885310.nxml.gz_20	3835	3970	best	JJS	3842	3846	I	probable_understanding_2021_10_19_Instance_33	None	None
+709	PMC2885310.nxml.gz	PMC2885310.nxml.gz_20	3835	3970	of	IN	3847	3849	I	probable_understanding_2021_10_19_Instance_33	None	None
+710	PMC2885310.nxml.gz	PMC2885310.nxml.gz_20	3835	3970	our	PRP$	3850	3853	I	probable_understanding_2021_10_19_Instance_33	None	None
+711	PMC2885310.nxml.gz	PMC2885310.nxml.gz_20	3835	3970	knowledge	NN	3854	3863	I	probable_understanding_2021_10_19_Instance_33	None	None
 712	PMC2885310.nxml.gz	PMC2885310.nxml.gz_20	3835	3970	no	DT	3864	3866	O	None	None	None
 713	PMC2885310.nxml.gz	PMC2885310.nxml.gz_20	3835	3970	one	NN	3867	3870	O	None	None	None
 714	PMC2885310.nxml.gz	PMC2885310.nxml.gz_20	3835	3970	has	VBZ	3871	3874	O	None	None	None
@@ -1214,7 +1214,7 @@
 1212	PMC2885310.nxml.gz	PMC2885310.nxml.gz_41	6705	6780	,	,	6775	6776	O	None	None	None
 1213	PMC2885310.nxml.gz	PMC2885310.nxml.gz_41	6705	6780	11	CD	6776	6778	O	None	None	None
 1214	PMC2885310.nxml.gz	PMC2885310.nxml.gz_41	6705	6780	].	NN	6778	6780	O	None	None	None
-1215	PMC2885310.nxml.gz	PMC2885310.nxml.gz_42	6781	7051	Given	VBN	6781	6786	B	probable_understanding_2021_10_13_Instance_34	None	None
+1215	PMC2885310.nxml.gz	PMC2885310.nxml.gz_42	6781	7051	Given	VBN	6781	6786	B	probable_understanding_2021_10_19_Instance_34	None	None
 1216	PMC2885310.nxml.gz	PMC2885310.nxml.gz_42	6781	7051	that	DT	6787	6791	O	None	None	None
 1217	PMC2885310.nxml.gz	PMC2885310.nxml.gz_42	6781	7051	pregnant	JJ	6792	6800	O	None	None	None
 1218	PMC2885310.nxml.gz	PMC2885310.nxml.gz_42	6781	7051	women	NNS	6801	6806	O	None	None	None
@@ -1775,8 +1775,8 @@
 1773	PMC2885310.nxml.gz	PMC2885310.nxml.gz_59	9391	9715	criteria	NNS	9580	9588	O	None	None	None
 1774	PMC2885310.nxml.gz	PMC2885310.nxml.gz_59	9391	9715	for	IN	9589	9592	O	None	None	None
 1775	PMC2885310.nxml.gz	PMC2885310.nxml.gz_59	9391	9715	confounding	VBG	9593	9604	O	None	None	None
-1776	PMC2885310.nxml.gz	PMC2885310.nxml.gz_59	9391	9715	based	VBN	9605	9610	B	probable_understanding_2021_10_13_Instance_35	None	None
-1777	PMC2885310.nxml.gz	PMC2885310.nxml.gz_59	9391	9715	on	IN	9611	9613	I	probable_understanding_2021_10_13_Instance_35	None	None
+1776	PMC2885310.nxml.gz	PMC2885310.nxml.gz_59	9391	9715	based	VBN	9605	9610	B	probable_understanding_2021_10_19_Instance_35	None	None
+1777	PMC2885310.nxml.gz	PMC2885310.nxml.gz_59	9391	9715	on	IN	9611	9613	I	probable_understanding_2021_10_19_Instance_35	None	None
 1778	PMC2885310.nxml.gz	PMC2885310.nxml.gz_59	9391	9715	a	DT	9614	9615	O	None	None	None
 1779	PMC2885310.nxml.gz	PMC2885310.nxml.gz_59	9391	9715	review	NN	9616	9622	O	None	None	None
 1780	PMC2885310.nxml.gz	PMC2885310.nxml.gz_59	9391	9715	of	IN	9623	9625	O	None	None	None
@@ -1789,7 +1789,7 @@
 1787	PMC2885310.nxml.gz	PMC2885310.nxml.gz_59	9391	9715	causal	NN	9669	9675	O	None	None	None
 1788	PMC2885310.nxml.gz	PMC2885310.nxml.gz_59	9391	9715	relationships	NNS	9676	9689	O	None	None	None
 1789	PMC2885310.nxml.gz	PMC2885310.nxml.gz_59	9391	9715	based	VBN	9690	9695	O	None	None	None
-1790	PMC2885310.nxml.gz	PMC2885310.nxml.gz_59	9391	9715	on	IN	9696	9698	I	probable_understanding_2021_10_13_Instance_36	None	None
+1790	PMC2885310.nxml.gz	PMC2885310.nxml.gz_59	9391	9715	on	IN	9696	9698	I	probable_understanding_2021_10_19_Instance_36	None	None
 1791	PMC2885310.nxml.gz	PMC2885310.nxml.gz_59	9391	9715	prior	JJ	9699	9704	O	None	None	None
 1792	PMC2885310.nxml.gz	PMC2885310.nxml.gz_59	9391	9715	knowledge	NN	9705	9714	O	None	None	None
 1793	PMC2885310.nxml.gz	PMC2885310.nxml.gz_59	9391	9715	.	.	9714	9715	O	None	None	None
@@ -1860,7 +1860,7 @@
 1858	PMC2885310.nxml.gz	PMC2885310.nxml.gz_63	10002	10080	this	DT	10069	10073	O	None	None	None
 1859	PMC2885310.nxml.gz	PMC2885310.nxml.gz_63	10002	10080	study	NN	10074	10079	O	None	None	None
 1860	PMC2885310.nxml.gz	PMC2885310.nxml.gz_63	10002	10080	.	.	10079	10080	O	None	None	None
-1861	PMC2885310.nxml.gz	PMC2885310.nxml.gz_64	10081	10428	Given	VBN	10081	10086	B	probable_understanding_2021_10_13_Instance_37	None	None
+1861	PMC2885310.nxml.gz	PMC2885310.nxml.gz_64	10081	10428	Given	VBN	10081	10086	B	probable_understanding_2021_10_19_Instance_37	None	None
 1862	PMC2885310.nxml.gz	PMC2885310.nxml.gz_64	10081	10428	that	IN	10087	10091	O	None	None	None
 1863	PMC2885310.nxml.gz	PMC2885310.nxml.gz_64	10081	10428	this	DT	10092	10096	O	None	None	None
 1864	PMC2885310.nxml.gz	PMC2885310.nxml.gz_64	10081	10428	is	VBZ	10097	10099	O	None	None	None
@@ -1881,7 +1881,7 @@
 1879	PMC2885310.nxml.gz	PMC2885310.nxml.gz_64	10081	10428	pregnancy	NN	10167	10176	O	None	None	None
 1880	PMC2885310.nxml.gz	PMC2885310.nxml.gz_64	10081	10428	BMI	NNP	10177	10180	O	None	None	None
 1881	PMC2885310.nxml.gz	PMC2885310.nxml.gz_64	10081	10428	may	MD	10181	10184	O	None	None	None
-1882	PMC2885310.nxml.gz	PMC2885310.nxml.gz_64	10081	10428	reasonably	RB	10185	10195	B	probable_understanding_2021_10_13_Instance_38	None	None
+1882	PMC2885310.nxml.gz	PMC2885310.nxml.gz_64	10081	10428	reasonably	RB	10185	10195	B	probable_understanding_2021_10_19_Instance_38	None	None
 1883	PMC2885310.nxml.gz	PMC2885310.nxml.gz_64	10081	10428	be	VB	10196	10198	O	None	None	None
 1884	PMC2885310.nxml.gz	PMC2885310.nxml.gz_64	10081	10428	considered	VBN	10199	10209	O	None	None	None
 1885	PMC2885310.nxml.gz	PMC2885310.nxml.gz_64	10081	10428	a	DT	10210	10211	O	None	None	None
@@ -1940,7 +1940,7 @@
 1938	PMC2885310.nxml.gz	PMC2885310.nxml.gz_65	10429	10567	of	IN	10552	10554	O	None	None	None
 1939	PMC2885310.nxml.gz	PMC2885310.nxml.gz_65	10429	10567	association	NN	10555	10566	O	None	None	None
 1940	PMC2885310.nxml.gz	PMC2885310.nxml.gz_65	10429	10567	.	.	10566	10567	O	None	None	None
-1941	PMC2885310.nxml.gz	PMC2885310.nxml.gz_66	10568	10663	Therefore	RB	10568	10577	B	probable_understanding_2021_10_13_Instance_39	None	None
+1941	PMC2885310.nxml.gz	PMC2885310.nxml.gz_66	10568	10663	Therefore	RB	10568	10577	B	probable_understanding_2021_10_19_Instance_39	None	None
 1942	PMC2885310.nxml.gz	PMC2885310.nxml.gz_66	10568	10663	,	,	10577	10578	O	None	None	None
 1943	PMC2885310.nxml.gz	PMC2885310.nxml.gz_66	10568	10663	we	PRP	10579	10581	O	None	None	None
 1944	PMC2885310.nxml.gz	PMC2885310.nxml.gz_66	10568	10663	constructed	VBD	10582	10593	O	None	None	None
@@ -2689,7 +2689,7 @@
 2687	PMC2885310.nxml.gz	PMC2885310.nxml.gz_78	13214	13295	Cases	NNS	13214	13219	O	None	None	None
 2688	PMC2885310.nxml.gz	PMC2885310.nxml.gz_78	13214	13295	were	VBD	13220	13224	O	None	None	None
 2689	PMC2885310.nxml.gz	PMC2885310.nxml.gz_78	13214	13295	less	RBR	13225	13229	O	None	None	None
-2690	PMC2885310.nxml.gz	PMC2885310.nxml.gz_78	13214	13295	likely	JJ	13230	13236	B	probable_understanding_2021_10_13_Instance_40	None	None
+2690	PMC2885310.nxml.gz	PMC2885310.nxml.gz_78	13214	13295	likely	JJ	13230	13236	B	probable_understanding_2021_10_19_Instance_40	None	None
 2691	PMC2885310.nxml.gz	PMC2885310.nxml.gz_78	13214	13295	to	TO	13237	13239	O	None	None	None
 2692	PMC2885310.nxml.gz	PMC2885310.nxml.gz_78	13214	13295	be	VB	13240	13242	O	None	None	None
 2693	PMC2885310.nxml.gz	PMC2885310.nxml.gz_78	13214	13295	of	IN	13243	13245	O	None	None	None
@@ -2928,7 +2928,7 @@
 2926	PMC2885310.nxml.gz	PMC2885310.nxml.gz_82	14212	14385	curvilinear	NN	14216	14227	O	None	None	None
 2927	PMC2885310.nxml.gz	PMC2885310.nxml.gz_82	14212	14385	relationship	NN	14228	14240	O	None	None	None
 2928	PMC2885310.nxml.gz	PMC2885310.nxml.gz_82	14212	14385	remained	VBD	14241	14249	O	None	None	None
-2929	PMC2885310.nxml.gz	PMC2885310.nxml.gz_82	14212	14385	evident	JJ	14250	14257	B	probable_understanding_2021_10_13_Instance_41	None	None
+2929	PMC2885310.nxml.gz	PMC2885310.nxml.gz_82	14212	14385	evident	JJ	14250	14257	B	probable_understanding_2021_10_19_Instance_41	None	None
 2930	PMC2885310.nxml.gz	PMC2885310.nxml.gz_82	14212	14385	after	IN	14258	14263	O	None	None	None
 2931	PMC2885310.nxml.gz	PMC2885310.nxml.gz_82	14212	14385	participants	NNS	14264	14276	O	None	None	None
 2932	PMC2885310.nxml.gz	PMC2885310.nxml.gz_82	14212	14385	were	VBD	14277	14281	O	None	None	None
@@ -3348,7 +3348,7 @@
 3346	PMC2885310.nxml.gz	PMC2885310.nxml.gz_95	16013	16168	of	IN	16157	16159	O	None	None	None
 3347	PMC2885310.nxml.gz	PMC2885310.nxml.gz_95	16013	16168	Table2	NNP	16160	16166	O	None	None	None
 3348	PMC2885310.nxml.gz	PMC2885310.nxml.gz_95	16013	16168	).	NNP	16166	16168	O	None	None	None
-3349	PMC2885310.nxml.gz	PMC2885310.nxml.gz_96	16169	16581	Given	VBN	16169	16174	B	probable_understanding_2021_10_13_Instance_42	None	None
+3349	PMC2885310.nxml.gz	PMC2885310.nxml.gz_96	16169	16581	Given	VBN	16169	16174	B	probable_understanding_2021_10_19_Instance_42	None	None
 3350	PMC2885310.nxml.gz	PMC2885310.nxml.gz_96	16169	16581	the	DT	16175	16178	O	None	None	None
 3351	PMC2885310.nxml.gz	PMC2885310.nxml.gz_96	16169	16581	suggestion	NN	16179	16189	O	None	None	None
 3352	PMC2885310.nxml.gz	PMC2885310.nxml.gz_96	16169	16581	of	IN	16190	16192	O	None	None	None
@@ -4392,9 +4392,9 @@
 4390	PMC2885310.nxml.gz	PMC2885310.nxml.gz_110	20311	20527	during	IN	20510	20516	O	None	None	None
 4391	PMC2885310.nxml.gz	PMC2885310.nxml.gz_110	20311	20527	pregnancy	NN	20517	20526	O	None	None	None
 4392	PMC2885310.nxml.gz	PMC2885310.nxml.gz_110	20311	20527	.	.	20526	20527	O	None	None	None
-4393	PMC2885310.nxml.gz	PMC2885310.nxml.gz_111	20528	20722	To	TO	20528	20530	B	probable_understanding_2021_10_13_Instance_43	None	None
-4394	PMC2885310.nxml.gz	PMC2885310.nxml.gz_111	20528	20722	our	PRP$	20531	20534	I	probable_understanding_2021_10_13_Instance_43	None	None
-4395	PMC2885310.nxml.gz	PMC2885310.nxml.gz_111	20528	20722	knowledge	NN	20535	20544	I	probable_understanding_2021_10_13_Instance_43	None	None
+4393	PMC2885310.nxml.gz	PMC2885310.nxml.gz_111	20528	20722	To	TO	20528	20530	B	probable_understanding_2021_10_19_Instance_43	None	None
+4394	PMC2885310.nxml.gz	PMC2885310.nxml.gz_111	20528	20722	our	PRP$	20531	20534	I	probable_understanding_2021_10_19_Instance_43	None	None
+4395	PMC2885310.nxml.gz	PMC2885310.nxml.gz_111	20528	20722	knowledge	NN	20535	20544	I	probable_understanding_2021_10_19_Instance_43	None	None
 4396	PMC2885310.nxml.gz	PMC2885310.nxml.gz_111	20528	20722	,	,	20544	20545	O	None	None	None
 4397	PMC2885310.nxml.gz	PMC2885310.nxml.gz_111	20528	20722	this	DT	20546	20550	O	None	None	None
 4398	PMC2885310.nxml.gz	PMC2885310.nxml.gz_111	20528	20722	is	VBZ	20551	20553	O	None	None	None
@@ -5265,9 +5265,9 @@
 5263	PMC2885310.nxml.gz	PMC2885310.nxml.gz_131	24679	24808	report	NN	24747	24753	O	None	None	None
 5264	PMC2885310.nxml.gz	PMC2885310.nxml.gz_131	24679	24808	,	,	24753	24754	O	None	None	None
 5265	PMC2885310.nxml.gz	PMC2885310.nxml.gz_131	24679	24808	and	CC	24755	24758	O	None	None	None
-5266	PMC2885310.nxml.gz	PMC2885310.nxml.gz_131	24679	24808	thus	RB	24759	24763	B	probable_understanding_2021_10_13_Instance_44	None	None
+5266	PMC2885310.nxml.gz	PMC2885310.nxml.gz_131	24679	24808	thus	RB	24759	24763	B	probable_understanding_2021_10_19_Instance_44	None	None
 5267	PMC2885310.nxml.gz	PMC2885310.nxml.gz_131	24679	24808	are	VBP	24764	24767	O	None	None	None
-5268	PMC2885310.nxml.gz	PMC2885310.nxml.gz_131	24679	24808	likely	JJ	24768	24774	B	probable_understanding_2021_10_13_Instance_45	None	None
+5268	PMC2885310.nxml.gz	PMC2885310.nxml.gz_131	24679	24808	likely	JJ	24768	24774	B	probable_understanding_2021_10_19_Instance_45	None	None
 5269	PMC2885310.nxml.gz	PMC2885310.nxml.gz_131	24679	24808	susceptible	JJ	24775	24786	O	None	None	None
 5270	PMC2885310.nxml.gz	PMC2885310.nxml.gz_131	24679	24808	to	TO	24787	24789	O	None	None	None
 5271	PMC2885310.nxml.gz	PMC2885310.nxml.gz_131	24679	24808	misclassification	NN	24790	24807	O	None	None	None
@@ -5299,7 +5299,7 @@
 5297	PMC2885310.nxml.gz	PMC2885310.nxml.gz_132	24809	25042	and	CC	24932	24935	O	None	None	None
 5298	PMC2885310.nxml.gz	PMC2885310.nxml.gz_132	24809	25042	reports	NNS	24936	24943	O	None	None	None
 5299	PMC2885310.nxml.gz	PMC2885310.nxml.gz_132	24809	25042	are	VBP	24944	24947	O	None	None	None
-5300	PMC2885310.nxml.gz	PMC2885310.nxml.gz_132	24809	25042	generally	RB	24948	24957	B	probable_understanding_2021_10_13_Instance_46	None	None
+5300	PMC2885310.nxml.gz	PMC2885310.nxml.gz_132	24809	25042	generally	RB	24948	24957	B	probable_understanding_2021_10_19_Instance_46	None	None
 5301	PMC2885310.nxml.gz	PMC2885310.nxml.gz_132	24809	25042	longer	VBN	24958	24964	O	None	None	None
 5302	PMC2885310.nxml.gz	PMC2885310.nxml.gz_132	24809	25042	by	IN	24965	24967	O	None	None	None
 5303	PMC2885310.nxml.gz	PMC2885310.nxml.gz_132	24809	25042	approximately	RB	24968	24981	O	None	None	None
@@ -5390,7 +5390,7 @@
 5388	PMC2885310.nxml.gz	PMC2885310.nxml.gz_135	25305	25459	].	NN	25457	25459	O	None	None	None
 5389	PMC2885310.nxml.gz	PMC2885310.nxml.gz_136	25460	25556	It	PRP	25460	25462	O	None	None	None
 5390	PMC2885310.nxml.gz	PMC2885310.nxml.gz_136	25460	25556	was	VBD	25463	25466	O	None	None	None
-5391	PMC2885310.nxml.gz	PMC2885310.nxml.gz_136	25460	25556	therefore	RB	25467	25476	B	probable_understanding_2021_10_13_Instance_47	None	None
+5391	PMC2885310.nxml.gz	PMC2885310.nxml.gz_136	25460	25556	therefore	RB	25467	25476	B	probable_understanding_2021_10_19_Instance_47	None	None
 5392	PMC2885310.nxml.gz	PMC2885310.nxml.gz_136	25460	25556	necessary	JJ	25477	25486	O	None	None	None
 5393	PMC2885310.nxml.gz	PMC2885310.nxml.gz_136	25460	25556	to	TO	25487	25489	O	None	None	None
 5394	PMC2885310.nxml.gz	PMC2885310.nxml.gz_136	25460	25556	distinguish	VB	25490	25501	O	None	None	None
@@ -5556,7 +5556,7 @@
 5554	PMC2885310.nxml.gz	PMC2885310.nxml.gz_140	26238	26380	be	VB	26284	26286	O	None	None	None
 5555	PMC2885310.nxml.gz	PMC2885310.nxml.gz_140	26238	26380	limited	VBN	26287	26294	O	None	None	None
 5556	PMC2885310.nxml.gz	PMC2885310.nxml.gz_140	26238	26380	,	,	26294	26295	O	None	None	None
-5557	PMC2885310.nxml.gz	PMC2885310.nxml.gz_140	26238	26380	as	IN	26296	26298	B	probable_understanding_2021_10_13_Instance_48	None	None
+5557	PMC2885310.nxml.gz	PMC2885310.nxml.gz_140	26238	26380	as	IN	26296	26298	B	probable_understanding_2021_10_19_Instance_48	None	None
 5558	PMC2885310.nxml.gz	PMC2885310.nxml.gz_140	26238	26380	our	PRP$	26299	26302	O	None	None	None
 5559	PMC2885310.nxml.gz	PMC2885310.nxml.gz_140	26238	26380	cohort	NN	26303	26309	O	None	None	None
 5560	PMC2885310.nxml.gz	PMC2885310.nxml.gz_140	26238	26380	was	VBD	26310	26313	O	None	None	None
@@ -5578,7 +5578,7 @@
 5576	PMC2885310.nxml.gz	PMC2885310.nxml.gz_141	26381	26633	mechanisms	NNS	26404	26414	O	None	None	None
 5577	PMC2885310.nxml.gz	PMC2885310.nxml.gz_141	26381	26633	underlying	VBG	26415	26425	O	None	None	None
 5578	PMC2885310.nxml.gz	PMC2885310.nxml.gz_141	26381	26633	these	DT	26426	26431	O	None	None	None
-5579	PMC2885310.nxml.gz	PMC2885310.nxml.gz_141	26381	26633	consistently	RB	26432	26444	B	probable_understanding_2021_10_13_Instance_49	None	None
+5579	PMC2885310.nxml.gz	PMC2885310.nxml.gz_141	26381	26633	consistently	RB	26432	26444	B	probable_understanding_2021_10_19_Instance_49	None	None
 5580	PMC2885310.nxml.gz	PMC2885310.nxml.gz_141	26381	26633	observed	VBN	26445	26453	O	None	None	None
 5581	PMC2885310.nxml.gz	PMC2885310.nxml.gz_141	26381	26633	associations	NNS	26454	26466	O	None	None	None
 5582	PMC2885310.nxml.gz	PMC2885310.nxml.gz_141	26381	26633	of	IN	26467	26469	O	None	None	None
@@ -5602,7 +5602,7 @@
 5600	PMC2885310.nxml.gz	PMC2885310.nxml.gz_141	26381	26633	and	CC	26578	26581	O	None	None	None
 5601	PMC2885310.nxml.gz	PMC2885310.nxml.gz_141	26381	26633	diabetes	NNS	26582	26590	O	None	None	None
 5602	PMC2885310.nxml.gz	PMC2885310.nxml.gz_141	26381	26633	are	VBP	26591	26594	O	None	None	None
-5603	PMC2885310.nxml.gz	PMC2885310.nxml.gz_141	26381	26633	likely	JJ	26595	26601	B	probable_understanding_2021_10_13_Instance_50	None	None
+5603	PMC2885310.nxml.gz	PMC2885310.nxml.gz_141	26381	26633	likely	JJ	26595	26601	B	probable_understanding_2021_10_19_Instance_50	None	None
 5604	PMC2885310.nxml.gz	PMC2885310.nxml.gz_141	26381	26633	to	TO	26602	26604	O	None	None	None
 5605	PMC2885310.nxml.gz	PMC2885310.nxml.gz_141	26381	26633	be	VB	26605	26607	O	None	None	None
 5606	PMC2885310.nxml.gz	PMC2885310.nxml.gz_141	26381	26633	multifactorial	JJ	26608	26622	O	None	None	None
@@ -5648,7 +5648,7 @@
 5646	PMC2885310.nxml.gz	PMC2885310.nxml.gz_142	26634	26923	mechanisms	NNS	26851	26861	O	None	None	None
 5647	PMC2885310.nxml.gz	PMC2885310.nxml.gz_142	26634	26923	for	IN	26862	26865	O	None	None	None
 5648	PMC2885310.nxml.gz	PMC2885310.nxml.gz_142	26634	26923	these	DT	26866	26871	O	None	None	None
-5649	PMC2885310.nxml.gz	PMC2885310.nxml.gz_142	26634	26923	consistently	RB	26872	26884	B	probable_understanding_2021_10_13_Instance_51	None	None
+5649	PMC2885310.nxml.gz	PMC2885310.nxml.gz_142	26634	26923	consistently	RB	26872	26884	B	probable_understanding_2021_10_19_Instance_51	None	None
 5650	PMC2885310.nxml.gz	PMC2885310.nxml.gz_142	26634	26923	observed	VBN	26885	26893	O	None	None	None
 5651	PMC2885310.nxml.gz	PMC2885310.nxml.gz_142	26634	26923	epidemiological	JJ	26894	26909	O	None	None	None
 5652	PMC2885310.nxml.gz	PMC2885310.nxml.gz_142	26634	26923	observations	NNS	26910	26922	O	None	None	None
@@ -6010,7 +6010,7 @@
 6008	PMC2885310.nxml.gz	PMC2885310.nxml.gz_153	28999	29194	GDM	NNP	29095	29098	O	None	None	None
 6009	PMC2885310.nxml.gz	PMC2885310.nxml.gz_153	28999	29194	risk	NN	29099	29103	O	None	None	None
 6010	PMC2885310.nxml.gz	PMC2885310.nxml.gz_153	28999	29194	were	VBD	29104	29108	O	None	None	None
-6011	PMC2885310.nxml.gz	PMC2885310.nxml.gz_153	28999	29194	evident	JJ	29109	29116	B	probable_understanding_2021_10_13_Instance_52	None	None
+6011	PMC2885310.nxml.gz	PMC2885310.nxml.gz_153	28999	29194	evident	JJ	29109	29116	B	probable_understanding_2021_10_19_Instance_52	None	None
 6012	PMC2885310.nxml.gz	PMC2885310.nxml.gz_153	28999	29194	among	IN	29117	29122	O	None	None	None
 6013	PMC2885310.nxml.gz	PMC2885310.nxml.gz_153	28999	29194	women	NNS	29123	29128	O	None	None	None
 6014	PMC2885310.nxml.gz	PMC2885310.nxml.gz_153	28999	29194	who	WP	29129	29132	O	None	None	None
@@ -6107,7 +6107,7 @@
 6105	PMC2885310.nxml.gz	PMC2885310.nxml.gz_157	29637	29866	in	IN	29713	29715	O	None	None	None
 6106	PMC2885310.nxml.gz	PMC2885310.nxml.gz_157	29637	29866	pregnancy	NN	29716	29725	O	None	None	None
 6107	PMC2885310.nxml.gz	PMC2885310.nxml.gz_157	29637	29866	will	MD	29726	29730	O	None	None	None
-6108	PMC2885310.nxml.gz	PMC2885310.nxml.gz_157	29637	29866	likely	RB	29731	29737	B	probable_understanding_2021_10_13_Instance_53	None	None
+6108	PMC2885310.nxml.gz	PMC2885310.nxml.gz_157	29637	29866	likely	RB	29731	29737	B	probable_understanding_2021_10_19_Instance_53	None	None
 6109	PMC2885310.nxml.gz	PMC2885310.nxml.gz_157	29637	29866	have	VB	29738	29742	O	None	None	None
 6110	PMC2885310.nxml.gz	PMC2885310.nxml.gz_157	29637	29866	important	JJ	29743	29752	O	None	None	None
 6111	PMC2885310.nxml.gz	PMC2885310.nxml.gz_157	29637	29866	clinical	JJ	29753	29761	O	None	None	None

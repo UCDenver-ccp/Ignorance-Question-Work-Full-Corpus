@@ -47,7 +47,7 @@
 45	PMC5405375.nxml.gz	PMC5405375.nxml.gz_1	260	319	sepsis	NN	312	318	O	None	None	None
 46	PMC5405375.nxml.gz	PMC5405375.nxml.gz_1	260	319	.	.	318	319	O	None	None	None
 47	PMC5405375.nxml.gz	PMC5405375.nxml.gz_2	320	421	We	PRP	320	322	O	None	None	None
-48	PMC5405375.nxml.gz	PMC5405375.nxml.gz_2	320	421	examined	VBD	323	331	B	question_answered_by_this_work_2021_10_13_Instance_140	None	None
+48	PMC5405375.nxml.gz	PMC5405375.nxml.gz_2	320	421	examined	VBD	323	331	B	question_answered_by_this_work_2021_10_19_Instance_140	None	None
 49	PMC5405375.nxml.gz	PMC5405375.nxml.gz_2	320	421	impact	NN	332	338	O	None	None	None
 50	PMC5405375.nxml.gz	PMC5405375.nxml.gz_2	320	421	of	IN	339	341	O	None	None	None
 51	PMC5405375.nxml.gz	PMC5405375.nxml.gz_2	320	421	intensive	JJ	342	351	O	None	None	None
@@ -907,7 +907,7 @@
 905	PMC5405375.nxml.gz	PMC5405375.nxml.gz_27	5091	5324	13	CD	5320	5322	O	None	None	None
 906	PMC5405375.nxml.gz	PMC5405375.nxml.gz_27	5091	5324	].	NN	5322	5324	O	None	None	None
 907	PMC5405375.nxml.gz	PMC5405375.nxml.gz_28	5325	5541	We	PRP	5325	5327	O	None	None	None
-908	PMC5405375.nxml.gz	PMC5405375.nxml.gz_28	5325	5541	developed	VBD	5328	5337	B	question_answered_by_this_work_2021_10_13_Instance_141	None	None
+908	PMC5405375.nxml.gz	PMC5405375.nxml.gz_28	5325	5541	developed	VBD	5328	5337	B	question_answered_by_this_work_2021_10_19_Instance_141	None	None
 909	PMC5405375.nxml.gz	PMC5405375.nxml.gz_28	5325	5541	an	DT	5338	5340	O	None	None	None
 910	PMC5405375.nxml.gz	PMC5405375.nxml.gz_28	5325	5541	intensive	JJ	5341	5350	O	None	None	None
 911	PMC5405375.nxml.gz	PMC5405375.nxml.gz_28	5325	5541	intervention	NN	5351	5363	O	None	None	None
@@ -939,7 +939,7 @@
 937	PMC5405375.nxml.gz	PMC5405375.nxml.gz_28	5325	5541	above	IN	5535	5540	O	None	None	None
 938	PMC5405375.nxml.gz	PMC5405375.nxml.gz_28	5325	5541	.	.	5540	5541	O	None	None	None
 939	PMC5405375.nxml.gz	PMC5405375.nxml.gz_29	5542	5724	Our	PRP$	5542	5545	O	None	None	None
-940	PMC5405375.nxml.gz	PMC5405375.nxml.gz_29	5542	5724	objective	NN	5546	5555	B	question_answered_by_this_work_2021_10_13_Instance_142	None	None
+940	PMC5405375.nxml.gz	PMC5405375.nxml.gz_29	5542	5724	objective	NN	5546	5555	B	question_answered_by_this_work_2021_10_19_Instance_142	None	None
 941	PMC5405375.nxml.gz	PMC5405375.nxml.gz_29	5542	5724	,	,	5555	5556	O	None	None	None
 942	PMC5405375.nxml.gz	PMC5405375.nxml.gz_29	5542	5724	in	IN	5557	5559	O	None	None	None
 943	PMC5405375.nxml.gz	PMC5405375.nxml.gz_29	5542	5724	a	DT	5560	5561	O	None	None	None
@@ -951,8 +951,8 @@
 949	PMC5405375.nxml.gz	PMC5405375.nxml.gz_29	5542	5724	Bangladesh	NNP	5599	5609	O	None	None	None
 950	PMC5405375.nxml.gz	PMC5405375.nxml.gz_29	5542	5724	,	,	5609	5610	O	None	None	None
 951	PMC5405375.nxml.gz	PMC5405375.nxml.gz_29	5542	5724	was	VBD	5611	5614	O	None	None	None
-952	PMC5405375.nxml.gz	PMC5405375.nxml.gz_29	5542	5724	to	TO	5615	5617	B	question_answered_by_this_work_2021_10_13_Instance_143	None	None
-953	PMC5405375.nxml.gz	PMC5405375.nxml.gz_29	5542	5724	investigate	VB	5618	5629	I	question_answered_by_this_work_2021_10_13_Instance_143	None	None
+952	PMC5405375.nxml.gz	PMC5405375.nxml.gz_29	5542	5724	to	TO	5615	5617	B	question_answered_by_this_work_2021_10_19_Instance_143	None	None
+953	PMC5405375.nxml.gz	PMC5405375.nxml.gz_29	5542	5724	investigate	VB	5618	5629	I	question_answered_by_this_work_2021_10_19_Instance_143	None	None
 954	PMC5405375.nxml.gz	PMC5405375.nxml.gz_29	5542	5724	the	DT	5630	5633	O	None	None	None
 955	PMC5405375.nxml.gz	PMC5405375.nxml.gz_29	5542	5724	impact	NN	5634	5640	O	None	None	None
 956	PMC5405375.nxml.gz	PMC5405375.nxml.gz_29	5542	5724	of	IN	5641	5643	O	None	None	None
@@ -4517,7 +4517,7 @@
 4515	PMC5405375.nxml.gz	PMC5405375.nxml.gz_138	24399	24606	intervention	NN	24593	24605	O	None	None	None
 4516	PMC5405375.nxml.gz	PMC5405375.nxml.gz_138	24399	24606	.	.	24605	24606	O	None	None	None
 4517	PMC5405375.nxml.gz	PMC5405375.nxml.gz_139	24607	24803	We	PRP	24607	24609	O	None	None	None
-4518	PMC5405375.nxml.gz	PMC5405375.nxml.gz_139	24607	24803	sought	VBD	24610	24616	B	question_answered_by_this_work_2021_10_13_Instance_144	None	None
+4518	PMC5405375.nxml.gz	PMC5405375.nxml.gz_139	24607	24803	sought	VBD	24610	24616	B	question_answered_by_this_work_2021_10_19_Instance_144	None	None
 4519	PMC5405375.nxml.gz	PMC5405375.nxml.gz_139	24607	24803	to	TO	24617	24619	O	None	None	None
 4520	PMC5405375.nxml.gz	PMC5405375.nxml.gz_139	24607	24803	increase	VB	24620	24628	O	None	None	None
 4521	PMC5405375.nxml.gz	PMC5405375.nxml.gz_139	24607	24803	the	DT	24629	24632	O	None	None	None

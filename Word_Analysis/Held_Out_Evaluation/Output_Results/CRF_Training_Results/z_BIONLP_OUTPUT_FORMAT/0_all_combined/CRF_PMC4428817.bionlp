@@ -1,157 +1,20 @@
 T0	explicit_question 2296 2302	raises
-T1	incomplete_evidence 2296 2302	raises
-T2	incomplete_evidence 346 353	suggest
-T3	incomplete_evidence 367 373	may be
-T4	incomplete_evidence 404 413	have been
-T5	incomplete_evidence 430 439	potential
-T6	incomplete_evidence 1597 1612	in keeping with
-T7	incomplete_evidence 1787 1792	trend
-T8	incomplete_evidence 1982 1989	suggest
-T9	incomplete_evidence 2362 2371	potential
-T10	probable_understanding 2296 2302	raises
-T11	probable_understanding 346 353	suggest
-T12	probable_understanding 367 373	may be
-T13	probable_understanding 404 413	have been
-T14	probable_understanding 430 439	potential
-T15	probable_understanding 1597 1612	in keeping with
-T16	probable_understanding 1787 1792	trend
-T17	probable_understanding 1982 1989	suggest
-T18	probable_understanding 2362 2371	potential
-T19	superficial_relationship 2296 2302	raises
-T20	superficial_relationship 346 353	suggest
-T21	superficial_relationship 367 373	may be
-T22	superficial_relationship 404 413	have been
-T23	superficial_relationship 430 439	potential
-T24	superficial_relationship 1597 1612	in keeping with
-T25	superficial_relationship 1787 1792	trend
-T26	superficial_relationship 1982 1989	suggest
-T27	superficial_relationship 2362 2371	potential
-T28	superficial_relationship 2061 2071	associated
-T29	superficial_relationship 2178 2187	prevented
-T30	superficial_relationship 2372 2382	associated
-T31	superficial_relationship 2383 2390	factors
-T32	future_work 2296 2302	raises
-T33	future_work 346 353	suggest
-T34	future_work 367 373	may be
-T35	future_work 404 413	have been
-T36	future_work 430 439	potential
-T37	future_work 1597 1612	in keeping with
-T38	future_work 1787 1792	trend
-T39	future_work 1982 1989	suggest
-T40	future_work 2362 2371	potential
-T41	future_work 2061 2071	associated
-T42	future_work 2178 2187	prevented
-T43	future_work 2372 2382	associated
-T44	future_work 2383 2390	factors
-T45	future_prediction 2296 2302	raises
-T46	future_prediction 346 353	suggest
-T47	future_prediction 367 373	may be
-T48	future_prediction 404 413	have been
-T49	future_prediction 430 439	potential
-T50	future_prediction 1597 1612	in keeping with
-T51	future_prediction 1787 1792	trend
-T52	future_prediction 1982 1989	suggest
-T53	future_prediction 2362 2371	potential
-T54	future_prediction 2061 2071	associated
-T55	future_prediction 2178 2187	prevented
-T56	future_prediction 2372 2382	associated
-T57	future_prediction 2383 2390	factors
-T58	important_consideration 2296 2302	raises
-T59	important_consideration 346 353	suggest
-T60	important_consideration 367 373	may be
-T61	important_consideration 404 413	have been
-T62	important_consideration 430 439	potential
-T63	important_consideration 1597 1612	in keeping with
-T64	important_consideration 1787 1792	trend
-T65	important_consideration 1982 1989	suggest
-T66	important_consideration 2362 2371	potential
-T67	important_consideration 2061 2071	associated
-T68	important_consideration 2178 2187	prevented
-T69	important_consideration 2372 2382	associated
-T70	important_consideration 2383 2390	factors
-T71	anomaly_curious_finding 2296 2302	raises
-T72	anomaly_curious_finding 346 353	suggest
-T73	anomaly_curious_finding 367 373	may be
-T74	anomaly_curious_finding 404 413	have been
-T75	anomaly_curious_finding 430 439	potential
-T76	anomaly_curious_finding 1597 1612	in keeping with
-T77	anomaly_curious_finding 1787 1792	trend
-T78	anomaly_curious_finding 1982 1989	suggest
-T79	anomaly_curious_finding 2362 2371	potential
-T80	anomaly_curious_finding 2061 2071	associated
-T81	anomaly_curious_finding 2178 2187	prevented
-T82	anomaly_curious_finding 2372 2382	associated
-T83	anomaly_curious_finding 2383 2390	factors
-T84	anomaly_curious_finding 1848 1855	despite
-T85	anomaly_curious_finding 2188 2195;2224 2227	further ... but
-T86	alternative_options_controversy 2296 2302	raises
-T87	alternative_options_controversy 346 353	suggest
-T88	alternative_options_controversy 367 373	may be
-T89	alternative_options_controversy 404 413	have been
-T90	alternative_options_controversy 430 439	potential
-T91	alternative_options_controversy 1597 1612	in keeping with
-T92	alternative_options_controversy 1787 1792	trend
-T93	alternative_options_controversy 1982 1989	suggest
-T94	alternative_options_controversy 2362 2371	potential
-T95	alternative_options_controversy 2061 2071	associated
-T96	alternative_options_controversy 2178 2187	prevented
-T97	alternative_options_controversy 2372 2382	associated
-T98	alternative_options_controversy 2383 2390	factors
-T99	alternative_options_controversy 1848 1855	despite
-T100	alternative_options_controversy 2188 2195;2224 2227	further ... but
-T101	alternative_options_controversy 467 469	if
-T102	difficult_task 2296 2302	raises
-T103	difficult_task 346 353	suggest
-T104	difficult_task 367 373	may be
-T105	difficult_task 404 413	have been
-T106	difficult_task 430 439	potential
-T107	difficult_task 1597 1612	in keeping with
-T108	difficult_task 1787 1792	trend
-T109	difficult_task 1982 1989	suggest
-T110	difficult_task 2362 2371	potential
-T111	difficult_task 2061 2071	associated
-T112	difficult_task 2178 2187	prevented
-T113	difficult_task 2372 2382	associated
-T114	difficult_task 2383 2390	factors
-T115	difficult_task 1848 1855	despite
-T116	difficult_task 2188 2195;2224 2227	further ... but
-T117	difficult_task 467 469	if
-T118	difficult_task 2303 2313	variations
-T119	problem_complication 2296 2302	raises
-T120	problem_complication 346 353	suggest
-T121	problem_complication 367 373	may be
-T122	problem_complication 404 413	have been
-T123	problem_complication 430 439	potential
-T124	problem_complication 1597 1612	in keeping with
-T125	problem_complication 1787 1792	trend
-T126	problem_complication 1982 1989	suggest
-T127	problem_complication 2362 2371	potential
-T128	problem_complication 2061 2071	associated
-T129	problem_complication 2178 2187	prevented
-T130	problem_complication 2372 2382	associated
-T131	problem_complication 2383 2390	factors
-T132	problem_complication 1848 1855	despite
-T133	problem_complication 2188 2195;2224 2227	further ... but
-T134	problem_complication 467 469	if
-T135	problem_complication 2303 2313	variations
-T136	problem_complication 359 366	problem
-T137	question_answered_by_this_work 2296 2302	raises
-T138	question_answered_by_this_work 346 353	suggest
-T139	question_answered_by_this_work 367 373	may be
-T140	question_answered_by_this_work 404 413	have been
-T141	question_answered_by_this_work 430 439	potential
-T142	question_answered_by_this_work 1597 1612	in keeping with
-T143	question_answered_by_this_work 1787 1792	trend
-T144	question_answered_by_this_work 1982 1989	suggest
-T145	question_answered_by_this_work 2362 2371	potential
-T146	question_answered_by_this_work 2061 2071	associated
-T147	question_answered_by_this_work 2178 2187	prevented
-T148	question_answered_by_this_work 2372 2382	associated
-T149	question_answered_by_this_work 2383 2390	factors
-T150	question_answered_by_this_work 1848 1855	despite
-T151	question_answered_by_this_work 2188 2195;2224 2227	further ... but
-T152	question_answered_by_this_work 467 469	if
-T153	question_answered_by_this_work 2303 2313	variations
-T154	question_answered_by_this_work 359 366	problem
-T155	question_answered_by_this_work 354 358	this
-T156	question_answered_by_this_work 454 466	To determine
+T1	incomplete_evidence 346 353	suggest
+T2	incomplete_evidence 367 373	may be
+T3	incomplete_evidence 404 413	have been
+T4	incomplete_evidence 430 439	potential
+T5	incomplete_evidence 1597 1612	in keeping with
+T6	incomplete_evidence 1787 1792	trend
+T7	incomplete_evidence 1982 1989	suggest
+T8	incomplete_evidence 2362 2371	potential
+T9	superficial_relationship 2061 2071	associated
+T10	superficial_relationship 2178 2187	prevented
+T11	superficial_relationship 2372 2382	associated
+T12	superficial_relationship 2383 2390	factors
+T13	anomaly_curious_finding 1848 1855	despite
+T14	anomaly_curious_finding 2188 2195;2224 2227	further ... but
+T15	alternative_options_controversy 467 469	if
+T16	difficult_task 2303 2313	variations
+T17	problem_complication 359 366	problem
+T18	question_answered_by_this_work 354 358	this
+T19	question_answered_by_this_work 454 466	To determine

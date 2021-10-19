@@ -11,7 +11,7 @@
 9	PMC5524288.nxml.gz	PMC5524288.nxml.gz_0	0	456	ng	JJ	36	38	O	None	None	None
 10	PMC5524288.nxml.gz	PMC5524288.nxml.gz_0	0	456	/	NNP	38	39	O	None	None	None
 11	PMC5524288.nxml.gz	PMC5524288.nxml.gz_0	0	456	mL	NN	39	41	O	None	None	None
-12	PMC5524288.nxml.gz	PMC5524288.nxml.gz_0	0	456	associated	VBN	42	52	B	superficial_relationship_2021_10_13_Instance_860	None	None
+12	PMC5524288.nxml.gz	PMC5524288.nxml.gz_0	0	456	associated	VBN	42	52	B	superficial_relationship_2021_10_19_Instance_860	None	None
 13	PMC5524288.nxml.gz	PMC5524288.nxml.gz_0	0	456	with	IN	53	57	O	None	None	None
 14	PMC5524288.nxml.gz	PMC5524288.nxml.gz_0	0	456	60	CD	58	60	O	None	None	None
 15	PMC5524288.nxml.gz	PMC5524288.nxml.gz_0	0	456	%	NN	60	61	O	None	None	None
@@ -86,7 +86,7 @@
 84	PMC5524288.nxml.gz	PMC5524288.nxml.gz_1	458	647	the	DT	485	488	O	None	None	None
 85	PMC5524288.nxml.gz	PMC5524288.nxml.gz_1	458	647	reported	VBN	489	497	O	None	None	None
 86	PMC5524288.nxml.gz	PMC5524288.nxml.gz_1	458	647	inverse	NN	498	505	O	None	None	None
-87	PMC5524288.nxml.gz	PMC5524288.nxml.gz_1	458	647	relationship	NN	506	518	B	superficial_relationship_2021_10_13_Instance_861	None	None
+87	PMC5524288.nxml.gz	PMC5524288.nxml.gz_1	458	647	relationship	NN	506	518	B	superficial_relationship_2021_10_19_Instance_861	None	None
 88	PMC5524288.nxml.gz	PMC5524288.nxml.gz_1	458	647	between	IN	519	526	O	None	None	None
 89	PMC5524288.nxml.gz	PMC5524288.nxml.gz_1	458	647	maternal	JJ	527	535	O	None	None	None
 90	PMC5524288.nxml.gz	PMC5524288.nxml.gz_1	458	647	25	CD	536	538	O	None	None	None
@@ -203,7 +203,7 @@
 201	PMC5524288.nxml.gz	PMC5524288.nxml.gz_5	983	1147	to	TO	1096	1098	O	None	None	None
 202	PMC5524288.nxml.gz	PMC5524288.nxml.gz_5	983	1147	explore	VB	1099	1106	O	None	None	None
 203	PMC5524288.nxml.gz	PMC5524288.nxml.gz_5	983	1147	the	DT	1107	1110	O	None	None	None
-204	PMC5524288.nxml.gz	PMC5524288.nxml.gz_5	983	1147	association	NN	1111	1122	B	superficial_relationship_2021_10_13_Instance_862	None	None
+204	PMC5524288.nxml.gz	PMC5524288.nxml.gz_5	983	1147	association	NN	1111	1122	B	superficial_relationship_2021_10_19_Instance_862	None	None
 205	PMC5524288.nxml.gz	PMC5524288.nxml.gz_5	983	1147	between	IN	1123	1130	O	None	None	None
 206	PMC5524288.nxml.gz	PMC5524288.nxml.gz_5	983	1147	25	CD	1131	1133	O	None	None	None
 207	PMC5524288.nxml.gz	PMC5524288.nxml.gz_5	983	1147	(	(	1133	1134	O	None	None	None
@@ -486,7 +486,7 @@
 484	PMC5524288.nxml.gz	PMC5524288.nxml.gz_12	2023	2172	/	NNS	2073	2074	O	None	None	None
 485	PMC5524288.nxml.gz	PMC5524288.nxml.gz_12	2023	2172	mL	NNS	2074	2076	O	None	None	None
 486	PMC5524288.nxml.gz	PMC5524288.nxml.gz_12	2023	2172	were	VBD	2077	2081	O	None	None	None
-487	PMC5524288.nxml.gz	PMC5524288.nxml.gz_12	2023	2172	associated	VBN	2082	2092	B	superficial_relationship_2021_10_13_Instance_863	None	None
+487	PMC5524288.nxml.gz	PMC5524288.nxml.gz_12	2023	2172	associated	VBN	2082	2092	B	superficial_relationship_2021_10_19_Instance_863	None	None
 488	PMC5524288.nxml.gz	PMC5524288.nxml.gz_12	2023	2172	with	IN	2093	2097	O	None	None	None
 489	PMC5524288.nxml.gz	PMC5524288.nxml.gz_12	2023	2172	substantial	JJ	2098	2109	O	None	None	None
 490	PMC5524288.nxml.gz	PMC5524288.nxml.gz_12	2023	2172	reduction	NN	2110	2119	O	None	None	None
@@ -628,8 +628,8 @@
 626	PMC5524288.nxml.gz	PMC5524288.nxml.gz_16	2656	2884	identify	VB	2777	2785	O	None	None	None
 627	PMC5524288.nxml.gz	PMC5524288.nxml.gz_16	2656	2884	modifiable	JJ	2786	2796	O	None	None	None
 628	PMC5524288.nxml.gz	PMC5524288.nxml.gz_16	2656	2884	maternal	JJ	2797	2805	O	None	None	None
-629	PMC5524288.nxml.gz	PMC5524288.nxml.gz_16	2656	2884	risk	NN	2806	2810	B	superficial_relationship_2021_10_13_Instance_864	None	None
-630	PMC5524288.nxml.gz	PMC5524288.nxml.gz_16	2656	2884	factors	NNS	2811	2818	I	superficial_relationship_2021_10_13_Instance_864	None	None
+629	PMC5524288.nxml.gz	PMC5524288.nxml.gz_16	2656	2884	risk	NN	2806	2810	B	superficial_relationship_2021_10_19_Instance_864	None	None
+630	PMC5524288.nxml.gz	PMC5524288.nxml.gz_16	2656	2884	factors	NNS	2811	2818	I	superficial_relationship_2021_10_19_Instance_864	None	None
 631	PMC5524288.nxml.gz	PMC5524288.nxml.gz_16	2656	2884	that	WDT	2819	2823	O	None	None	None
 632	PMC5524288.nxml.gz	PMC5524288.nxml.gz_16	2656	2884	could	MD	2824	2829	O	None	None	None
 633	PMC5524288.nxml.gz	PMC5524288.nxml.gz_16	2656	2884	significantly	RB	2830	2843	O	None	None	None
@@ -647,7 +647,7 @@
 645	PMC5524288.nxml.gz	PMC5524288.nxml.gz_17	2885	3090	have	VBP	2916	2920	O	None	None	None
 646	PMC5524288.nxml.gz	PMC5524288.nxml.gz_17	2885	3090	found	VBN	2921	2926	O	None	None	None
 647	PMC5524288.nxml.gz	PMC5524288.nxml.gz_17	2885	3090	an	DT	2927	2929	O	None	None	None
-648	PMC5524288.nxml.gz	PMC5524288.nxml.gz_17	2885	3090	association	NN	2930	2941	B	superficial_relationship_2021_10_13_Instance_865	None	None
+648	PMC5524288.nxml.gz	PMC5524288.nxml.gz_17	2885	3090	association	NN	2930	2941	B	superficial_relationship_2021_10_19_Instance_865	None	None
 649	PMC5524288.nxml.gz	PMC5524288.nxml.gz_17	2885	3090	between	IN	2942	2949	O	None	None	None
 650	PMC5524288.nxml.gz	PMC5524288.nxml.gz_17	2885	3090	higher	JJR	2950	2956	O	None	None	None
 651	PMC5524288.nxml.gz	PMC5524288.nxml.gz_17	2885	3090	maternal	JJ	2957	2965	O	None	None	None
@@ -691,7 +691,7 @@
 689	PMC5524288.nxml.gz	PMC5524288.nxml.gz_18	3091	3278	concentration	NN	3105	3118	O	None	None	None
 690	PMC5524288.nxml.gz	PMC5524288.nxml.gz_18	3091	3278	captures	VBZ	3119	3127	O	None	None	None
 691	PMC5524288.nxml.gz	PMC5524288.nxml.gz_18	3091	3278	the	DT	3128	3131	O	None	None	None
-692	PMC5524288.nxml.gz	PMC5524288.nxml.gz_18	3091	3278	effect	NN	3132	3138	B	superficial_relationship_2021_10_13_Instance_866	None	None
+692	PMC5524288.nxml.gz	PMC5524288.nxml.gz_18	3091	3278	effect	NN	3132	3138	B	superficial_relationship_2021_10_19_Instance_866	None	None
 693	PMC5524288.nxml.gz	PMC5524288.nxml.gz_18	3091	3278	of	IN	3139	3141	O	None	None	None
 694	PMC5524288.nxml.gz	PMC5524288.nxml.gz_18	3091	3278	multiple	JJ	3142	3150	O	None	None	None
 695	PMC5524288.nxml.gz	PMC5524288.nxml.gz_18	3091	3278	vitamin	NN	3151	3158	O	None	None	None
@@ -946,7 +946,7 @@
 944	PMC5524288.nxml.gz	PMC5524288.nxml.gz_26	4245	4457	if	IN	4293	4295	O	None	None	None
 945	PMC5524288.nxml.gz	PMC5524288.nxml.gz_26	4245	4457	the	DT	4296	4299	O	None	None	None
 946	PMC5524288.nxml.gz	PMC5524288.nxml.gz_26	4245	4457	inverse	NN	4300	4307	O	None	None	None
-947	PMC5524288.nxml.gz	PMC5524288.nxml.gz_26	4245	4457	relationship	NN	4308	4320	B	superficial_relationship_2021_10_13_Instance_867	None	None
+947	PMC5524288.nxml.gz	PMC5524288.nxml.gz_26	4245	4457	relationship	NN	4308	4320	B	superficial_relationship_2021_10_19_Instance_867	None	None
 948	PMC5524288.nxml.gz	PMC5524288.nxml.gz_26	4245	4457	between	IN	4321	4328	O	None	None	None
 949	PMC5524288.nxml.gz	PMC5524288.nxml.gz_26	4245	4457	maternal	JJ	4329	4337	O	None	None	None
 950	PMC5524288.nxml.gz	PMC5524288.nxml.gz_26	4245	4457	25	CD	4338	4340	O	None	None	None
@@ -1153,7 +1153,7 @@
 1151	PMC5524288.nxml.gz	PMC5524288.nxml.gz_33	5306	5642	the	DT	5383	5386	O	None	None	None
 1152	PMC5524288.nxml.gz	PMC5524288.nxml.gz_33	5306	5642	potential	JJ	5387	5396	O	None	None	None
 1153	PMC5524288.nxml.gz	PMC5524288.nxml.gz_33	5306	5642	health	NN	5397	5403	O	None	None	None
-1154	PMC5524288.nxml.gz	PMC5524288.nxml.gz_33	5306	5642	impact	NN	5404	5410	B	superficial_relationship_2021_10_13_Instance_868	None	None
+1154	PMC5524288.nxml.gz	PMC5524288.nxml.gz_33	5306	5642	impact	NN	5404	5410	B	superficial_relationship_2021_10_19_Instance_868	None	None
 1155	PMC5524288.nxml.gz	PMC5524288.nxml.gz_33	5306	5642	of	IN	5411	5413	O	None	None	None
 1156	PMC5524288.nxml.gz	PMC5524288.nxml.gz_33	5306	5642	low	JJ	5414	5417	O	None	None	None
 1157	PMC5524288.nxml.gz	PMC5524288.nxml.gz_33	5306	5642	vitamin	NN	5418	5425	O	None	None	None
@@ -1452,7 +1452,7 @@
 1450	PMC5524288.nxml.gz	PMC5524288.nxml.gz_42	6816	7055	to	TO	6969	6971	O	None	None	None
 1451	PMC5524288.nxml.gz	PMC5524288.nxml.gz_42	6816	7055	explore	VB	6972	6979	O	None	None	None
 1452	PMC5524288.nxml.gz	PMC5524288.nxml.gz_42	6816	7055	the	DT	6980	6983	O	None	None	None
-1453	PMC5524288.nxml.gz	PMC5524288.nxml.gz_42	6816	7055	relationship	NN	6984	6996	B	superficial_relationship_2021_10_13_Instance_869	None	None
+1453	PMC5524288.nxml.gz	PMC5524288.nxml.gz_42	6816	7055	relationship	NN	6984	6996	B	superficial_relationship_2021_10_19_Instance_869	None	None
 1454	PMC5524288.nxml.gz	PMC5524288.nxml.gz_42	6816	7055	in	IN	6997	6999	O	None	None	None
 1455	PMC5524288.nxml.gz	PMC5524288.nxml.gz_42	6816	7055	more	JJR	7000	7004	O	None	None	None
 1456	PMC5524288.nxml.gz	PMC5524288.nxml.gz_42	6816	7055	detail	NN	7005	7011	O	None	None	None
@@ -1647,7 +1647,7 @@
 1645	PMC5524288.nxml.gz	PMC5524288.nxml.gz_47	7710	7859	intervals	NNS	7787	7796	O	None	None	None
 1646	PMC5524288.nxml.gz	PMC5524288.nxml.gz_47	7710	7859	for	IN	7797	7800	O	None	None	None
 1647	PMC5524288.nxml.gz	PMC5524288.nxml.gz_47	7710	7859	the	DT	7801	7804	O	None	None	None
-1648	PMC5524288.nxml.gz	PMC5524288.nxml.gz_47	7710	7859	association	NN	7805	7816	B	superficial_relationship_2021_10_13_Instance_870	None	None
+1648	PMC5524288.nxml.gz	PMC5524288.nxml.gz_47	7710	7859	association	NN	7805	7816	B	superficial_relationship_2021_10_19_Instance_870	None	None
 1649	PMC5524288.nxml.gz	PMC5524288.nxml.gz_47	7710	7859	between	IN	7817	7824	O	None	None	None
 1650	PMC5524288.nxml.gz	PMC5524288.nxml.gz_47	7710	7859	serum	$	7825	7830	O	None	None	None
 1651	PMC5524288.nxml.gz	PMC5524288.nxml.gz_47	7710	7859	25	CD	7831	7833	O	None	None	None
@@ -1667,7 +1667,7 @@
 1665	PMC5524288.nxml.gz	PMC5524288.nxml.gz_48	7860	8057	plays	VBZ	7887	7892	O	None	None	None
 1666	PMC5524288.nxml.gz	PMC5524288.nxml.gz_48	7860	8057	a	DT	7893	7894	O	None	None	None
 1667	PMC5524288.nxml.gz	PMC5524288.nxml.gz_48	7860	8057	significant	JJ	7895	7906	O	None	None	None
-1668	PMC5524288.nxml.gz	PMC5524288.nxml.gz_48	7860	8057	role	NN	7907	7911	B	superficial_relationship_2021_10_13_Instance_871	None	None
+1668	PMC5524288.nxml.gz	PMC5524288.nxml.gz_48	7860	8057	role	NN	7907	7911	B	superficial_relationship_2021_10_19_Instance_871	None	None
 1669	PMC5524288.nxml.gz	PMC5524288.nxml.gz_48	7860	8057	in	IN	7912	7914	O	None	None	None
 1670	PMC5524288.nxml.gz	PMC5524288.nxml.gz_48	7860	8057	PTB	NNP	7915	7918	O	None	None	None
 1671	PMC5524288.nxml.gz	PMC5524288.nxml.gz_48	7860	8057	risk	NN	7919	7923	O	None	None	None
@@ -1857,7 +1857,7 @@
 1855	PMC5524288.nxml.gz	PMC5524288.nxml.gz_53	8649	8879	tests	NNS	8873	8878	O	None	None	None
 1856	PMC5524288.nxml.gz	PMC5524288.nxml.gz_53	8649	8879	.	.	8878	8879	O	None	None	None
 1857	PMC5524288.nxml.gz	PMC5524288.nxml.gz_54	8880	9125	The	DT	8880	8883	O	None	None	None
-1858	PMC5524288.nxml.gz	PMC5524288.nxml.gz_54	8880	9125	impact	NN	8884	8890	B	superficial_relationship_2021_10_13_Instance_872	None	None
+1858	PMC5524288.nxml.gz	PMC5524288.nxml.gz_54	8880	9125	impact	NN	8884	8890	B	superficial_relationship_2021_10_19_Instance_872	None	None
 1859	PMC5524288.nxml.gz	PMC5524288.nxml.gz_54	8880	9125	of	IN	8891	8893	O	None	None	None
 1860	PMC5524288.nxml.gz	PMC5524288.nxml.gz_54	8880	9125	raising	VBG	8894	8901	O	None	None	None
 1861	PMC5524288.nxml.gz	PMC5524288.nxml.gz_54	8880	9125	25	CD	8902	8904	O	None	None	None
@@ -3585,7 +3585,7 @@
 3583	PMC5524288.nxml.gz	PMC5524288.nxml.gz_80	14858	15025	also	RB	14943	14947	O	None	None	None
 3584	PMC5524288.nxml.gz	PMC5524288.nxml.gz_80	14858	15025	assessed	VBD	14948	14956	O	None	None	None
 3585	PMC5524288.nxml.gz	PMC5524288.nxml.gz_80	14858	15025	the	DT	14957	14960	O	None	None	None
-3586	PMC5524288.nxml.gz	PMC5524288.nxml.gz_80	14858	15025	relationship	NN	14961	14973	B	superficial_relationship_2021_10_13_Instance_873	None	None
+3586	PMC5524288.nxml.gz	PMC5524288.nxml.gz_80	14858	15025	relationship	NN	14961	14973	B	superficial_relationship_2021_10_19_Instance_873	None	None
 3587	PMC5524288.nxml.gz	PMC5524288.nxml.gz_80	14858	15025	between	IN	14974	14981	O	None	None	None
 3588	PMC5524288.nxml.gz	PMC5524288.nxml.gz_80	14858	15025	PTB	NNP	14982	14985	O	None	None	None
 3589	PMC5524288.nxml.gz	PMC5524288.nxml.gz_80	14858	15025	and	CC	14986	14989	O	None	None	None
@@ -4396,7 +4396,7 @@
 4394	PMC5524288.nxml.gz	PMC5524288.nxml.gz_95	17890	18012	support	VBP	17905	17912	O	None	None	None
 4395	PMC5524288.nxml.gz	PMC5524288.nxml.gz_95	17890	18012	the	DT	17913	17916	O	None	None	None
 4396	PMC5524288.nxml.gz	PMC5524288.nxml.gz_95	17890	18012	inverse	NN	17917	17924	O	None	None	None
-4397	PMC5524288.nxml.gz	PMC5524288.nxml.gz_95	17890	18012	association	NN	17925	17936	B	superficial_relationship_2021_10_13_Instance_874	None	None
+4397	PMC5524288.nxml.gz	PMC5524288.nxml.gz_95	17890	18012	association	NN	17925	17936	B	superficial_relationship_2021_10_19_Instance_874	None	None
 4398	PMC5524288.nxml.gz	PMC5524288.nxml.gz_95	17890	18012	between	IN	17937	17944	O	None	None	None
 4399	PMC5524288.nxml.gz	PMC5524288.nxml.gz_95	17890	18012	maternal	JJ	17945	17953	O	None	None	None
 4400	PMC5524288.nxml.gz	PMC5524288.nxml.gz_95	17890	18012	25	CD	17954	17956	O	None	None	None
@@ -4627,7 +4627,7 @@
 4625	PMC5524288.nxml.gz	PMC5524288.nxml.gz_106	18702	19049	non	JJ	18725	18728	O	None	None	None
 4626	PMC5524288.nxml.gz	PMC5524288.nxml.gz_106	18702	19049	-	:	18728	18729	O	None	None	None
 4627	PMC5524288.nxml.gz	PMC5524288.nxml.gz_106	18702	19049	linear	JJ	18729	18735	O	None	None	None
-4628	PMC5524288.nxml.gz	PMC5524288.nxml.gz_106	18702	19049	relationship	NN	18736	18748	B	superficial_relationship_2021_10_13_Instance_875	None	None
+4628	PMC5524288.nxml.gz	PMC5524288.nxml.gz_106	18702	19049	relationship	NN	18736	18748	B	superficial_relationship_2021_10_19_Instance_875	None	None
 4629	PMC5524288.nxml.gz	PMC5524288.nxml.gz_106	18702	19049	between	IN	18749	18756	O	None	None	None
 4630	PMC5524288.nxml.gz	PMC5524288.nxml.gz_106	18702	19049	25	CD	18757	18759	O	None	None	None
 4631	PMC5524288.nxml.gz	PMC5524288.nxml.gz_106	18702	19049	(	(	18759	18760	O	None	None	None
@@ -4677,7 +4677,7 @@
 4675	PMC5524288.nxml.gz	PMC5524288.nxml.gz_106	18702	19049	D	NNP	18938	18939	O	None	None	None
 4676	PMC5524288.nxml.gz	PMC5524288.nxml.gz_106	18702	19049	concentrations	NNS	18940	18954	O	None	None	None
 4677	PMC5524288.nxml.gz	PMC5524288.nxml.gz_106	18702	19049	is	VBZ	18955	18957	O	None	None	None
-4678	PMC5524288.nxml.gz	PMC5524288.nxml.gz_106	18702	19049	similar	JJ	18958	18965	B	superficial_relationship_2021_10_13_Instance_876	None	None
+4678	PMC5524288.nxml.gz	PMC5524288.nxml.gz_106	18702	19049	similar	JJ	18958	18965	B	superficial_relationship_2021_10_19_Instance_876	None	None
 4679	PMC5524288.nxml.gz	PMC5524288.nxml.gz_106	18702	19049	between	IN	18966	18973	O	None	None	None
 4680	PMC5524288.nxml.gz	PMC5524288.nxml.gz_106	18702	19049	the	DT	18974	18977	O	None	None	None
 4681	PMC5524288.nxml.gz	PMC5524288.nxml.gz_106	18702	19049	general	JJ	18978	18985	O	None	None	None
@@ -4698,7 +4698,7 @@
 4696	PMC5524288.nxml.gz	PMC5524288.nxml.gz_107	19050	19067	[	VBD	19062	19063	O	None	None	None
 4697	PMC5524288.nxml.gz	PMC5524288.nxml.gz_107	19050	19067	12	CD	19063	19065	O	None	None	None
 4698	PMC5524288.nxml.gz	PMC5524288.nxml.gz_107	19050	19067	].	NN	19065	19067	O	None	None	None
-4699	PMC5524288.nxml.gz	PMC5524288.nxml.gz_108	19068	19247	Similar	JJ	19068	19075	B	superficial_relationship_2021_10_13_Instance_877	None	None
+4699	PMC5524288.nxml.gz	PMC5524288.nxml.gz_108	19068	19247	Similar	JJ	19068	19075	B	superficial_relationship_2021_10_19_Instance_877	None	None
 4700	PMC5524288.nxml.gz	PMC5524288.nxml.gz_108	19068	19247	magnitudes	NNS	19076	19086	O	None	None	None
 4701	PMC5524288.nxml.gz	PMC5524288.nxml.gz_108	19068	19247	of	IN	19087	19089	O	None	None	None
 4702	PMC5524288.nxml.gz	PMC5524288.nxml.gz_108	19068	19247	decreased	JJ	19090	19099	O	None	None	None
@@ -4747,7 +4747,7 @@
 4745	PMC5524288.nxml.gz	PMC5524288.nxml.gz_109	19248	19261	.	.	19260	19261	O	None	None	None
 4746	PMC5524288.nxml.gz	PMC5524288.nxml.gz_110	19262	19353	also	RB	19262	19266	O	None	None	None
 4747	PMC5524288.nxml.gz	PMC5524288.nxml.gz_110	19262	19353	found	VBD	19267	19272	O	None	None	None
-4748	PMC5524288.nxml.gz	PMC5524288.nxml.gz_110	19262	19353	similar	JJ	19273	19280	B	superficial_relationship_2021_10_13_Instance_878	None	None
+4748	PMC5524288.nxml.gz	PMC5524288.nxml.gz_110	19262	19353	similar	JJ	19273	19280	B	superficial_relationship_2021_10_19_Instance_878	None	None
 4749	PMC5524288.nxml.gz	PMC5524288.nxml.gz_110	19262	19353	reductions	NNS	19281	19291	O	None	None	None
 4750	PMC5524288.nxml.gz	PMC5524288.nxml.gz_110	19262	19353	in	IN	19292	19294	O	None	None	None
 4751	PMC5524288.nxml.gz	PMC5524288.nxml.gz_110	19262	19353	PTB	NNP	19295	19298	O	None	None	None
@@ -4771,7 +4771,7 @@
 4769	PMC5524288.nxml.gz	PMC5524288.nxml.gz_111	19354	19646	status	NN	19396	19402	O	None	None	None
 4770	PMC5524288.nxml.gz	PMC5524288.nxml.gz_111	19354	19646	is	VBZ	19403	19405	O	None	None	None
 4771	PMC5524288.nxml.gz	PMC5524288.nxml.gz_111	19354	19646	significantly	RB	19406	19419	O	None	None	None
-4772	PMC5524288.nxml.gz	PMC5524288.nxml.gz_111	19354	19646	associated	VBN	19420	19430	B	superficial_relationship_2021_10_13_Instance_879	None	None
+4772	PMC5524288.nxml.gz	PMC5524288.nxml.gz_111	19354	19646	associated	VBN	19420	19430	B	superficial_relationship_2021_10_19_Instance_879	None	None
 4773	PMC5524288.nxml.gz	PMC5524288.nxml.gz_111	19354	19646	with	IN	19431	19435	O	None	None	None
 4774	PMC5524288.nxml.gz	PMC5524288.nxml.gz_111	19354	19646	lower	JJR	19436	19441	O	None	None	None
 4775	PMC5524288.nxml.gz	PMC5524288.nxml.gz_111	19354	19646	PTB	NNP	19442	19445	O	None	None	None
@@ -4787,10 +4787,10 @@
 4785	PMC5524288.nxml.gz	PMC5524288.nxml.gz_111	19354	19646	plays	VBZ	19492	19497	O	None	None	None
 4786	PMC5524288.nxml.gz	PMC5524288.nxml.gz_111	19354	19646	an	DT	19498	19500	O	None	None	None
 4787	PMC5524288.nxml.gz	PMC5524288.nxml.gz_111	19354	19646	important	JJ	19501	19510	O	None	None	None
-4788	PMC5524288.nxml.gz	PMC5524288.nxml.gz_111	19354	19646	role	NN	19511	19515	B	superficial_relationship_2021_10_13_Instance_880	None	None
+4788	PMC5524288.nxml.gz	PMC5524288.nxml.gz_111	19354	19646	role	NN	19511	19515	B	superficial_relationship_2021_10_19_Instance_880	None	None
 4789	PMC5524288.nxml.gz	PMC5524288.nxml.gz_111	19354	19646	in	IN	19516	19518	O	None	None	None
 4790	PMC5524288.nxml.gz	PMC5524288.nxml.gz_111	19354	19646	the	DT	19519	19522	O	None	None	None
-4791	PMC5524288.nxml.gz	PMC5524288.nxml.gz_111	19354	19646	underlying	JJ	19523	19533	B	superficial_relationship_2021_10_13_Instance_881	None	None
+4791	PMC5524288.nxml.gz	PMC5524288.nxml.gz_111	19354	19646	underlying	JJ	19523	19533	B	superficial_relationship_2021_10_19_Instance_881	None	None
 4792	PMC5524288.nxml.gz	PMC5524288.nxml.gz_111	19354	19646	causes	NNS	19534	19540	O	None	None	None
 4793	PMC5524288.nxml.gz	PMC5524288.nxml.gz_111	19354	19646	of	IN	19541	19543	O	None	None	None
 4794	PMC5524288.nxml.gz	PMC5524288.nxml.gz_111	19354	19646	indicated	JJ	19544	19553	O	None	None	None
@@ -4841,7 +4841,7 @@
 4839	PMC5524288.nxml.gz	PMC5524288.nxml.gz_113	19777	19834	findings	NNS	19825	19833	O	None	None	None
 4840	PMC5524288.nxml.gz	PMC5524288.nxml.gz_113	19777	19834	.	.	19833	19834	O	None	None	None
 4841	PMC5524288.nxml.gz	PMC5524288.nxml.gz_114	19835	19932	The	DT	19835	19838	O	None	None	None
-4842	PMC5524288.nxml.gz	PMC5524288.nxml.gz_114	19835	19932	association	NN	19839	19850	B	superficial_relationship_2021_10_13_Instance_882	None	None
+4842	PMC5524288.nxml.gz	PMC5524288.nxml.gz_114	19835	19932	association	NN	19839	19850	B	superficial_relationship_2021_10_19_Instance_882	None	None
 4843	PMC5524288.nxml.gz	PMC5524288.nxml.gz_114	19835	19932	between	IN	19851	19858	O	None	None	None
 4844	PMC5524288.nxml.gz	PMC5524288.nxml.gz_114	19835	19932	25	CD	19859	19861	O	None	None	None
 4845	PMC5524288.nxml.gz	PMC5524288.nxml.gz_114	19835	19932	(	(	19861	19862	O	None	None	None
@@ -5024,8 +5024,8 @@
 5022	PMC5524288.nxml.gz	PMC5524288.nxml.gz_118	20407	20736	is	VBZ	20659	20661	O	None	None	None
 5023	PMC5524288.nxml.gz	PMC5524288.nxml.gz_118	20407	20736	a	DT	20662	20663	O	None	None	None
 5024	PMC5524288.nxml.gz	PMC5524288.nxml.gz_118	20407	20736	modifiable	JJ	20664	20674	O	None	None	None
-5025	PMC5524288.nxml.gz	PMC5524288.nxml.gz_118	20407	20736	risk	NN	20675	20679	B	superficial_relationship_2021_10_13_Instance_883	None	None
-5026	PMC5524288.nxml.gz	PMC5524288.nxml.gz_118	20407	20736	factor	NN	20680	20686	I	superficial_relationship_2021_10_13_Instance_883	None	None
+5025	PMC5524288.nxml.gz	PMC5524288.nxml.gz_118	20407	20736	risk	NN	20675	20679	B	superficial_relationship_2021_10_19_Instance_883	None	None
+5026	PMC5524288.nxml.gz	PMC5524288.nxml.gz_118	20407	20736	factor	NN	20680	20686	I	superficial_relationship_2021_10_19_Instance_883	None	None
 5027	PMC5524288.nxml.gz	PMC5524288.nxml.gz_118	20407	20736	that	WDT	20687	20691	O	None	None	None
 5028	PMC5524288.nxml.gz	PMC5524288.nxml.gz_118	20407	20736	can	MD	20692	20695	O	None	None	None
 5029	PMC5524288.nxml.gz	PMC5524288.nxml.gz_118	20407	20736	be	VB	20696	20698	O	None	None	None
@@ -5190,7 +5190,7 @@
 5188	PMC5524288.nxml.gz	PMC5524288.nxml.gz_123	21381	21618	include	VBP	21408	21415	O	None	None	None
 5189	PMC5524288.nxml.gz	PMC5524288.nxml.gz_123	21381	21618	assessing	VBG	21416	21425	O	None	None	None
 5190	PMC5524288.nxml.gz	PMC5524288.nxml.gz_123	21381	21618	the	DT	21426	21429	O	None	None	None
-5191	PMC5524288.nxml.gz	PMC5524288.nxml.gz_123	21381	21618	relationship	NN	21430	21442	B	superficial_relationship_2021_10_13_Instance_884	None	None
+5191	PMC5524288.nxml.gz	PMC5524288.nxml.gz_123	21381	21618	relationship	NN	21430	21442	B	superficial_relationship_2021_10_19_Instance_884	None	None
 5192	PMC5524288.nxml.gz	PMC5524288.nxml.gz_123	21381	21618	between	IN	21443	21450	O	None	None	None
 5193	PMC5524288.nxml.gz	PMC5524288.nxml.gz_123	21381	21618	maternal	JJ	21451	21459	O	None	None	None
 5194	PMC5524288.nxml.gz	PMC5524288.nxml.gz_123	21381	21618	25	CD	21460	21462	O	None	None	None
@@ -5305,7 +5305,7 @@
 5303	PMC5524288.nxml.gz	PMC5524288.nxml.gz_126	22011	22330	is	VBZ	22059	22061	O	None	None	None
 5304	PMC5524288.nxml.gz	PMC5524288.nxml.gz_126	22011	22330	a	DT	22062	22063	O	None	None	None
 5305	PMC5524288.nxml.gz	PMC5524288.nxml.gz_126	22011	22330	better	JJR	22064	22070	O	None	None	None
-5306	PMC5524288.nxml.gz	PMC5524288.nxml.gz_126	22011	22330	indicator	NN	22071	22080	B	superficial_relationship_2021_10_13_Instance_885	None	None
+5306	PMC5524288.nxml.gz	PMC5524288.nxml.gz_126	22011	22330	indicator	NN	22071	22080	B	superficial_relationship_2021_10_19_Instance_885	None	None
 5307	PMC5524288.nxml.gz	PMC5524288.nxml.gz_126	22011	22330	of	IN	22081	22083	O	None	None	None
 5308	PMC5524288.nxml.gz	PMC5524288.nxml.gz_126	22011	22330	vitamin	NN	22084	22091	O	None	None	None
 5309	PMC5524288.nxml.gz	PMC5524288.nxml.gz_126	22011	22330	D	NNP	22092	22093	O	None	None	None
@@ -5536,7 +5536,7 @@
 5534	PMC5524288.nxml.gz	PMC5524288.nxml.gz_132	23277	23361	factor	NN	23328	23334	O	None	None	None
 5535	PMC5524288.nxml.gz	PMC5524288.nxml.gz_132	23277	23361	for	IN	23335	23338	O	None	None	None
 5536	PMC5524288.nxml.gz	PMC5524288.nxml.gz_132	23277	23361	the	DT	23339	23342	O	None	None	None
-5537	PMC5524288.nxml.gz	PMC5524288.nxml.gz_132	23277	23361	prevention	NN	23343	23353	B	superficial_relationship_2021_10_13_Instance_886	None	None
+5537	PMC5524288.nxml.gz	PMC5524288.nxml.gz_132	23277	23361	prevention	NN	23343	23353	B	superficial_relationship_2021_10_19_Instance_886	None	None
 5538	PMC5524288.nxml.gz	PMC5524288.nxml.gz_132	23277	23361	of	IN	23354	23356	O	None	None	None
 5539	PMC5524288.nxml.gz	PMC5524288.nxml.gz_132	23277	23361	PTB	NNP	23357	23360	O	None	None	None
 5540	PMC5524288.nxml.gz	PMC5524288.nxml.gz_132	23277	23361	.	.	23360	23361	O	None	None	None
@@ -5549,7 +5549,7 @@
 5547	PMC5524288.nxml.gz	PMC5524288.nxml.gz_133	23362	23589	the	DT	23402	23405	O	None	None	None
 5548	PMC5524288.nxml.gz	PMC5524288.nxml.gz_133	23362	23589	previously	RB	23406	23416	O	None	None	None
 5549	PMC5524288.nxml.gz	PMC5524288.nxml.gz_133	23362	23589	identified	VBN	23417	23427	O	None	None	None
-5550	PMC5524288.nxml.gz	PMC5524288.nxml.gz_133	23362	23589	association	NN	23428	23439	B	superficial_relationship_2021_10_13_Instance_887	None	None
+5550	PMC5524288.nxml.gz	PMC5524288.nxml.gz_133	23362	23589	association	NN	23428	23439	B	superficial_relationship_2021_10_19_Instance_887	None	None
 5551	PMC5524288.nxml.gz	PMC5524288.nxml.gz_133	23362	23589	between	IN	23440	23447	O	None	None	None
 5552	PMC5524288.nxml.gz	PMC5524288.nxml.gz_133	23362	23589	higher	JJR	23448	23454	O	None	None	None
 5553	PMC5524288.nxml.gz	PMC5524288.nxml.gz_133	23362	23589	maternal	JJ	23455	23463	O	None	None	None
@@ -5624,7 +5624,7 @@
 5622	PMC5524288.nxml.gz	PMC5524288.nxml.gz_135	23642	23839	],	NN	23817	23819	O	None	None	None
 5623	PMC5524288.nxml.gz	PMC5524288.nxml.gz_135	23642	23839	for	IN	23820	23823	O	None	None	None
 5624	PMC5524288.nxml.gz	PMC5524288.nxml.gz_135	23642	23839	PTB	NNP	23824	23827	O	None	None	None
-5625	PMC5524288.nxml.gz	PMC5524288.nxml.gz_135	23642	23839	prevention	NN	23828	23838	B	superficial_relationship_2021_10_13_Instance_888	None	None
+5625	PMC5524288.nxml.gz	PMC5524288.nxml.gz_135	23642	23839	prevention	NN	23828	23838	B	superficial_relationship_2021_10_19_Instance_888	None	None
 5626	PMC5524288.nxml.gz	PMC5524288.nxml.gz_135	23642	23839	.	.	23838	23839	O	None	None	None
 5627	PMC5524288.nxml.gz	PMC5524288.nxml.gz_136	23840	24010	Having	VBG	23840	23846	O	None	None	None
 5628	PMC5524288.nxml.gz	PMC5524288.nxml.gz_136	23840	24010	a	DT	23847	23848	O	None	None	None
@@ -5687,7 +5687,7 @@
 5685	PMC5524288.nxml.gz	PMC5524288.nxml.gz_137	24011	24234	safe	JJ	24072	24076	O	None	None	None
 5686	PMC5524288.nxml.gz	PMC5524288.nxml.gz_137	24011	24234	,	,	24076	24077	O	None	None	None
 5687	PMC5524288.nxml.gz	PMC5524288.nxml.gz_137	24011	24234	affordable	JJ	24078	24088	O	None	None	None
-5688	PMC5524288.nxml.gz	PMC5524288.nxml.gz_137	24011	24234	prevention	NN	24089	24099	B	superficial_relationship_2021_10_13_Instance_889	None	None
+5688	PMC5524288.nxml.gz	PMC5524288.nxml.gz_137	24011	24234	prevention	NN	24089	24099	B	superficial_relationship_2021_10_19_Instance_889	None	None
 5689	PMC5524288.nxml.gz	PMC5524288.nxml.gz_137	24011	24234	tool	NN	24100	24104	O	None	None	None
 5690	PMC5524288.nxml.gz	PMC5524288.nxml.gz_137	24011	24234	that	WDT	24105	24109	O	None	None	None
 5691	PMC5524288.nxml.gz	PMC5524288.nxml.gz_137	24011	24234	could	MD	24110	24115	O	None	None	None

@@ -25,7 +25,7 @@
 23	PMC3800883.nxml.gz	PMC3800883.nxml.gz_1	9	170	in	IN	124	126	O	None	None	None
 24	PMC3800883.nxml.gz	PMC3800883.nxml.gz_1	9	170	the	DT	127	130	O	None	None	None
 25	PMC3800883.nxml.gz	PMC3800883.nxml.gz_1	9	170	pregnancy	NN	131	140	O	None	None	None
-26	PMC3800883.nxml.gz	PMC3800883.nxml.gz_1	9	170	complications	NNS	141	154	B	important_consideration_2021_10_13_Instance_240	None	None
+26	PMC3800883.nxml.gz	PMC3800883.nxml.gz_1	9	170	complications	NNS	141	154	B	important_consideration_2021_10_19_Instance_240	None	None
 27	PMC3800883.nxml.gz	PMC3800883.nxml.gz_1	9	170	,	,	154	155	O	None	None	None
 28	PMC3800883.nxml.gz	PMC3800883.nxml.gz_1	9	170	anamolies	NNS	156	165	O	None	None	None
 29	PMC3800883.nxml.gz	PMC3800883.nxml.gz_1	9	170	etc	VBP	166	169	O	None	None	None
@@ -89,8 +89,8 @@
 87	PMC3800883.nxml.gz	PMC3800883.nxml.gz_5	452	533	,	,	456	457	O	None	None	None
 88	PMC3800883.nxml.gz	PMC3800883.nxml.gz_5	452	533	it	PRP	458	460	O	None	None	None
 89	PMC3800883.nxml.gz	PMC3800883.nxml.gz_5	452	533	is	VBZ	461	463	O	None	None	None
-90	PMC3800883.nxml.gz	PMC3800883.nxml.gz_5	452	533	very	RB	464	468	B	important_consideration_2021_10_13_Instance_241	None	None
-91	PMC3800883.nxml.gz	PMC3800883.nxml.gz_5	452	533	necessary	JJ	469	478	B	important_consideration_2021_10_13_Instance_242	None	None
+90	PMC3800883.nxml.gz	PMC3800883.nxml.gz_5	452	533	very	RB	464	468	B	important_consideration_2021_10_19_Instance_241	None	None
+91	PMC3800883.nxml.gz	PMC3800883.nxml.gz_5	452	533	necessary	JJ	469	478	B	important_consideration_2021_10_19_Instance_242	None	None
 92	PMC3800883.nxml.gz	PMC3800883.nxml.gz_5	452	533	to	TO	479	481	O	None	None	None
 93	PMC3800883.nxml.gz	PMC3800883.nxml.gz_5	452	533	promote	VB	482	489	O	None	None	None
 94	PMC3800883.nxml.gz	PMC3800883.nxml.gz_5	452	533	the	DT	490	493	O	None	None	None
@@ -308,11 +308,11 @@
 306	PMC3800883.nxml.gz	PMC3800883.nxml.gz_18	1611	1658	Masanumasik	NNP	1616	1627	O	None	None	None
 307	PMC3800883.nxml.gz	PMC3800883.nxml.gz_18	1611	1658	patya	NN	1628	1633	O	None	None	None
 308	PMC3800883.nxml.gz	PMC3800883.nxml.gz_18	1611	1658	is	VBZ	1634	1636	O	None	None	None
-309	PMC3800883.nxml.gz	PMC3800883.nxml.gz_18	1611	1658	the	DT	1637	1640	B	important_consideration_2021_10_13_Instance_243	None	None
-310	PMC3800883.nxml.gz	PMC3800883.nxml.gz_18	1611	1658	need	NN	1641	1645	I	important_consideration_2021_10_13_Instance_243	None	None
-311	PMC3800883.nxml.gz	PMC3800883.nxml.gz_18	1611	1658	of	IN	1646	1648	I	important_consideration_2021_10_13_Instance_243	None	None
-312	PMC3800883.nxml.gz	PMC3800883.nxml.gz_18	1611	1658	the	DT	1649	1652	I	important_consideration_2021_10_13_Instance_243	None	None
-313	PMC3800883.nxml.gz	PMC3800883.nxml.gz_18	1611	1658	hour	NN	1653	1657	I	important_consideration_2021_10_13_Instance_243	None	None
+309	PMC3800883.nxml.gz	PMC3800883.nxml.gz_18	1611	1658	the	DT	1637	1640	B	important_consideration_2021_10_19_Instance_243	None	None
+310	PMC3800883.nxml.gz	PMC3800883.nxml.gz_18	1611	1658	need	NN	1641	1645	I	important_consideration_2021_10_19_Instance_243	None	None
+311	PMC3800883.nxml.gz	PMC3800883.nxml.gz_18	1611	1658	of	IN	1646	1648	I	important_consideration_2021_10_19_Instance_243	None	None
+312	PMC3800883.nxml.gz	PMC3800883.nxml.gz_18	1611	1658	the	DT	1649	1652	I	important_consideration_2021_10_19_Instance_243	None	None
+313	PMC3800883.nxml.gz	PMC3800883.nxml.gz_18	1611	1658	hour	NN	1653	1657	I	important_consideration_2021_10_19_Instance_243	None	None
 314	PMC3800883.nxml.gz	PMC3800883.nxml.gz_18	1611	1658	.	.	1657	1658	O	None	None	None
 315	PMC3800883.nxml.gz	PMC3800883.nxml.gz_19	1660	1870	Conclusion	NN	1660	1670	O	None	None	None
 316	PMC3800883.nxml.gz	PMC3800883.nxml.gz_19	1660	1870	:	:	1670	1671	O	None	None	None
@@ -332,7 +332,7 @@
 330	PMC3800883.nxml.gz	PMC3800883.nxml.gz_19	1660	1870	will	MD	1748	1752	O	None	None	None
 331	PMC3800883.nxml.gz	PMC3800883.nxml.gz_19	1660	1870	prevent	VB	1753	1760	O	None	None	None
 332	PMC3800883.nxml.gz	PMC3800883.nxml.gz_19	1660	1870	many	JJ	1761	1765	O	None	None	None
-333	PMC3800883.nxml.gz	PMC3800883.nxml.gz_19	1660	1870	complications	NNS	1766	1779	B	important_consideration_2021_10_13_Instance_244	None	None
+333	PMC3800883.nxml.gz	PMC3800883.nxml.gz_19	1660	1870	complications	NNS	1766	1779	B	important_consideration_2021_10_19_Instance_244	None	None
 334	PMC3800883.nxml.gz	PMC3800883.nxml.gz_19	1660	1870	of	IN	1780	1782	O	None	None	None
 335	PMC3800883.nxml.gz	PMC3800883.nxml.gz_19	1660	1870	pregnancy	NN	1783	1792	O	None	None	None
 336	PMC3800883.nxml.gz	PMC3800883.nxml.gz_19	1660	1870	,	,	1792	1793	O	None	None	None

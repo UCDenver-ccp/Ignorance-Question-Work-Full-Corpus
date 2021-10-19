@@ -1,303 +1,33 @@
 T0	full_unknown 5603 5622	not well understood
-T1	explicit_question 5603 5622	not well understood
-T2	incomplete_evidence 5603 5622	not well understood
-T3	incomplete_evidence 123 127	rare
-T4	incomplete_evidence 269 292	high index of suspicion
-T5	incomplete_evidence 635 648	possibilities
-T6	incomplete_evidence 743 747	rare
-T7	incomplete_evidence 935 942	usually
-T8	incomplete_evidence 1399 1403	only
-T9	incomplete_evidence 1891 1899	revealed
-T10	incomplete_evidence 4068 4072	rare
-T11	incomplete_evidence 4178 4185	usually
-T12	incomplete_evidence 4324 4334	thought to
-T13	incomplete_evidence 5383 5386	may
-T14	incomplete_evidence 5538 5551	is considered
-T15	incomplete_evidence 5627 5635	has been
-T16	incomplete_evidence 5636 5648	hypothesized
-T17	incomplete_evidence 6140 6154	it is possible
-T18	incomplete_evidence 6175 6180	could
-T19	incomplete_evidence 6263 6268	could
-T20	incomplete_evidence 6351 6374	high index of suspicion
-T21	incomplete_evidence 6645 6648	may
-T22	probable_understanding 5603 5622	not well understood
-T23	probable_understanding 123 127	rare
-T24	probable_understanding 269 292	high index of suspicion
-T25	probable_understanding 635 648	possibilities
-T26	probable_understanding 743 747	rare
-T27	probable_understanding 935 942	usually
-T28	probable_understanding 1399 1403	only
-T29	probable_understanding 1891 1899	revealed
-T30	probable_understanding 4068 4072	rare
-T31	probable_understanding 4178 4185	usually
-T32	probable_understanding 4324 4334	thought to
-T33	probable_understanding 5383 5386	may
-T34	probable_understanding 5538 5551	is considered
-T35	probable_understanding 5627 5635	has been
-T36	probable_understanding 5636 5648	hypothesized
-T37	probable_understanding 6140 6154	it is possible
-T38	probable_understanding 6175 6180	could
-T39	probable_understanding 6263 6268	could
-T40	probable_understanding 6351 6374	high index of suspicion
-T41	probable_understanding 6645 6648	may
-T42	probable_understanding 6129 6138	Therefore
-T43	probable_understanding 6296 6307	In light of
-T44	superficial_relationship 5603 5622	not well understood
-T45	superficial_relationship 123 127	rare
-T46	superficial_relationship 269 292	high index of suspicion
-T47	superficial_relationship 635 648	possibilities
-T48	superficial_relationship 743 747	rare
-T49	superficial_relationship 935 942	usually
-T50	superficial_relationship 1399 1403	only
-T51	superficial_relationship 1891 1899	revealed
-T52	superficial_relationship 4068 4072	rare
-T53	superficial_relationship 4178 4185	usually
-T54	superficial_relationship 4324 4334	thought to
-T55	superficial_relationship 5383 5386	may
-T56	superficial_relationship 5538 5551	is considered
-T57	superficial_relationship 5627 5635	has been
-T58	superficial_relationship 5636 5648	hypothesized
-T59	superficial_relationship 6140 6154	it is possible
-T60	superficial_relationship 6175 6180	could
-T61	superficial_relationship 6263 6268	could
-T62	superficial_relationship 6351 6374	high index of suspicion
-T63	superficial_relationship 6645 6648	may
-T64	superficial_relationship 6129 6138	Therefore
-T65	superficial_relationship 6296 6307	In light of
-T66	superficial_relationship 31 41	Associated
-T67	superficial_relationship 183 190	related
-T68	superficial_relationship 785 792	related
-T69	future_work 5603 5622	not well understood
-T70	future_work 123 127	rare
-T71	future_work 269 292	high index of suspicion
-T72	future_work 635 648	possibilities
-T73	future_work 743 747	rare
-T74	future_work 935 942	usually
-T75	future_work 1399 1403	only
-T76	future_work 1891 1899	revealed
-T77	future_work 4068 4072	rare
-T78	future_work 4178 4185	usually
-T79	future_work 4324 4334	thought to
-T80	future_work 5383 5386	may
-T81	future_work 5538 5551	is considered
-T82	future_work 5627 5635	has been
-T83	future_work 5636 5648	hypothesized
-T84	future_work 6140 6154	it is possible
-T85	future_work 6175 6180	could
-T86	future_work 6263 6268	could
-T87	future_work 6351 6374	high index of suspicion
-T88	future_work 6645 6648	may
-T89	future_work 6129 6138	Therefore
-T90	future_work 6296 6307	In light of
-T91	future_work 31 41	Associated
-T92	future_work 183 190	related
-T93	future_work 785 792	related
-T94	future_work 6327 6336	recommend
-T95	future_prediction 5603 5622	not well understood
-T96	future_prediction 123 127	rare
-T97	future_prediction 269 292	high index of suspicion
-T98	future_prediction 635 648	possibilities
-T99	future_prediction 743 747	rare
-T100	future_prediction 935 942	usually
-T101	future_prediction 1399 1403	only
-T102	future_prediction 1891 1899	revealed
-T103	future_prediction 4068 4072	rare
-T104	future_prediction 4178 4185	usually
-T105	future_prediction 4324 4334	thought to
-T106	future_prediction 5383 5386	may
-T107	future_prediction 5538 5551	is considered
-T108	future_prediction 5627 5635	has been
-T109	future_prediction 5636 5648	hypothesized
-T110	future_prediction 6140 6154	it is possible
-T111	future_prediction 6175 6180	could
-T112	future_prediction 6263 6268	could
-T113	future_prediction 6351 6374	high index of suspicion
-T114	future_prediction 6645 6648	may
-T115	future_prediction 6129 6138	Therefore
-T116	future_prediction 6296 6307	In light of
-T117	future_prediction 31 41	Associated
-T118	future_prediction 183 190	related
-T119	future_prediction 785 792	related
-T120	future_prediction 6327 6336	recommend
-T121	important_consideration 5603 5622	not well understood
-T122	important_consideration 123 127	rare
-T123	important_consideration 269 292	high index of suspicion
-T124	important_consideration 635 648	possibilities
-T125	important_consideration 743 747	rare
-T126	important_consideration 935 942	usually
-T127	important_consideration 1399 1403	only
-T128	important_consideration 1891 1899	revealed
-T129	important_consideration 4068 4072	rare
-T130	important_consideration 4178 4185	usually
-T131	important_consideration 4324 4334	thought to
-T132	important_consideration 5383 5386	may
-T133	important_consideration 5538 5551	is considered
-T134	important_consideration 5627 5635	has been
-T135	important_consideration 5636 5648	hypothesized
-T136	important_consideration 6140 6154	it is possible
-T137	important_consideration 6175 6180	could
-T138	important_consideration 6263 6268	could
-T139	important_consideration 6351 6374	high index of suspicion
-T140	important_consideration 6645 6648	may
-T141	important_consideration 6129 6138	Therefore
-T142	important_consideration 6296 6307	In light of
-T143	important_consideration 31 41	Associated
-T144	important_consideration 183 190	related
-T145	important_consideration 785 792	related
-T146	important_consideration 6327 6336	recommend
-T147	important_consideration 330 338	required
-T148	anomaly_curious_finding 5603 5622	not well understood
-T149	anomaly_curious_finding 123 127	rare
-T150	anomaly_curious_finding 269 292	high index of suspicion
-T151	anomaly_curious_finding 635 648	possibilities
-T152	anomaly_curious_finding 743 747	rare
-T153	anomaly_curious_finding 935 942	usually
-T154	anomaly_curious_finding 1399 1403	only
-T155	anomaly_curious_finding 1891 1899	revealed
-T156	anomaly_curious_finding 4068 4072	rare
-T157	anomaly_curious_finding 4178 4185	usually
-T158	anomaly_curious_finding 4324 4334	thought to
-T159	anomaly_curious_finding 5383 5386	may
-T160	anomaly_curious_finding 5538 5551	is considered
-T161	anomaly_curious_finding 5627 5635	has been
-T162	anomaly_curious_finding 5636 5648	hypothesized
-T163	anomaly_curious_finding 6140 6154	it is possible
-T164	anomaly_curious_finding 6175 6180	could
-T165	anomaly_curious_finding 6263 6268	could
-T166	anomaly_curious_finding 6351 6374	high index of suspicion
-T167	anomaly_curious_finding 6645 6648	may
-T168	anomaly_curious_finding 6129 6138	Therefore
-T169	anomaly_curious_finding 6296 6307	In light of
-T170	anomaly_curious_finding 31 41	Associated
-T171	anomaly_curious_finding 183 190	related
-T172	anomaly_curious_finding 785 792	related
-T173	anomaly_curious_finding 6327 6336	recommend
-T174	anomaly_curious_finding 330 338	required
-T175	anomaly_curious_finding 1050 1056	unique
-T176	alternative_options_controversy 5603 5622	not well understood
-T177	alternative_options_controversy 123 127	rare
-T178	alternative_options_controversy 269 292	high index of suspicion
-T179	alternative_options_controversy 635 648	possibilities
-T180	alternative_options_controversy 743 747	rare
-T181	alternative_options_controversy 935 942	usually
-T182	alternative_options_controversy 1399 1403	only
-T183	alternative_options_controversy 1891 1899	revealed
-T184	alternative_options_controversy 4068 4072	rare
-T185	alternative_options_controversy 4178 4185	usually
-T186	alternative_options_controversy 4324 4334	thought to
-T187	alternative_options_controversy 5383 5386	may
-T188	alternative_options_controversy 5538 5551	is considered
-T189	alternative_options_controversy 5627 5635	has been
-T190	alternative_options_controversy 5636 5648	hypothesized
-T191	alternative_options_controversy 6140 6154	it is possible
-T192	alternative_options_controversy 6175 6180	could
-T193	alternative_options_controversy 6263 6268	could
-T194	alternative_options_controversy 6351 6374	high index of suspicion
-T195	alternative_options_controversy 6645 6648	may
-T196	alternative_options_controversy 6129 6138	Therefore
-T197	alternative_options_controversy 6296 6307	In light of
-T198	alternative_options_controversy 31 41	Associated
-T199	alternative_options_controversy 183 190	related
-T200	alternative_options_controversy 785 792	related
-T201	alternative_options_controversy 6327 6336	recommend
-T202	alternative_options_controversy 330 338	required
-T203	alternative_options_controversy 1050 1056	unique
-T204	alternative_options_controversy 1726 1733	However
-T205	alternative_options_controversy 5860 5877	On the other hand
-T206	difficult_task 5603 5622	not well understood
-T207	difficult_task 123 127	rare
-T208	difficult_task 269 292	high index of suspicion
-T209	difficult_task 635 648	possibilities
-T210	difficult_task 743 747	rare
-T211	difficult_task 935 942	usually
-T212	difficult_task 1399 1403	only
-T213	difficult_task 1891 1899	revealed
-T214	difficult_task 4068 4072	rare
-T215	difficult_task 4178 4185	usually
-T216	difficult_task 4324 4334	thought to
-T217	difficult_task 5383 5386	may
-T218	difficult_task 5538 5551	is considered
-T219	difficult_task 5627 5635	has been
-T220	difficult_task 5636 5648	hypothesized
-T221	difficult_task 6140 6154	it is possible
-T222	difficult_task 6175 6180	could
-T223	difficult_task 6263 6268	could
-T224	difficult_task 6351 6374	high index of suspicion
-T225	difficult_task 6645 6648	may
-T226	difficult_task 6129 6138	Therefore
-T227	difficult_task 6296 6307	In light of
-T228	difficult_task 31 41	Associated
-T229	difficult_task 183 190	related
-T230	difficult_task 785 792	related
-T231	difficult_task 6327 6336	recommend
-T232	difficult_task 330 338	required
-T233	difficult_task 1050 1056	unique
-T234	difficult_task 1726 1733	However
-T235	difficult_task 5860 5877	On the other hand
-T236	difficult_task 2628 2639	complicated
-T237	problem_complication 5603 5622	not well understood
-T238	problem_complication 123 127	rare
-T239	problem_complication 269 292	high index of suspicion
-T240	problem_complication 635 648	possibilities
-T241	problem_complication 743 747	rare
-T242	problem_complication 935 942	usually
-T243	problem_complication 1399 1403	only
-T244	problem_complication 1891 1899	revealed
-T245	problem_complication 4068 4072	rare
-T246	problem_complication 4178 4185	usually
-T247	problem_complication 4324 4334	thought to
-T248	problem_complication 5383 5386	may
-T249	problem_complication 5538 5551	is considered
-T250	problem_complication 5627 5635	has been
-T251	problem_complication 5636 5648	hypothesized
-T252	problem_complication 6140 6154	it is possible
-T253	problem_complication 6175 6180	could
-T254	problem_complication 6263 6268	could
-T255	problem_complication 6351 6374	high index of suspicion
-T256	problem_complication 6645 6648	may
-T257	problem_complication 6129 6138	Therefore
-T258	problem_complication 6296 6307	In light of
-T259	problem_complication 31 41	Associated
-T260	problem_complication 183 190	related
-T261	problem_complication 785 792	related
-T262	problem_complication 6327 6336	recommend
-T263	problem_complication 330 338	required
-T264	problem_complication 1050 1056	unique
-T265	problem_complication 1726 1733	However
-T266	problem_complication 5860 5877	On the other hand
-T267	problem_complication 2628 2639	complicated
-T268	problem_complication 748 760	complication
-T269	problem_complication 4073 4085	complication
-T270	question_answered_by_this_work 5603 5622	not well understood
-T271	question_answered_by_this_work 123 127	rare
-T272	question_answered_by_this_work 269 292	high index of suspicion
-T273	question_answered_by_this_work 635 648	possibilities
-T274	question_answered_by_this_work 743 747	rare
-T275	question_answered_by_this_work 935 942	usually
-T276	question_answered_by_this_work 1399 1403	only
-T277	question_answered_by_this_work 1891 1899	revealed
-T278	question_answered_by_this_work 4068 4072	rare
-T279	question_answered_by_this_work 4178 4185	usually
-T280	question_answered_by_this_work 4324 4334	thought to
-T281	question_answered_by_this_work 5383 5386	may
-T282	question_answered_by_this_work 5538 5551	is considered
-T283	question_answered_by_this_work 5627 5635	has been
-T284	question_answered_by_this_work 5636 5648	hypothesized
-T285	question_answered_by_this_work 6140 6154	it is possible
-T286	question_answered_by_this_work 6175 6180	could
-T287	question_answered_by_this_work 6263 6268	could
-T288	question_answered_by_this_work 6351 6374	high index of suspicion
-T289	question_answered_by_this_work 6645 6648	may
-T290	question_answered_by_this_work 6129 6138	Therefore
-T291	question_answered_by_this_work 6296 6307	In light of
-T292	question_answered_by_this_work 31 41	Associated
-T293	question_answered_by_this_work 183 190	related
-T294	question_answered_by_this_work 785 792	related
-T295	question_answered_by_this_work 6327 6336	recommend
-T296	question_answered_by_this_work 330 338	required
-T297	question_answered_by_this_work 1050 1056	unique
-T298	question_answered_by_this_work 1726 1733	However
-T299	question_answered_by_this_work 5860 5877	On the other hand
-T300	question_answered_by_this_work 2628 2639	complicated
-T301	question_answered_by_this_work 748 760	complication
-T302	question_answered_by_this_work 4073 4085	complication
+T1	incomplete_evidence 123 127	rare
+T2	incomplete_evidence 269 292	high index of suspicion
+T3	incomplete_evidence 635 648	possibilities
+T4	incomplete_evidence 743 747	rare
+T5	incomplete_evidence 935 942	usually
+T6	incomplete_evidence 1399 1403	only
+T7	incomplete_evidence 1891 1899	revealed
+T8	incomplete_evidence 4068 4072	rare
+T9	incomplete_evidence 4178 4185	usually
+T10	incomplete_evidence 4324 4334	thought to
+T11	incomplete_evidence 5383 5386	may
+T12	incomplete_evidence 5538 5551	is considered
+T13	incomplete_evidence 5627 5635	has been
+T14	incomplete_evidence 5636 5648	hypothesized
+T15	incomplete_evidence 6140 6154	it is possible
+T16	incomplete_evidence 6175 6180	could
+T17	incomplete_evidence 6263 6268	could
+T18	incomplete_evidence 6351 6374	high index of suspicion
+T19	incomplete_evidence 6645 6648	may
+T20	probable_understanding 6129 6138	Therefore
+T21	probable_understanding 6296 6307	In light of
+T22	superficial_relationship 31 41	Associated
+T23	superficial_relationship 183 190	related
+T24	superficial_relationship 785 792	related
+T25	future_work 6327 6336	recommend
+T26	important_consideration 330 338	required
+T27	anomaly_curious_finding 1050 1056	unique
+T28	alternative_options_controversy 1726 1733	However
+T29	alternative_options_controversy 5860 5877	On the other hand
+T30	difficult_task 2628 2639	complicated
+T31	problem_complication 748 760	complication
+T32	problem_complication 4073 4085	complication

@@ -683,7 +683,7 @@
 681	PMC2396486.nxml.gz	PMC2396486.nxml.gz_25	3838	4038	subcortical	JJ	3891	3902	O	None	None	None
 682	PMC2396486.nxml.gz	PMC2396486.nxml.gz_25	3838	4038	regions	NNS	3903	3910	O	None	None	None
 683	PMC2396486.nxml.gz	PMC2396486.nxml.gz_25	3838	4038	,	,	3910	3911	O	None	None	None
-684	PMC2396486.nxml.gz	PMC2396486.nxml.gz_25	3838	4038	however	RB	3912	3919	B	anomaly_curious_finding_2021_10_13_Instance_1	None	None
+684	PMC2396486.nxml.gz	PMC2396486.nxml.gz_25	3838	4038	however	RB	3912	3919	B	anomaly_curious_finding_2021_10_19_Instance_1	None	None
 685	PMC2396486.nxml.gz	PMC2396486.nxml.gz_25	3838	4038	its	PRP$	3920	3923	O	None	None	None
 686	PMC2396486.nxml.gz	PMC2396486.nxml.gz_25	3838	4038	role	NN	3924	3928	O	None	None	None
 687	PMC2396486.nxml.gz	PMC2396486.nxml.gz_25	3838	4038	in	IN	3929	3931	O	None	None	None
@@ -1637,7 +1637,7 @@
 1635	PMC2396486.nxml.gz	PMC2396486.nxml.gz_59	8891	9041	protein	NN	8945	8952	O	None	None	None
 1636	PMC2396486.nxml.gz	PMC2396486.nxml.gz_59	8891	9041	spot	NN	8953	8957	O	None	None	None
 1637	PMC2396486.nxml.gz	PMC2396486.nxml.gz_59	8891	9041	to	TO	8958	8960	O	None	None	None
-1638	PMC2396486.nxml.gz	PMC2396486.nxml.gz_59	8891	9041	appear	VB	8961	8967	B	anomaly_curious_finding_2021_10_13_Instance_2	None	None
+1638	PMC2396486.nxml.gz	PMC2396486.nxml.gz_59	8891	9041	appear	VB	8961	8967	B	anomaly_curious_finding_2021_10_19_Instance_2	None	None
 1639	PMC2396486.nxml.gz	PMC2396486.nxml.gz_59	8891	9041	in	IN	8968	8970	O	None	None	None
 1640	PMC2396486.nxml.gz	PMC2396486.nxml.gz_59	8891	9041	the	DT	8971	8974	O	None	None	None
 1641	PMC2396486.nxml.gz	PMC2396486.nxml.gz_59	8891	9041	averaged	JJ	8975	8983	O	None	None	None
@@ -2184,7 +2184,7 @@
 2182	PMC2396486.nxml.gz	PMC2396486.nxml.gz_74	11528	11667	determine	VB	11649	11658	O	None	None	None
 2183	PMC2396486.nxml.gz	PMC2396486.nxml.gz_74	11528	11667	matches	NNS	11659	11666	O	None	None	None
 2184	PMC2396486.nxml.gz	PMC2396486.nxml.gz_74	11528	11667	.	.	11666	11667	O	None	None	None
-2185	PMC2396486.nxml.gz	PMC2396486.nxml.gz_75	11668	11836	Although	IN	11668	11676	B	anomaly_curious_finding_2021_10_13_Instance_3	None	None
+2185	PMC2396486.nxml.gz	PMC2396486.nxml.gz_75	11668	11836	Although	IN	11668	11676	B	anomaly_curious_finding_2021_10_19_Instance_3	None	None
 2186	PMC2396486.nxml.gz	PMC2396486.nxml.gz_75	11668	11836	many	JJ	11677	11681	O	None	None	None
 2187	PMC2396486.nxml.gz	PMC2396486.nxml.gz_75	11668	11836	proteins	NNS	11682	11690	O	None	None	None
 2188	PMC2396486.nxml.gz	PMC2396486.nxml.gz_75	11668	11836	were	VBD	11691	11695	O	None	None	None
@@ -3202,9 +3202,9 @@
 3200	PMC2396486.nxml.gz	PMC2396486.nxml.gz_93	16762	17123	),	VBD	16914	16916	O	None	None	None
 3201	PMC2396486.nxml.gz	PMC2396486.nxml.gz_93	16762	17123	that	DT	16917	16921	O	None	None	None
 3202	PMC2396486.nxml.gz	PMC2396486.nxml.gz_93	16762	17123	was	VBD	16922	16925	O	None	None	None
-3203	PMC2396486.nxml.gz	PMC2396486.nxml.gz_93	16762	17123	found	VBN	16926	16931	B	anomaly_curious_finding_2021_10_13_Instance_4	None	None
-3204	PMC2396486.nxml.gz	PMC2396486.nxml.gz_93	16762	17123	to	TO	16932	16934	I	anomaly_curious_finding_2021_10_13_Instance_4	None	None
-3205	PMC2396486.nxml.gz	PMC2396486.nxml.gz_93	16762	17123	be	VB	16935	16937	I	anomaly_curious_finding_2021_10_13_Instance_4	None	None
+3203	PMC2396486.nxml.gz	PMC2396486.nxml.gz_93	16762	17123	found	VBN	16926	16931	B	anomaly_curious_finding_2021_10_19_Instance_4	None	None
+3204	PMC2396486.nxml.gz	PMC2396486.nxml.gz_93	16762	17123	to	TO	16932	16934	I	anomaly_curious_finding_2021_10_19_Instance_4	None	None
+3205	PMC2396486.nxml.gz	PMC2396486.nxml.gz_93	16762	17123	be	VB	16935	16937	I	anomaly_curious_finding_2021_10_19_Instance_4	None	None
 3206	PMC2396486.nxml.gz	PMC2396486.nxml.gz_93	16762	17123	significantly	RB	16938	16951	O	None	None	None
 3207	PMC2396486.nxml.gz	PMC2396486.nxml.gz_93	16762	17123	down	RP	16952	16956	O	None	None	None
 3208	PMC2396486.nxml.gz	PMC2396486.nxml.gz_93	16762	17123	-	:	16956	16957	O	None	None	None
@@ -3657,7 +3657,7 @@
 3655	PMC2396486.nxml.gz	PMC2396486.nxml.gz_108	19375	19482	deficient	NN	19468	19477	O	None	None	None
 3656	PMC2396486.nxml.gz	PMC2396486.nxml.gz_108	19375	19482	rat	NN	19478	19481	O	None	None	None
 3657	PMC2396486.nxml.gz	PMC2396486.nxml.gz_108	19375	19482	.	.	19481	19482	O	None	None	None
-3658	PMC2396486.nxml.gz	PMC2396486.nxml.gz_109	19483	19620	Curiously	RB	19483	19492	B	anomaly_curious_finding_2021_10_13_Instance_5	None	None
+3658	PMC2396486.nxml.gz	PMC2396486.nxml.gz_109	19483	19620	Curiously	RB	19483	19492	B	anomaly_curious_finding_2021_10_19_Instance_5	None	None
 3659	PMC2396486.nxml.gz	PMC2396486.nxml.gz_109	19483	19620	,	,	19492	19493	O	None	None	None
 3660	PMC2396486.nxml.gz	PMC2396486.nxml.gz_109	19483	19620	it	PRP	19494	19496	O	None	None	None
 3661	PMC2396486.nxml.gz	PMC2396486.nxml.gz_109	19483	19620	has	VBZ	19497	19500	O	None	None	None
@@ -3902,7 +3902,7 @@
 3900	PMC2396486.nxml.gz	PMC2396486.nxml.gz_116	20827	20930	],[	$	20923	20926	O	None	None	None
 3901	PMC2396486.nxml.gz	PMC2396486.nxml.gz_116	20827	20930	40	CD	20926	20928	O	None	None	None
 3902	PMC2396486.nxml.gz	PMC2396486.nxml.gz_116	20827	20930	].	NN	20928	20930	O	None	None	None
-3903	PMC2396486.nxml.gz	PMC2396486.nxml.gz_117	20931	21153	Curiously	RB	20931	20940	B	anomaly_curious_finding_2021_10_13_Instance_6	None	None
+3903	PMC2396486.nxml.gz	PMC2396486.nxml.gz_117	20931	21153	Curiously	RB	20931	20940	B	anomaly_curious_finding_2021_10_19_Instance_6	None	None
 3904	PMC2396486.nxml.gz	PMC2396486.nxml.gz_117	20931	21153	,	,	20940	20941	O	None	None	None
 3905	PMC2396486.nxml.gz	PMC2396486.nxml.gz_117	20931	21153	it	PRP	20942	20944	O	None	None	None
 3906	PMC2396486.nxml.gz	PMC2396486.nxml.gz_117	20931	21153	has	VBZ	20945	20948	O	None	None	None
@@ -4155,7 +4155,7 @@
 4153	PMC2396486.nxml.gz	PMC2396486.nxml.gz_123	22224	22358	cortical	JJ	22342	22350	O	None	None	None
 4154	PMC2396486.nxml.gz	PMC2396486.nxml.gz_123	22224	22358	inputs	NNS	22351	22357	O	None	None	None
 4155	PMC2396486.nxml.gz	PMC2396486.nxml.gz_123	22224	22358	.	.	22357	22358	O	None	None	None
-4156	PMC2396486.nxml.gz	PMC2396486.nxml.gz_124	22359	22491	Disappointingly	RB	22359	22374	B	anomaly_curious_finding_2021_10_13_Instance_7	None	None
+4156	PMC2396486.nxml.gz	PMC2396486.nxml.gz_124	22359	22491	Disappointingly	RB	22359	22374	B	anomaly_curious_finding_2021_10_19_Instance_7	None	None
 4157	PMC2396486.nxml.gz	PMC2396486.nxml.gz_124	22359	22491	,	,	22374	22375	O	None	None	None
 4158	PMC2396486.nxml.gz	PMC2396486.nxml.gz_124	22359	22491	we	PRP	22376	22378	O	None	None	None
 4159	PMC2396486.nxml.gz	PMC2396486.nxml.gz_124	22359	22491	found	VBD	22379	22384	O	None	None	None
@@ -4298,7 +4298,7 @@
 4296	PMC2396486.nxml.gz	PMC2396486.nxml.gz_129	23158	23350	have	VBP	23174	23178	O	None	None	None
 4297	PMC2396486.nxml.gz	PMC2396486.nxml.gz_129	23158	23350	shown	VBN	23179	23184	O	None	None	None
 4298	PMC2396486.nxml.gz	PMC2396486.nxml.gz_129	23158	23350	that	IN	23185	23189	O	None	None	None
-4299	PMC2396486.nxml.gz	PMC2396486.nxml.gz_129	23158	23350	while	IN	23190	23195	B	anomaly_curious_finding_2021_10_13_Instance_8	None	None
+4299	PMC2396486.nxml.gz	PMC2396486.nxml.gz_129	23158	23350	while	IN	23190	23195	B	anomaly_curious_finding_2021_10_19_Instance_8	None	None
 4300	PMC2396486.nxml.gz	PMC2396486.nxml.gz_129	23158	23350	habituated	VBN	23196	23206	O	None	None	None
 4301	PMC2396486.nxml.gz	PMC2396486.nxml.gz_129	23158	23350	DVD	NNP	23207	23210	O	None	None	None
 4302	PMC2396486.nxml.gz	PMC2396486.nxml.gz_129	23158	23350	rats	NNS	23211	23215	O	None	None	None

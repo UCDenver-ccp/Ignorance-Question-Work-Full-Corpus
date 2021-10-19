@@ -21,14 +21,14 @@
 19	PMC3272870.nxml.gz	PMC3272870.nxml.gz_0	0	175	malignancy	NN	120	130	O	None	None	None
 20	PMC3272870.nxml.gz	PMC3272870.nxml.gz_0	0	175	,	,	130	131	O	None	None	None
 21	PMC3272870.nxml.gz	PMC3272870.nxml.gz_0	0	175	is	VBZ	132	134	O	None	None	None
-22	PMC3272870.nxml.gz	PMC3272870.nxml.gz_0	0	175	often	RB	135	140	B	probable_understanding_2021_10_13_Instance_55	None	None
+22	PMC3272870.nxml.gz	PMC3272870.nxml.gz_0	0	175	often	RB	135	140	B	probable_understanding_2021_10_19_Instance_55	None	None
 23	PMC3272870.nxml.gz	PMC3272870.nxml.gz_0	0	175	detected	VBN	141	149	O	None	None	None
 24	PMC3272870.nxml.gz	PMC3272870.nxml.gz_0	0	175	in	IN	150	152	O	None	None	None
 25	PMC3272870.nxml.gz	PMC3272870.nxml.gz_0	0	175	young	JJ	153	158	O	None	None	None
 26	PMC3272870.nxml.gz	PMC3272870.nxml.gz_0	0	175	female	NN	159	165	O	None	None	None
 27	PMC3272870.nxml.gz	PMC3272870.nxml.gz_0	0	175	patients	NNS	166	174	O	None	None	None
 28	PMC3272870.nxml.gz	PMC3272870.nxml.gz_0	0	175	.	.	174	175	O	None	None	None
-29	PMC3272870.nxml.gz	PMC3272870.nxml.gz_1	176	380	Therefore	RB	176	185	B	probable_understanding_2021_10_13_Instance_56	None	None
+29	PMC3272870.nxml.gz	PMC3272870.nxml.gz_1	176	380	Therefore	RB	176	185	B	probable_understanding_2021_10_19_Instance_56	None	None
 30	PMC3272870.nxml.gz	PMC3272870.nxml.gz_1	176	380	,	,	185	186	O	None	None	None
 31	PMC3272870.nxml.gz	PMC3272870.nxml.gz_1	176	380	pregnancy	NN	187	196	O	None	None	None
 32	PMC3272870.nxml.gz	PMC3272870.nxml.gz_1	176	380	following	VBG	197	206	O	None	None	None
@@ -72,7 +72,7 @@
 70	PMC3272870.nxml.gz	PMC3272870.nxml.gz_2	381	625	in	IN	417	419	O	None	None	None
 71	PMC3272870.nxml.gz	PMC3272870.nxml.gz_2	381	625	young	JJ	420	425	O	None	None	None
 72	PMC3272870.nxml.gz	PMC3272870.nxml.gz_2	381	625	people	NNS	426	432	O	None	None	None
-73	PMC3272870.nxml.gz	PMC3272870.nxml.gz_2	381	625	generally	RB	433	442	B	probable_understanding_2021_10_13_Instance_57	None	None
+73	PMC3272870.nxml.gz	PMC3272870.nxml.gz_2	381	625	generally	RB	433	442	B	probable_understanding_2021_10_19_Instance_57	None	None
 74	PMC3272870.nxml.gz	PMC3272870.nxml.gz_2	381	625	has	VBZ	443	446	O	None	None	None
 75	PMC3272870.nxml.gz	PMC3272870.nxml.gz_2	381	625	an	DT	447	449	O	None	None	None
 76	PMC3272870.nxml.gz	PMC3272870.nxml.gz_2	381	625	excellent	JJ	450	459	O	None	None	None
@@ -287,7 +287,7 @@
 285	PMC3272870.nxml.gz	PMC3272870.nxml.gz_6	1668	2002	,	,	1682	1683	O	None	None	None
 286	PMC3272870.nxml.gz	PMC3272870.nxml.gz_6	1668	2002	the	DT	1684	1687	O	None	None	None
 287	PMC3272870.nxml.gz	PMC3272870.nxml.gz_6	1668	2002	authors	NNS	1688	1695	O	None	None	None
-288	PMC3272870.nxml.gz	PMC3272870.nxml.gz_6	1668	2002	underline	VBP	1696	1705	B	probable_understanding_2021_10_13_Instance_58	None	None
+288	PMC3272870.nxml.gz	PMC3272870.nxml.gz_6	1668	2002	underline	VBP	1696	1705	B	probable_understanding_2021_10_19_Instance_58	None	None
 289	PMC3272870.nxml.gz	PMC3272870.nxml.gz_6	1668	2002	that	IN	1706	1710	O	None	None	None
 290	PMC3272870.nxml.gz	PMC3272870.nxml.gz_6	1668	2002	regular	JJ	1711	1718	O	None	None	None
 291	PMC3272870.nxml.gz	PMC3272870.nxml.gz_6	1668	2002	adjustment	NN	1719	1729	O	None	None	None
@@ -381,8 +381,8 @@
 379	PMC3272870.nxml.gz	PMC3272870.nxml.gz_8	2150	2221	populations	NNS	2209	2220	O	None	None	None
 380	PMC3272870.nxml.gz	PMC3272870.nxml.gz_8	2150	2221	.	.	2220	2221	O	None	None	None
 381	PMC3272870.nxml.gz	PMC3272870.nxml.gz_9	2222	2344	For	IN	2222	2225	O	None	None	None
-382	PMC3272870.nxml.gz	PMC3272870.nxml.gz_9	2222	2344	these	DT	2226	2231	I	probable_understanding_2021_10_13_Instance_59	None	None
-383	PMC3272870.nxml.gz	PMC3272870.nxml.gz_9	2222	2344	reasons	NNS	2232	2239	B	probable_understanding_2021_10_13_Instance_60	None	None
+382	PMC3272870.nxml.gz	PMC3272870.nxml.gz_9	2222	2344	these	DT	2226	2231	I	probable_understanding_2021_10_19_Instance_59	None	None
+383	PMC3272870.nxml.gz	PMC3272870.nxml.gz_9	2222	2344	reasons	NNS	2232	2239	B	probable_understanding_2021_10_19_Instance_60	None	None
 384	PMC3272870.nxml.gz	PMC3272870.nxml.gz_9	2222	2344	,	,	2239	2240	O	None	None	None
 385	PMC3272870.nxml.gz	PMC3272870.nxml.gz_9	2222	2344	differentiated	VBN	2241	2255	O	None	None	None
 386	PMC3272870.nxml.gz	PMC3272870.nxml.gz_9	2222	2344	thyroid	NN	2256	2263	O	None	None	None
@@ -404,7 +404,7 @@
 402	PMC3272870.nxml.gz	PMC3272870.nxml.gz_9	2222	2344	reproductive	JJ	2327	2339	O	None	None	None
 403	PMC3272870.nxml.gz	PMC3272870.nxml.gz_9	2222	2344	age	NN	2340	2343	O	None	None	None
 404	PMC3272870.nxml.gz	PMC3272870.nxml.gz_9	2222	2344	.	.	2343	2344	O	None	None	None
-405	PMC3272870.nxml.gz	PMC3272870.nxml.gz_10	2345	2505	Hence	NNP	2345	2350	B	probable_understanding_2021_10_13_Instance_61	None	None
+405	PMC3272870.nxml.gz	PMC3272870.nxml.gz_10	2345	2505	Hence	NNP	2345	2350	B	probable_understanding_2021_10_19_Instance_61	None	None
 406	PMC3272870.nxml.gz	PMC3272870.nxml.gz_10	2345	2505	,	,	2350	2351	O	None	None	None
 407	PMC3272870.nxml.gz	PMC3272870.nxml.gz_10	2345	2505	thyroid	JJ	2352	2359	O	None	None	None
 408	PMC3272870.nxml.gz	PMC3272870.nxml.gz_10	2345	2505	cancer	NN	2360	2366	O	None	None	None
@@ -440,7 +440,7 @@
 438	PMC3272870.nxml.gz	PMC3272870.nxml.gz_10	2345	2505	-	:	2502	2503	O	None	None	None
 439	PMC3272870.nxml.gz	PMC3272870.nxml.gz_10	2345	2505	4	CD	2503	2504	O	None	None	None
 440	PMC3272870.nxml.gz	PMC3272870.nxml.gz_10	2345	2505	.	.	2504	2505	O	None	None	None
-441	PMC3272870.nxml.gz	PMC3272870.nxml.gz_11	2506	2705	Therefore	RB	2506	2515	B	probable_understanding_2021_10_13_Instance_62	None	None
+441	PMC3272870.nxml.gz	PMC3272870.nxml.gz_11	2506	2705	Therefore	RB	2506	2515	B	probable_understanding_2021_10_19_Instance_62	None	None
 442	PMC3272870.nxml.gz	PMC3272870.nxml.gz_11	2506	2705	,	,	2515	2516	O	None	None	None
 443	PMC3272870.nxml.gz	PMC3272870.nxml.gz_11	2506	2705	pregnancy	NN	2517	2526	O	None	None	None
 444	PMC3272870.nxml.gz	PMC3272870.nxml.gz_11	2506	2705	in	IN	2527	2529	O	None	None	None
@@ -484,7 +484,7 @@
 482	PMC3272870.nxml.gz	PMC3272870.nxml.gz_12	2706	2839	growth	NN	2742	2748	O	None	None	None
 483	PMC3272870.nxml.gz	PMC3272870.nxml.gz_12	2706	2839	factors	NNS	2749	2756	O	None	None	None
 484	PMC3272870.nxml.gz	PMC3272870.nxml.gz_12	2706	2839	(	(	2757	2758	O	None	None	None
-485	PMC3272870.nxml.gz	PMC3272870.nxml.gz_12	2706	2839	mainly	RB	2758	2764	B	probable_understanding_2021_10_13_Instance_63	None	None
+485	PMC3272870.nxml.gz	PMC3272870.nxml.gz_12	2706	2839	mainly	RB	2758	2764	B	probable_understanding_2021_10_19_Instance_63	None	None
 486	PMC3272870.nxml.gz	PMC3272870.nxml.gz_12	2706	2839	TSH	NNP	2765	2768	O	None	None	None
 487	PMC3272870.nxml.gz	PMC3272870.nxml.gz_12	2706	2839	,	,	2768	2769	O	None	None	None
 488	PMC3272870.nxml.gz	PMC3272870.nxml.gz_12	2706	2839	but	CC	2770	2773	O	None	None	None
@@ -557,7 +557,7 @@
 555	PMC3272870.nxml.gz	PMC3272870.nxml.gz_14	3114	3446	hormones	NNS	3157	3165	O	None	None	None
 556	PMC3272870.nxml.gz	PMC3272870.nxml.gz_14	3114	3446	and	CC	3166	3169	O	None	None	None
 557	PMC3272870.nxml.gz	PMC3272870.nxml.gz_14	3114	3446	,	,	3169	3170	O	None	None	None
-558	PMC3272870.nxml.gz	PMC3272870.nxml.gz_14	3114	3446	therefore	RB	3171	3180	B	probable_understanding_2021_10_13_Instance_64	None	None
+558	PMC3272870.nxml.gz	PMC3272870.nxml.gz_14	3114	3446	therefore	RB	3171	3180	B	probable_understanding_2021_10_19_Instance_64	None	None
 559	PMC3272870.nxml.gz	PMC3272870.nxml.gz_14	3114	3446	,	,	3180	3181	O	None	None	None
 560	PMC3272870.nxml.gz	PMC3272870.nxml.gz_14	3114	3446	menstrual	JJ	3182	3191	O	None	None	None
 561	PMC3272870.nxml.gz	PMC3272870.nxml.gz_14	3114	3446	and	CC	3192	3195	O	None	None	None
@@ -649,7 +649,7 @@
 647	PMC3272870.nxml.gz	PMC3272870.nxml.gz_17	3667	3897	young	JJ	3694	3699	O	None	None	None
 648	PMC3272870.nxml.gz	PMC3272870.nxml.gz_17	3667	3897	people	NNS	3700	3706	O	None	None	None
 649	PMC3272870.nxml.gz	PMC3272870.nxml.gz_17	3667	3897	has	VBZ	3707	3710	O	None	None	None
-650	PMC3272870.nxml.gz	PMC3272870.nxml.gz_17	3667	3897	generally	RB	3711	3720	B	probable_understanding_2021_10_13_Instance_65	None	None
+650	PMC3272870.nxml.gz	PMC3272870.nxml.gz_17	3667	3897	generally	RB	3711	3720	B	probable_understanding_2021_10_19_Instance_65	None	None
 651	PMC3272870.nxml.gz	PMC3272870.nxml.gz_17	3667	3897	an	DT	3721	3723	O	None	None	None
 652	PMC3272870.nxml.gz	PMC3272870.nxml.gz_17	3667	3897	excellent	JJ	3724	3733	O	None	None	None
 653	PMC3272870.nxml.gz	PMC3272870.nxml.gz_17	3667	3897	prognosis	NN	3734	3743	O	None	None	None
@@ -720,7 +720,7 @@
 718	PMC3272870.nxml.gz	PMC3272870.nxml.gz_19	4019	4131	is	VBZ	4090	4092	O	None	None	None
 719	PMC3272870.nxml.gz	PMC3272870.nxml.gz_19	4019	4131	static	JJ	4093	4099	O	None	None	None
 720	PMC3272870.nxml.gz	PMC3272870.nxml.gz_19	4019	4131	,	,	4099	4100	O	None	None	None
-721	PMC3272870.nxml.gz	PMC3272870.nxml.gz_19	4019	4131	mainly	RB	4101	4107	B	probable_understanding_2021_10_13_Instance_66	None	None
+721	PMC3272870.nxml.gz	PMC3272870.nxml.gz_19	4019	4131	mainly	RB	4101	4107	B	probable_understanding_2021_10_19_Instance_66	None	None
 722	PMC3272870.nxml.gz	PMC3272870.nxml.gz_19	4019	4131	in	IN	4108	4110	O	None	None	None
 723	PMC3272870.nxml.gz	PMC3272870.nxml.gz_19	4019	4131	the	DT	4111	4114	O	None	None	None
 724	PMC3272870.nxml.gz	PMC3272870.nxml.gz_19	4019	4131	first	JJ	4115	4120	O	None	None	None
@@ -731,12 +731,12 @@
 729	PMC3272870.nxml.gz	PMC3272870.nxml.gz_20	4132	4268	thyroid	JJ	4141	4148	O	None	None	None
 730	PMC3272870.nxml.gz	PMC3272870.nxml.gz_20	4132	4268	cancer	NN	4149	4155	O	None	None	None
 731	PMC3272870.nxml.gz	PMC3272870.nxml.gz_20	4132	4268	patients	NNS	4156	4164	O	None	None	None
-732	PMC3272870.nxml.gz	PMC3272870.nxml.gz_20	4132	4268	often	RB	4165	4170	B	probable_understanding_2021_10_13_Instance_67	None	None
+732	PMC3272870.nxml.gz	PMC3272870.nxml.gz_20	4132	4268	often	RB	4165	4170	B	probable_understanding_2021_10_19_Instance_67	None	None
 733	PMC3272870.nxml.gz	PMC3272870.nxml.gz_20	4132	4268	undergo	JJ	4171	4178	O	None	None	None
 734	PMC3272870.nxml.gz	PMC3272870.nxml.gz_20	4132	4268	total	JJ	4179	4184	O	None	None	None
 735	PMC3272870.nxml.gz	PMC3272870.nxml.gz_20	4132	4268	thyroidectomy	NN	4185	4198	O	None	None	None
 736	PMC3272870.nxml.gz	PMC3272870.nxml.gz_20	4132	4268	and	CC	4199	4202	O	None	None	None
-737	PMC3272870.nxml.gz	PMC3272870.nxml.gz_20	4132	4268	thus	RB	4203	4207	B	probable_understanding_2021_10_13_Instance_68	None	None
+737	PMC3272870.nxml.gz	PMC3272870.nxml.gz_20	4132	4268	thus	RB	4203	4207	B	probable_understanding_2021_10_19_Instance_68	None	None
 738	PMC3272870.nxml.gz	PMC3272870.nxml.gz_20	4132	4268	need	VB	4208	4212	O	None	None	None
 739	PMC3272870.nxml.gz	PMC3272870.nxml.gz_20	4132	4268	adequate	JJ	4213	4221	O	None	None	None
 740	PMC3272870.nxml.gz	PMC3272870.nxml.gz_20	4132	4268	supplementation	NN	4222	4237	O	None	None	None
@@ -746,7 +746,7 @@
 744	PMC3272870.nxml.gz	PMC3272870.nxml.gz_20	4132	4268	and	CC	4254	4257	O	None	None	None
 745	PMC3272870.nxml.gz	PMC3272870.nxml.gz_20	4132	4268	thyroxine	NN	4258	4267	O	None	None	None
 746	PMC3272870.nxml.gz	PMC3272870.nxml.gz_20	4132	4268	.	.	4267	4268	O	None	None	None
-747	PMC3272870.nxml.gz	PMC3272870.nxml.gz_21	4269	4349	Thus	RB	4269	4273	B	probable_understanding_2021_10_13_Instance_69	None	None
+747	PMC3272870.nxml.gz	PMC3272870.nxml.gz_21	4269	4349	Thus	RB	4269	4273	B	probable_understanding_2021_10_19_Instance_69	None	None
 748	PMC3272870.nxml.gz	PMC3272870.nxml.gz_21	4269	4349	,	,	4273	4274	O	None	None	None
 749	PMC3272870.nxml.gz	PMC3272870.nxml.gz_21	4269	4349	pregnancy	NN	4275	4284	O	None	None	None
 750	PMC3272870.nxml.gz	PMC3272870.nxml.gz_21	4269	4349	following	VBG	4285	4294	O	None	None	None
@@ -1029,8 +1029,8 @@
 1027	PMC3272870.nxml.gz	PMC3272870.nxml.gz_29	5865	6056	undergoes	NNS	5915	5924	O	None	None	None
 1028	PMC3272870.nxml.gz	PMC3272870.nxml.gz_29	5865	6056	many	JJ	5925	5929	O	None	None	None
 1029	PMC3272870.nxml.gz	PMC3272870.nxml.gz_29	5865	6056	well	RB	5930	5934	O	None	None	None
-1030	PMC3272870.nxml.gz	PMC3272870.nxml.gz_29	5865	6056	-	:	5934	5935	I	probable_understanding_2021_10_13_Instance_70	None	None
-1031	PMC3272870.nxml.gz	PMC3272870.nxml.gz_29	5865	6056	defined	VBN	5935	5942	I	probable_understanding_2021_10_13_Instance_70	None	None
+1030	PMC3272870.nxml.gz	PMC3272870.nxml.gz_29	5865	6056	-	:	5934	5935	I	probable_understanding_2021_10_19_Instance_70	None	None
+1031	PMC3272870.nxml.gz	PMC3272870.nxml.gz_29	5865	6056	defined	VBN	5935	5942	I	probable_understanding_2021_10_19_Instance_70	None	None
 1032	PMC3272870.nxml.gz	PMC3272870.nxml.gz_29	5865	6056	changes	NNS	5943	5950	O	None	None	None
 1033	PMC3272870.nxml.gz	PMC3272870.nxml.gz_29	5865	6056	,	,	5950	5951	O	None	None	None
 1034	PMC3272870.nxml.gz	PMC3272870.nxml.gz_29	5865	6056	leading	VBG	5952	5959	O	None	None	None
@@ -1042,7 +1042,7 @@
 1040	PMC3272870.nxml.gz	PMC3272870.nxml.gz_29	5865	6056	volume	NN	5986	5992	O	None	None	None
 1041	PMC3272870.nxml.gz	PMC3272870.nxml.gz_29	5865	6056	which	WDT	5993	5998	O	None	None	None
 1042	PMC3272870.nxml.gz	PMC3272870.nxml.gz_29	5865	6056	is	VBZ	5999	6001	O	None	None	None
-1043	PMC3272870.nxml.gz	PMC3272870.nxml.gz_29	5865	6056	often	RB	6002	6007	B	probable_understanding_2021_10_13_Instance_71	None	None
+1043	PMC3272870.nxml.gz	PMC3272870.nxml.gz_29	5865	6056	often	RB	6002	6007	B	probable_understanding_2021_10_19_Instance_71	None	None
 1044	PMC3272870.nxml.gz	PMC3272870.nxml.gz_29	5865	6056	associated	VBN	6008	6018	O	None	None	None
 1045	PMC3272870.nxml.gz	PMC3272870.nxml.gz_29	5865	6056	with	IN	6019	6023	O	None	None	None
 1046	PMC3272870.nxml.gz	PMC3272870.nxml.gz_29	5865	6056	higher	JJR	6024	6030	O	None	None	None
@@ -1128,7 +1128,7 @@
 1126	PMC3272870.nxml.gz	PMC3272870.nxml.gz_32	6396	6530	thyroxine	NN	6479	6488	O	None	None	None
 1127	PMC3272870.nxml.gz	PMC3272870.nxml.gz_32	6396	6530	pool	NN	6489	6493	O	None	None	None
 1128	PMC3272870.nxml.gz	PMC3272870.nxml.gz_32	6396	6530	,	,	6493	6494	O	None	None	None
-1129	PMC3272870.nxml.gz	PMC3272870.nxml.gz_32	6396	6530	mainly	RB	6495	6501	B	probable_understanding_2021_10_13_Instance_72	None	None
+1129	PMC3272870.nxml.gz	PMC3272870.nxml.gz_32	6396	6530	mainly	RB	6495	6501	B	probable_understanding_2021_10_19_Instance_72	None	None
 1130	PMC3272870.nxml.gz	PMC3272870.nxml.gz_32	6396	6530	in	IN	6502	6504	O	None	None	None
 1131	PMC3272870.nxml.gz	PMC3272870.nxml.gz_32	6396	6530	the	DT	6505	6508	O	None	None	None
 1132	PMC3272870.nxml.gz	PMC3272870.nxml.gz_32	6396	6530	first	JJ	6509	6514	O	None	None	None
@@ -1203,7 +1203,7 @@
 1201	PMC3272870.nxml.gz	PMC3272870.nxml.gz_35	6899	6996	The	DT	6899	6902	O	None	None	None
 1202	PMC3272870.nxml.gz	PMC3272870.nxml.gz_35	6899	6996	TSH	NNP	6903	6906	O	None	None	None
 1203	PMC3272870.nxml.gz	PMC3272870.nxml.gz_35	6899	6996	concentration	NN	6907	6920	O	None	None	None
-1204	PMC3272870.nxml.gz	PMC3272870.nxml.gz_35	6899	6996	generally	RB	6921	6930	B	probable_understanding_2021_10_13_Instance_73	None	None
+1204	PMC3272870.nxml.gz	PMC3272870.nxml.gz_35	6899	6996	generally	RB	6921	6930	B	probable_understanding_2021_10_19_Instance_73	None	None
 1205	PMC3272870.nxml.gz	PMC3272870.nxml.gz_35	6899	6996	lies	VBZ	6931	6935	O	None	None	None
 1206	PMC3272870.nxml.gz	PMC3272870.nxml.gz_35	6899	6996	within	IN	6936	6942	O	None	None	None
 1207	PMC3272870.nxml.gz	PMC3272870.nxml.gz_35	6899	6996	the	DT	6943	6946	O	None	None	None
@@ -1328,9 +1328,9 @@
 1326	PMC3272870.nxml.gz	PMC3272870.nxml.gz_38	7361	8039	volume	NN	7613	7619	O	None	None	None
 1327	PMC3272870.nxml.gz	PMC3272870.nxml.gz_38	7361	8039	Besides	IN	7620	7627	O	None	None	None
 1328	PMC3272870.nxml.gz	PMC3272870.nxml.gz_38	7361	8039	the	DT	7628	7631	O	None	None	None
-1329	PMC3272870.nxml.gz	PMC3272870.nxml.gz_38	7361	8039	well	NN	7632	7636	B	probable_understanding_2021_10_13_Instance_74	None	None
-1330	PMC3272870.nxml.gz	PMC3272870.nxml.gz_38	7361	8039	-	:	7636	7637	I	probable_understanding_2021_10_13_Instance_74	None	None
-1331	PMC3272870.nxml.gz	PMC3272870.nxml.gz_38	7361	8039	known	VBN	7637	7642	I	probable_understanding_2021_10_13_Instance_74	None	None
+1329	PMC3272870.nxml.gz	PMC3272870.nxml.gz_38	7361	8039	well	NN	7632	7636	B	probable_understanding_2021_10_19_Instance_74	None	None
+1330	PMC3272870.nxml.gz	PMC3272870.nxml.gz_38	7361	8039	-	:	7636	7637	I	probable_understanding_2021_10_19_Instance_74	None	None
+1331	PMC3272870.nxml.gz	PMC3272870.nxml.gz_38	7361	8039	known	VBN	7637	7642	I	probable_understanding_2021_10_19_Instance_74	None	None
 1332	PMC3272870.nxml.gz	PMC3272870.nxml.gz_38	7361	8039	association	NN	7643	7654	O	None	None	None
 1333	PMC3272870.nxml.gz	PMC3272870.nxml.gz_38	7361	8039	between	IN	7655	7662	O	None	None	None
 1334	PMC3272870.nxml.gz	PMC3272870.nxml.gz_38	7361	8039	gestational	JJ	7663	7674	O	None	None	None
@@ -1400,7 +1400,7 @@
 1398	PMC3272870.nxml.gz	PMC3272870.nxml.gz_39	8040	8134	of	IN	8120	8122	O	None	None	None
 1399	PMC3272870.nxml.gz	PMC3272870.nxml.gz_39	8040	8134	recurrence	NN	8123	8133	O	None	None	None
 1400	PMC3272870.nxml.gz	PMC3272870.nxml.gz_39	8040	8134	.	.	8133	8134	O	None	None	None
-1401	PMC3272870.nxml.gz	PMC3272870.nxml.gz_40	8135	8321	Thus	RB	8135	8139	B	probable_understanding_2021_10_13_Instance_75	None	None
+1401	PMC3272870.nxml.gz	PMC3272870.nxml.gz_40	8135	8321	Thus	RB	8135	8139	B	probable_understanding_2021_10_19_Instance_75	None	None
 1402	PMC3272870.nxml.gz	PMC3272870.nxml.gz_40	8135	8321	,	,	8139	8140	O	None	None	None
 1403	PMC3272870.nxml.gz	PMC3272870.nxml.gz_40	8135	8321	hypothyroidism	NN	8141	8155	O	None	None	None
 1404	PMC3272870.nxml.gz	PMC3272870.nxml.gz_40	8135	8321	must	MD	8156	8160	O	None	None	None
@@ -1419,7 +1419,7 @@
 1417	PMC3272870.nxml.gz	PMC3272870.nxml.gz_40	8135	8321	patients	NNS	8235	8243	O	None	None	None
 1418	PMC3272870.nxml.gz	PMC3272870.nxml.gz_40	8135	8321	,	,	8243	8244	O	None	None	None
 1419	PMC3272870.nxml.gz	PMC3272870.nxml.gz_40	8135	8321	and	CC	8245	8248	O	None	None	None
-1420	PMC3272870.nxml.gz	PMC3272870.nxml.gz_40	8135	8321	therefore	RB	8249	8258	B	probable_understanding_2021_10_13_Instance_76	None	None
+1420	PMC3272870.nxml.gz	PMC3272870.nxml.gz_40	8135	8321	therefore	RB	8249	8258	B	probable_understanding_2021_10_19_Instance_76	None	None
 1421	PMC3272870.nxml.gz	PMC3272870.nxml.gz_40	8135	8321	correct	JJ	8259	8266	O	None	None	None
 1422	PMC3272870.nxml.gz	PMC3272870.nxml.gz_40	8135	8321	supplementation	NN	8267	8282	O	None	None	None
 1423	PMC3272870.nxml.gz	PMC3272870.nxml.gz_40	8135	8321	of	IN	8283	8285	O	None	None	None
@@ -1436,7 +1436,7 @@
 1434	PMC3272870.nxml.gz	PMC3272870.nxml.gz_41	8323	8549	pregnancy	NN	8352	8361	O	None	None	None
 1435	PMC3272870.nxml.gz	PMC3272870.nxml.gz_41	8323	8549	Thyroidectomised	VBN	8362	8378	O	None	None	None
 1436	PMC3272870.nxml.gz	PMC3272870.nxml.gz_41	8323	8549	patients	NNS	8379	8387	O	None	None	None
-1437	PMC3272870.nxml.gz	PMC3272870.nxml.gz_41	8323	8549	often	RB	8388	8393	B	probable_understanding_2021_10_13_Instance_77	None	None
+1437	PMC3272870.nxml.gz	PMC3272870.nxml.gz_41	8323	8549	often	RB	8388	8393	B	probable_understanding_2021_10_19_Instance_77	None	None
 1438	PMC3272870.nxml.gz	PMC3272870.nxml.gz_41	8323	8549	need	VBP	8394	8398	O	None	None	None
 1439	PMC3272870.nxml.gz	PMC3272870.nxml.gz_41	8323	8549	calcium	NNS	8399	8406	O	None	None	None
 1440	PMC3272870.nxml.gz	PMC3272870.nxml.gz_41	8323	8549	and	CC	8407	8410	O	None	None	None
@@ -1547,7 +1547,7 @@
 1545	PMC3272870.nxml.gz	PMC3272870.nxml.gz_45	9009	9251	vitamin	NN	9114	9121	O	None	None	None
 1546	PMC3272870.nxml.gz	PMC3272870.nxml.gz_45	9009	9251	D	NNP	9122	9123	O	None	None	None
 1547	PMC3272870.nxml.gz	PMC3272870.nxml.gz_45	9009	9251	is	VBZ	9124	9126	O	None	None	None
-1548	PMC3272870.nxml.gz	PMC3272870.nxml.gz_45	9009	9251	undoubtedly	RB	9127	9138	B	probable_understanding_2021_10_13_Instance_78	None	None
+1548	PMC3272870.nxml.gz	PMC3272870.nxml.gz_45	9009	9251	undoubtedly	RB	9127	9138	B	probable_understanding_2021_10_19_Instance_78	None	None
 1549	PMC3272870.nxml.gz	PMC3272870.nxml.gz_45	9009	9251	important	JJ	9139	9148	O	None	None	None
 1550	PMC3272870.nxml.gz	PMC3272870.nxml.gz_45	9009	9251	for	IN	9149	9152	O	None	None	None
 1551	PMC3272870.nxml.gz	PMC3272870.nxml.gz_45	9009	9251	foetal	JJ	9153	9159	O	None	None	None
@@ -1717,7 +1717,7 @@
 1715	PMC3272870.nxml.gz	PMC3272870.nxml.gz_49	9784	10009	calcium	NN	9917	9924	O	None	None	None
 1716	PMC3272870.nxml.gz	PMC3272870.nxml.gz_49	9784	10009	excretion	NN	9925	9934	O	None	None	None
 1717	PMC3272870.nxml.gz	PMC3272870.nxml.gz_49	9784	10009	,	,	9934	9935	O	None	None	None
-1718	PMC3272870.nxml.gz	PMC3272870.nxml.gz_49	9784	10009	thus	RB	9936	9940	B	probable_understanding_2021_10_13_Instance_79	None	None
+1718	PMC3272870.nxml.gz	PMC3272870.nxml.gz_49	9784	10009	thus	RB	9936	9940	B	probable_understanding_2021_10_19_Instance_79	None	None
 1719	PMC3272870.nxml.gz	PMC3272870.nxml.gz_49	9784	10009	increasing	VBG	9941	9951	O	None	None	None
 1720	PMC3272870.nxml.gz	PMC3272870.nxml.gz_49	9784	10009	the	DT	9952	9955	O	None	None	None
 1721	PMC3272870.nxml.gz	PMC3272870.nxml.gz_49	9784	10009	pool	NN	9956	9960	O	None	None	None
@@ -1772,7 +1772,7 @@
 1770	PMC3272870.nxml.gz	PMC3272870.nxml.gz_51	10248	10423	Vitamin	NNP	10248	10255	O	None	None	None
 1771	PMC3272870.nxml.gz	PMC3272870.nxml.gz_51	10248	10423	D	NNP	10256	10257	O	None	None	None
 1772	PMC3272870.nxml.gz	PMC3272870.nxml.gz_51	10248	10423	is	VBZ	10258	10260	O	None	None	None
-1773	PMC3272870.nxml.gz	PMC3272870.nxml.gz_51	10248	10423	likely	JJ	10261	10267	B	probable_understanding_2021_10_13_Instance_80	None	None
+1773	PMC3272870.nxml.gz	PMC3272870.nxml.gz_51	10248	10423	likely	JJ	10261	10267	B	probable_understanding_2021_10_19_Instance_80	None	None
 1774	PMC3272870.nxml.gz	PMC3272870.nxml.gz_51	10248	10423	safe	JJ	10268	10272	O	None	None	None
 1775	PMC3272870.nxml.gz	PMC3272870.nxml.gz_51	10248	10423	during	IN	10273	10279	O	None	None	None
 1776	PMC3272870.nxml.gz	PMC3272870.nxml.gz_51	10248	10423	pregnancy	NN	10280	10289	O	None	None	None
@@ -1827,7 +1827,7 @@
 1825	PMC3272870.nxml.gz	PMC3272870.nxml.gz_53	10472	10695	not	RB	10524	10527	O	None	None	None
 1826	PMC3272870.nxml.gz	PMC3272870.nxml.gz_53	10472	10695	recommended	VBN	10528	10539	O	None	None	None
 1827	PMC3272870.nxml.gz	PMC3272870.nxml.gz_53	10472	10695	,	,	10539	10540	O	None	None	None
-1828	PMC3272870.nxml.gz	PMC3272870.nxml.gz_53	10472	10695	thus	RB	10541	10545	B	probable_understanding_2021_10_13_Instance_81	None	None
+1828	PMC3272870.nxml.gz	PMC3272870.nxml.gz_53	10472	10695	thus	RB	10541	10545	B	probable_understanding_2021_10_19_Instance_81	None	None
 1829	PMC3272870.nxml.gz	PMC3272870.nxml.gz_53	10472	10695	the	DT	10546	10549	O	None	None	None
 1830	PMC3272870.nxml.gz	PMC3272870.nxml.gz_53	10472	10695	treatment	NN	10550	10559	O	None	None	None
 1831	PMC3272870.nxml.gz	PMC3272870.nxml.gz_53	10472	10695	of	IN	10560	10562	O	None	None	None
@@ -1921,7 +1921,7 @@
 1919	PMC3272870.nxml.gz	PMC3272870.nxml.gz_56	10922	11068	mental	JJ	11049	11055	O	None	None	None
 1920	PMC3272870.nxml.gz	PMC3272870.nxml.gz_56	10922	11068	retardation	NN	11056	11067	O	None	None	None
 1921	PMC3272870.nxml.gz	PMC3272870.nxml.gz_56	10922	11068	.	.	11067	11068	O	None	None	None
-1922	PMC3272870.nxml.gz	PMC3272870.nxml.gz_57	11069	11242	Thus	RB	11069	11073	B	probable_understanding_2021_10_13_Instance_82	None	None
+1922	PMC3272870.nxml.gz	PMC3272870.nxml.gz_57	11069	11242	Thus	RB	11069	11073	B	probable_understanding_2021_10_19_Instance_82	None	None
 1923	PMC3272870.nxml.gz	PMC3272870.nxml.gz_57	11069	11242	doses	NNS	11074	11079	O	None	None	None
 1924	PMC3272870.nxml.gz	PMC3272870.nxml.gz_57	11069	11242	of	IN	11080	11082	O	None	None	None
 1925	PMC3272870.nxml.gz	PMC3272870.nxml.gz_57	11069	11242	D	NNP	11083	11084	O	None	None	None
@@ -2048,7 +2048,7 @@
 2046	PMC3272870.nxml.gz	PMC3272870.nxml.gz_61	11679	12001	follicular	JJ	11737	11747	O	None	None	None
 2047	PMC3272870.nxml.gz	PMC3272870.nxml.gz_61	11679	12001	thyroid	NN	11748	11755	O	None	None	None
 2048	PMC3272870.nxml.gz	PMC3272870.nxml.gz_61	11679	12001	cells	NNS	11756	11761	O	None	None	None
-2049	PMC3272870.nxml.gz	PMC3272870.nxml.gz_61	11679	12001	Mostly	RB	11762	11768	B	probable_understanding_2021_10_13_Instance_83	None	None
+2049	PMC3272870.nxml.gz	PMC3272870.nxml.gz_61	11679	12001	Mostly	RB	11762	11768	B	probable_understanding_2021_10_19_Instance_83	None	None
 2050	PMC3272870.nxml.gz	PMC3272870.nxml.gz_61	11679	12001	diagnosed	VBN	11769	11778	O	None	None	None
 2051	PMC3272870.nxml.gz	PMC3272870.nxml.gz_61	11679	12001	in	IN	11779	11781	O	None	None	None
 2052	PMC3272870.nxml.gz	PMC3272870.nxml.gz_61	11679	12001	young	JJ	11782	11787	O	None	None	None
@@ -2083,10 +2083,10 @@
 2081	PMC3272870.nxml.gz	PMC3272870.nxml.gz_61	11679	12001	tumours	NNS	11912	11919	O	None	None	None
 2082	PMC3272870.nxml.gz	PMC3272870.nxml.gz_61	11679	12001	,	,	11919	11920	O	None	None	None
 2083	PMC3272870.nxml.gz	PMC3272870.nxml.gz_61	11679	12001	which	WDT	11921	11926	O	None	None	None
-2084	PMC3272870.nxml.gz	PMC3272870.nxml.gz_61	11679	12001	represent	VBP	11927	11936	B	probable_understanding_2021_10_13_Instance_84	None	None
+2084	PMC3272870.nxml.gz	PMC3272870.nxml.gz_61	11679	12001	represent	VBP	11927	11936	B	probable_understanding_2021_10_19_Instance_84	None	None
 2085	PMC3272870.nxml.gz	PMC3272870.nxml.gz_61	11679	12001	the	DT	11937	11940	O	None	None	None
 2086	PMC3272870.nxml.gz	PMC3272870.nxml.gz_61	11679	12001	vast	JJ	11941	11945	O	None	None	None
-2087	PMC3272870.nxml.gz	PMC3272870.nxml.gz_61	11679	12001	majority	NN	11946	11954	B	probable_understanding_2021_10_13_Instance_85	None	None
+2087	PMC3272870.nxml.gz	PMC3272870.nxml.gz_61	11679	12001	majority	NN	11946	11954	B	probable_understanding_2021_10_19_Instance_85	None	None
 2088	PMC3272870.nxml.gz	PMC3272870.nxml.gz_61	11679	12001	of	IN	11955	11957	O	None	None	None
 2089	PMC3272870.nxml.gz	PMC3272870.nxml.gz_61	11679	12001	tumours	NNS	11958	11965	O	None	None	None
 2090	PMC3272870.nxml.gz	PMC3272870.nxml.gz_61	11679	12001	diagnosed	VBN	11966	11975	O	None	None	None
@@ -2180,7 +2180,7 @@
 2178	PMC3272870.nxml.gz	PMC3272870.nxml.gz_64	12377	13018	carcinoma	NN	12444	12453	O	None	None	None
 2179	PMC3272870.nxml.gz	PMC3272870.nxml.gz_64	12377	13018	may	MD	12454	12457	O	None	None	None
 2180	PMC3272870.nxml.gz	PMC3272870.nxml.gz_64	12377	13018	provide	VB	12458	12465	O	None	None	None
-2181	PMC3272870.nxml.gz	PMC3272870.nxml.gz_64	12377	13018	convincing	VBG	12466	12476	B	probable_understanding_2021_10_13_Instance_86	None	None
+2181	PMC3272870.nxml.gz	PMC3272870.nxml.gz_64	12377	13018	convincing	VBG	12466	12476	B	probable_understanding_2021_10_19_Instance_86	None	None
 2182	PMC3272870.nxml.gz	PMC3272870.nxml.gz_64	12377	13018	proof	NN	12477	12482	O	None	None	None
 2183	PMC3272870.nxml.gz	PMC3272870.nxml.gz_64	12377	13018	of	IN	12483	12485	O	None	None	None
 2184	PMC3272870.nxml.gz	PMC3272870.nxml.gz_64	12377	13018	the	DT	12486	12489	O	None	None	None
@@ -2231,7 +2231,7 @@
 2229	PMC3272870.nxml.gz	PMC3272870.nxml.gz_64	12377	13018	which	WDT	12782	12787	O	None	None	None
 2230	PMC3272870.nxml.gz	PMC3272870.nxml.gz_64	12377	13018	can	MD	12788	12791	O	None	None	None
 2231	PMC3272870.nxml.gz	PMC3272870.nxml.gz_64	12377	13018	possibly	RB	12792	12800	O	None	None	None
-2232	PMC3272870.nxml.gz	PMC3272870.nxml.gz_64	12377	13018	explain	VB	12801	12808	B	probable_understanding_2021_10_13_Instance_87	None	None
+2232	PMC3272870.nxml.gz	PMC3272870.nxml.gz_64	12377	13018	explain	VB	12801	12808	B	probable_understanding_2021_10_19_Instance_87	None	None
 2233	PMC3272870.nxml.gz	PMC3272870.nxml.gz_64	12377	13018	other	JJ	12809	12814	O	None	None	None
 2234	PMC3272870.nxml.gz	PMC3272870.nxml.gz_64	12377	13018	""""""""""	NNP	12815	12816	O	None	None	None
 2235	PMC3272870.nxml.gz	PMC3272870.nxml.gz_64	12377	13018	non	SYM	12816	12819	O	None	None	None
@@ -2288,7 +2288,7 @@
 2286	PMC3272870.nxml.gz	PMC3272870.nxml.gz_65	13019	13162	carcinogenesis	NN	13089	13103	O	None	None	None
 2287	PMC3272870.nxml.gz	PMC3272870.nxml.gz_65	13019	13162	)	)	13103	13104	O	None	None	None
 2288	PMC3272870.nxml.gz	PMC3272870.nxml.gz_65	13019	13162	could	MD	13105	13110	O	None	None	None
-2289	PMC3272870.nxml.gz	PMC3272870.nxml.gz_65	13019	13162	explain	VB	13111	13118	B	probable_understanding_2021_10_13_Instance_88	None	None
+2289	PMC3272870.nxml.gz	PMC3272870.nxml.gz_65	13019	13162	explain	VB	13111	13118	B	probable_understanding_2021_10_19_Instance_88	None	None
 2290	PMC3272870.nxml.gz	PMC3272870.nxml.gz_65	13019	13162	some	DT	13119	13123	O	None	None	None
 2291	PMC3272870.nxml.gz	PMC3272870.nxml.gz_65	13019	13162	cases	NNS	13124	13129	O	None	None	None
 2292	PMC3272870.nxml.gz	PMC3272870.nxml.gz_65	13019	13162	of	IN	13130	13132	O	None	None	None
@@ -2333,8 +2333,8 @@
 2331	PMC3272870.nxml.gz	PMC3272870.nxml.gz_67	13368	13451	best	JJS	13372	13376	O	None	None	None
 2332	PMC3272870.nxml.gz	PMC3272870.nxml.gz_67	13368	13451	treatment	NN	13377	13386	O	None	None	None
 2333	PMC3272870.nxml.gz	PMC3272870.nxml.gz_67	13368	13451	for	IN	13387	13390	O	None	None	None
-2334	PMC3272870.nxml.gz	PMC3272870.nxml.gz_67	13368	13451	nearly	RB	13391	13397	B	probable_understanding_2021_10_13_Instance_89	None	None
-2335	PMC3272870.nxml.gz	PMC3272870.nxml.gz_67	13368	13451	all	DT	13398	13401	I	probable_understanding_2021_10_13_Instance_89	None	None
+2334	PMC3272870.nxml.gz	PMC3272870.nxml.gz_67	13368	13451	nearly	RB	13391	13397	B	probable_understanding_2021_10_19_Instance_89	None	None
+2335	PMC3272870.nxml.gz	PMC3272870.nxml.gz_67	13368	13451	all	DT	13398	13401	I	probable_understanding_2021_10_19_Instance_89	None	None
 2336	PMC3272870.nxml.gz	PMC3272870.nxml.gz_67	13368	13451	identified	VBN	13402	13412	O	None	None	None
 2337	PMC3272870.nxml.gz	PMC3272870.nxml.gz_67	13368	13451	malignant	JJ	13413	13422	O	None	None	None
 2338	PMC3272870.nxml.gz	PMC3272870.nxml.gz_67	13368	13451	thyroid	NN	13423	13430	O	None	None	None
@@ -2391,7 +2391,7 @@
 2389	PMC3272870.nxml.gz	PMC3272870.nxml.gz_70	13657	13753	is	VBZ	13740	13742	O	None	None	None
 2390	PMC3272870.nxml.gz	PMC3272870.nxml.gz_70	13657	13753	performed	VBN	13743	13752	O	None	None	None
 2391	PMC3272870.nxml.gz	PMC3272870.nxml.gz_70	13657	13753	.	.	13752	13753	O	None	None	None
-2392	PMC3272870.nxml.gz	PMC3272870.nxml.gz_71	13754	14010	As	IN	13754	13756	B	probable_understanding_2021_10_13_Instance_90	None	None
+2392	PMC3272870.nxml.gz	PMC3272870.nxml.gz_71	13754	14010	As	IN	13754	13756	B	probable_understanding_2021_10_19_Instance_90	None	None
 2393	PMC3272870.nxml.gz	PMC3272870.nxml.gz_71	13754	14010	nodal	JJ	13757	13762	O	None	None	None
 2394	PMC3272870.nxml.gz	PMC3272870.nxml.gz_71	13754	14010	spread	NN	13763	13769	O	None	None	None
 2395	PMC3272870.nxml.gz	PMC3272870.nxml.gz_71	13754	14010	is	VBZ	13770	13772	O	None	None	None
@@ -2542,8 +2542,8 @@
 2540	PMC3272870.nxml.gz	PMC3272870.nxml.gz_75	14611	14866	,	,	14650	14651	O	None	None	None
 2541	PMC3272870.nxml.gz	PMC3272870.nxml.gz_75	14611	14866	the	DT	14652	14655	O	None	None	None
 2542	PMC3272870.nxml.gz	PMC3272870.nxml.gz_75	14611	14866	second	JJ	14656	14662	O	None	None	None
-2543	PMC3272870.nxml.gz	PMC3272870.nxml.gz_75	14611	14866	most	RBS	14663	14667	B	probable_understanding_2021_10_13_Instance_91	None	None
-2544	PMC3272870.nxml.gz	PMC3272870.nxml.gz_75	14611	14866	frequently	RB	14668	14678	B	probable_understanding_2021_10_13_Instance_92	None	None
+2543	PMC3272870.nxml.gz	PMC3272870.nxml.gz_75	14611	14866	most	RBS	14663	14667	B	probable_understanding_2021_10_19_Instance_91	None	None
+2544	PMC3272870.nxml.gz	PMC3272870.nxml.gz_75	14611	14866	frequently	RB	14668	14678	B	probable_understanding_2021_10_19_Instance_92	None	None
 2545	PMC3272870.nxml.gz	PMC3272870.nxml.gz_75	14611	14866	used	VBN	14679	14683	O	None	None	None
 2546	PMC3272870.nxml.gz	PMC3272870.nxml.gz_75	14611	14866	post	NN	14684	14688	O	None	None	None
 2547	PMC3272870.nxml.gz	PMC3272870.nxml.gz_75	14611	14866	-	:	14688	14689	O	None	None	None
@@ -2582,7 +2582,7 @@
 2580	PMC3272870.nxml.gz	PMC3272870.nxml.gz_76	14867	15192	adjunctive	JJ	14872	14882	O	None	None	None
 2581	PMC3272870.nxml.gz	PMC3272870.nxml.gz_76	14867	15192	therapy	NN	14883	14890	O	None	None	None
 2582	PMC3272870.nxml.gz	PMC3272870.nxml.gz_76	14867	15192	is	VBZ	14891	14893	O	None	None	None
-2583	PMC3272870.nxml.gz	PMC3272870.nxml.gz_76	14867	15192	supposed	VBN	14894	14902	B	probable_understanding_2021_10_13_Instance_93	None	None
+2583	PMC3272870.nxml.gz	PMC3272870.nxml.gz_76	14867	15192	supposed	VBN	14894	14902	B	probable_understanding_2021_10_19_Instance_93	None	None
 2584	PMC3272870.nxml.gz	PMC3272870.nxml.gz_76	14867	15192	to	TO	14903	14905	O	None	None	None
 2585	PMC3272870.nxml.gz	PMC3272870.nxml.gz_76	14867	15192	destroy	VB	14906	14913	O	None	None	None
 2586	PMC3272870.nxml.gz	PMC3272870.nxml.gz_76	14867	15192	occult	NN	14914	14920	O	None	None	None
@@ -2610,7 +2610,7 @@
 2608	PMC3272870.nxml.gz	PMC3272870.nxml.gz_76	14867	15192	follow	JJ	15061	15067	O	None	None	None
 2609	PMC3272870.nxml.gz	PMC3272870.nxml.gz_76	14867	15192	-	:	15067	15068	O	None	None	None
 2610	PMC3272870.nxml.gz	PMC3272870.nxml.gz_76	14867	15192	up	RB	15068	15070	O	None	None	None
-2611	PMC3272870.nxml.gz	PMC3272870.nxml.gz_76	14867	15192	because	IN	15071	15078	B	probable_understanding_2021_10_13_Instance_94	None	None
+2611	PMC3272870.nxml.gz	PMC3272870.nxml.gz_76	14867	15192	because	IN	15071	15078	B	probable_understanding_2021_10_19_Instance_94	None	None
 2612	PMC3272870.nxml.gz	PMC3272870.nxml.gz_76	14867	15192	serum	NN	15079	15084	O	None	None	None
 2613	PMC3272870.nxml.gz	PMC3272870.nxml.gz_76	14867	15192	thyroglobulin	NN	15085	15098	O	None	None	None
 2614	PMC3272870.nxml.gz	PMC3272870.nxml.gz_76	14867	15192	(	(	15099	15100	O	None	None	None
@@ -2724,8 +2724,8 @@
 2722	PMC3272870.nxml.gz	PMC3272870.nxml.gz_79	15404	15682	persistence	NN	15670	15681	O	None	None	None
 2723	PMC3272870.nxml.gz	PMC3272870.nxml.gz_79	15404	15682	.	.	15681	15682	O	None	None	None
 2724	PMC3272870.nxml.gz	PMC3272870.nxml.gz_80	15683	15971	In	IN	15683	15685	O	None	None	None
-2725	PMC3272870.nxml.gz	PMC3272870.nxml.gz_80	15683	15971	our	PRP$	15686	15689	I	probable_understanding_2021_10_13_Instance_95	None	None
-2726	PMC3272870.nxml.gz	PMC3272870.nxml.gz_80	15683	15971	experience	NN	15690	15700	I	probable_understanding_2021_10_13_Instance_95	None	None
+2725	PMC3272870.nxml.gz	PMC3272870.nxml.gz_80	15683	15971	our	PRP$	15686	15689	I	probable_understanding_2021_10_19_Instance_95	None	None
+2726	PMC3272870.nxml.gz	PMC3272870.nxml.gz_80	15683	15971	experience	NN	15690	15700	I	probable_understanding_2021_10_19_Instance_95	None	None
 2727	PMC3272870.nxml.gz	PMC3272870.nxml.gz_80	15683	15971	,	,	15700	15701	O	None	None	None
 2728	PMC3272870.nxml.gz	PMC3272870.nxml.gz_80	15683	15971	the	DT	15702	15705	O	None	None	None
 2729	PMC3272870.nxml.gz	PMC3272870.nxml.gz_80	15683	15971	best	JJS	15706	15710	O	None	None	None
@@ -2833,7 +2833,7 @@
 2831	PMC3272870.nxml.gz	PMC3272870.nxml.gz_82	16001	16326	geographic	JJ	16268	16278	O	None	None	None
 2832	PMC3272870.nxml.gz	PMC3272870.nxml.gz_82	16001	16326	variations	NNS	16279	16289	O	None	None	None
 2833	PMC3272870.nxml.gz	PMC3272870.nxml.gz_82	16001	16326	,	,	16289	16290	O	None	None	None
-2834	PMC3272870.nxml.gz	PMC3272870.nxml.gz_82	16001	16326	mainly	RB	16291	16297	B	probable_understanding_2021_10_13_Instance_96	None	None
+2834	PMC3272870.nxml.gz	PMC3272870.nxml.gz_82	16001	16326	mainly	RB	16291	16297	B	probable_understanding_2021_10_19_Instance_96	None	None
 2835	PMC3272870.nxml.gz	PMC3272870.nxml.gz_82	16001	16326	due	JJ	16298	16301	O	None	None	None
 2836	PMC3272870.nxml.gz	PMC3272870.nxml.gz_82	16001	16326	to	TO	16302	16304	O	None	None	None
 2837	PMC3272870.nxml.gz	PMC3272870.nxml.gz_82	16001	16326	its	PRP$	16305	16308	O	None	None	None
@@ -2883,8 +2883,8 @@
 2881	PMC3272870.nxml.gz	PMC3272870.nxml.gz_83	16327	16557	.	.	16556	16557	O	None	None	None
 2882	PMC3272870.nxml.gz	PMC3272870.nxml.gz_84	16558	16603	Familial	JJ	16558	16566	O	None	None	None
 2883	PMC3272870.nxml.gz	PMC3272870.nxml.gz_84	16558	16603	cases	NNS	16567	16572	O	None	None	None
-2884	PMC3272870.nxml.gz	PMC3272870.nxml.gz_84	16558	16603	account	VBP	16573	16580	B	probable_understanding_2021_10_13_Instance_97	None	None
-2885	PMC3272870.nxml.gz	PMC3272870.nxml.gz_84	16558	16603	for	IN	16581	16584	I	probable_understanding_2021_10_13_Instance_97	None	None
+2884	PMC3272870.nxml.gz	PMC3272870.nxml.gz_84	16558	16603	account	VBP	16573	16580	B	probable_understanding_2021_10_19_Instance_97	None	None
+2885	PMC3272870.nxml.gz	PMC3272870.nxml.gz_84	16558	16603	for	IN	16581	16584	I	probable_understanding_2021_10_19_Instance_97	None	None
 2886	PMC3272870.nxml.gz	PMC3272870.nxml.gz_84	16558	16603	about	RB	16585	16590	O	None	None	None
 2887	PMC3272870.nxml.gz	PMC3272870.nxml.gz_84	16558	16603	30	CD	16591	16593	O	None	None	None
 2888	PMC3272870.nxml.gz	PMC3272870.nxml.gz_84	16558	16603	%	NN	16593	16594	O	None	None	None
@@ -2924,7 +2924,7 @@
 2922	PMC3272870.nxml.gz	PMC3272870.nxml.gz_86	16751	16847	should	MD	16776	16782	O	None	None	None
 2923	PMC3272870.nxml.gz	PMC3272870.nxml.gz_86	16751	16847	always	RB	16783	16789	O	None	None	None
 2924	PMC3272870.nxml.gz	PMC3272870.nxml.gz_86	16751	16847	be	VB	16790	16792	O	None	None	None
-2925	PMC3272870.nxml.gz	PMC3272870.nxml.gz_86	16751	16847	suspected	VBN	16793	16802	B	probable_understanding_2021_10_13_Instance_98	None	None
+2925	PMC3272870.nxml.gz	PMC3272870.nxml.gz_86	16751	16847	suspected	VBN	16793	16802	B	probable_understanding_2021_10_19_Instance_98	None	None
 2926	PMC3272870.nxml.gz	PMC3272870.nxml.gz_86	16751	16847	of	IN	16803	16805	O	None	None	None
 2927	PMC3272870.nxml.gz	PMC3272870.nxml.gz_86	16751	16847	carrying	VBG	16806	16814	O	None	None	None
 2928	PMC3272870.nxml.gz	PMC3272870.nxml.gz_86	16751	16847	the	DT	16815	16818	O	None	None	None
@@ -2970,9 +2970,9 @@
 2968	PMC3272870.nxml.gz	PMC3272870.nxml.gz_88	16998	17117	,	,	17063	17064	O	None	None	None
 2969	PMC3272870.nxml.gz	PMC3272870.nxml.gz_88	16998	17117	this	DT	17065	17069	O	None	None	None
 2970	PMC3272870.nxml.gz	PMC3272870.nxml.gz_88	16998	17117	tumour	NN	17070	17076	O	None	None	None
-2971	PMC3272870.nxml.gz	PMC3272870.nxml.gz_88	16998	17117	represents	VBZ	17077	17087	B	probable_understanding_2021_10_13_Instance_99	None	None
+2971	PMC3272870.nxml.gz	PMC3272870.nxml.gz_88	16998	17117	represents	VBZ	17077	17087	B	probable_understanding_2021_10_19_Instance_99	None	None
 2972	PMC3272870.nxml.gz	PMC3272870.nxml.gz_88	16998	17117	a	DT	17088	17089	O	None	None	None
-2973	PMC3272870.nxml.gz	PMC3272870.nxml.gz_88	16998	17117	true	JJ	17090	17094	B	probable_understanding_2021_10_13_Instance_100	None	None
+2973	PMC3272870.nxml.gz	PMC3272870.nxml.gz_88	16998	17117	true	JJ	17090	17094	B	probable_understanding_2021_10_19_Instance_100	None	None
 2974	PMC3272870.nxml.gz	PMC3272870.nxml.gz_88	16998	17117	therapeutic	JJ	17095	17106	O	None	None	None
 2975	PMC3272870.nxml.gz	PMC3272870.nxml.gz_88	16998	17117	challenge	NN	17107	17116	O	None	None	None
 2976	PMC3272870.nxml.gz	PMC3272870.nxml.gz_88	16998	17117	.	.	17116	17117	O	None	None	None
@@ -3026,7 +3026,7 @@
 3024	PMC3272870.nxml.gz	PMC3272870.nxml.gz_91	17325	17477	crest	NN	17381	17386	O	None	None	None
 3025	PMC3272870.nxml.gz	PMC3272870.nxml.gz_91	17325	17477	origin	NN	17387	17393	O	None	None	None
 3026	PMC3272870.nxml.gz	PMC3272870.nxml.gz_91	17325	17477	,	,	17393	17394	O	None	None	None
-3027	PMC3272870.nxml.gz	PMC3272870.nxml.gz_91	17325	17477	thus	RB	17395	17399	B	probable_understanding_2021_10_13_Instance_101	None	None
+3027	PMC3272870.nxml.gz	PMC3272870.nxml.gz_91	17325	17477	thus	RB	17395	17399	B	probable_understanding_2021_10_19_Instance_101	None	None
 3028	PMC3272870.nxml.gz	PMC3272870.nxml.gz_91	17325	17477	having	VBG	17400	17406	O	None	None	None
 3029	PMC3272870.nxml.gz	PMC3272870.nxml.gz_91	17325	17477	a	DT	17407	17408	O	None	None	None
 3030	PMC3272870.nxml.gz	PMC3272870.nxml.gz_91	17325	17477	separate	JJ	17409	17417	O	None	None	None
@@ -3040,9 +3040,9 @@
 3038	PMC3272870.nxml.gz	PMC3272870.nxml.gz_91	17325	17477	thyroid	NN	17463	17470	O	None	None	None
 3039	PMC3272870.nxml.gz	PMC3272870.nxml.gz_91	17325	17477	cells	NNS	17471	17476	O	None	None	None
 3040	PMC3272870.nxml.gz	PMC3272870.nxml.gz_91	17325	17477	.	.	17476	17477	O	None	None	None
-3041	PMC3272870.nxml.gz	PMC3272870.nxml.gz_92	17478	17890	For	IN	17478	17481	B	probable_understanding_2021_10_13_Instance_102	None	None
-3042	PMC3272870.nxml.gz	PMC3272870.nxml.gz_92	17478	17890	this	DT	17482	17486	I	probable_understanding_2021_10_13_Instance_102	None	None
-3043	PMC3272870.nxml.gz	PMC3272870.nxml.gz_92	17478	17890	reason	NN	17487	17493	I	probable_understanding_2021_10_13_Instance_102	None	None
+3041	PMC3272870.nxml.gz	PMC3272870.nxml.gz_92	17478	17890	For	IN	17478	17481	B	probable_understanding_2021_10_19_Instance_102	None	None
+3042	PMC3272870.nxml.gz	PMC3272870.nxml.gz_92	17478	17890	this	DT	17482	17486	I	probable_understanding_2021_10_19_Instance_102	None	None
+3043	PMC3272870.nxml.gz	PMC3272870.nxml.gz_92	17478	17890	reason	NN	17487	17493	I	probable_understanding_2021_10_19_Instance_102	None	None
 3044	PMC3272870.nxml.gz	PMC3272870.nxml.gz_92	17478	17890	,	,	17493	17494	O	None	None	None
 3045	PMC3272870.nxml.gz	PMC3272870.nxml.gz_92	17478	17890	in	IN	17495	17497	O	None	None	None
 3046	PMC3272870.nxml.gz	PMC3272870.nxml.gz_92	17478	17890	addition	NN	17498	17506	O	None	None	None
@@ -3203,7 +3203,7 @@
 3201	PMC3272870.nxml.gz	PMC3272870.nxml.gz_95	18313	18471	reduce	VB	18389	18395	O	None	None	None
 3202	PMC3272870.nxml.gz	PMC3272870.nxml.gz_95	18313	18471	recurrences	NNS	18396	18407	O	None	None	None
 3203	PMC3272870.nxml.gz	PMC3272870.nxml.gz_95	18313	18471	,	,	18407	18408	O	None	None	None
-3204	PMC3272870.nxml.gz	PMC3272870.nxml.gz_95	18313	18471	mostly	RB	18409	18415	B	probable_understanding_2021_10_13_Instance_103	None	None
+3204	PMC3272870.nxml.gz	PMC3272870.nxml.gz_95	18313	18471	mostly	RB	18409	18415	B	probable_understanding_2021_10_19_Instance_103	None	None
 3205	PMC3272870.nxml.gz	PMC3272870.nxml.gz_95	18313	18471	in	IN	18416	18418	O	None	None	None
 3206	PMC3272870.nxml.gz	PMC3272870.nxml.gz_95	18313	18471	the	DT	18419	18422	O	None	None	None
 3207	PMC3272870.nxml.gz	PMC3272870.nxml.gz_95	18313	18471	MEN	NNP	18423	18426	O	None	None	None
@@ -3301,7 +3301,7 @@
 3299	PMC3272870.nxml.gz	PMC3272870.nxml.gz_98	18891	18983	solid	JJ	18943	18948	O	None	None	None
 3300	PMC3272870.nxml.gz	PMC3272870.nxml.gz_98	18891	18983	masses	NNS	18949	18955	O	None	None	None
 3301	PMC3272870.nxml.gz	PMC3272870.nxml.gz_98	18891	18983	,	,	18955	18956	O	None	None	None
-3302	PMC3272870.nxml.gz	PMC3272870.nxml.gz_98	18891	18983	often	RB	18957	18962	B	probable_understanding_2021_10_13_Instance_104	None	None
+3302	PMC3272870.nxml.gz	PMC3272870.nxml.gz_98	18891	18983	often	RB	18957	18962	B	probable_understanding_2021_10_19_Instance_104	None	None
 3303	PMC3272870.nxml.gz	PMC3272870.nxml.gz_98	18891	18983	with	IN	18963	18967	O	None	None	None
 3304	PMC3272870.nxml.gz	PMC3272870.nxml.gz_98	18891	18983	calcifications	NNS	18968	18982	O	None	None	None
 3305	PMC3272870.nxml.gz	PMC3272870.nxml.gz_98	18891	18983	.	.	18982	18983	O	None	None	None
@@ -3359,7 +3359,7 @@
 3357	PMC3272870.nxml.gz	PMC3272870.nxml.gz_101	19237	19374	for	IN	19273	19276	O	None	None	None
 3358	PMC3272870.nxml.gz	PMC3272870.nxml.gz_101	19237	19374	recurrence	NN	19277	19287	O	None	None	None
 3359	PMC3272870.nxml.gz	PMC3272870.nxml.gz_101	19237	19374	can	MD	19288	19291	O	None	None	None
-3360	PMC3272870.nxml.gz	PMC3272870.nxml.gz_101	19237	19374	therefore	RB	19292	19301	B	probable_understanding_2021_10_13_Instance_105	None	None
+3360	PMC3272870.nxml.gz	PMC3272870.nxml.gz_101	19237	19374	therefore	RB	19292	19301	B	probable_understanding_2021_10_19_Instance_105	None	None
 3361	PMC3272870.nxml.gz	PMC3272870.nxml.gz_101	19237	19374	be	VB	19302	19304	O	None	None	None
 3362	PMC3272870.nxml.gz	PMC3272870.nxml.gz_101	19237	19374	performed	VBN	19305	19314	O	None	None	None
 3363	PMC3272870.nxml.gz	PMC3272870.nxml.gz_101	19237	19374	by	IN	19315	19317	O	None	None	None
@@ -3443,7 +3443,7 @@
 3441	PMC3272870.nxml.gz	PMC3272870.nxml.gz_105	19778	19923	MTC	NNP	19787	19790	O	None	None	None
 3442	PMC3272870.nxml.gz	PMC3272870.nxml.gz_105	19778	19923	tumours	NNS	19791	19798	O	None	None	None
 3443	PMC3272870.nxml.gz	PMC3272870.nxml.gz_105	19778	19923	are	VBP	19799	19802	O	None	None	None
-3444	PMC3272870.nxml.gz	PMC3272870.nxml.gz_105	19778	19923	often	RB	19803	19808	B	probable_understanding_2021_10_13_Instance_106	None	None
+3444	PMC3272870.nxml.gz	PMC3272870.nxml.gz_105	19778	19923	often	RB	19803	19808	B	probable_understanding_2021_10_19_Instance_106	None	None
 3445	PMC3272870.nxml.gz	PMC3272870.nxml.gz_105	19778	19923	monolateral	JJ	19809	19820	O	None	None	None
 3446	PMC3272870.nxml.gz	PMC3272870.nxml.gz_105	19778	19923	with	IN	19821	19825	O	None	None	None
 3447	PMC3272870.nxml.gz	PMC3272870.nxml.gz_105	19778	19923	a	DT	19826	19827	O	None	None	None
@@ -3454,17 +3454,17 @@
 3452	PMC3272870.nxml.gz	PMC3272870.nxml.gz_105	19778	19923	familial	JJ	19855	19863	O	None	None	None
 3453	PMC3272870.nxml.gz	PMC3272870.nxml.gz_105	19778	19923	forms	NNS	19864	19869	O	None	None	None
 3454	PMC3272870.nxml.gz	PMC3272870.nxml.gz_105	19778	19923	are	VBP	19870	19873	O	None	None	None
-3455	PMC3272870.nxml.gz	PMC3272870.nxml.gz_105	19778	19923	mostly	RB	19874	19880	B	probable_understanding_2021_10_13_Instance_107	None	None
+3455	PMC3272870.nxml.gz	PMC3272870.nxml.gz_105	19778	19923	mostly	RB	19874	19880	B	probable_understanding_2021_10_19_Instance_107	None	None
 3456	PMC3272870.nxml.gz	PMC3272870.nxml.gz_105	19778	19923	bilateral	JJ	19881	19890	O	None	None	None
 3457	PMC3272870.nxml.gz	PMC3272870.nxml.gz_105	19778	19923	and	CC	19891	19894	O	None	None	None
-3458	PMC3272870.nxml.gz	PMC3272870.nxml.gz_105	19778	19923	often	RB	19895	19900	B	probable_understanding_2021_10_13_Instance_108	None	None
+3458	PMC3272870.nxml.gz	PMC3272870.nxml.gz_105	19778	19923	often	RB	19895	19900	B	probable_understanding_2021_10_19_Instance_108	None	None
 3459	PMC3272870.nxml.gz	PMC3272870.nxml.gz_105	19778	19923	multifocal	JJ	19901	19911	O	None	None	None
 3460	PMC3272870.nxml.gz	PMC3272870.nxml.gz_105	19778	19923	or	CC	19912	19914	O	None	None	None
 3461	PMC3272870.nxml.gz	PMC3272870.nxml.gz_105	19778	19923	diffuse	NN	19915	19922	O	None	None	None
 3462	PMC3272870.nxml.gz	PMC3272870.nxml.gz_105	19778	19923	.	.	19922	19923	O	None	None	None
 3463	PMC3272870.nxml.gz	PMC3272870.nxml.gz_106	19924	20009	For	IN	19924	19927	O	None	None	None
 3464	PMC3272870.nxml.gz	PMC3272870.nxml.gz_106	19924	20009	these	DT	19928	19933	O	None	None	None
-3465	PMC3272870.nxml.gz	PMC3272870.nxml.gz_106	19924	20009	reasons	NNS	19934	19941	B	probable_understanding_2021_10_13_Instance_109	None	None
+3465	PMC3272870.nxml.gz	PMC3272870.nxml.gz_106	19924	20009	reasons	NNS	19934	19941	B	probable_understanding_2021_10_19_Instance_109	None	None
 3466	PMC3272870.nxml.gz	PMC3272870.nxml.gz_106	19924	20009	,	,	19941	19942	O	None	None	None
 3467	PMC3272870.nxml.gz	PMC3272870.nxml.gz_106	19924	20009	total	JJ	19943	19948	O	None	None	None
 3468	PMC3272870.nxml.gz	PMC3272870.nxml.gz_106	19924	20009	thyroidectomy	NN	19949	19962	O	None	None	None
@@ -3528,7 +3528,7 @@
 3526	PMC3272870.nxml.gz	PMC3272870.nxml.gz_108	20173	20381	prophylactic	JJ	20282	20294	O	None	None	None
 3527	PMC3272870.nxml.gz	PMC3272870.nxml.gz_108	20173	20381	node	NN	20295	20299	O	None	None	None
 3528	PMC3272870.nxml.gz	PMC3272870.nxml.gz_108	20173	20381	dissection	NN	20300	20310	O	None	None	None
-3529	PMC3272870.nxml.gz	PMC3272870.nxml.gz_108	20173	20381	because	IN	20311	20318	B	probable_understanding_2021_10_13_Instance_110	None	None
+3529	PMC3272870.nxml.gz	PMC3272870.nxml.gz_108	20173	20381	because	IN	20311	20318	B	probable_understanding_2021_10_19_Instance_110	None	None
 3530	PMC3272870.nxml.gz	PMC3272870.nxml.gz_108	20173	20381	MTC	NNP	20319	20322	O	None	None	None
 3531	PMC3272870.nxml.gz	PMC3272870.nxml.gz_108	20173	20381	metastasize	NN	20323	20334	O	None	None	None
 3532	PMC3272870.nxml.gz	PMC3272870.nxml.gz_108	20173	20381	in	IN	20335	20337	O	None	None	None
@@ -3564,10 +3564,10 @@
 3562	PMC3272870.nxml.gz	PMC3272870.nxml.gz_110	20502	20599	radiotherapy	NN	20514	20526	O	None	None	None
 3563	PMC3272870.nxml.gz	PMC3272870.nxml.gz_110	20502	20599	is	VBZ	20527	20529	O	None	None	None
 3564	PMC3272870.nxml.gz	PMC3272870.nxml.gz_110	20502	20599	controversial	JJ	20530	20543	O	None	None	None
-3565	PMC3272870.nxml.gz	PMC3272870.nxml.gz_110	20502	20599	as	IN	20544	20546	B	probable_understanding_2021_10_13_Instance_111	None	None
+3565	PMC3272870.nxml.gz	PMC3272870.nxml.gz_110	20502	20599	as	IN	20544	20546	B	probable_understanding_2021_10_19_Instance_111	None	None
 3566	PMC3272870.nxml.gz	PMC3272870.nxml.gz_110	20502	20599	MTC	NNP	20547	20550	O	None	None	None
 3567	PMC3272870.nxml.gz	PMC3272870.nxml.gz_110	20502	20599	is	VBZ	20551	20553	O	None	None	None
-3568	PMC3272870.nxml.gz	PMC3272870.nxml.gz_110	20502	20599	generally	RB	20554	20563	B	probable_understanding_2021_10_13_Instance_112	None	None
+3568	PMC3272870.nxml.gz	PMC3272870.nxml.gz_110	20502	20599	generally	RB	20554	20563	B	probable_understanding_2021_10_19_Instance_112	None	None
 3569	PMC3272870.nxml.gz	PMC3272870.nxml.gz_110	20502	20599	not	RB	20564	20567	O	None	None	None
 3570	PMC3272870.nxml.gz	PMC3272870.nxml.gz_110	20502	20599	believed	VBN	20568	20576	O	None	None	None
 3571	PMC3272870.nxml.gz	PMC3272870.nxml.gz_110	20502	20599	to	TO	20577	20579	O	None	None	None
@@ -3717,7 +3717,7 @@
 3715	PMC3272870.nxml.gz	PMC3272870.nxml.gz_118	21369	21556	in	IN	21385	21387	O	None	None	None
 3716	PMC3272870.nxml.gz	PMC3272870.nxml.gz_118	21369	21556	pregnancy	NN	21388	21397	O	None	None	None
 3717	PMC3272870.nxml.gz	PMC3272870.nxml.gz_118	21369	21556	are	VBP	21398	21401	O	None	None	None
-3718	PMC3272870.nxml.gz	PMC3272870.nxml.gz_118	21369	21556	often	RB	21402	21407	B	probable_understanding_2021_10_13_Instance_113	None	None
+3718	PMC3272870.nxml.gz	PMC3272870.nxml.gz_118	21369	21556	often	RB	21402	21407	B	probable_understanding_2021_10_19_Instance_113	None	None
 3719	PMC3272870.nxml.gz	PMC3272870.nxml.gz_118	21369	21556	misdiagnosed	VBN	21408	21420	O	None	None	None
 3720	PMC3272870.nxml.gz	PMC3272870.nxml.gz_118	21369	21556	because	IN	21421	21428	O	None	None	None
 3721	PMC3272870.nxml.gz	PMC3272870.nxml.gz_118	21369	21556	of	IN	21429	21431	O	None	None	None
@@ -3735,7 +3735,7 @@
 3733	PMC3272870.nxml.gz	PMC3272870.nxml.gz_118	21369	21556	are	VBP	21519	21522	O	None	None	None
 3734	PMC3272870.nxml.gz	PMC3272870.nxml.gz_118	21369	21556	sufficient	JJ	21523	21533	O	None	None	None
 3735	PMC3272870.nxml.gz	PMC3272870.nxml.gz_118	21369	21556	to	TO	21534	21536	O	None	None	None
-3736	PMC3272870.nxml.gz	PMC3272870.nxml.gz_118	21369	21556	suspect	VB	21537	21544	B	probable_understanding_2021_10_13_Instance_114	None	None
+3736	PMC3272870.nxml.gz	PMC3272870.nxml.gz_118	21369	21556	suspect	VB	21537	21544	B	probable_understanding_2021_10_19_Instance_114	None	None
 3737	PMC3272870.nxml.gz	PMC3272870.nxml.gz_118	21369	21556	malignancy	NN	21545	21555	O	None	None	None
 3738	PMC3272870.nxml.gz	PMC3272870.nxml.gz_118	21369	21556	.	.	21555	21556	O	None	None	None
 3739	PMC3272870.nxml.gz	PMC3272870.nxml.gz_119	21557	21783	Skilled	JJ	21557	21564	O	None	None	None
@@ -3835,7 +3835,7 @@
 3833	PMC3272870.nxml.gz	PMC3272870.nxml.gz_121	21927	22192	,	,	22097	22098	O	None	None	None
 3834	PMC3272870.nxml.gz	PMC3272870.nxml.gz_121	21927	22192	with	IN	22099	22103	O	None	None	None
 3835	PMC3272870.nxml.gz	PMC3272870.nxml.gz_121	21927	22192	the	DT	22104	22107	O	None	None	None
-3836	PMC3272870.nxml.gz	PMC3272870.nxml.gz_121	21927	22192	majority	NN	22108	22116	B	probable_understanding_2021_10_13_Instance_115	None	None
+3836	PMC3272870.nxml.gz	PMC3272870.nxml.gz_121	21927	22192	majority	NN	22108	22116	B	probable_understanding_2021_10_19_Instance_115	None	None
 3837	PMC3272870.nxml.gz	PMC3272870.nxml.gz_121	21927	22192	found	VBN	22117	22122	O	None	None	None
 3838	PMC3272870.nxml.gz	PMC3272870.nxml.gz_121	21927	22192	in	IN	22123	22125	O	None	None	None
 3839	PMC3272870.nxml.gz	PMC3272870.nxml.gz_121	21927	22192	the	DT	22126	22129	O	None	None	None
@@ -3863,14 +3863,14 @@
 3861	PMC3272870.nxml.gz	PMC3272870.nxml.gz_122	22193	22478	localized	JJ	22267	22276	O	None	None	None
 3862	PMC3272870.nxml.gz	PMC3272870.nxml.gz_122	22193	22478	disease	NN	22277	22284	O	None	None	None
 3863	PMC3272870.nxml.gz	PMC3272870.nxml.gz_122	22193	22478	,	,	22284	22285	O	None	None	None
-3864	PMC3272870.nxml.gz	PMC3272870.nxml.gz_122	22193	22478	as	IN	22286	22288	B	probable_understanding_2021_10_13_Instance_116	None	None
+3864	PMC3272870.nxml.gz	PMC3272870.nxml.gz_122	22193	22478	as	IN	22286	22288	B	probable_understanding_2021_10_19_Instance_116	None	None
 3865	PMC3272870.nxml.gz	PMC3272870.nxml.gz_122	22193	22478	these	DT	22289	22294	O	None	None	None
 3866	PMC3272870.nxml.gz	PMC3272870.nxml.gz_122	22193	22478	cancers	NNS	22295	22302	O	None	None	None
 3867	PMC3272870.nxml.gz	PMC3272870.nxml.gz_122	22193	22478	metastasize	VBP	22303	22314	O	None	None	None
 3868	PMC3272870.nxml.gz	PMC3272870.nxml.gz_122	22193	22478	slowly	RB	22315	22321	O	None	None	None
 3869	PMC3272870.nxml.gz	PMC3272870.nxml.gz_122	22193	22478	,	,	22321	22322	O	None	None	None
 3870	PMC3272870.nxml.gz	PMC3272870.nxml.gz_122	22193	22478	and	CC	22323	22326	O	None	None	None
-3871	PMC3272870.nxml.gz	PMC3272870.nxml.gz_122	22193	22478	mostly	RB	22327	22333	B	probable_understanding_2021_10_13_Instance_117	None	None
+3871	PMC3272870.nxml.gz	PMC3272870.nxml.gz_122	22193	22478	mostly	RB	22327	22333	B	probable_understanding_2021_10_19_Instance_117	None	None
 3872	PMC3272870.nxml.gz	PMC3272870.nxml.gz_122	22193	22478	in	IN	22334	22336	O	None	None	None
 3873	PMC3272870.nxml.gz	PMC3272870.nxml.gz_122	22193	22478	the	DT	22337	22340	O	None	None	None
 3874	PMC3272870.nxml.gz	PMC3272870.nxml.gz_122	22193	22478	lymphatic	JJ	22341	22350	O	None	None	None
@@ -3909,7 +3909,7 @@
 3907	PMC3272870.nxml.gz	PMC3272870.nxml.gz_123	22479	22668	hormonal	JJ	22554	22562	O	None	None	None
 3908	PMC3272870.nxml.gz	PMC3272870.nxml.gz_123	22479	22668	factors	NNS	22563	22570	O	None	None	None
 3909	PMC3272870.nxml.gz	PMC3272870.nxml.gz_123	22479	22668	(	(	22571	22572	O	None	None	None
-3910	PMC3272870.nxml.gz	PMC3272870.nxml.gz_123	22479	22668	mainly	RB	22572	22578	B	probable_understanding_2021_10_13_Instance_118	None	None
+3910	PMC3272870.nxml.gz	PMC3272870.nxml.gz_123	22479	22668	mainly	RB	22572	22578	B	probable_understanding_2021_10_19_Instance_118	None	None
 3911	PMC3272870.nxml.gz	PMC3272870.nxml.gz_123	22479	22668	HCG	NNP	22579	22582	O	None	None	None
 3912	PMC3272870.nxml.gz	PMC3272870.nxml.gz_123	22479	22668	)	)	22582	22583	O	None	None	None
 3913	PMC3272870.nxml.gz	PMC3272870.nxml.gz_123	22479	22668	may	MD	22584	22587	O	None	None	None
@@ -4159,7 +4159,7 @@
 4157	PMC3272870.nxml.gz	PMC3272870.nxml.gz_134	23856	23978	of	IN	23960	23962	O	None	None	None
 4158	PMC3272870.nxml.gz	PMC3272870.nxml.gz_134	23856	23978	diagnosis13233	NN	23963	23977	O	None	None	None
 4159	PMC3272870.nxml.gz	PMC3272870.nxml.gz_134	23856	23978	.	.	23977	23978	O	None	None	None
-4160	PMC3272870.nxml.gz	PMC3272870.nxml.gz_135	23979	24102	Guidelines	NNS	23979	23989	B	probable_understanding_2021_10_13_Instance_119	None	None
+4160	PMC3272870.nxml.gz	PMC3272870.nxml.gz_135	23979	24102	Guidelines	NNS	23979	23989	B	probable_understanding_2021_10_19_Instance_119	None	None
 4161	PMC3272870.nxml.gz	PMC3272870.nxml.gz_135	23979	24102	for	IN	23990	23993	O	None	None	None
 4162	PMC3272870.nxml.gz	PMC3272870.nxml.gz_135	23979	24102	evaluation	NN	23994	24004	O	None	None	None
 4163	PMC3272870.nxml.gz	PMC3272870.nxml.gz_135	23979	24102	and	CC	24005	24008	O	None	None	None
@@ -4199,7 +4199,7 @@
 4197	PMC3272870.nxml.gz	PMC3272870.nxml.gz_136	24103	24271	in	IN	24204	24206	O	None	None	None
 4198	PMC3272870.nxml.gz	PMC3272870.nxml.gz_136	24103	24271	the	DT	24207	24210	O	None	None	None
 4199	PMC3272870.nxml.gz	PMC3272870.nxml.gz_136	24103	24271	large	JJ	24211	24216	O	None	None	None
-4200	PMC3272870.nxml.gz	PMC3272870.nxml.gz_136	24103	24271	majority	NN	24217	24225	B	probable_understanding_2021_10_13_Instance_120	None	None
+4200	PMC3272870.nxml.gz	PMC3272870.nxml.gz_136	24103	24271	majority	NN	24217	24225	B	probable_understanding_2021_10_19_Instance_120	None	None
 4201	PMC3272870.nxml.gz	PMC3272870.nxml.gz_136	24103	24271	of	IN	24226	24228	O	None	None	None
 4202	PMC3272870.nxml.gz	PMC3272870.nxml.gz_136	24103	24271	cases	NNS	24229	24234	O	None	None	None
 4203	PMC3272870.nxml.gz	PMC3272870.nxml.gz_136	24103	24271	it	PRP	24235	24237	O	None	None	None
@@ -4413,8 +4413,8 @@
 4411	PMC3272870.nxml.gz	PMC3272870.nxml.gz_146	25509	25748	Postponing	VBG	25509	25519	O	None	None	None
 4412	PMC3272870.nxml.gz	PMC3272870.nxml.gz_146	25509	25748	surgery	NN	25520	25527	O	None	None	None
 4413	PMC3272870.nxml.gz	PMC3272870.nxml.gz_146	25509	25748	to	TO	25528	25530	O	None	None	None
-4414	PMC3272870.nxml.gz	PMC3272870.nxml.gz_146	25509	25748	at	IN	25531	25533	B	probable_understanding_2021_10_13_Instance_121	None	None
-4415	PMC3272870.nxml.gz	PMC3272870.nxml.gz_146	25509	25748	least	JJS	25534	25539	I	probable_understanding_2021_10_13_Instance_121	None	None
+4414	PMC3272870.nxml.gz	PMC3272870.nxml.gz_146	25509	25748	at	IN	25531	25533	B	probable_understanding_2021_10_19_Instance_121	None	None
+4415	PMC3272870.nxml.gz	PMC3272870.nxml.gz_146	25509	25748	least	JJS	25534	25539	I	probable_understanding_2021_10_19_Instance_121	None	None
 4416	PMC3272870.nxml.gz	PMC3272870.nxml.gz_146	25509	25748	6	CD	25540	25541	O	None	None	None
 4417	PMC3272870.nxml.gz	PMC3272870.nxml.gz_146	25509	25748	-	:	25541	25542	O	None	None	None
 4418	PMC3272870.nxml.gz	PMC3272870.nxml.gz_146	25509	25748	7	CD	25542	25543	O	None	None	None
@@ -4624,8 +4624,8 @@
 4622	PMC3272870.nxml.gz	PMC3272870.nxml.gz_152	26533	26800	postpone	VB	26741	26749	O	None	None	None
 4623	PMC3272870.nxml.gz	PMC3272870.nxml.gz_152	26533	26800	it	PRP	26750	26752	O	None	None	None
 4624	PMC3272870.nxml.gz	PMC3272870.nxml.gz_152	26533	26800	to	TO	26753	26755	O	None	None	None
-4625	PMC3272870.nxml.gz	PMC3272870.nxml.gz_152	26533	26800	at	IN	26756	26758	B	probable_understanding_2021_10_13_Instance_122	None	None
-4626	PMC3272870.nxml.gz	PMC3272870.nxml.gz_152	26533	26800	least	JJS	26759	26764	I	probable_understanding_2021_10_13_Instance_122	None	None
+4625	PMC3272870.nxml.gz	PMC3272870.nxml.gz_152	26533	26800	at	IN	26756	26758	B	probable_understanding_2021_10_19_Instance_122	None	None
+4626	PMC3272870.nxml.gz	PMC3272870.nxml.gz_152	26533	26800	least	JJS	26759	26764	I	probable_understanding_2021_10_19_Instance_122	None	None
 4627	PMC3272870.nxml.gz	PMC3272870.nxml.gz_152	26533	26800	6	CD	26765	26766	O	None	None	None
 4628	PMC3272870.nxml.gz	PMC3272870.nxml.gz_152	26533	26800	months	NNS	26767	26773	O	None	None	None
 4629	PMC3272870.nxml.gz	PMC3272870.nxml.gz_152	26533	26800	after	IN	26774	26779	O	None	None	None
@@ -4920,7 +4920,7 @@
 4918	PMC3272870.nxml.gz	PMC3272870.nxml.gz_161	28240	28564	the	DT	28433	28436	O	None	None	None
 4919	PMC3272870.nxml.gz	PMC3272870.nxml.gz_161	28240	28564	thyroid	JJ	28437	28444	O	None	None	None
 4920	PMC3272870.nxml.gz	PMC3272870.nxml.gz_161	28240	28564	autoimmunity	NN	28445	28457	O	None	None	None
-4921	PMC3272870.nxml.gz	PMC3272870.nxml.gz_161	28240	28564	often	RB	28458	28463	B	probable_understanding_2021_10_13_Instance_123	None	None
+4921	PMC3272870.nxml.gz	PMC3272870.nxml.gz_161	28240	28564	often	RB	28458	28463	B	probable_understanding_2021_10_19_Instance_123	None	None
 4922	PMC3272870.nxml.gz	PMC3272870.nxml.gz_161	28240	28564	associated	VBN	28464	28474	O	None	None	None
 4923	PMC3272870.nxml.gz	PMC3272870.nxml.gz_161	28240	28564	with	IN	28475	28479	O	None	None	None
 4924	PMC3272870.nxml.gz	PMC3272870.nxml.gz_161	28240	28564	disease	NN	28480	28487	O	None	None	None
@@ -4940,7 +4940,7 @@
 4938	PMC3272870.nxml.gz	PMC3272870.nxml.gz_162	28565	28944	At	IN	28565	28567	O	None	None	None
 4939	PMC3272870.nxml.gz	PMC3272870.nxml.gz_162	28565	28944	present	JJ	28568	28575	O	None	None	None
 4940	PMC3272870.nxml.gz	PMC3272870.nxml.gz_162	28565	28944	,	,	28575	28576	O	None	None	None
-4941	PMC3272870.nxml.gz	PMC3272870.nxml.gz_162	28565	28944	consensus	NN	28577	28586	B	probable_understanding_2021_10_13_Instance_124	None	None
+4941	PMC3272870.nxml.gz	PMC3272870.nxml.gz_162	28565	28944	consensus	NN	28577	28586	B	probable_understanding_2021_10_19_Instance_124	None	None
 4942	PMC3272870.nxml.gz	PMC3272870.nxml.gz_162	28565	28944	has	VBZ	28587	28590	O	None	None	None
 4943	PMC3272870.nxml.gz	PMC3272870.nxml.gz_162	28565	28944	been	VBN	28591	28595	O	None	None	None
 4944	PMC3272870.nxml.gz	PMC3272870.nxml.gz_162	28565	28944	reached	VBN	28596	28603	O	None	None	None
@@ -5039,7 +5039,7 @@
 5037	PMC3272870.nxml.gz	PMC3272870.nxml.gz_165	29158	29365	DTC	NNP	29179	29182	O	None	None	None
 5038	PMC3272870.nxml.gz	PMC3272870.nxml.gz_165	29158	29365	can	MD	29183	29186	O	None	None	None
 5039	PMC3272870.nxml.gz	PMC3272870.nxml.gz_165	29158	29365	be	VB	29187	29189	O	None	None	None
-5040	PMC3272870.nxml.gz	PMC3272870.nxml.gz_165	29158	29365	reassured	VBN	29190	29199	B	probable_understanding_2021_10_13_Instance_125	None	None
+5040	PMC3272870.nxml.gz	PMC3272870.nxml.gz_165	29158	29365	reassured	VBN	29190	29199	B	probable_understanding_2021_10_19_Instance_125	None	None
 5041	PMC3272870.nxml.gz	PMC3272870.nxml.gz_165	29158	29365	that	RB	29200	29204	O	None	None	None
 5042	PMC3272870.nxml.gz	PMC3272870.nxml.gz_165	29158	29365	,	,	29204	29205	O	None	None	None
 5043	PMC3272870.nxml.gz	PMC3272870.nxml.gz_165	29158	29365	as	IN	29206	29208	O	None	None	None
@@ -5057,7 +5057,7 @@
 5055	PMC3272870.nxml.gz	PMC3272870.nxml.gz_165	29158	29365	progression	NN	29279	29290	O	None	None	None
 5056	PMC3272870.nxml.gz	PMC3272870.nxml.gz_165	29158	29365	,	,	29290	29291	O	None	None	None
 5057	PMC3272870.nxml.gz	PMC3272870.nxml.gz_165	29158	29365	and	CC	29292	29295	O	None	None	None
-5058	PMC3272870.nxml.gz	PMC3272870.nxml.gz_165	29158	29365	therefore	RB	29296	29305	B	probable_understanding_2021_10_13_Instance_126	None	None
+5058	PMC3272870.nxml.gz	PMC3272870.nxml.gz_165	29158	29365	therefore	RB	29296	29305	B	probable_understanding_2021_10_19_Instance_126	None	None
 5059	PMC3272870.nxml.gz	PMC3272870.nxml.gz_165	29158	29365	a	DT	29306	29307	O	None	None	None
 5060	PMC3272870.nxml.gz	PMC3272870.nxml.gz_165	29158	29365	gap	NN	29308	29311	O	None	None	None
 5061	PMC3272870.nxml.gz	PMC3272870.nxml.gz_165	29158	29365	in	IN	29312	29314	O	None	None	None
@@ -5236,7 +5236,7 @@
 5234	PMC3272870.nxml.gz	PMC3272870.nxml.gz_171	30148	30332	growth	NN	30318	30324	O	None	None	None
 5235	PMC3272870.nxml.gz	PMC3272870.nxml.gz_171	30148	30332	factor	NN	30325	30331	O	None	None	None
 5236	PMC3272870.nxml.gz	PMC3272870.nxml.gz_171	30148	30332	.	.	30331	30332	O	None	None	None
-5237	PMC3272870.nxml.gz	PMC3272870.nxml.gz_172	30333	30460	Therefore	RB	30333	30342	B	probable_understanding_2021_10_13_Instance_127	None	None
+5237	PMC3272870.nxml.gz	PMC3272870.nxml.gz_172	30333	30460	Therefore	RB	30333	30342	B	probable_understanding_2021_10_19_Instance_127	None	None
 5238	PMC3272870.nxml.gz	PMC3272870.nxml.gz_172	30333	30460	,	,	30342	30343	O	None	None	None
 5239	PMC3272870.nxml.gz	PMC3272870.nxml.gz_172	30333	30460	thyroxine	JJ	30344	30353	O	None	None	None
 5240	PMC3272870.nxml.gz	PMC3272870.nxml.gz_172	30333	30460	therapy	NN	30354	30361	O	None	None	None
@@ -5248,7 +5248,7 @@
 5246	PMC3272870.nxml.gz	PMC3272870.nxml.gz_172	30333	30460	of	IN	30402	30404	O	None	None	None
 5247	PMC3272870.nxml.gz	PMC3272870.nxml.gz_172	30333	30460	TSH	NNP	30405	30408	O	None	None	None
 5248	PMC3272870.nxml.gz	PMC3272870.nxml.gz_172	30333	30460	,	,	30408	30409	O	None	None	None
-5249	PMC3272870.nxml.gz	PMC3272870.nxml.gz_172	30333	30460	as	IN	30410	30412	B	probable_understanding_2021_10_13_Instance_128	None	None
+5249	PMC3272870.nxml.gz	PMC3272870.nxml.gz_172	30333	30460	as	IN	30410	30412	B	probable_understanding_2021_10_19_Instance_128	None	None
 5250	PMC3272870.nxml.gz	PMC3272870.nxml.gz_172	30333	30460	indicated	VBN	30413	30422	O	None	None	None
 5251	PMC3272870.nxml.gz	PMC3272870.nxml.gz_172	30333	30460	by	IN	30423	30425	O	None	None	None
 5252	PMC3272870.nxml.gz	PMC3272870.nxml.gz_172	30333	30460	serum	NN	30426	30431	O	None	None	None
@@ -5309,8 +5309,8 @@
 5307	PMC3272870.nxml.gz	PMC3272870.nxml.gz_175	30666	30882	200	CD	30704	30707	O	None	None	None
 5308	PMC3272870.nxml.gz	PMC3272870.nxml.gz_175	30666	30882	μg	NN	30708	30710	O	None	None	None
 5309	PMC3272870.nxml.gz	PMC3272870.nxml.gz_175	30666	30882	(	(	30711	30712	O	None	None	None
-5310	PMC3272870.nxml.gz	PMC3272870.nxml.gz_175	30666	30882	at	IN	30712	30714	B	probable_understanding_2021_10_13_Instance_129	None	None
-5311	PMC3272870.nxml.gz	PMC3272870.nxml.gz_175	30666	30882	least	JJS	30715	30720	I	probable_understanding_2021_10_13_Instance_129	None	None
+5310	PMC3272870.nxml.gz	PMC3272870.nxml.gz_175	30666	30882	at	IN	30712	30714	B	probable_understanding_2021_10_19_Instance_129	None	None
+5311	PMC3272870.nxml.gz	PMC3272870.nxml.gz_175	30666	30882	least	JJS	30715	30720	I	probable_understanding_2021_10_19_Instance_129	None	None
 5312	PMC3272870.nxml.gz	PMC3272870.nxml.gz_175	30666	30882	2	CD	30721	30722	O	None	None	None
 5313	PMC3272870.nxml.gz	PMC3272870.nxml.gz_175	30666	30882	μg	JJ	30723	30725	O	None	None	None
 5314	PMC3272870.nxml.gz	PMC3272870.nxml.gz_175	30666	30882	/	NNP	30725	30726	O	None	None	None
@@ -5551,7 +5551,7 @@
 5549	PMC3272870.nxml.gz	PMC3272870.nxml.gz_182	31943	32113	intestinal	JJ	32036	32046	O	None	None	None
 5550	PMC3272870.nxml.gz	PMC3272870.nxml.gz_182	31943	32113	absorption	NN	32047	32057	O	None	None	None
 5551	PMC3272870.nxml.gz	PMC3272870.nxml.gz_182	31943	32113	,	,	32057	32058	O	None	None	None
-5552	PMC3272870.nxml.gz	PMC3272870.nxml.gz_182	31943	32113	often	RB	32059	32064	B	probable_understanding_2021_10_13_Instance_130	None	None
+5552	PMC3272870.nxml.gz	PMC3272870.nxml.gz_182	31943	32113	often	RB	32059	32064	B	probable_understanding_2021_10_19_Instance_130	None	None
 5553	PMC3272870.nxml.gz	PMC3272870.nxml.gz_182	31943	32113	caused	VBN	32065	32071	O	None	None	None
 5554	PMC3272870.nxml.gz	PMC3272870.nxml.gz_182	31943	32113	by	IN	32072	32074	O	None	None	None
 5555	PMC3272870.nxml.gz	PMC3272870.nxml.gz_182	31943	32113	other	JJ	32075	32080	O	None	None	None
@@ -5562,7 +5562,7 @@
 5560	PMC3272870.nxml.gz	PMC3272870.nxml.gz_182	31943	32113	ferrous	JJ	32096	32103	O	None	None	None
 5561	PMC3272870.nxml.gz	PMC3272870.nxml.gz_182	31943	32113	sulphate	NN	32104	32112	O	None	None	None
 5562	PMC3272870.nxml.gz	PMC3272870.nxml.gz_182	31943	32113	.	.	32112	32113	O	None	None	None
-5563	PMC3272870.nxml.gz	PMC3272870.nxml.gz_183	32114	32216	Therefore	RB	32114	32123	B	probable_understanding_2021_10_13_Instance_131	None	None
+5563	PMC3272870.nxml.gz	PMC3272870.nxml.gz_183	32114	32216	Therefore	RB	32114	32123	B	probable_understanding_2021_10_19_Instance_131	None	None
 5564	PMC3272870.nxml.gz	PMC3272870.nxml.gz_183	32114	32216	,	,	32123	32124	O	None	None	None
 5565	PMC3272870.nxml.gz	PMC3272870.nxml.gz_183	32114	32216	during	IN	32125	32131	O	None	None	None
 5566	PMC3272870.nxml.gz	PMC3272870.nxml.gz_183	32114	32216	pregnancy	NN	32132	32141	O	None	None	None
@@ -5576,8 +5576,8 @@
 5574	PMC3272870.nxml.gz	PMC3272870.nxml.gz_183	32114	32216	be	VB	32186	32188	O	None	None	None
 5575	PMC3272870.nxml.gz	PMC3272870.nxml.gz_183	32114	32216	spaced	VBN	32189	32195	O	None	None	None
 5576	PMC3272870.nxml.gz	PMC3272870.nxml.gz_183	32114	32216	by	IN	32196	32198	O	None	None	None
-5577	PMC3272870.nxml.gz	PMC3272870.nxml.gz_183	32114	32216	at	IN	32199	32201	B	probable_understanding_2021_10_13_Instance_132	None	None
-5578	PMC3272870.nxml.gz	PMC3272870.nxml.gz_183	32114	32216	least	JJS	32202	32207	I	probable_understanding_2021_10_13_Instance_132	None	None
+5577	PMC3272870.nxml.gz	PMC3272870.nxml.gz_183	32114	32216	at	IN	32199	32201	B	probable_understanding_2021_10_19_Instance_132	None	None
+5578	PMC3272870.nxml.gz	PMC3272870.nxml.gz_183	32114	32216	least	JJS	32202	32207	I	probable_understanding_2021_10_19_Instance_132	None	None
 5579	PMC3272870.nxml.gz	PMC3272870.nxml.gz_183	32114	32216	4	CD	32208	32209	O	None	None	None
 5580	PMC3272870.nxml.gz	PMC3272870.nxml.gz_183	32114	32216	hours	NNS	32210	32215	O	None	None	None
 5581	PMC3272870.nxml.gz	PMC3272870.nxml.gz_183	32114	32216	.	.	32215	32216	O	None	None	None
@@ -5634,7 +5634,7 @@
 5632	PMC3272870.nxml.gz	PMC3272870.nxml.gz_184	32217	32629	(	(	32489	32490	O	None	None	None
 5633	PMC3272870.nxml.gz	PMC3272870.nxml.gz_184	32217	32629	T2	NNP	32490	32492	O	None	None	None
 5634	PMC3272870.nxml.gz	PMC3272870.nxml.gz_184	32217	32629	),	NNP	32492	32494	O	None	None	None
-5635	PMC3272870.nxml.gz	PMC3272870.nxml.gz_184	32217	32629	representing	VBG	32495	32507	B	probable_understanding_2021_10_13_Instance_133	None	None
+5635	PMC3272870.nxml.gz	PMC3272870.nxml.gz_184	32217	32629	representing	VBG	32495	32507	B	probable_understanding_2021_10_19_Instance_133	None	None
 5636	PMC3272870.nxml.gz	PMC3272870.nxml.gz_184	32217	32629	a	DT	32508	32509	O	None	None	None
 5637	PMC3272870.nxml.gz	PMC3272870.nxml.gz_184	32217	32629	homeostatic	JJ	32510	32521	O	None	None	None
 5638	PMC3272870.nxml.gz	PMC3272870.nxml.gz_184	32217	32629	mechanism	NN	32522	32531	O	None	None	None
@@ -5679,7 +5679,7 @@
 5677	PMC3272870.nxml.gz	PMC3272870.nxml.gz_185	32630	32856	vitamin	NNP	32779	32786	O	None	None	None
 5678	PMC3272870.nxml.gz	PMC3272870.nxml.gz_185	32630	32856	supplementation	NN	32787	32802	O	None	None	None
 5679	PMC3272870.nxml.gz	PMC3272870.nxml.gz_185	32630	32856	,	,	32802	32803	O	None	None	None
-5680	PMC3272870.nxml.gz	PMC3272870.nxml.gz_185	32630	32856	often	RB	32804	32809	B	probable_understanding_2021_10_13_Instance_134	None	None
+5680	PMC3272870.nxml.gz	PMC3272870.nxml.gz_185	32630	32856	often	RB	32804	32809	B	probable_understanding_2021_10_19_Instance_134	None	None
 5681	PMC3272870.nxml.gz	PMC3272870.nxml.gz_185	32630	32856	indispensable	JJ	32810	32823	O	None	None	None
 5682	PMC3272870.nxml.gz	PMC3272870.nxml.gz_185	32630	32856	,	,	32823	32824	O	None	None	None
 5683	PMC3272870.nxml.gz	PMC3272870.nxml.gz_185	32630	32856	must	MD	32825	32829	O	None	None	None
