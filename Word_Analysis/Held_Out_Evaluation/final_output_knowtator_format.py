@@ -395,8 +395,10 @@ if __name__=='__main__':
 						pmc_bionlp_dict = read_in_bionlp_data(root+filename) #dict from relation (T#) -> (ignorance_categry, [span], text)
 
 						print(len(pmc_bionlp_dict.keys()))
-
-						pmc_article_file_path =  '%s%s' %(args.article_path, filename.split('_')[-1].replace('bionlp', 'nxml.gz.txt'))
+						if '.nxml' in filename:
+							pmc_article_file_path = '%s%s' %(args.article_path, filename.split('_')[-1].replace('bionlp', 'nxml.gz.txt'))
+						else:
+							pmc_article_file_path = '%s%s' %(args.article_path, filename.split('_')[-1].replace('bionlp', 'txt'))
 						##use these to create the xml file
 						new_pred_lcs_count = xml_creation(root+filename, pmc_article_file_path, algo, file_type, pmc_bionlp_dict, all_lcs_dict, xml_output_file_path, all_weird_lcs)
 						directory_new_pred_count_lcs_count += new_pred_lcs_count

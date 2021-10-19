@@ -9,15 +9,15 @@ def split_up_0_all_combined_data(tokenized_file_path, ontology, shorthand_ont_di
 
     for root, directories, filenames in os.walk(tokenized_file_path + ontology + '/'):
         for filename in sorted(filenames):
-            print(filename)
+            # print(filename)
             # print(evaluation_files)
             # print(filename.split('_')[-1].replace('.nxml.gz.txt', ''))
 
             ##per pmcid file - want to combine per ontology
             # print([filename.endswith('.nxml.gz.txt'), ontology in filename, 'local' in filename, 'pred' not in filename, (filename.split('_')[-1].replace('.txt','') in evaluation_files or evaluation_files == ['all'])])
-            if filename.endswith(
-                    '.nxml.gz.txt') and ontology in filename and 'local' in filename and 'pred' not in filename and ('crf_model_full' in filename or 'biobert' in filename) and (
-                    filename.split('_')[-1].replace('.nxml.gz.txt', '') in evaluation_files or evaluation_files == ['all']):
+            if (filename.endswith(
+                    '.nxml.gz.txt') or filename.endswith('.txt')) and ontology in filename and 'local' in filename and 'pred' not in filename and ('crf_model_full' in filename or 'biobert' in filename) and (
+                    filename.split('_')[-1].replace('.nxml.gz.txt', '') in evaluation_files or evaluation_files == ['all'] or filename.split('_')[-1].replace('.txt','') in evaluation_files):
                 # print(filename)
 
                 for shorthand, ont in shorthand_ont_dict.items():
@@ -109,13 +109,14 @@ def preprocess_data(tokenized_file_path, ontology, ontology_dict, evaluation_fil
 
             ##per pmcid file - want to combine per ontology
             # print([filename.endswith('.nxml.gz.txt'), ontology in filename, 'local' in filename, 'pred' not in filename, (filename.split('_')[-1].replace('.txt','') in evaluation_files or evaluation_files == ['all'])])
-            if filename.endswith(
-                    '.nxml.gz.txt') and ontology in filename and 'local' in filename and 'pred' not in filename and ('crf_model_full' in filename or 'biobert' in filename) and (
-                    filename.split('_')[-1].replace('.nxml.gz.txt', '') in evaluation_files or evaluation_files == ['all']):
+            if (filename.endswith(
+                    '.nxml.gz.txt') or filename.endswith('.txt')) and ontology in filename and 'local' in filename and 'pred' not in filename and ('crf_model_full' in filename or 'biobert' in filename) and (
+                    filename.split('_')[-1].replace('.nxml.gz.txt', '') in evaluation_files or evaluation_files == ['all'] or filename.split('_')[-1].replace('.txt','') in evaluation_files) and 'sentences' not in filename:
                 # print(filename)
                 pmc_mention_id_index += 1  ##need to ensure we go up one always
 
                 ##columns = ['PMCID', 'SENTENCE_NUM', 'SENTENCE_START', 'SENTENCE_END', 'WORD', 'POS_TAG', 'WORD_START', 'WORD_END', 'BIO_TAG', 'PMC_MENTION_ID', 'ONTOLOGY_CONCEPT_ID', 'ONTOLOGY_LABEL']
+                # print('got here')
 
                 pmc_tokenized_file_df = pd.read_csv(root + filename, sep='\t', header=0, quotechar='"',
                                                     quoting=3)  # , encoding='utf-8', engine='python')
@@ -240,7 +241,11 @@ def output_all_files(pmcid_output_dict, ontology, ontology_dict, disc_error_outp
         # print(pmc_mention_id)
         # print(ontology_dict[pmc_mention_id])
         sentence_num = ontology_dict[pmc_mention_id][0]
-        current_pmcid = sentence_num.split('.nxml')[0]
+        # print(sentence_num)
+        if '.nxml' in sentence_num:
+            current_pmcid = sentence_num.split('.nxml')[0]
+        else:
+            current_pmcid = sentence_num.split('_')[0]
         word_list = ontology_dict[pmc_mention_id][1]  # list of words
         word_indices_list = ontology_dict[pmc_mention_id][2]
         span_model = ontology_dict[pmc_mention_id][3]
@@ -450,14 +455,17 @@ if __name__ == '__main__':
     print(evaluation_files)
 
 
-    ##output_dictionary for each pmcid -> [(sentence_num, ignorance_category, word_indices, word)]
-    pmcid_output_dict = {}
-    pmcid_all_combined_dict = {}
-    for e in evaluation_files:
-        pmcid_output_dict[e] = []
-        pmcid_all_combined_dict[e] = []
+
 
     for i, algo in enumerate(algos):
+        ##output_dictionary for each pmcid -> [(sentence_num, ignorance_category, word_indices, word)]
+        pmcid_output_dict = {}
+        pmcid_all_combined_dict = {}
+        for e in evaluation_files:
+            pmcid_output_dict[e] = []
+            pmcid_all_combined_dict[e] = []
+
+        ##folders for this algo
         result_folder = result_folders[i]
         results_span_detection_path = args.results_path+result_folder+'/'
         concept_norm_files_path = args.results_path+result_folder+'/'+args.output_folder+'/'
@@ -475,17 +483,23 @@ if __name__ == '__main__':
                 split_all_combined_output_folder = concept_norm_files_path + ontology + '/'
 
                 split_up_0_all_combined_data(results_span_detection_path, ontology, shorthand_ont_dict, evaluation_files, split_all_combined_output_folder)
+                print('PROGRESS: Split up all ontologies in 0_all_combined')
 
+
+                #loops through all ontologies
                 for shorthand, ont in shorthand_ont_dict.items():
+                    print('PROGRESS: Done with ontology', ont)
+                    all_combined_ontology_dict = {}
 
-                    all_combined_ontology_dict = preprocess_data(split_all_combined_output_folder, ont, ontology_dict, evaluation_files)
+                    all_combined_ontology_dict = preprocess_data(split_all_combined_output_folder, ont, all_combined_ontology_dict, evaluation_files)
+
                     pmcid_all_combined_dict = output_all_files(pmcid_all_combined_dict, ont, all_combined_ontology_dict,
                                                          disc_error_output_file)
 
             else:
                 # ONTOLOGY_DICT - pmc_mention_id -> [sentence_num, word, [(word_indices)], span_model]
                 ontology_dict = preprocess_data(results_span_detection_path, ontology, ontology_dict, evaluation_files)
-
+                # print(len(ontology_dict.keys()))
                 # od_indices = [1, 2, 3, -1, 0]
 
 

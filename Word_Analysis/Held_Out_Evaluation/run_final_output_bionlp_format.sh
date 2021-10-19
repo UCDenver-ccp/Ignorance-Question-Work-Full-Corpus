@@ -16,6 +16,7 @@ concept_annotation='Annotations/'
 ##list of ontologies that have annotations to preproess
 ontologies='full_unknown,explicit_question,incomplete_evidence,probable_understanding,superficial_relationship,future_work,future_prediction,important_consideration,anomaly_curious_finding,alternative_options_controversy,difficult_task,problem_complication,question_answered_by_this_work,1_binary_combined,0_all_combined'
 #ontologies='0_all_combined'
+#ontologies='1_binary_combined'
 
 
 ontology_shorthand_dict="{'fu':'full_unknown','eq':'explicit_question','ie':'incomplete_evidence','pu':'probable_understanding','sr':'superficial_relationship','fw':'future_work','fp':'future_prediction','ic':'important_consideration','acf':'anomaly_curious_finding','aoc':'alternative_options_controversy','dt':'difficult_task','pc':'problem_complication','qabtw':'question_answered_by_this_work'}"
