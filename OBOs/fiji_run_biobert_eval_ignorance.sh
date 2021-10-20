@@ -15,7 +15,7 @@ tokenized_files='Tokenized_Files/' #preprocessed article files to be word tokeni
 results_span_detection='Results_span_detection/' #results from the span detection runs
 
 biobert_path='BIOBERT/'
- output='output/'
+output='output/'
 
 save_models_path='Models/SPAN_DETECTION/'
 
