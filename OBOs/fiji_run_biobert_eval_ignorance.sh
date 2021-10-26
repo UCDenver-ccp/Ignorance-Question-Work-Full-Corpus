@@ -1,11 +1,13 @@
- #!/usr/bin/env bash
+#!/usr/bin/env bash
 
 ####move test.tsv file to fiji for predictions
 #prediction_file='/Users/MaylaB/Dropbox/Documents/0_Thesis_stuff-Larry_Sonia/Negacy_seq_2_seq_NER_model/ConceptRecognition/Evaluation_Files/Tokenized_Files/BIOBERT/test.tsv'
 #scp $prediction_file mabo1182@fiji.colorado.edu:/Users/mabo1182/negacy_project/Evaluation_Files/Tokenized_Files/BIOBERT/
 #scratch_CR_models_base_path='/scratch/Users/mabo1182/negacy_project/'
-CR_models_base_path='/Users/mabo1182/negacy_project/'
+CR_models_base_path='/scratch/Users/mabo1182/negacy_project/'
 all_file_path='/scratch/Users/mabo1182/'
+non_scratch_file_path='/Users/mabo1182/'
+
 concept_recognition_path='Concept-Recognition-as-Translation/'
 code='Code/'
 all_code_path=$CR_models_base_path$concept_recognition_path$code
@@ -38,6 +40,14 @@ do
     echo $i
     model_file_path=$CR_models_base_path$concept_recognition_path$save_models_path$i/$biobert_path$output
 
+    NER_DIR=$all_file_path$eval_path$tokenized_files$biobert_path
+    OUTPUT_DIR=$all_file_path$eval_path$results_span_detection$i/$biobert_path
+
+
+    cp $model_file_path/* $OUTPUT_DIR
+    cp $model_file_path/* $non_scratch_file_path$eval_path$results_span_detection$i/$biobert_path
+
+
 
     ##get the global step num for the final algorithm from the results of training!
     python3 $all_code_path/biobert_model_eval_result.py -eval_results_path=$model_file_path -ontology=$i -algo=$algo
@@ -47,11 +57,10 @@ do
     global_step=$(<$eval_global_step_file)
     echo $global_step
 
-    NER_DIR=$all_file_path$eval_path$tokenized_files$biobert_path
-    OUTPUT_DIR=$all_file_path$eval_path$results_span_detection$i/$biobert_path
+
 
     #https://blog.insightdatascience.com/using-bert-for-state-of-the-art-pre-training-for-natural-language-processing-1d87142c29e7
-    python3 $all_code_path/biobert/run_ner.py --do_train=true --do_predict=true --vocab_file=$all_code_path$biobert_original/vocab.txt --bert_config_file=$all_code_path$biobert_original/bert_config.json --init_checkpoint=$model_file_path$model$global_step  --mmax_seq_length=410 --num_train_epochs=1.0 --data_dir=$NER_DIR --output_dir=$OUTPUT_DIR
+    python3 $all_code_path/biobert/run_ner.py --do_train=true --do_predict=true --vocab_file=$all_code_path$biobert_original/vocab.txt --bert_config_file=$all_code_path$biobert_original/bert_config.json --init_checkpoint=$OUTPUT_DIR$model$global_step  --mmax_seq_length=410 --num_train_epochs=1.0 --data_dir=$NER_DIR --output_dir=$OUTPUT_DIR
 
 
 done
