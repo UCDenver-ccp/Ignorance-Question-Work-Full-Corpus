@@ -1,0 +1,510 @@
+T1163	SO_EXT:epigenetic_modification_entity_or_process 24 34	epigenetic
+T1164	SO_EXT:epigenetic_modification_entity_or_process 118 128	epigenetic
+T1165	SO_EXT:epigenetic_modification_entity_or_process 276 295	epigenetic change(s
+T1166	SO_EXT:epigenetic_modification_entity_or_process 432 442	epigenetic
+T1167	SO_EXT:epigenetic_modification_entity_or_process 551 561	epigenetic
+T1168	SO_EXT:epigenetic_modification_entity_or_process 899 917	epigenetic changes
+T1169	SO_EXT:epigenetic_modification_entity_or_process 1172 1182	epigenetic
+T1170	SO_EXT:epigenetic_modification_entity_or_process 1393 1403	epigenetic
+T1171	SO_EXT:biological_sequence 1576 1584	sequence
+T1172	CHEBI_SO_EXT:DNA 1592 1595	DNA
+T1173	SO_EXT:0001026 1601 1607	genome
+T1174	SO_EXT:0000704 1862 1869	genetic
+T1175	SO_EXT:sequence_alteration_entity_or_process 1870 1879	mutations
+T1176	SO_EXT:epigenetic_modification_entity_or_process 2134 2145	epigenetics
+T1177	SO_EXT:epigenetic_modification_entity_or_process 2204 2215	Epigenetics
+T1178	SO_EXT:0000704 2257 2261	gene
+T1179	CHEBI_SO_EXT:DNA 2305 2308	DNA
+T1180	SO_EXT:biological_sequence 2309 2317	sequence
+T1181	SO_EXT:epigenetic_modification_entity 2336 2353	epigenetic status
+T1182	SO_EXT:epigenetic_modification_entity 2396 2405	epigenome
+T1183	SO_EXT:epigenetic_modification_entity_or_process 2407 2417	Epigenetic
+T1184	SO_EXT:0000704 2558 2562	gene
+T1185	SO_EXT:0001026 2653 2659	genome
+T1186	SO_EXT:epigenetic_modification_entity 2661 2670	epigenome
+T1187	CHEBI_SO_EXT:DNA 2848 2851	DNA
+T1188	SO_EXT:sequence_alteration_entity_or_process 2852 2861	mutations
+T1189	SO_EXT:0000704 3139 3146	genetic
+T1190	SO_EXT:sequence_alteration_entity_or_process 3147 3156	mutations
+T1191	SO_EXT:epigenetic_modification_entity_or_process 3305 3315	epigenetic
+T1192	SO_EXT:epigenetic_modification_entity_or_process 3517 3527	epigenetic
+T1193	SO_EXT:epigenetic_modification_entity_or_process 3604 3614	epigenetic
+T1194	SO_EXT:epigenetic_modification_entity_or_process 3760 3770	epigenetic
+T1195	SO_EXT:epigenetic_modification_entity_or_process 4131 4141	epigenetic
+T1196	SO_EXT:sequence_alteration_entity_or_process 4162 4175	modifications
+T1197	CHEBI_SO_EXT:DNA 4177 4180	DNA
+T1198	SO_EXT:0001934 4194 4209	non-coding RNAs
+T1199	SO_EXT:0000655 4211 4217	ncRNAs
+T1200	SO_EXT:epigenetic_modification_entity_or_process 4229 4239	epigenetic
+T1201	CHEBI_SO_EXT:DNA 4251 4254	DNA
+T1202	CHEBI_SO_EXT:RNA 4255 4258	RNA
+T1203	SO_EXT:sequence_alteration_process 4271 4280	modifying
+T1204	SO_EXT:epigenetic_modification_entity_or_process 4482 4492	epigenetic
+T1205	SO_EXT:epigenetic_modification_entity_or_process 4606 4616	epigenetic
+T1206	SO_EXT:epigenetic_modification_entity_or_process 4819 4829	epigenetic
+T1207	SO_EXT:epigenetic_modification_entity_or_process 5494 5504	Epigenetic
+T1208	SO_EXT:biological_conservation_process_or_quality 5548 5557	conserved
+T1209	CHEBI_SO_EXT:DNA 5636 5639	DNA
+T1210	CHEBI_SO_EXT:DNA 5719 5722	DNA
+T1211	CHEBI_SO_EXT:DNA 5744 5747	DNA
+T1212	SO_EXT:0000417 5832 5839	domains
+T1213	SO_EXT:0001845 5873 5904	posttranslational modifications
+T1214	CHEBI_GO_SO_EXT:enzyme 6224 6231	enzymes
+T1215	CHEBI_GO_SO_EXT:enzyme 6438 6445	enzymes
+T1216	SO_EXT:sequence_alteration_entity_or_process 6504 6517	modifications
+T1217	CHEBI_SO_EXT:DNA 6548 6551	DNA
+T1218	CHEBI_SO_EXT:DNA 6556 6559	DNA
+T1219	CHEBI_SO_EXT:RNA 6612 6615	RNA
+T1220	SO:0001187 6678 6685	histone
+T1221	SO_EXT:sequence_coding_function 6686 6690	code
+T1222	SO_EXT:0000704 6770 6774	gene
+T1223	CHEBI_SO_EXT:DNA 6993 6996	DNA
+T1224	SO_EXT:0001026 7268 7274	genome
+T1225	SO_EXT:0000302 7383 7386	CpG
+T1226	SO_EXT:0000365 7387 7394	islands
+T1227	SO_EXT:0001026 7495 7501	genome
+T1228	SO_EXT:0005836 7539 7558	regulatory elements
+T1229	SO_EXT:0000167 7567 7576	promoters
+T1230	CHEBI_SO_EXT:DNA 7598 7601	DNA
+T1231	CHEBI_SO_EXT:DNA 7650 7653	DNA
+T1232	CHEBI_SO_EXT:DNA 7658 7661	DNA
+T1233	SO_EXT:0000704 7691 7695	gene
+T1234	SO_EXT:0000167 7834 7842	promoter
+T1235	CHEBI_SO_EXT:DNA 7945 7948	DNA
+T1236	CHEBI_SO_EXT:DNA 7978 7981	DNA
+T1237	CHEBI_SO_EXT:DNA 8184 8187	DNA
+T1238	CHEBI_SO_EXT:DNA 8207 8210	DNA
+T1239	CHEBI_SO_EXT:DNA 8233 8236	DNA
+T1240	CHEBI_SO_EXT:DNA 8361 8364	DNA
+T1241	CHEBI_SO_EXT:DNA 8562 8565	DNA
+T1242	CHEBI_GO_SO_EXT:enzyme 8709 8718	enzymatic
+T1243	CHEBI_SO_EXT:DNA 8746 8749	DNA
+T1244	CHEBI_GO_SO_EXT:enzyme 8762 8769	enzyme(
+T1245	CHEBI_GO_SO_EXT:enzyme 8853 8859	enzyme
+T1246	CHEBI_SO_EXT:DNA 9085 9088	DNA
+T1247	CHEBI_SO_EXT:DNA 9174 9177	DNA
+T1248	SO_EXT:0001934 9411 9426	non-coding RNAs
+T1249	SO_EXT:0001877 9428 9435	lncRNAs
+T1250	CHEBI_SO_EXT:nucleotide 9443 9445	nt
+T1251	SO_EXT:0000655 9461 9472	coding RNAs
+T1252	SO_EXT:0000652 9474 9481	sncRNAs
+T1253	CHEBI_SO_EXT:nucleotide 9489 9491	nt
+T1254	SO_EXT:0000276 9508 9517	microRNAs
+T1255	SO_EXT:0000276 9519 9525	miRNAs
+T1256	SO:0000984 9527 9542	single stranded
+T1257	CHEBI_SO_EXT:nucleotide 9551 9553	nt
+T1258	CHEBI_SO_EXT:RNA 9573 9577	RNAs
+T1259	SO:0000984 9587 9602	single stranded
+T1260	CHEBI_SO_EXT:nucleotide 9611 9613	nt
+T1261	SO_EXT:0000646 9630 9652	short interfering RNAs
+T1262	SO_EXT:0001860 9654 9661	esiRNAs
+T1263	SO:0000985 9663 9678	double stranded
+T1264	CHEBI_SO_EXT:nucleotide 9687 9689	nt
+T1265	SO_EXT:0001026 9727 9733	genome
+T1266	SO_EXT:0001083 9759 9763	non-
+T1267	SO_EXT:coding_sequence 9763 9773	coding DNA
+T1268	SO_EXT:cDNA 9775 9780	ncDNA
+T1269	SO_EXT:sequence_coding_function 9798 9804	coding
+T1270	SO_EXT:0001217 9863 9883	protein-coding genes
+T1271	SO_EXT:0001026 9977 9983	genome
+T1272	CHEBI_SO_EXT:DNA 10007 10010	DNA
+T1273	SO_EXT:cDNA 10043 10048	ncDNA
+T1274	SO_EXT:cDNA 10109 10114	ncDNA
+T1275	SO_EXT:0001026 10186 10193	genomes
+T1276	SO_EXT:cDNA 10211 10216	ncDNA
+T1277	SO_EXT:0000704 10373 10377	gene
+T1278	SO_EXT:cDNA 10455 10460	NcDNA
+T1279	SO_EXT:0000655 10481 10487	ncRNAs
+T1280	SO_EXT:0000704 10526 10530	gene
+T1281	SO_EXT:0001877 10549 10556	lncRNAs
+T1282	GO_SO_EXT:chromosome 10597 10607	chromosome
+T1283	SO_EXT:0000652 10729 10736	sncRNAs
+T1284	SO_EXT:0000704 10759 10763	gene
+T1285	SO_EXT:0000276 10861 10867	miRNAs
+T1286	SO_EXT:0000704 10876 10880	gene
+T1287	CHEBI_SO_EXT:mRNA 10906 10911	mRNAs
+T1288	SO_EXT:biological_sequence 10917 10925	sequence
+T1289	SO_EXT:0001035 11045 11051	piRNAs
+T1290	SO_EXT:0001860 11056 11063	esiRNAs
+T1291	SO_EXT:0000101 11086 11107	transposable elements
+T1292	SO_EXT:0000276 11177 11183	miRNAs
+T1293	SO_EXT:0000704 11212 11216	gene
+T1294	SO_EXT:0001860 11247 11254	esiRNAs
+T1295	SO_EXT:0001026 11290 11296	genome
+T1296	CHEBI_SO_EXT:DNA 11823 11826	DNA
+T1297	SO_EXT:sequence_alteration_entity_or_process 11827 11840	modifications
+T1298	SO_EXT:0000655 11845 11851	ncRNAs
+T1299	SO_EXT:epigenetic_modification_entity_or_process 11879 11889	epigenetic
+T1300	SO_EXT:epigenetic_modification_entity_or_process 12075 12085	epigenetic
+T1301	SO_EXT:epigenetic_modification_entity_or_process 12284 12295	epigenetics
+T1302	SO_EXT:0001026 12809 12815	genome
+T1303	SO_EXT:0001026 13027 13034	genomes
+T1304	SO_EXT:sequence_alteration_entity_or_process 13056 13069	modifications
+T1305	SO_EXT:0000704 13100 13105	genes
+T1306	SO_EXT:epigenetic_modification_entity_or_process 13155 13165	epigenetic
+T1307	SO_EXT:epigenetic_modification_entity_or_process 13226 13236	epigenetic
+T1308	SO_EXT:0000704 13297 13302	genes
+T1309	SO_EXT:epigenetic_modification_entity_or_process 13353 13363	epigenetic
+T1310	SO_EXT:epigenetic_modification_entity_or_process 13585 13596	Epigenetics
+T1311	SO_EXT:epigenetic_modification_entity 13651 13667	epigenetic marks
+T1312	SO_EXT:epigenetic_modification_entity 13822 13838	epigenetic marks
+T1313	SO_EXT:epigenetic_modification_entity_or_process 13995 14005	epigenetic
+T1314	SO_EXT:epigenetic_modification_entity_or_process 14231 14241	epigenetic
+T1315	CHEBI_SO_EXT:DNA 14616 14619	DNA
+T1316	SO_EXT:sequence_alteration_entity_or_process 14657 14670	modifications
+T1317	SO_EXT:0001476 14675 14689	non-coding RNA
+T1318	SO_EXT:0001026 14754 14760	genome
+T1319	SO_EXT:epigenetic_modification_entity_or_process 14762 14772	Epigenetic
+T1320	CHEBI_SO_EXT:DNA 14788 14791	DNA
+T1321	SO_EXT:sequence_alteration_entity_or_process 14813 14826	modifications
+T1322	SO_EXT:0001934 14831 14846	non-coding RNAs
+T1323	SO_EXT:0000652 15084 15091	sncRNAs
+T1324	SO_EXT:0001026 15121 15127	genome
+T1325	SO_EXT:0000276 15187 15193	miRNAs
+T1326	SO_EXT:0001860 15229 15236	esiRNAs
+T1327	SO_EXT:0001026 15358 15364	genome
+T1328	SO_EXT:0000276 15379 15384	miRNA
+T1329	SO_EXT:0001035 15410 15415	piRNA
+T1330	SO_EXT:0000652 15420 15426	esiRNA
+T1331	SO_EXT:0000652 15472 15478	sncRNA
+T1332	SO_EXT:0001026 15601 15607	genome
+T1333	SO_EXT:0001035 15656 15662	piRNAs
+T1334	SO_EXT:0001860 15667 15674	esiRNAs
+T1335	SO_EXT:0001026 15718 15724	genome
+T1336	SO_EXT:0001026 15800 15806	genome
+T1337	SO_EXT:0000276 15905 15910	miRNA
+T1338	SO_EXT:0000276 15999 16005	miRNAs
+T1339	SO_EXT:0001026 16036 16043	genomic
+T1340	SO_EXT:0001026 16251 16257	genome
+T1341	SO_EXT:0000704 16588 16593	genes
+T1342	SO_EXT:epigenetic_modification_entity 16619 16634	epigenetic mark
+T1343	SO_EXT:0001023 16690 16696	allele
+T1344	SO_EXT:gene_product 16763 16776	gene products
+T1345	SO_EXT:0000704 16834 16839	genes
+T1346	SO_EXT:0000704 17025 17030	genes
+T1347	SO_EXT:0000704 17094 17099	genes
+T1348	SO_EXT:epigenetic_modification_entity_or_process 17334 17344	epigenetic
+T1349	SO_EXT:0001026 17438 17444	genome
+T1350	SO_EXT:0001026 17534 17540	genome
+T1351	SO_EXT:0000704 17942 17947	genes
+T1352	GO_SO_EXT:chromosome 17955 17966	chromosomes
+T1353	SO_EXT:0000704 18019 18024	genes
+T1354	SO_EXT:sequence_alteration_entity_or_process 18123 18135	modification
+T1355	SO_EXT:0001476 18140 18154	non-coding RNA
+T1356	SO_EXT:epigenetic_modification_entity_or_process 18300 18310	epigenetic
+T1357	SO_EXT:0001026 18346 18352	genome
+T1358	SO_EXT:0001026 18399 18406	genomic
+T1359	SO_EXT:epigenetic_modification_entity_or_process 18420 18430	epigenetic
+T1360	SO_EXT:epigenetic_modification_entity_or_process 18613 18623	epigenetic
+T1361	CHEBI_SO_EXT:DNA 18639 18642	DNA
+T1362	SO_EXT:sequence_alteration_entity_or_process 18664 18677	modifications
+T1363	SO_EXT:0001934 18682 18697	non-coding RNAs
+T1364	SO_EXT:0000652 18883 18889	sncRNA
+T1365	SO_EXT:0001026 18926 18932	genome
+T1366	SO_EXT:0000276 19057 19062	miRNA
+T1367	SO_EXT:0000652 19119 19125	esiRNA
+T1368	SO_EXT:0001026 19135 19141	genome
+T1369	SO_EXT:0000276 19180 19186	miRNAs
+T1370	SO_EXT:0001860 19220 19227	esiRNAs
+T1371	SO_EXT:sequence_alteration_entity_or_process 19442 19455	modifications
+T1372	CHEBI_SO_EXT:DNA 19457 19460	DNA
+T1373	SO_EXT:0000655 19477 19483	ncRNAs
+T1374	SO_EXT:epigenetic_modification_entity_or_process 19584 19594	epigenetic
+T1375	SO_EXT:0000704 19638 19642	gene
+T1376	CHEBI_SO_EXT:DNA 19747 19750	DNA
+T1377	CHEBI_SO_EXT:RNA 19755 19758	RNA
+T1378	SO_EXT:sequence_alteration_process 19771 19780	modifying
+T1379	SO_EXT:0001980 19795 19809	epigenetically
+T1380	SO_EXT:epigenetic_modification_entity_or_process 19931 19941	epigenetic
+T1381	SO_EXT:epigenetic_modification_entity_or_process 20089 20099	Epigenetic
+T1382	SO_EXT:0000704 20114 20118	gene
+T1383	SO_EXT:epigenetic_modification_entity_or_process 20142 20152	epigenetic
+T1384	CHEBI_SO_EXT:DNA 20173 20176	DNA
+T1385	SO_EXT:sequence_alteration_entity_or_process 20198 20211	modifications
+T1386	SO_EXT:0001934 20216 20231	non-coding RNAs
+T1387	SO_EXT:0000655 20233 20239	ncRNAs
+T1388	SO_EXT:0000655 20256 20262	ncRNAs
+T1389	SO_EXT:0001877 20264 20271	lncRNAs
+T1390	SO_EXT:0000276 20274 20283	microRNAs
+T1391	SO_EXT:0000276 20285 20291	miRNAs
+T1392	CHEBI_SO_EXT:RNA 20311 20315	RNAs
+T1393	SO_EXT:0001035 20317 20323	piRNAs
+T1394	SO_EXT:0000646 20340 20362	short interfering RNAs
+T1395	SO_EXT:0001860 20364 20371	esiRNAs
+T1396	SO_EXT:0000704 20446 20450	gene
+T1397	SO_EXT:sequence_alteration_entity_or_process 20592 20605	modifications
+T1398	CHEBI_SO_EXT:DNA 20610 20613	DNA
+T1399	CHEBI_SO_EXT:mRNA 20674 20679	mRNAs
+T1400	SO_EXT:0000655 20684 20690	ncRNAs
+T1401	SO_EXT:0000655 20692 20698	ncRNAs
+T1402	CHEBI_SO_EXT:mRNA 20747 20752	mRNAs
+T1403	CHEBI_SO_EXT:mRNA 20764 20768	mRNA
+T1404	SO_EXT:0001026 20824 20830	genome
+T1405	SO_EXT:0000101 20864 20885	transposable elements
+T1406	SO_EXT:0000180 20887 20903	retrotransposons
+T1407	SO_EXT:0000655 20911 20917	ncRNAs
+T1408	CHEBI_SO_EXT:DNA 20946 20949	DNA
+T1409	SO_EXT:sequence_alteration_entity_or_process 20971 20984	modifications
+T1410	SO_EXT:0000655 21017 21023	ncRNAs
+T1411	CHEBI_SO_EXT:DNA 21050 21053	DNA
+T1412	CHEBI_SO_EXT:RNA 21054 21057	RNA
+T1413	SO_EXT:sequence_alteration_process 21070 21079	modifying
+T1414	SO_EXT:0000704 21117 21121	gene
+T1415	CHEBI_SO_EXT:DNA 21189 21192	DNA
+T1416	SO_EXT:sequence_alteration_entity_or_process 21193 21206	modifications
+T1417	SO_EXT:0000655 21211 21217	ncRNAs
+T1418	SO_EXT:epigenetic_modification_entity_or_process 21442 21460	epigenetic changes
+T1419	CHEBI_SO_EXT:DNA 21578 21581	DNA
+T1420	SO_EXT:sequence_alteration_entity_or_process 21603 21615	modification
+T1421	SO_EXT:0000655 21623 21628	ncRNA
+T1422	CHEBI_SO_EXT:DNA 21883 21886	DNA
+T1423	SO_EXT:epigenetic_modification_entity_or_process 22033 22043	epigenetic
+T1424	CHEBI_SO_EXT:DNA 22071 22074	DNA
+T1425	SO_EXT:sequence_alteration_entity_or_process 22930 22943	modifications
+T1426	SO_EXT:epigenetic_modification_entity_or_process 22951 22971	epigenetic machinery
+T1427	SO_EXT:0001659 23074 23091	promotor elements
+T1428	SO_EXT:0000655 23120 23126	ncRNAs
+T1429	SO_EXT:epigenetic_modification_entity_or_process 23134 23144	epigenetic
+T1430	SO_EXT:epigenetic_modification_entity_or_process 23206 23216	epigenetic
+T1431	SO_EXT:epigenetic_modification_entity_or_process 23395 23405	epigenetic
+T1432	SO_EXT:epigenetic_modification_entity_or_process 23531 23541	epigenetic
+T1433	SO_EXT:epigenetic_modification_entity_or_process 23555 23565	Epigenetic
+T1434	SO_EXT:epigenetic_modification_entity_or_process 23679 23689	epigenetic
+T1435	SO_EXT:epigenetic_modification_entity_or_process 23792 23810	epigenetic changes
+T1436	SO_EXT:epigenetic_modification_entity_or_process 23953 23963	epigenetic
+T1437	SO_EXT:epigenetic_modification_entity_or_process 24085 24095	epigenetic
+T1438	SO_EXT:epigenetic_modification_entity_or_process 24367 24384	epigenetic change
+T1439	SO_EXT:epigenetic_modification_entity_or_process 24616 24634	epigenetic changes
+T1440	SO_EXT:epigenetic_modification_entity 24779 24788	epigenome
+T1441	SO_EXT:0000704 24856 24860	gene
+T1442	SO_EXT:epigenetic_modification_entity_or_process 25258 25276	epigenetic changes
+T1443	SO_EXT:epigenetic_modification_entity_or_process 25899 25917	epigenetic changes
+T1444	SO_EXT:0000276 26115 26121	miRNAs
+T1445	SO_EXT:0001860 26129 26136	esiRNAs
+T1446	SO_EXT:0000276 26496 26501	miRNA
+T1447	CHEBI_SO_EXT:RNA 26729 26732	RNA
+T1448	CHEBI_SO_EXT:RNA 26950 26953	RNA
+T1449	CHEBI_SO_EXT:tRNA 26968 26972	tRNA
+T1450	CHEBI_SO_EXT:RNA 27033 27036	RNA
+T1451	SO_EXT:epigenetic_modification_entity_or_process 27124 27141	epigenetic change
+T1452	SO_EXT:epigenetic_modification_entity_or_process 27327 27344	epigenetic change
+T1453	CHEBI_SO_EXT:DNA 27579 27582	DNA
+T1454	SO_EXT:0000165 27751 27760	enhancers
+T1455	SO_EXT:0000167 27762 27771	promoters
+T1456	SO_EXT:0000704 27776 27780	gene
+T1457	CHEBI_SO_EXT:DNA 27885 27888	DNA
+T1458	SO_EXT:epigenetic_modification_entity_or_process 27976 27986	epigenetic
+T1459	SO_EXT:epigenetic_modification_entity_or_process 28034 28044	epigenetic
+T1460	SO_EXT:0001026 28374 28380	genome
+T1461	SO_EXT:0000167 28420 28429	promoters
+T1462	SO_EXT:0000704 28447 28452	genes
+T1463	SO_EXT:epigenetic_modification_entity_or_process 28508 28518	epigenetic
+T1464	SO_EXT:epigenetic_modification_entity_or_process 28610 28620	epigenetic
+T1465	SO_EXT:epigenetic_modification_entity_or_process 28695 28705	epigenetic
+T1466	SO_EXT:epigenetic_modification_entity_or_process 28829 28839	epigenetic
+T1467	SO_EXT:epigenetic_modification_entity_or_process 28853 28863	epigenetic
+T1468	SO_EXT:epigenetic_modification_entity_or_process 28881 28891	epigenetic
+T1469	SO_EXT:epigenetic_modification_entity_or_process 29463 29473	epigenetic
+T1470	SO_EXT:epigenetic_modification_entity_or_process 29540 29550	epigenetic
+T1471	SO_EXT:epigenetic_modification_entity_or_process 30091 30101	epigenetic
+T1472	SO_EXT:0001420 30218 30235	transgenerational
+T1473	SO_EXT:epigenetic_modification_entity_or_process 30236 30246	epigenetic
+T1474	SO_EXT:epigenetic_modification_entity_or_process 30492 30502	epigenetic
+T1475	SO_EXT:epigenetic_modification_entity_or_process 30693 30703	epigenetic
+T1476	SO_EXT:epigenetic_modification_entity_or_process 30806 30816	epigenetic
+T1477	SO_EXT:epigenetic_modification_entity_or_process 33657 33667	epigenetic
+T1478	SO_EXT:epigenetic_modification_entity_or_process 33732 33742	epigenetic
+T1479	SO_EXT:epigenetic_modification_entity_or_process 34060 34078	epigenetic change(
+T1480	CHEBI_SO_EXT:DNA 34089 34092	DNA
+T1481	SO_EXT:sequence_alteration_entity_or_process 34131 34143	modification
+T1482	SO_EXT:epigenetic_modification_entity_or_process 34145 34165	epigenetic machinery
+T1483	SO_EXT:0000276 34170 34176	miRNAs
+T1484	SO_EXT:epigenetic_modification_entity_or_process 34567 34584	epigenetic change
+T1485	SO_EXT:epigenetic_modification_entity_or_process 34675 34694	epigenetic changes(
+T1486	SO_EXT:0000704 35009 35013	gene
+T1487	CHEBI_SO_EXT:mRNA 35028 35032	mRNA
+T1488	SO_EXT:epigenetic_modification_entity_or_process 35237 35257	epigenetic changes(s
+T1489	SO_EXT:epigenetic_modification_entity_or_process 35459 35469	epigenetic
+T1490	SO_EXT:epigenetic_modification_entity_or_process 35643 35661	epigenetic changes
+T1491	SO_EXT:epigenetic_modification_entity_or_process 35714 35724	epigenetic
+T1492	SO_EXT:epigenetic_modification_entity_or_process 35875 35885	epigenetic
+T1493	SO_EXT:0000165 35983 35990	markers
+T1494	SO_EXT:epigenetic_modification_entity_or_process 36036 36046	epigenetic
+T1495	SO_EXT:epigenetic_modification_entity_or_process 36384 36394	epigenetic
+T1496	SO_EXT:epigenetic_modification_entity_or_process 36517 36534	Epigenetic change
+T1497	SO_EXT:epigenetic_modification_entity_or_process 36794 36804	Epigenetic
+T1498	GO_SO_EXT:chromosome 37087 37098	chromosomal
+T1499	SO_EXT:0000161 37279 37290	methylation
+T1500	SO_EXT:epigenetic_modification_entity_or_process 37291 37301	Epigenetic
+T1501	SO_EXT:epigenetic_modification_entity_or_process 37467 37485	epigenetic changes
+T1502	SO_EXT:epigenetic_modification_entity_or_process 37637 37656	epigenetic changes(
+T1503	SO_EXT:epigenetic_modification_entity_or_process 38429 38439	epigenetic
+T1504	SO_EXT:epigenetic_modification_entity_or_process 38672 38690	epigenetic changes
+T1505	SO_EXT:epigenetic_modification_entity_or_process 39365 39375	epigenetic
+T1506	CHEBI_SO_EXT:DNA 39951 39954	DNA
+T1507	SO_EXT:epigenetic_modification_entity_or_process 40109 40119	epigenetic
+T1508	SO_EXT:epigenetic_modification_entity_or_process 40650 40660	epigenetic
+T1509	SO_EXT:epigenetic_modification_entity_or_process 40951 40970	epigenetic change(s
+T1510	SO_EXT:0001700 40973 40993	histone modification
+T1511	CHEBI_SO_EXT:DNA 40995 40998	DNA
+T1512	SO_EXT:epigenetic_modification_entity_or_process 41012 41022	epigenetic
+T1513	SO_EXT:0000276 41036 41042	miRNAs
+T1514	SO_EXT:epigenetic_modification_entity_or_process 41419 41436	epigenetic change
+T1515	SO_EXT:epigenetic_modification_entity_or_process 41503 41521	epigenetic change(
+T1516	SO_EXT:0000704 41736 41740	gene
+T1517	CHEBI_SO_EXT:mRNA 41755 41759	mRNA
+T1518	SO_EXT:epigenetic_modification_entity_or_process 41927 41945	epigenetic change(
+T1519	SO_EXT:epigenetic_modification_entity_or_process 42163 42180	epigenetic change
+T1520	SO_EXT:epigenetic_modification_entity_or_process 42348 42358	epigenetic
+T1521	SO_EXT:epigenetic_modification_entity_or_process 42462 42480	epigenetic change(
+T1522	SO_EXT:epigenetic_modification_entity_or_process 42891 42909	epigenetic changes
+T1523	SO_EXT:epigenetic_modification_entity_or_process 43271 43289	epigenetic changes
+T1524	SO_EXT:epigenetic_modification_entity_or_process 43475 43485	epigenetic
+T1525	SO_EXT:0000165 43579 43586	markers
+T1526	SO_EXT:epigenetic_modification_entity_or_process 43632 43642	epigenetic
+T1527	SO_EXT:epigenetic_modification_entity_or_process 43705 43725	epigenetic change(s)
+T1528	SO_EXT:epigenetic_modification_entity_or_process 43779 43797	epigenetic changes
+T1529	SO_EXT:epigenetic_modification_entity_or_process 44019 44029	epigenetic
+T1530	SO_EXT:epigenetic_modification_entity_or_process 44241 44251	epigenetic
+T1531	SO_EXT:epigenetic_modification_entity_or_process 44406 44423	Epigenetic change
+T1532	SO_EXT:0000161 44812 44823	methylation
+T1533	SO_EXT:epigenetic_modification_entity_or_process 44824 44834	Epigenetic
+T1534	SO_EXT:epigenetic_modification_entity_or_process 45109 45119	Epigenetic
+T1535	SO_EXT:sequence_alteration_entity_or_process 45443 45455	modification
+T1536	CHEBI_SO_EXT:DNA 45456 45459	DNA
+T1537	SO_EXT:0001476 45588 45605	tumorsmiRNAsZhang
+T1538	SO_EXT:0000306 45794 45814	modificationKilcoyne
+T1539	SO_EXT:sequence_alteration_entity_or_process 46311 46327	modification DNA
+T1540	SO_EXT:epigenetic_modification_entity_or_process 46340 46350	Epigenetic
+T1541	SO_EXT:sequence_alteration_entity_or_process 46553 46569	modification DNA
+T1542	SO_EXT:epigenetic_modification_entity_or_process 46582 46602	Epigenetic machinery
+T1543	SO_EXT:0001643 46603 46615	miRNAsPandey
+T1544	SO_EXT:sequence_alteration_entity_or_process 47176 47188	modification
+T1545	SO_EXT:0001473 47189 47202	miRNAsIgnacio
+T1546	SO_EXT:0001245 47685 47698	miRNAsBaselga
+T1547	SO_EXT:epigenetic_modification_entity_or_process 48099 48109	Epigenetic
+T1548	SO_EXT:sequence_alteration_entity_or_process 48618 48630	modification
+T1549	SO_EXT:0001573 48631 48649	miRNAsHalappanavar
+T1550	SO_EXT:sequence_alteration_entity_or_process 48938 48954	modification DNA
+T1551	SO_EXT:epigenetic_modification_entity_or_process 48967 48977	Epigenetic
+T1552	SO_EXT:epigenetic_modification_entity_or_process 49253 49263	Epigenetic
+T1553	SO_EXT:epigenetic_modification_entity_or_process 49376 49394	epigenetic changes
+T1554	SO_EXT:epigenetic_modification_entity_or_process 49631 49650	epigenetic change(s
+T1555	SO_EXT:epigenetic_modification_entity_or_process 49826 49843	epigenetic change
+T1556	SO_EXT:epigenetic_modification_entity_or_process 50022 50041	epigenetic change(s
+T1557	SO_EXT:epigenetic_modification_entity_or_process 50155 50175	epigenetic change(s)
+T1558	SO_EXT:epigenetic_modification_entity_or_process 50588 50598	epigenetic
+T1559	SO_EXT:epigenetic_modification_entity_or_process 50699 50709	epigenetic
+T1560	SO_EXT:epigenetic_modification_entity_or_process 50955 50973	epigenetic changes
+T1561	SO_EXT:epigenetic_modification_entity_or_process 51165 51175	epigenetic
+T1562	SO_EXT:epigenetic_modification_entity_or_process 51382 51400	epigenetic changes
+T1563	SO_EXT:0001980 51481 51495	epigenetically
+T1564	SO_EXT:epigenetic_modification_entity_or_process 51583 51593	epigenetic
+T1565	SO_EXT:epigenetic_modification_entity_or_process 51673 51683	epigenetic
+T1566	SO_EXT:0000165 51719 51726	markers
+T1567	SO_EXT:epigenetic_modification_entity_or_process 51827 51837	epigenetic
+T1568	SO_EXT:epigenetic_modification_entity_or_process 52167 52177	epigenetic
+T1569	CHEBI_SO_EXT:mRNA 52677 52683	marker
+T1570	SO_EXT:epigenetic_modification_entity_or_process 52799 52817	epigenetic changes
+T1571	SO_EXT:epigenetic_modification_entity_or_process 53075 53085	epigenetic
+T1572	SO_EXT:0001026 53179 53185	genome
+T1573	SO_EXT:sequence_coding_function 53228 53232	code
+T1574	SO_EXT:0001476 53245 53259	non-coding RNA
+T1575	SO_EXT:epigenetic_modification_entity_or_process 53352 53370	epigenetic changes
+T1576	SO_EXT:epigenetic_modification_entity_or_process 53465 53475	epigenetic
+T1577	SO_EXT:epigenetic_modification_entity_or_process 53642 53652	epigenetic
+T1578	SO_EXT:epigenetic_modification_entity_or_process 53754 53764	epigenetic
+T1579	SO_EXT:epigenetic_modification_entity_or_process 54037 54047	epigenetic
+T1580	CHEBI_GO_SO_EXT:enzyme 57393 57402	enzymatic
+T1581	SO_EXT:0000714 59052 59062	metabolite
+T1582	SO_EXT:epigenetic_modification_entity_or_process 59108 59118	epigenetic
+T1583	SO_EXT:0000704 59454 59461	genetic
+T1584	SO_EXT:0000704 59517 59524	genetic
+T1585	SO_EXT:0000704 59571 59579	genetics
+T1586	SO_EXT:polymorphism 59900 59913	polymorphisms
+T1587	SO_EXT:0000694 59915 59919	SNPs
+T1588	SO_EXT:sequence_alteration_entity_or_process 60037 60046	mutations
+T1589	SO_EXT:gene_product 60074 60087	gene products
+T1590	CHEBI_SO_EXT:DNA 60127 60130	DNA
+T1591	SO_EXT:0000417 60146 60165	miRNA binding sites
+T1592	SO_EXT:epigenetic_modification_entity_or_process 60285 60302	epigenetic change
+T1593	SO_EXT:epigenetic_modification_entity_or_process 60303 60320	Epigenetic change
+T1594	SO_EXT:0000704 60433 60440	genetic
+T1595	SO_EXT:sequence_alteration_entity_or_process 60441 60449	mutation
+T1596	SO_EXT:0001980 60464 60478	epigenetically
+T1597	SO_EXT:epigenetic_modification_entity_or_process 60928 60946	epigenetic changes
+T1598	CHEBI_SO_EXT:DNA 61133 61136	DNA
+T1599	CHEBI_SO_EXT:DNA 61392 61395	DNA
+T1600	SO_EXT:epigenetic_modification_entity_or_process 61490 61508	epigenetic changes
+T1601	SO_EXT:sequence_alteration_entity_or_process 61599 61611	modification
+T1602	CHEBI_SO_EXT:DNA 61977 61980	DNA
+T1603	SO_EXT:epigenetic_modification_entity_or_process 62397 62415	epigenetic changes
+T1604	SO_EXT:0000704 62455 62459	gene
+T1605	SO_EXT:epigenetic_modification_entity_or_process 62569 62587	epigenetic changes
+T1606	SO_EXT:epigenetic_modification_entity_or_process 62943 62953	epigenetic
+T1607	SO_EXT:epigenetic_modification_entity 63076 63085	epigenome
+T1608	SO_EXT:epigenetic_modification_entity 63303 63312	epigenome
+T1609	SO_EXT:epigenetic_modification_entity_or_process 63460 63470	epigenetic
+T1610	SO_EXT:sequence_variation_entity_or_quality 63542 63551	variation
+T1611	SO_EXT:epigenetic_modification_entity_or_process 63595 63613	epigenetic changes
+T1612	SO_EXT:epigenetic_modification_entity_or_process 63711 63729	epigenetic changes
+T1613	SO_EXT:epigenetic_modification_entity 63835 63844	epigenome
+T1614	SO_EXT:epigenetic_modification_entity_or_process 63930 63948	epigenetic change(
+T1615	SO_EXT:epigenetic_modification_entity_or_process 64205 64222	epigenetic change
+T1616	SO_EXT:epigenetic_modification_entity_or_process 64301 64311	epigenetic
+T1617	SO_EXT:epigenetic_modification_entity_or_process 64590 64608	Epigenetic changes
+T1618	SO_EXT:0000165 64621 64628	markers
+T1619	SO_EXT:0001980 64828 64842	epigenetically
+T1620	SO_EXT:genotype_or_entity_with_genotype 64982 64991	genotoxic
+T1621	SO_EXT:epigenetic_modification_entity_or_process 64992 65010	epigenetic changes
+T1622	SO_EXT:epigenetic_modification_entity_or_process 65400 65411	Epigenetics
+T1623	SO_EXT:epigenetic_modification_entity_or_process 65515 65533	epigenetic changes
+T1624	SO_EXT:0000165 65674 65681	markers
+T1625	SO_EXT:epigenetic_modification_entity_or_process 66091 66102	epigenetics
+T1626	SO_EXT:epigenetic_modification_entity_or_process 66421 66432	epigenetics
+T1627	SO_EXT:epigenetic_modification_entity_or_process 66494 66504	epigenetic
+T1628	SO_EXT:epigenetic_modification_entity_or_process 66659 66670	epigenetics
+T1629	SO_EXT:epigenetic_modification_entity_or_process 66926 66936	epigenetic
+T1630	SO_EXT:epigenetic_modification_entity_or_process 67182 67192	epigenetic
+T1631	SO_EXT:0000165 67285 67292	markers
+T1632	SO_EXT:epigenetic_modification_entity_or_process 67388 67398	epigenetic
+T1633	SO_EXT:epigenetic_modification_entity_or_process 67728 67746	epigenetic changes
+T1634	SO_EXT:epigenetic_modification_entity_or_process 67902 67912	epigenetic
+T1635	SO_EXT:genotype_or_entity_with_genotype 68187 68195	genotype
+T1636	SO_EXT:epigenetic_modification_entity_or_process 68528 68538	epigenetic
+T1637	SO_EXT:epigenetic_modification_entity_or_process 68657 68667	epigenetic
+T1638	SO_EXT:epigenetic_modification_entity_or_process 68847 68857	epigenetic
+T1639	SO_EXT:epigenetic_modification_entity_or_process 68976 68986	epigenetic
+T1640	SO_EXT:0001980 69092 69106	epigenetically
+T1641	CHEBI_SO_EXT:RNA 69533 69536	RNA
+T1642	SO_EXT:0000165 69732 69739	markers
+T1643	SO_EXT:epigenetic_modification_entity_or_process 69805 69815	epigenetic
+T1644	SO_EXT:epigenetic_modification_entity_or_process 70023 70033	epigenetic
+T1645	SO_EXT:epigenetic_modification_entity_or_process 70313 70323	epigenetic
+T1646	GO_SO_EXT:chromosome 71039 71049	chromosome
+T1647	SO_EXT:epigenetic_modification_entity_or_process 71153 71163	epigenetic
+T1648	SO_EXT:epigenetic_modification_entity_or_process 71678 71688	epigenetic
+T1649	SO_EXT:sequence_alteration_entity_or_process 71689 71701	perturbation
+T1650	SO_EXT:epigenetic_modification_entity_or_process 72281 72291	epigenetic
+T1651	SO_EXT:epigenetic_modification_entity_or_process 73934 73944	epigenetic
+T1652	SO_EXT:sequence_alteration_entity_or_process 73973 73986	modifications
+T1653	CHEBI_SO_EXT:DNA 73988 73991	DNA
+T1654	SO_EXT:0000652 74008 74015	sncRNAs
+T1655	SO_EXT:biological_conservation_process_or_quality 74026 74035	conserved
+T1656	SO_EXT:sequence_substitution_entity_or_process 74801 74813	replacements
+T1657	SO_EXT:epigenetic_modification_entity_or_process 74905 74915	epigenetic
+T1658	SO_EXT:epigenetic_modification_entity_or_process 75183 75193	epigenetic
+T1659	SO_EXT:epigenetic_modification_entity_or_process 75400 75410	epigenetic
+T1660	SO_EXT:epigenetic_modification_entity_or_process 75552 75562	epigenetic
+T1661	SO_EXT:0000704 75800 75807	genetic
+T1662	SO_EXT:0000704 75866 75874	genetics
+T1663	SO_EXT:epigenetic_modification_entity_or_process 76005 76015	epigenetic
+T1664	SO_EXT:epigenetic_modification_entity_or_process 76138 76156	epigenetic changes
+T1665	SO_EXT:epigenetic_modification_entity_or_process 76545 76555	epigenetic
+T1666	SO_EXT:0001980 76738 76752	epigenetically
+T1667	SO_EXT:epigenetic_modification_entity_or_process 76900 76910	epigenetic
+T1668	SO_EXT:epigenetic_modification_entity_or_process 77000 77010	epigenetic
+T1669	SO_EXT:0000165 77026 77033	markers
+T1670	SO_EXT:0000714 77307 77318	metabolites
+T1671	SO_EXT:epigenetic_modification_entity_or_process 77652 77662	epigenetic
+T1672	SO_EXT:0001980 77964 77978	epigenetically

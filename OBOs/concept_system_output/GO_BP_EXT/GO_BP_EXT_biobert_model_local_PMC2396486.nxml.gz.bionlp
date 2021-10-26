@@ -1,0 +1,96 @@
+T54	GO:0010467 8 18	Expression
+T55	GO_PATO_EXT:biological_behavior 331 342	behavioural
+T56	GO:0010467 486 496	expression
+T57	GO:0007618 647 652	mated
+T58	GO:0007567 673 678	birth
+T59	GO:0010467 915 925	expression
+T60	GO_EXT:negative_regulation 1064 1078	down-regulated
+T61	GO_EXT:positive_regulation 1086 1098	up-regulated
+T62	GO:0010467 1506 1516	expression
+T63	GO_PATO_EXT:biological_behavior 1655 1666	behavioural
+T64	GO:0019230 1818 1826	prenatal
+T65	GO:0007567 1936 1940	born
+T66	GO:0007567 2045 2049	born
+T67	GO:0019230 2237 2245	prenatal
+T68	CHEBI_GO_EXT:biological_process_or_quality_or_role 2389 2399	biological
+T69	GO:0019230 2526 2534	prenatal
+T70	GO:0008283 2714 2736	cellular proliferation
+T71	GO:0006915 2749 2758	apoptosis
+T72	GO:0022008 2768 2780	neurogenesis
+T73	GO_EXT:biological_growth_entity_or_process 2861 2867	growth
+T74	GO_EXT:biological_growth_entity_or_process 2909 2915	growth
+T75	GO:0010467 3029 3039	expression
+T76	GO_PATO_EXT:biological_behavior 3065 3078	Behaviourally
+T77	GO:0040023 3151 3166	hyperlocomotion
+T78	GO_PATO_EXT:biological_behavior 3367 3378	behavioural
+T79	GO:0040011 3469 3479	locomotion
+T80	GO_EXT:reaction_or_response 3483 3491	response
+T81	GO:0007567 3756 3766	signalling
+T82	GO:0065007 4236 4244	modulate
+T83	GO_EXT:positive_regulation 4633 4645	dysregulated
+T84	GO_PATO_EXT:biological_mover_or_transporter 4699 4718	biological pathways
+T85	GO:0006119 4729 4754	oxidative phosphorylation
+T86	GO:0055067 4782 4801	calcium homeostasis
+T87	GO_EXT:neurotransmission 4840 4857	neurotransmission
+T88	GO_EXT:positive_regulation 4933 4945	dysregulated
+T89	GO:0016265 5020 5026	mortem
+T90	GO:0007618 5571 5577	mating
+T91	GO:0007565 5593 5602	gestation
+T92	GO:0007605 5941 5950	postnatal
+T93	GO:0044849 6047 6060	estrous cycle
+T94	GO:0010467 6098 6108	expression
+T95	GO:0007566 7716 7727	immobilised
+T96	GO:0010467 8655 8665	Expression
+T97	GO:0010467 9151 9161	expression
+T98	GO_EXT:positive_regulation 12021 12033	dysregulated
+T99	GO_EXT:positive_regulation 12442 12454	dysregulated
+T100	GO_EXT:negative_regulation 13108 13124	down - regulated
+T101	GO_EXT:positive_regulation 13132 13144	up-regulated
+T102	GO_EXT:positive_regulation 13324 13336	dysregulated
+T103	GO:0010467 13866 13875	expressed
+T104	GO:0044237 14256 14275	cellular metabolism
+T105	GO:0007263 15235 15254	Signal transduction
+T106	GO:0009902 16453 16470	Cellular Movement
+T107	GO:0044277 16472 16489	cellular assembly
+T108	GO:0007267 16508 16522	cell signaling
+T109	GO:0048623 16554 16574	Post-transcriptional
+T110	GO_EXT:negative_regulation 16952 16966	down-regulated
+T111	GO_EXT:positive_regulation 17153 17165	up-regulated
+T112	GO_EXT:negative_regulation 17184 17198	down-regulated
+T113	GO_EXT:positive_regulation 17231 17243	dysregulated
+T114	GO:0010467 17434 17444	expression
+T115	GO:0010467 17672 17682	expression
+T116	GO:0016568 17998 18019	calcium sequestration
+T117	GO:0006260 18295 18305	repolarise
+T118	GO_EXT:negative_regulation 18716 18730	down-regulated
+T119	GO:0006897 18783 18794	endocytosis
+T120	GO_EXT:neurotransmission 18843 18859	neurotransmitter
+T121	GO_EXT:biological_release 18860 18867	release
+T122	GO_EXT:negative_regulation 19085 19099	down-regulated
+T123	GO:0044879 19200 19215	vesicle release
+T124	GO_EXT:negative_regulation 19296 19310	down-regulated
+T125	GO_EXT:negative_regulation 19638 19653	down-regulation
+T126	GO:0051318 20142 20150	adaptive
+T127	GO_EXT:biological_direction_or_guidance 20160 20168	directed
+T128	GO_PATO_EXT:biological_behavior 20169 20178	behaviors
+T129	GO:0010467 20422 20429	express
+T130	GO_EXT:negative_regulation 20576 20590	down-regulated
+T131	GO:0050886 20623 20637;20650 20658	degradation of ... proteins
+T132	GO:0007416 20723 20735	dopaminergic
+T133	GO_EXT:regulator 21003 21012	modulator
+T134	GO:0016265 21278 21284	mortem
+T135	GO_EXT:negative_regulation 21586 21600	down-regulated
+T136	GO_EXT:negative_regulation 21637 21651	down-regulated
+T137	GO:0016265 21696 21702	mortem
+T138	GO:0007568 21848 21857	signaling
+T139	GO:0007212 21887 21899	DA signaling
+T140	GO:0006260 22176 22186	repolarise
+T141	GO_EXT:reaction_or_response 22190 22198	response
+T142	GO:0010467 22809 22818	expressed
+T143	GO_PATO_EXT:biological_behavior 22973 22984	behavioural
+T144	GO:0006094 23134 23147	glutaminergic
+T145	GO:0046959 23196 23206	habituated
+T146	GO:0040011 23228 23238	locomotion
+T147	GO:0040023 23300 23315	hyperlocomotion
+T148	GO_PATO_EXT:biological_behavior 23648 23659	behavioural
+T149	GO:0007420 23901 23918	brain development

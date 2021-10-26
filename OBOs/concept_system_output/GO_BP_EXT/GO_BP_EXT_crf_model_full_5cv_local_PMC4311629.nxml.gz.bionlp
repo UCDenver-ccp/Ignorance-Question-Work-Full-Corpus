@@ -1,0 +1,193 @@
+T15113	GO:0010467 161 171	expression
+T15114	GO:0031649 179 190	thermogenic
+T15115	GO:0010467 273 282	expressed
+T15116	GO:0031649 377 388	thermogenic
+T15117	GO:0065007 415 425	controlled
+T15118	GO_EXT:biological_growth_entity_or_process 499 505	growth
+T15119	GO:0050851 630 640;648 661	activation ... thermogenesis
+T15120	GO_EXT:reaction_or_response 722 730	response
+T15121	GO:0046903 752 760	secreted
+T15122	GO:0008152 962 971	metabolic
+T15123	GO:0031649 999 1012	thermogenesis
+T15124	GO:0010467 1376 1390	overexpression
+T15125	GO:0046903 1606 1614	secreted
+T15126	GO_EXT:biological_recruitment 1713 1724	recruitment
+T15127	GO:0042593 3101 3120	glucose homeostasis
+T15128	GO:0007568 3247 3256	signaling
+T15129	GO:0016265 3591 3596	death
+T15130	GO:0007631 3853 3859	intake
+T15131	GO:0065007 3975 3985	regulation
+T15132	GO:0010805 4182 4195;4203 4209	regulation of ... intake
+T15133	GO:0048513 4849 4870	releasing fatty acids
+T15134	GO:0008152 5547 5556	metabolic
+T15135	GO:0060384 5810 5820	innervated
+T15136	GO:0045333 6035 6046	respiration
+T15137	GO:0006754 6052 6065	ATP synthesis
+T15138	GO:0031649 6080 6095	heat production
+T15139	GO:0030397 6202 6215	thermogenesis ...
+T15140	GO:0031649 6223 6238	heat production
+T15141	GO:0006936 6277 6288	contraction
+T15142	GO_PATO_EXT:biological_maturation 6326 6336	maturation
+T15143	GO:0099503 6344 6353	perinatal
+T15144	GO:0007567 6428 6433	birth
+T15145	GO:0007565 6504 6513	gestation
+T15146	GO:0007567 6585 6590	birth
+T15147	GO:0007631 7400 7406	intake
+T15148	GO:0006629 7892 7908	lipid metabolism
+T15149	GO:0016042 8109 8118	lipolysis
+T15150	GO:0008610 8128 8139	lipogenesis
+T15151	GO:0006635 8144 8169	fatty acid beta-oxidation
+T15152	GO:0006641 8261 8307	triglyceride hydrolysis coupled to resynthesis
+T15153	GO:0031649 8395 8408	thermogenesis
+T15154	GO:0051068 8637 8671	prolonged stimulation of lipolysis
+T15155	GO:0046323 8784 8798	glucose uptake
+T15156	GO:0046323 8891 8905	glucose uptake
+T15157	GO_EXT:reaction_or_response 9012 9020	responds
+T15158	GO:0046323 9058 9072	glucose uptake
+T15159	GO:0061610 9155 9179	glucose uptake increases
+T15160	GO:0008152 9403 9414	metabolized
+T15161	GO:0019432 9451 9473	triglyceride synthesis
+T15162	GO:0006633 9501 9521	fatty acid synthesis
+T15163	GO_EXT:breeding 9853 9857	bred
+T15164	GO:0008152 9944 9953	metabolic
+T15165	GO:0031649 9981 9994	thermogenesis
+T15166	GO:0031649 10122 10135	thermogenesis
+T15167	GO:0065007 10153 10163	regulation
+T15168	GO:0065007 10404 10414	regulating
+T15169	GO:0008152 10648 10658	metabolism
+T15170	GO:0008152 10675 10685	metabolism
+T15171	GO_EXT:muscle_structure_or_tissue_development 11540 11548	myogenic
+T15172	GO:0031649 12466 12479	thermogenesis
+T15173	GO_EXT:secretion_entity_or_process 12901 12910	secretion
+T15174	GO:0010467 13157 13167	expressing
+T15175	GO:0010467 13955 13969	overexpression
+T15176	GO_EXT:transcription 14032 14045	transcription
+T15177	GO_RO_EXT:developmental_differentiation_process 14061 14076	differentiation
+T15178	GO_EXT:biological_growth_entity_or_process 14191 14197	growth
+T15179	GO:0046903 14368 14376	secreted
+T15180	GO_EXT:biological_growth_entity_or_process 14451 14457	growth
+T15181	GO_EXT:biological_growth_entity_or_process 14498 14504	growth
+T15182	GO_PATO_EXT:cell_proliferation_or_proliferativity 14608 14621	proliferative
+T15183	GO:0010467 14650 14659	expressed
+T15184	GO:0065007 14822 14832	regulation
+T15185	GO_EXT:reaction_or_response 14855 14863	response
+T15186	GO:0010467 14947 14957	expression
+T15187	GO:0010467 15074 15084	expression
+T15188	GO:0008152 15512 15521	metabolic
+T15189	GO:0031649 15564 15577	thermogenesis
+T15190	GO_EXT:transcription 15621 15638	transcriptionally
+T15191	GO:0038001 15690 15699	paracrine
+T15192	GO_EXT:transcription 15722 15737	transcriptional
+T15193	GO:0010467 16271 16281	expression
+T15194	GO:0006006 16294 16312	glucose metabolism
+T15195	GO:0007605 16398 16407	postnatal
+T15196	GO_PATO_EXT:biological_maturation 16408 16418	maturation
+T15197	GO:0007631 16460 16467	feeding
+T15198	GO_EXT:biological_release 16523 16530	release
+T15199	GO_EXT:reaction_or_response 16734 16743	responses
+T15200	GO_PATO_EXT:biological_behavior 16872 16880	behavior
+T15201	GO:0008152 16991 17001	metabolism
+T15202	GO_PATO_EXT:inflammatory_process_or_quality 17111 17123	inflammatory
+T15203	GO:0046903 17137 17145	secreted
+T15204	GO:0046903 17592 17600	secreted
+T15205	GO_EXT:biological_routing_or_transport 17825 17833	delivery
+T15206	GO:0007631 17908 17919	food intake
+T15207	GO_PATO_EXT:phosphorylation_process 18083 18098	phosphorylation
+T15208	GO_EXT:transcription 18141 18154	transcription
+T15209	GO:0007263 18233 18252	signal transduction
+T15210	GO:0046903 18559 18567	secreted
+T15211	GO_EXT:reaction_or_response 18590 18598	response
+T15212	GO:0046323 19080 19094	glucose uptake
+T15213	GO:0008152 19196 19205	metabolic
+T15214	GO:0042593 19394 19413	glucose homeostasis
+T15215	GO_EXT:biological_recruitment 19777 19788	recruitment
+T15216	GO:0010467 20118 20128	expression
+T15217	GO:0010467 20390 20400	expression
+T15218	GO:0008355 20572 20590	oxygen consumption
+T15219	GO:0097009 20739 20757	energy homeostasis
+T15220	GO:0008152 20773 20790	metabolic control
+T15221	GO:0065007 20890 20898	regulate
+T15222	GO:0010467 20904 20914	expression
+T15223	GO:0031649 20919 20932	thermogenesis
+T15224	GO:0065007 20961 20969	regulate
+T15225	GO:1990659 20970 20992	adaptive thermogenesis
+T15226	GO:0065007 21027 21035	modulate
+T15227	GO:0010467 21041 21051	expression
+T15228	GO:0031649 21072 21085	thermogenesis
+T15229	GO:0008152 21846 21855	metabolic
+T15230	GO_EXT:biological_growth_entity_or_process 22098 22104	growth
+T15231	GO_EXT:bone_development_or_ossification 22187 22201	bone formation
+T15232	GO:0097009 22402 22420	energy homeostasis
+T15233	GO:0060612 22444 22456	adipogenesis
+T15234	GO_RO_EXT:developmental_differentiation_process 22602 22617	differentiation
+T15235	GO:0010467 22644 22654	expression
+T15236	GO:0097009 22704 22722	energy homeostasis
+T15237	GO:0031649 22815 22828	thermogenesis
+T15238	GO:0010467 22843 22852	expressed
+T15239	GO:0010467 23143 23150	express
+T15240	GO:0065007 23181 23189	regulate
+T15241	GO:0007631 23259 23270	food intake
+T15242	GO:0010467 23355 23364	expressed
+T15243	GO:0031649 23469 23482	thermogenesis
+T15244	GO:0007631 23757 23764	feeding
+T15245	GO_PATO_EXT:biological_behavior 23765 23773	behavior
+T15246	GO:0051852 23881 23922	differentiation of mesenchymal stem cells
+T15247	GO:0065007 24386 24396	regulation
+T15248	GO:0055064 24447 24468	metabolic homeostasis
+T15249	GO:0016311 24614 24631	dephosphorylation
+T15250	GO:0007224 24880 24897	signaling pathway
+T15251	GO:0008150 24919 24939	biological processes
+T15252	GO_EXT:transcription 25069 25082	transcription
+T15253	GO_PATO_EXT:phosphorylation_process 25434 25448	phosphorylated
+T15254	GO:0010467 25483 25493	expression
+T15255	GO_EXT:transcription 25521 25536	transcriptional
+T15256	GO_EXT:regulator 25537 25546	regulator
+T15257	GO:0046323 25963 25977	glucose uptake
+T15258	GO:0045861 26815 26828;26837 26853	regulation of ... tissue lipolysis
+T15259	GO:0007631 26941 26944	fed
+T15260	GO_PATO_EXT:physiological_process_or_quality 27095 27108	physiological
+T15261	GO:0042476 27211 27222;27227 27238	food intake ... lipogenesis
+T15262	GO:0007565 27267 27276	pregnancy
+T15263	GO_EXT:regulator 27398 27408	modulators
+T15264	GO:0008152 27423 27433	metabolism
+T15265	GO:0065007 27563 27571	modulate
+T15266	GO:0099503 27897 27906	perinatal
+T15267	GO:0007605 28012 28021	postnatal
+T15268	GO:0097009 28093 28111	energy homeostasis
+T15269	GO:0007631 28433 28440	feeding
+T15270	GO:0007565 28444 28452	pregnant
+T15271	GO:0008152 28672 28681	metabolic
+T15272	GO:0019042 28813 28828	proinflammatory
+T15273	GO:0007567 29111 29116	birth
+T15274	GO:0007565 29266 29275	pregnancy
+T15275	GO_EXT:biological_growth_entity_or_process 29450 29456	growth
+T15276	GO:0007565 29519 29528	gestation
+T15277	GO:0007565 29681 29692	Gestational
+T15278	GO:0007567 29842 29847	birth
+T15279	GO:0008152 29877 29886	metabolic
+T15280	GO:0007565 30109 30118	gestation
+T15281	GO:0008152 30145 30154	metabolic
+T15282	GO_EXT:regulator 30330 30340	regulators
+T15283	GO:0007565 30380 30389	gestation
+T15284	GO:0008152 30399 30408	metabolic
+T15285	GO:0007568 30644 30653	signaling
+T15286	GO:0031649 30764 30775	thermogenic
+T15287	GO:0010467 30922 30932	expression
+T15288	GO:0008152 31140 31149	metabolic
+T15289	GO:0010906 31370 31402	regulation of glucose metabolism
+T15290	GO_EXT:reaction_or_response 31419 31427	response
+T15291	GO_EXT:reaction_or_response 32259 32267	response
+T15292	GO_EXT:biological_recruitment 32371 32382	recruitment
+T15293	GO:0008152 32515 32528	metabolically
+T15294	GO:0031649 32619 32632	thermogenesis
+T15295	GO:0031649 32703 32716	thermogenesis
+T15296	GO:0031649 32887 32900	thermogenesis
+T15297	GO:0031649 32970 32983	thermogenesis
+T15298	GO_PATO_EXT:physiological_process_or_quality 33053 33066	physiological
+T15299	GO:0042593 33113 33132	glucose homeostasis
+T15300	GO_EXT:biological_recruitment 33584 33595	recruitment
+T15301	GO:0031649 33849 33862	thermogenesis
+T15302	GO:0006006 33916 33934	glucose metabolism
+T15303	GO:0010467 34028 34037	expressed
+T15304	GO:0008152 34500 34510	metabolism
+T15305	GO_EXT:negative_regulation 34523 34543	negatively regulates

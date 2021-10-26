@@ -1,0 +1,272 @@
+T16787	GO:0019835 480 490	life cycle
+T16788	GO:0065007 715 725	regulatory
+T16789	GO:0065007 1482 1492	regulatory
+T16790	GO:0048747 1645 1661	long development
+T16791	GO:0065007 2248 2256	regulate
+T16792	GO:0010467 2257 2272	gene expression
+T16793	GO:0010467 2558 2573	gene expression
+T16794	GO:0065007 2968 2978	regulatory
+T16795	GO:0065007 3201 3211	regulatory
+T16796	GO:0065007 3419 3429	regulatory
+T16797	GO:0019835 3565 3575	life cycle
+T16798	GO_EXT:biological_growth_entity_or_process 3922 3928	growth
+T16799	GO:0000003 3980 3992	reproductive
+T16800	GO:0006306 4177 4192	DNA methylation
+T16801	GO:0019835 4535 4545	life cycle
+T16802	GO:0065007 4772 4782	regulatory
+T16803	GO:0032969 5711 5730	protein-DNA complex
+T16804	GO:0043153 5873 5904	posttranslational modifications
+T16805	GO_MOP_EXT:methylation 5929 5940	methylation
+T16806	GO_PATO_EXT:phosphorylation_process 5942 5957	phosphorylation
+T16807	GO:0016567 5977 5991	ubiquitination
+T16808	GO_EXT:transcription 6586 6599	transcription
+T16809	GO:0065007 6760 6769	regulates
+T16810	GO:0010467 6770 6785	gene expression
+T16811	GO_MOP_EXT:methylation 6921 6932	methylation
+T16812	GO:0006306 6993 7008	DNA methylation
+T16813	GO:0065007 7539 7549	regulatory
+T16814	GO:0006306 7598 7613	DNA methylation
+T16815	GO:0065007 7682 7690	regulate
+T16816	GO:0010467 7691 7706	gene expression
+T16817	GO_MOP_EXT:methylation 7708 7719	Methylation
+T16818	GO_EXT:transcription 7757 7772	transcriptional
+T16819	GO_EXT:transcription 7872 7887	transcriptional
+T16820	GO_MOP_EXT:methylation 7952 7962	methylated
+T16821	GO:0006306 8207 8222	DNA methylation
+T16822	GO:0006260 8233 8248	DNA replication
+T16823	GO_MOP_EXT:methylation 8258 8269	methylation
+T16824	GO_MOP_EXT:methylation 8338 8347	methylate
+T16825	GO_EXT:biological_recruitment 8464 8471	recruit
+T16826	GO:0006260 8684 8695	replication
+T16827	GO_EXT:biological_translocation_entity_or_process 8833 8846	translocation
+T16828	CHEBI_GO_EXT:biological_process_or_quality_or_role 10414 10421	biology
+T16829	GO_EXT:transcription 10464 10475	transcribed
+T16830	GO:0065007 10515 10525	regulating
+T16831	GO:0010467 10526 10541	gene expression
+T16832	GO:0007129 10597 10618	chromosome remodeling
+T16833	GO_EXT:transcription 10624 10639	transcriptional
+T16834	GO_EXT:transcription 10648 10663	transcriptional
+T16835	GO:0065007 10664 10674	regulation
+T16836	GO:0010467 10759 10774	gene expression
+T16837	GO_EXT:transcription 10787 10802	transcriptional
+T16838	GO:0010467 10876 10891	gene expression
+T16839	GO:0006412 11000 11011	translation
+T16840	GO:0010467 11212 11227	gene expression
+T16841	GO:0048468 11432 11448	cell development
+T16842	GO:0006306 11823 11840	DNA modifications
+T16843	GO:0065007 11890 11900	regulation
+T16844	GO:0019835 11918 11928	life cycle
+T16845	GO:0009566 12568 12581	fertilization
+T16846	GO_RO_EXT:developmental_differentiation_process 12830 12845	differentiation
+T16847	GO:0065007 13247 13255	regulate
+T16848	GO:0010467 13260 13270	expression
+T16849	GO:0016458 13275 13284	silencing
+T16850	GO:0019835 13326 13336	life cycle
+T16851	GO:0009566 13417 13430	fertilization
+T16852	GO:0019835 13615 13625	life cycle
+T16853	GO:0009566 13637 13650	fertilization
+T16854	GO:0009790 13899 13912	embryogenesis
+T16855	GO:0071514 14053 14063	imprinting
+T16856	GO:0009566 14401 14414	fertilization
+T16857	GO:0016570 14649 14670	histone modifications
+T16858	GO:0010467 14690 14700	expression
+T16859	GO:0006306 14788 14803	DNA methylation
+T16860	GO:0016570 14805 14826	histone modifications
+T16861	GO:0009790 14907 14920	embryogenesis
+T16862	GO:0008413 15131 15150	guiding development
+T16863	GO:0010467 15204 15214	expression
+T16864	GO:0010467 15385 15395	expression
+T16865	GO:0010467 15427 15437	expression
+T16866	GO:0010467 15479 15489	expression
+T16867	GO:0009566 15566 15579	fertilization
+T16868	GO:0044838 15584 15593	quiescent
+T16869	GO:0010467 15642 15652	expression
+T16870	GO_EXT:transcription 15768 15781	transcription
+T16871	GO:0008283 15845 15863	cell proliferation
+T16872	GO_RO_EXT:developmental_differentiation_process 15868 15883	differentiation
+T16873	GO:0065007 15920 15930	regulation
+T16874	GO:0010467 15985 15995	expression
+T16875	GO:0071514 16096 16105	imprinted
+T16876	GO_EXT:transcription 16168 16183	transcriptional
+T16877	GO:0016458 16184 16193	silencing
+T16878	GO:0009790 16233 16246	embryogenesis
+T16879	GO:0071514 16561 16570	imprinted
+T16880	GO:0010467 16657 16666	expressed
+T16881	GO:0071514 16824 16833	Imprinted
+T16882	GO:0010467 16872 16881	expressed
+T16883	GO:0060021 16889 16909	prenatal development
+T16884	GO_EXT:negative_regulation 16928 16942	down-regulated
+T16885	GO:0007567 16949 16954	birth
+T16886	GO:0010467 16995 17002	express
+T16887	GO:0071514 17015 17024	imprinted
+T16888	GO:0071514 17084 17093	imprinted
+T16889	GO:0019230 17103 17111	prenatal
+T16890	GO:0060396 17137 17154	growth regulation
+T16891	GO:0007417 17156 17172	neurodevelopment
+T16892	GO:0007605 17178 17187	postnatal
+T16893	GO:0097009 17188 17206	energy homeostasis
+T16894	GO_PATO_EXT:biological_behavior 17211 17219	behavior
+T16895	GO:0016458 17466 17475	silencing
+T16896	GO:0009790 17503 17516	embryogenesis
+T16897	GO:0071514 17932 17941	imprinted
+T16898	GO:0071514 18009 18018	imprinted
+T16899	GO:0016570 18115 18135	histone modification
+T16900	GO:0010467 18155 18165	expression
+T16901	GO:0007530 18594 18611	sex determination
+T16902	GO:0006306 18639 18654	DNA methylation
+T16903	GO:0016570 18656 18677	histone modifications
+T16904	GO_RO_EXT:developmental_differentiation_process 18717 18732	differentiation
+T16905	GO_EXT:transcription 18838 18855	transcriptionally
+T16906	GO:0044838 18856 18865	quiescent
+T16907	GO:0008283 19072 19085	proliferation
+T16908	GO_RO_EXT:developmental_differentiation_process 19090 19105	differentiation
+T16909	GO:0010467 19154 19161	express
+T16910	GO:0016570 19434 19455	histone modifications
+T16911	GO:0006306 19457 19472	DNA methylation
+T16912	GO:0065007 19629 19637	regulate
+T16913	GO:0010467 19638 19653	gene expression
+T16914	GO:0010468 20100 20129	regulation of gene expression
+T16915	GO:0006306 20173 20188	DNA methylation
+T16916	GO:0016570 20190 20211	histone modifications
+T16917	GO:0065007 20436 20445	regulates
+T16918	GO:0010467 20446 20461	gene expression
+T16919	GO_EXT:transcription 20469 20484	transcriptional
+T16920	GO_EXT:transcription 20494 20509	transcriptional
+T16921	GO:0006306 20610 20625	DNA methylation
+T16922	GO_EXT:transcription 20657 20670	transcription
+T16923	GO:0006412 20796 20807	translation
+T16924	GO:0006306 20946 20961	DNA methylation
+T16925	GO:0016570 20963 20984	histone modifications
+T16926	GO:0010467 20997 21007	expression
+T16927	GO:0010467 21117 21132	gene expression
+T16928	GO:0010467 21150 21160	expression
+T16929	GO:0019297 21174 21184;21189 21206	control of ... DNA modifications
+T16930	GO:0001678 21299 21319	cellular homeostasis
+T16931	GO:0006306 21578 21593	DNA methylation
+T16932	GO:0016570 21595 21615	histone modification
+T16933	GO:0010467 21629 21639	expression
+T16934	GO:0098754 22388 22402	detoxification
+T16935	GO:0006747 22418 22444	consumption of glutathione
+T16936	GO:1990704 22456 22497	detoxification of reactive oxygen species
+T16937	GO:0006094 22700 22721	glycolytic production
+T16938	GO_EXT:transcription 23021 23034	transcription
+T16939	GO:0010467 23106 23116	expression
+T16940	GO:0042592 23378 23389	homeostasis
+T16941	GO:0008283 23706 23724	cell proliferation
+T16942	GO_RO_EXT:developmental_differentiation_process 23726 23741	differentiation
+T16943	GO:0071514 24841 24851	imprinting
+T16944	GO:0010467 24856 24871	gene expression
+T16945	GO_EXT:biological_growth_entity_or_process 25180 25186	growth
+T16946	GO:0007276 25361 25374	Gametogenesis
+T16947	GO:0007283 25394 25409	Spermatogenesis
+T16948	GO:0007567 25473 25477	born
+T16949	GO_PATO_EXT:biological_maturation 25524 25534	maturation
+T16950	GO:0000003 25579 25591	reproductive
+T16951	GO:0009566 26168 26181	fertilization
+T16952	GO:0010467 26502 26512	expression
+T16953	GO_PATO_EXT:biological_behavior 26550 26560	behavioral
+T16954	GO:0008152 26565 26574	metabolic
+T16955	GO_MOP_EXT:methylation 26974 26985	methylation
+T16956	GO:0065007 27019 27029	regulation
+T16957	GO:0006412 27051 27062	translation
+T16958	GO:0006306 27885 27900	DNA methylation
+T16959	GO:0007286 28163 28177	spermiogenesis
+T16960	GO:0065007 28558 28566	regulate
+T16961	GO:0008152 31364 31373	metabolic
+T16962	GO_EXT:biological_recruitment 31771 31780	recruited
+T16963	GO:0045333 32391 32402	respiratory
+T16964	GO_PATO_EXT:biological_behavior 32454 32464	behavioral
+T16965	GO:0007567 33978 33983	birth
+T16966	GO:0006306 34089 34104	DNA methylation
+T16967	GO:0016570 34123 34143	histone modification
+T16968	GO_PATO_EXT:biological_mover_or_transporter 34907 34926	biological pathways
+T16969	GO_EXT:biological_mover_or_transporter 34961 34979	biological pathway
+T16970	GO:0010467 35009 35024	gene expression
+T16971	CHEBI_GO_EXT:biological_process_or_quality_or_role 36220 36230	biological
+T16972	GO_MOP_EXT:methylation 36782 36793	methylation
+T16973	GO_MOP_EXT:methylation 37279 37290	methylation
+T16974	GO_EXT:reaction_or_response 37489 37497	response
+T16975	CHEBI_GO_EXT:biological_process_or_quality_or_role 38238 38248	biological
+T16976	GO:0006306 39951 39966	DNA methylation
+T16977	GO:0000003 40288 40297	reproduce
+T16978	GO:0000003 40807 40819	reproductive
+T16979	GO:0016570 40973 40993	histone modification
+T16980	GO:0006306 40995 41010	DNA methylation
+T16981	GO_PATO_EXT:biological_mover_or_transporter 41634 41653	biological pathways
+T16982	GO_EXT:biological_mover_or_transporter 41688 41706	biological pathway
+T16983	GO:0010467 41736 41751	gene expression
+T16984	CHEBI_GO_EXT:biological_process_or_quality_or_role 43826 43836	biological
+T16985	GO_PATO_EXT:biological_behavior 44760 44770	behavioral
+T16986	GO:0006434 44772 44781;44795 44823	metabolic ... abnormalitiesDNA methylation
+T16987	GO_MOP_EXT:methylation 45097 45108	methylation
+T16988	GO:0006306 46324 46339	DNA methylation
+T16989	GO:0006306 46566 46581	DNA methylation
+T16990	GO_PATO_EXT:biological_behavior 47107 47117	behavioral
+T16991	GO:0008152 47625 47634	metabolic
+T16992	GO_MOP_EXT:methylation 47673 47684	methylation
+T16993	GO_MOP_EXT:methylation 48087 48098	methylation
+T16994	GO_PATO_EXT:inflammatory_process_or_quality 48579 48591	inflammation
+T16995	GO:0007566 48774 48781	Implant
+T16996	GO:0006306 48951 48966	DNA methylation
+T16997	GO_MOP_EXT:methylation 49241 49252	methylation
+T16998	GO_EXT:reaction_or_response 49398 49406	response
+T16999	GO:0019835 52030 52040	life cycle
+T17000	CHEBI_GO_EXT:biological_process_or_quality_or_role 53147 53154	biology
+T17001	GO:0010467 53260 53270	expression
+T17002	CHEBI_GO_EXT:biological_process_or_quality_or_role 53668 53678	biological
+T17003	GO:0008152 55675 55685	metabolism
+T17004	GO_EXT:reaction_or_response 55772 55780	response
+T17005	GO:0008152 55867 55877	metabolism
+T17006	GO:0007565 56601 56609	pregnant
+T17007	GO:0008152 57192 57202	Metabolism
+T17008	GO:0008152 57419 57429	metabolism
+T17009	GO:0008152 57683 57692	metabolic
+T17010	GO:0007605 58225 58234	postnatal
+T17011	GO_EXT:reaction_or_response 59346 59353	respond
+T17012	GO:0008152 59692 59702	metabolism
+T17013	GO_EXT:reaction_or_response 59782 59789	respond
+T17014	GO_EXT:reaction_or_response 59936 59944	response
+T17015	GO:0006306 60127 60142	DNA methylation
+T17016	GO:0019050 60754 60800	transmission of somatic tissue characteristics
+T17017	GO:0006306 61133 61148	DNA methylation
+T17018	GO:0006306 61392 61407	DNA methylation
+T17019	GO:0006306 61977 61992	DNA methylation
+T17020	GO:0010467 62455 62470	gene expression
+T17021	GO:0001678 62776 62796	cellular homeostasis
+T17022	GO:0065007 62838 62848	regulatory
+T17023	GO:0001678 63429 63449	cellular homeostasis
+T17024	GO:0065007 63970 63980	regulatory
+T17025	GO:0065007 64065 64075	regulatory
+T17026	GO:0065007 64485 64495	regulation
+T17027	GO:0065007 64873 64883	regulation
+T17028	GO:0065007 65461 65471	regulation
+T17029	GO:0065007 65630 65640	regulatory
+T17030	GO:0065007 65882 65892	regulatory
+T17031	GO:0065007 66687 66697	regulation
+T17032	GO:0065007 67089 67099	regulatory
+T17033	CHEBI_GO_EXT:biological_process_or_quality_or_role 67205 67215	biological
+T17034	GO:0065007 67522 67532	regulatory
+T17035	GO:0008152 68235 68244	metabolic
+T17036	GO:0065007 68458 68468	regulatory
+T17037	GO:0065007 68997 69007	regulatory
+T17038	GO:0065007 69045 69055	regulatory
+T17039	GO:0000003 69367 69379	reproductive
+T17040	GO:0065007 70052 70062	regulatory
+T17041	GO:0007067 70506 70513	mitotic
+T17042	GO:0000003 70715 70727	reproduction
+T17043	GO:0000003 70753 70765	Reproduction
+T17044	GO:0000003 70867 70879	reproduction
+T17045	GO:0000003 70948 70960	reproductive
+T17046	GO:0000003 71498 71510	reproductive
+T17047	GO:0065007 72137 72147	regulatory
+T17048	GO:0016265 72488 72493	death
+T17049	GO:0065007 73330 73340	regulatory
+T17050	GO:0016570 73965 73986	histone modifications
+T17051	GO:0006306 73988 74003	DNA methylation
+T17052	GO:0065007 74180 74190	regulatory
+T17053	GO:0065007 74271 74280	regulated
+T17054	GO:0007618 75821 75827	moving
+T17055	GO:0065007 76932 76942	regulatory
+T17056	GO:0065007 77158 77168	regulatory
+T17057	GO:0065007 77839 77849	regulatory
+T17058	GO:0065007 77896 77906	regulatory
