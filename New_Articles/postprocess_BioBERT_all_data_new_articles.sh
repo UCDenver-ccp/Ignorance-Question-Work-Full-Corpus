@@ -35,7 +35,7 @@ all_lcs_path='/Ignorance-Question-Corpus/Ontologies/Ontology_Of_Ignorance_all_cu
 
 ##list of excluded files from training: held out eval files for larger corpus
 #evaluation_files="all" #TODO
-new_article_files='PMC7222517'
+new_article_files='PMC4949713,PMC7547020,PMC7074265,PMC6712354,PMC5904225,PMC4438576,PMC7222517'
 
 ##if a gold standard exists (true or false)
 gold_standard='false' #TODO!!!

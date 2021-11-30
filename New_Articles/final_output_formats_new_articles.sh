@@ -47,17 +47,16 @@ corpus='ignorance'
 
 
 ##list of excluded files from training: held out eval files for larger corpus
-new_article_files='PMC7222517'
+new_article_files='PMC4949713,PMC7547020,PMC7074265,PMC6712354,PMC5904225,PMC4438576,PMC7222517'
 
 
 
 ###the algo and the corresponding results file
 algos='CRF,BIOBERT'
-#algos='BIOBERT'
-#results_folders='BioBERT_Classification_Results'
 results_folders='CRF_Classification_Results,BioBERT_Classification_Results'
 output_folder='z_BIONLP_OUTPUT_FORMAT/'
 separate_all_combined_output='13_separate_combined'
+
 
 
 ##bionlp format
@@ -72,7 +71,8 @@ python3 $all_file_path$eval_path/final_output_knowtator_format.py -ontologies=$o
 
 
 ##final knowtator project
-knowator_projects='KNOWTATOR_PROJECTS/'
+knowtator_projects='z_KNOWTATOR_PROJECTS/'
+model='BEST_CLASSIFCATION_RESULTS'
 underscore='_'
 article_ext='.nxml.gz.txt'
 annotation_ext='.nxml.gz.xml.'
@@ -80,9 +80,11 @@ annotation_ext2='.xml'
 profiles_file='Default.xml'
 knowtator_ext='.knowtator'
 
+
+
 declare -a arr=('CRF_Classification_Results' 'BioBERT_Classification_Results')
 declare -a files=('0_all_combined' '1_binary_combined' '13_separate_combined')
-declare -a eval=('PMC7222517')
+declare -a eval=('PMC4949713' 'PMC7547020' 'PMC7074265' 'PMC6712354' 'PMC5904225' 'PMC4438576' 'PMC7222517')
 
 
 for i in "${arr[@]}"
@@ -94,8 +96,8 @@ do
     for j in "${files[@]}"
     do
         echo $j
-        mkdir $all_file_path$new_articles_path$output_results$knowator_projects$i$underscore$j
-        cd $all_file_path$new_articles_path$output_results$knowator_projects$i$underscore$j
+        mkdir $all_file_path$new_articles_path$output_results$knowtator_projects$i$underscore$j
+        cd $all_file_path$new_articles_path$output_results$knowtator_projects$i$underscore$j
 
 
         ##create all the files and folders for the knowtator project
