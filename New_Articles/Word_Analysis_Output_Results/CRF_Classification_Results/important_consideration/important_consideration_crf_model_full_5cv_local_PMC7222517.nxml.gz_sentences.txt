@@ -1,0 +1,204 @@
+PMCID	SENTENCE_NUMBER	SENTENCE	SENTENCE_INDICES	IGNORANCE_CLASSIFICATION
+PMC7222517.nxml.gz	0	['Transcriptional analyses of adult and pediatric adamantinomatous craniopharyngioma reveals similar expression signatures regarding potential therapeutic targets\n\nAbstract\n\nAdamantinomatous craniopharyngioma (ACP) is a biologically benign but clinically aggressive lesion that has a significant impact on quality of life.']	(0, 320)	FALSE
+PMC7222517.nxml.gz	1	['The incidence of the disease has a bimodal distribution, with peaks occurring in children and older adults.']	(321, 428)	FALSE
+PMC7222517.nxml.gz	2	['Our group previously published the results of a transcriptome analysis of pediatric ACPs that identified several genes that were consistently overexpressed relative to other pediatric brain tumors and normal tissue.']	(429, 644)	FALSE
+PMC7222517.nxml.gz	3	['We now present the results of a transcriptome analysis comparing pediatric to adult ACP to identify biological differences between these groups that may provide novel therapeutic insights or support the assertion that potential therapies identified through the study of pediatric ACP may also have a role in adult ACP.']	(645, 963)	FALSE
+PMC7222517.nxml.gz	4	['Using our compiled transcriptome dataset of 27 pediatric and 9 adult ACPs, obtained through the Advancing Treatment for Pediatric Craniopharyngioma Consortium, we interrogated potential age-related transcriptional differences using several rigorous mathematical analyses.']	(964, 1235)	FALSE
+PMC7222517.nxml.gz	5	['These included: canonical differential expression analysis; divisive, agglomerative, and probabilistic based hierarchical clustering; information theory based characterizations; and the deep learning approach, HD Spot.']	(1236, 1454)	FALSE
+PMC7222517.nxml.gz	6	['Our work indicates that there is no therapeutically relevant difference in ACP gene expression based on age.']	(1455, 1563)	FALSE
+PMC7222517.nxml.gz	7	['As such, potential therapeutic targets identified in pediatric ACP are also likely to have relvance for adult patients.']	(1564, 1683)	FALSE
+PMC7222517.nxml.gz	8	['Introduction\n\nAdamantinomatous craniopharyngioma (ACP) is a histologically benign brain tumor that arises in the sellar/suprasellar region.']	(1685, 1824)	FALSE
+PMC7222517.nxml.gz	9	['Despite being a WHO grade I lesion, ACP often follows a clinically aggressive course and has been associated with the worst quality of life outcomes of any pediatric brain tumor.']	(1825, 2003)	FALSE
+PMC7222517.nxml.gz	10	['Unlike its histological counterpart, Papillary Craniopharyngioma (PCP), ACP is characterized by bimodal incidence, with spikes during childhood and adulthood.']	(2004, 2162)	FALSE
+PMC7222517.nxml.gz	11	['Also unlike PCP, for which promising therapies targeting the BRAFv600e mutation are in clinical trials, ACP is known to harbor only a mutation in the CTNNB1 gene, leading to a failure of normal Î²-Catenin degradation, with resultant cytoplasmic and nuclear accumulation in a subset of cells, where it can act as a transcription factor that may promote ACP pathogenesis.']	(2163, 2532)	FALSE
+PMC7222517.nxml.gz	12	['Unfortunately, this understanding has not yet led to the introduction of effective targeted therapies against ACP.']	(2533, 2647)	TRUE
+PMC7222517.nxml.gz	13	['As such, current therapies consist primarily of surgery, radiation and intracystic treatments.']	(2648, 2742)	FALSE
+PMC7222517.nxml.gz	14	['While downstream effects of the CTNNB1 mutation appear to be the most likely driver mutation in ACP, it is likely that tumorigenesis is multifactorial.']	(2743, 2894)	FALSE
+PMC7222517.nxml.gz	15	['Recent studies of the human ACP transcriptome, using both microarray and RNA sequencing, have identified potential novel therapeutic targets.']	(2895, 3036)	FALSE
+PMC7222517.nxml.gz	16	['However, this work has focused exclusively on pediatric tumors, leaving open the question of whether these potential therapies could be relevant in adult patients, who represent approximately 69% of all patients with ACP.']	(3037, 3258)	TRUE
+PMC7222517.nxml.gz	17	['This work sought to investigate, using bulk RNA sequencing of adult and pediatric ACP, whether there is evidence that patients with ACP from different age cohorts could be expected to respond to the same targeted therapeutic strategies.']	(3260, 3496)	FALSE
+PMC7222517.nxml.gz	18	['In order to identify even subtle differences in the transcriptome profile of the 2 tissue populations, we conducted a highly rigorous mathematical analysis that considered the potential for both linear and non-linear age group-related dependencies within the data.']	(3497, 3761)	FALSE
+PMC7222517.nxml.gz	19	['Materials and methods\n\nTumor samples\n\nA total of 36 craniopharyngioma tumor samples, as diagnosed by surgical pathology, were included in this study (Table S1).']	(3763, 3923)	FALSE
+PMC7222517.nxml.gz	20	['Twenty-seven were acquired during surgery for pediatric patients (age at surgery <â\x80\x8918â\x80\x89years; meanâ\x80\x89=â\x80\x898.4â\x80\x89years, medianâ\x80\x89=â\x80\x898.0â\x80\x89years), and 9 from adults (age at surgery â\x89¥18â\x80\x89years; meanâ\x80\x89=â\x80\x8947.9â\x80\x89years, medianâ\x80\x89=â\x80\x8944.0â\x80\x89years).']	(3924, 4173)	FALSE
+PMC7222517.nxml.gz	21	['The pediatric specimens were obtained from patients who underwent surgery at member institutions of the Advancing Treatment for Pediatric Craniopharyngioma (ATPC) consortium.']	(4174, 4348)	FALSE
+PMC7222517.nxml.gz	22	['Adult specimens were obtained from University of Colorado Hospital and from the University of Alabama, Birmingham.']	(4349, 4463)	FALSE
+PMC7222517.nxml.gz	23	['Tumor samples were snap-frozen in liquid nitrogen in the operating room and subsequently stored in freezers at â\x88\x92â\x80\x8980â\x80\x89Â°C.']	(4464, 4590)	FALSE
+PMC7222517.nxml.gz	24	['For transport between institutions, samples were packaged on dry ice, shipped via overnight courier, and immediately placed in a freezer at â\x88\x92â\x80\x8980â\x80\x89Â°C.']	(4591, 4746)	FALSE
+PMC7222517.nxml.gz	25	['RNA extraction and sequencing\n\nRNA was extracted from snap-frozen samples using the Allprep DNA/RNA Kit (QIAGENÂ®, Maryland, USA).']	(4748, 4878)	FALSE
+PMC7222517.nxml.gz	26	['The quality of the isolated mRNA was determined via DNA analysis ScreenTape (Aligent Technologies).']	(4879, 4978)	FALSE
+PMC7222517.nxml.gz	27	['Samples that passed quality control were used to generate cDNA libraries using the Illumina TruSeq Stranded mRNA Sample Prep Kit.']	(4979, 5108)	FALSE
+PMC7222517.nxml.gz	28	['RNA sequencing was carried out using the Illumina HiSeq4000 platform with paired-end reads (2â\x80\x89Ã\x97â\x80\x89151).']	(5109, 5215)	FALSE
+PMC7222517.nxml.gz	29	['On average, 40 million reads were collected for each sample and outputted to FASTQ files.']	(5216, 5305)	FALSE
+PMC7222517.nxml.gz	30	['Sequencing reads were subjected to adapter-trimming and quality control using the Trimmomatic package.']	(5306, 5408)	FALSE
+PMC7222517.nxml.gz	31	['Files were mapped to the GRCh38 genome (v33) and subsequently sorted to yield BAM files using the standard STAR pipeline.']	(5409, 5530)	FALSE
+PMC7222517.nxml.gz	32	['BAM files were converted to feature counts using the R Bioconductor package RSubread.']	(5531, 5616)	FALSE
+PMC7222517.nxml.gz	33	['Normal pituitary RNA sequencing data was obtained from the GTEx portal (www.gtexportal.org).']	(5617, 5709)	FALSE
+PMC7222517.nxml.gz	34	['Analysis methodology\n\nDue to the possibility that adult and pediatric transcription patterns would be distinguished by only subtle expression differences, we chose a multimodal bioinformatic approach.']	(5711, 5911)	FALSE
+PMC7222517.nxml.gz	35	['This was designed to assess for both linear and non-linear relationships, but also to insulate the statistical analysis from potentially false assumptions.']	(5912, 6067)	FALSE
+PMC7222517.nxml.gz	36	['Canonical differential expression analysis\n\nFeature counts for transcriptomes of adult and pediatric ACP samples were analytically processed using a standard DESeq2 protocol.']	(6069, 6243)	FALSE
+PMC7222517.nxml.gz	37	['As the experiment intended to rule out differences in gene expression between the 2 age groups, an Independent Hypothesis Weighted (IHW) p-value threshold of 0.1 was utilized to filter transcripts identified as differentially expressed.']	(6244, 6480)	FALSE
+PMC7222517.nxml.gz	38	['Results were visualized using a Mass Action (MA) plot and a Euclidean Distance Matrix was employed to serve as a qualitative foundation from which to make statistical methodology arguments downstream.']	(6481, 6681)	FALSE
+PMC7222517.nxml.gz	39	['Caption (Fig): FIG 1\n\nGlobal Transcriptional Profiling of Adult and Pediatric ACP Samples.']	(6683, 6773)	FALSE
+PMC7222517.nxml.gz	40	['a MA-plot visualizing transcripts indicating significant (Independent Hypothesis Weighting (IHW) adjusted p-value <â\x80\x890.1; red) and insignificant genes (black) as determined in differential expression analysis; transcripts enriched relative to pediatric patients are log fold change (LFC) up (>â\x80\x890) and transcripts enriched relative to adult patients are LFC down (<â\x80\x890).']	(6774, 7147)	FALSE
+PMC7222517.nxml.gz	41	['b Euclidean sample distance matrix without clustering demonstrated the relative heterogeneity across all sample groups from a global transcriptional expression perspective.']	(7148, 7320)	FALSE
+PMC7222517.nxml.gz	42	['c-e Clustering paradigms utilized in dataset exploration.']	(7321, 7378)	FALSE
+PMC7222517.nxml.gz	43	['c Dendrogram yielded from the DIvisive ANAlysis (DIANA) hierarchical clustering algorithm.']	(7379, 7469)	FALSE
+PMC7222517.nxml.gz	44	['d Dendrogram produced by the AGlomerative NESting (AGNES) hierarchical clustering algorithm using complete linkage.']	(7470, 7585)	FALSE
+PMC7222517.nxml.gz	45	['e Clustering partitions and group ellipsoids generated by the fuzzy analysis (FANNY) probabilistic k-centroid technique.']	(7586, 7706)	FALSE
+PMC7222517.nxml.gz	46	['f-h Silhouette plots depicting mean silhouette width across a range of numbers of clusters.']	(7707, 7798)	FALSE
+PMC7222517.nxml.gz	47	['Possible silhouette values are within [â\x88\x92â\x80\x891,1] where a value of 1 indicates the cluster member is most-closely related to the members within that cluster and dissimilar to those outside of the cluster.']	(7799, 8003)	FALSE
+PMC7222517.nxml.gz	48	['As values approach â\x88\x92â\x80\x891, the opposite is true which indicates the cluster member is an outlier within the cluster.']	(8004, 8121)	FALSE
+PMC7222517.nxml.gz	49	['f Silhouette plot generated from the DIANA clustering presented in 1c.']	(8122, 8192)	FALSE
+PMC7222517.nxml.gz	50	['g Silhouette plot produced by the AGNES algorithm output presented in 1d.']	(8193, 8266)	FALSE
+PMC7222517.nxml.gz	51	['h Silhouette plot yielded by the FANNY algorithm results visualized in 1e\n\nDivisive, agglomerative, and probabilistic clustering was performed using the DIANA, AGNES, and FANNY functions in the cluster R package, respectively.']	(8267, 8493)	FALSE
+PMC7222517.nxml.gz	52	['AGNES was implemented with the complete-linkage method.']	(8494, 8549)	FALSE
+PMC7222517.nxml.gz	53	['Complete-linkage clustering groups variables by their most dissimilar members and also avoids combining clusters with highly similar elements (as opposed to single-linkage).']	(8550, 8723)	FALSE
+PMC7222517.nxml.gz	54	['As shown below in Fig.Â\xa01b, we expect no linear dissimilarity between transcriptomes relative to age group, making complete-linkage an appropriate clustering strategy.']	(8724, 8891)	FALSE
+PMC7222517.nxml.gz	55	['As subtle differences in the gene expression patterns could be expected, complete-linkage was employed due to its superiority over a single-linkage approach in handling data groups that closely neighbor one another.']	(8892, 9107)	FALSE
+PMC7222517.nxml.gz	56	['DIANA and AGNES calculate metrics for cluster organization known as the Divisive Coefficient (DC) and Agglomerative Coefficient (AC), respectively.']	(9108, 9255)	FALSE
+PMC7222517.nxml.gz	57	['These coefficients range between 0 and 1, and indicate the precision with which the dendrogram describes the data, with 1 being the most ideal structure and 0 being the worst.']	(9256, 9431)	TRUE
+PMC7222517.nxml.gz	58	['As FANNY is not a hierarchical algorithm, and is visualized in principal component space, the percent of variance explained serves as a surrogate value for AC and DC (i.e., a larger percent variance explained value indicates how well a datasets information is represented in the decomposed space).']	(9432, 9729)	FALSE
+PMC7222517.nxml.gz	59	['Although cluster analysis is a primarily descriptive mathematical technique, we calculated the silhouette width as a means to make a quantitative comparison of the differential expression data.']	(9732, 9925)	FALSE
+PMC7222517.nxml.gz	60	['Silhouette widths range between â\x88\x92â\x80\x891 and 1.']	(9926, 9972)	FALSE
+PMC7222517.nxml.gz	61	['A value of 1 indicates that the cluster members are closely related to the other members of the cluster, and not to members outside the cluster.']	(9973, 10117)	FALSE
+PMC7222517.nxml.gz	62	['A value of â\x88\x92â\x80\x891 suggests the cluster member is an outlier within the cluster and is actually more representative of other clusters.']	(10118, 10252)	FALSE
+PMC7222517.nxml.gz	63	['The mean Silhouette Value was calculated for a range of cluster numbers for the DIANA, AGNES, and FANNY algorithms (Fig.']	(10253, 10373)	FALSE
+PMC7222517.nxml.gz	64	['1f, g, h, respectively).']	(10374, 10398)	FALSE
+PMC7222517.nxml.gz	65	['Information theory analysis\n\nIn order to extend the analysis beyond the linear methodology utilized in the canonical analysis, we calculated the Kullback-Leibler (KL) divergence (DKL) and Maximal Information Coefficient (MIC).']	(10400, 10626)	FALSE
+PMC7222517.nxml.gz	66	['This was necessary because non-linear transcriptional relationships (i.e., dynamic networks of transcripts) between age groups could exist and are likely abundant, as seen by the development of numerous pathway-based analytical tools (e.g., GSEA, GO-terms, Reactome, etc.).']	(10627, 10900)	FALSE
+PMC7222517.nxml.gz	67	['While these types of modules are interesting they often require predefined lists.']	(10901, 10982)	FALSE
+PMC7222517.nxml.gz	68	['However, utilizing information theory allows us to inspect potential networks in the absence of prior known networks, and also reduces analytical bias.']	(10983, 11134)	FALSE
+PMC7222517.nxml.gz	69	['DKL is a mathematical approach to identify differences between data distributions through non-linear integration.']	(11136, 11249)	FALSE
+PMC7222517.nxml.gz	70	['While this is most commonly used to compare machine learning outputs to ground truth distributions, we employed it by treating one distribution (e.g., pediatric) as the predicted distribution and the other distribution (e.g., adult) as the target distribution (e.g.']	(11250, 11515)	FALSE
+PMC7222517.nxml.gz	71	['â\x80\x9cground truthâ\x80\x9d).']	(11516, 11536)	FALSE
+PMC7222517.nxml.gz	72	['This scenario effectively asks the following question: given the expression distribution of the adult cohort, how well can the distribution of the pediatric cohort be predicted.']	(11537, 11714)	FALSE
+PMC7222517.nxml.gz	73	['To calculate DKL, raw feature counts generated by RSubread were first class-balanced using the Synthetic Minority Oversampling Technique (SMOTE) via the python imblearn package.']	(11715, 11892)	FALSE
+PMC7222517.nxml.gz	74	['DKL values were then calculated for the synthetically balanced dataset using the python scipy stats module.']	(11893, 12000)	FALSE
+PMC7222517.nxml.gz	75	['MIC is used to measure the strength of any linear and/or non-linear relationship between two variables.']	(12002, 12105)	FALSE
+PMC7222517.nxml.gz	76	['This is accomplished by binning continuous variables and iteratively calculating mutual information (i.e., the dependence between variables) to identify the maxima.']	(12106, 12270)	FALSE
+PMC7222517.nxml.gz	77	['By plotting MIC against Pearsonâ\x80\x99s R the magnitude of the relationship between the variables can be visualized (MICâ\x80\x89=â\x80\x890 indicates no relationship; MICâ\x80\x89=â\x80\x891 indicates highly related), as can the nature of the relationship (linear vs. non-linear).']	(12271, 12524)	FALSE
+PMC7222517.nxml.gz	78	['MIC was calculated using the python minepy module.']	(12525, 12575)	FALSE
+PMC7222517.nxml.gz	79	['HD spot analysis\n\nRaw feature counts derived from RSubread were submitted to the HD Spot algorithm.']	(12577, 12676)	FALSE
+PMC7222517.nxml.gz	80	['Due to the substantial imbalance of data classes, the HD Spot algorithm was optimized with respect to maximizing the area under the precision-recall (AUPR) curve.']	(12677, 12839)	FALSE
+PMC7222517.nxml.gz	81	['HD Spot developed a classifier that achieved an average AUPR value of 1.00 over 5-fold cross-validation and subsequently determined the mean absolute Shapley value for each transcript.']	(12840, 13024)	FALSE
+PMC7222517.nxml.gz	82	['Shapley values can conceptually be understood as importance scores.']	(13025, 13092)	FALSE
+PMC7222517.nxml.gz	83	['In this context, a higher Shapley value means a transcript is more important in determining the age group from which the sample was taken.']	(13093, 13231)	TRUE
+PMC7222517.nxml.gz	84	['The top 50 transcripts ranked by Shapley value and the list of 20 previously identified therapeutic targets were then submitted for Metascape express analysis to explore potential ontologic connections between gene sets using GO terms.']	(13232, 13467)	FALSE
+PMC7222517.nxml.gz	85	['Results\n\nCanonical differential expression analysis reveals no therapeutically relevant distinction between adult and pediatric ACP specimens\n\nOverall, 87.3% of the transcripts interrogated were insignificant (IHW p-value >â\x80\x890.1) and slightly more transcripts enriched within the pediatric population versus the adult population (6.8% versus 5.9%, respectively, Fig.']	(13469, 13836)	FALSE
+PMC7222517.nxml.gz	86	['1a).']	(13837, 13841)	FALSE
+PMC7222517.nxml.gz	87	['Considerable heterogeneity between all samples (irrespective of age group) was identified with the Euclidean distance matrix (Fig.']	(13842, 13972)	FALSE
+PMC7222517.nxml.gz	88	['1b).']	(13973, 13977)	FALSE
+PMC7222517.nxml.gz	89	['Both the agglomerative and divisive clustering algorithms demonstrated reliable data organization (Fig.']	(13978, 14081)	FALSE
+PMC7222517.nxml.gz	90	['1c-d; Divisive Coefficient [DC]â\x80\x89=â\x80\x890.66, Agglomerative Coefficient [AC]â\x80\x89=â\x80\x890.59) as well as the absence of distinct clusters between the adult and pediatric ACP samples.']	(14082, 14257)	FALSE
+PMC7222517.nxml.gz	91	['Congruently, probabilistic analysis in 2D principal component space, using FANNY, depicted nearly 70 % of the data variance (69.93%, Fig.']	(14258, 14395)	FALSE
+PMC7222517.nxml.gz	92	['1e) and failed to partition the data into groups based on age cohort.']	(14396, 14465)	FALSE
+PMC7222517.nxml.gz	93	['Further analyses of these clustering approaches, using silhouette plots to quantify clustering integrity, demonstrated that kÂ\xa0=â\x80\x892 yields the optimal clustering (Fig.']	(14466, 14634)	FALSE
+PMC7222517.nxml.gz	94	['1f-h).']	(14635, 14641)	FALSE
+PMC7222517.nxml.gz	95	['However, all silhouette widths are close to 0 (maximum â\x89\x88 0.30), indicating that clusters are not unique from one another and cluster memberships could easily be randomized another way.']	(14642, 14828)	FALSE
+PMC7222517.nxml.gz	96	['When examined as a whole, agglomerative, divisive, and probabilistic clustering algorithms yield consistent and well-organized results, indicating that the transcriptomes of ACP specimens do not cluster based on the age of the patient from which they were obtained.']	(14829, 15094)	FALSE
+PMC7222517.nxml.gz	97	['Caption (Fig): FIG 2\n\nTranscriptional Profiling of Previously Identified Therapeutic Targets.']	(15096, 15189)	FALSE
+PMC7222517.nxml.gz	98	['a Previously identified therapeutic targets with transcriptions fold-change metrics for adult versus pediatric samples.']	(15190, 15309)	FALSE
+PMC7222517.nxml.gz	99	['A positive fold-change indicates enrichment in pediatric patients, and conversely a negative value indicates enrichment in adult patients.']	(15310, 15448)	FALSE
+PMC7222517.nxml.gz	100	['b Volcano plot for all transcripts with previously identified targets indicated by red arrows.']	(15449, 15543)	FALSE
+PMC7222517.nxml.gz	101	['The solid black horizontal line at yâ\x80\x89=â\x80\x891 indicates the threshold for p-value significance (pÂ\xa0<â\x80\x890.1; yâ\x80\x89=â\x80\x89â\x88\x92log(0.1)â\x80\x89=â\x80\x891).']	(15544, 15680)	FALSE
+PMC7222517.nxml.gz	102	['c-e Clustering paradigms utilized in dataset exploration.']	(15681, 15738)	FALSE
+PMC7222517.nxml.gz	103	['c Dendrogram yielded from the DIvisive ANAlysis (DIANA) hierarchical clustering algorithm with respect to only the twenty previously identified targets.']	(15739, 15891)	FALSE
+PMC7222517.nxml.gz	104	['d Dendrogram produced by the AGlomerative NESting (AGNES) hierarchical clustering algorithm using complete linkage with respect to only the twenty previously identified targets.']	(15892, 16069)	FALSE
+PMC7222517.nxml.gz	105	['e Clustering partitions and group ellipsoids generated by the fuzzy analysis (FANNY) probabilistic k-centroid technique with respect to only the twenty previously identified targets.']	(16070, 16252)	FALSE
+PMC7222517.nxml.gz	106	['f-h Silhouette plots depicting mean silhouette width across a range of numbers of clusters.']	(16253, 16344)	FALSE
+PMC7222517.nxml.gz	107	['f Silhouette plot generated from the DIANA clustering presented in 2c.']	(16345, 16415)	FALSE
+PMC7222517.nxml.gz	108	['g Silhouette plot produced by the AGNES algorithm output presented in 2d.']	(16416, 16489)	FALSE
+PMC7222517.nxml.gz	109	['h Silhouette plot yielded by the FANNY algorithm results visualized in 2e\n\nOur group previously identified a group of twenty potentially targetable transcripts within pediatric ACP.']	(16490, 16671)	FALSE
+PMC7222517.nxml.gz	110	['The primary clinical question underlying this research is to determine whether initial treatment strategies against ACP should be differentiated based on age at diagnosis.']	(16672, 16843)	FALSE
+PMC7222517.nxml.gz	111	['Accordingly, we validated these targets in the current dataset compared to normal pituitary (Figure S1) and created a subset of the transcriptome data focusing on these twenty targets to assess differential expression status (Fig.Â\xa02a and b).']	(16844, 17086)	FALSE
+PMC7222517.nxml.gz	112	['Of the previously identified potential targets, three genes were significant (IHW p-value <â\x80\x890.1): SHH, MAPK14, and AREG.']	(17087, 17209)	FALSE
+PMC7222517.nxml.gz	113	['Next, this data subset was subjected to the same divisive, agglomerative, and probabilistic clustering protocols (Fig.']	(17210, 17328)	FALSE
+PMC7222517.nxml.gz	114	['2c-e) as the total dataset above.']	(17329, 17362)	FALSE
+PMC7222517.nxml.gz	115	['There was slight improvement in data organization (i.e., an increase in clustering coefficients; DCâ\x80\x89=â\x80\x890.78, and ACâ\x80\x89=â\x80\x890.77, relative to 0.66 and 0.59 when analyzing the full transcriptome).']	(17363, 17559)	FALSE
+PMC7222517.nxml.gz	116	['Additionally, kÂ\xa0=â\x80\x892 remained the superior cluster count but higher k values improved relative to the clustering performance of the full transcriptome (Fig.']	(17560, 17718)	FALSE
+PMC7222517.nxml.gz	117	['2f-h).']	(17719, 17725)	FALSE
+PMC7222517.nxml.gz	118	['Although four genes were significantly differentially expressed, the data subset remained linearly undifferentiable based on age.']	(17726, 17855)	FALSE
+PMC7222517.nxml.gz	119	['In other words, these results indicate that there is no direct linear relationship between transcriptional profiles and age group at diagnosis.']	(17856, 17999)	FALSE
+PMC7222517.nxml.gz	120	['Information theory and machine learning techniques identify a cohort of transcripts relevant to differentiating adult and pediatric patients\n\nCaption (Fig): FIG 3\n\nInformation Theory-Based Analysis Suggests Majority of Genes Have Minimal Linear and Non-linear Relationships with Age Groups.']	(18002, 18292)	FALSE
+PMC7222517.nxml.gz	121	['a Kullback-Leibler (KL) divergence representation of SHH (top) and IL6R (bottom) distributions for adult and pediatric samples.']	(18293, 18420)	FALSE
+PMC7222517.nxml.gz	122	['b KL-divergence versus Log Fold Change plot, with previously identified therapeutic targets overlaid and all points colored by IHW-adjusted p-value, demonstrating relationship between calculated LFC and informational differences.']	(18421, 18650)	FALSE
+PMC7222517.nxml.gz	123	['Higher KL-Divergence values indicate that a gene has informational difference between age groups.']	(18651, 18748)	FALSE
+PMC7222517.nxml.gz	124	['As KL-Divergence is an asymmetric method, the scenario of having a pediatric prior (left) and an adult prior (right) are both shown.']	(18749, 18881)	FALSE
+PMC7222517.nxml.gz	125	['c Pearson Correlation Coefficient (PCC) vs Maximal Information Criterion (MIC) plot with previously identified targets overlaid.']	(18882, 19010)	FALSE
+PMC7222517.nxml.gz	126	['MIC scores the strength of a relationship from 0 (no relationship) to 1 (noise-free relationship) for genes between the age groups.']	(19011, 19142)	FALSE
+PMC7222517.nxml.gz	127	['Points A and B on the graph represent where genes should fall if they have a strong direct or inverse linear relationship with age groups.']	(19143, 19281)	FALSE
+PMC7222517.nxml.gz	128	['Values that have low PCC and high MIC scores indicate genes with non-linear (i.e.']	(19282, 19363)	FALSE
+PMC7222517.nxml.gz	129	['dynamic; one-vs-many) relationships.']	(19364, 19400)	FALSE
+PMC7222517.nxml.gz	130	['d Summary statistics of where genes lie on the PCC vs MIC plot along with their respective differential expression values as visualized in (b)\n\nIn the present context, Kullback-Leibler divergence (DKL) represents the difference between transcript expression profiles of the two age groups (Fig.Â\xa03a).']	(19401, 19701)	FALSE
+PMC7222517.nxml.gz	131	['DKL is asymmetric, so we visualize both directions of the relationship (i.e., Pediatrics to Adults, and Adults to Pediatrics; Fig.']	(19702, 19832)	FALSE
+PMC7222517.nxml.gz	132	['3b).']	(19833, 19837)	FALSE
+PMC7222517.nxml.gz	133	['These results demonstrate that qualitatively the global transcriptomes of both age groups are informationally similar.']	(19838, 19956)	FALSE
+PMC7222517.nxml.gz	134	['Of the four differentially expressed therapeutic targets, SHH and AREG demonstrate the greatest informational difference (DKLâ\x80\x89â\x89\x88â\x80\x893) although still less than 50 % of maximum (DKLâ\x80\x89â\x89\x88â\x80\x896) informational differences (i.e., they are not among the top contributors for informational difference between age groups).']	(19957, 20273)	FALSE
+PMC7222517.nxml.gz	135	['We analytically assed both linear and non-linear relationships by comparing the MIC versus Pearsonâ\x80\x99s R (Fig.']	(20276, 20386)	FALSE
+PMC7222517.nxml.gz	136	['3c).']	(20387, 20391)	FALSE
+PMC7222517.nxml.gz	137	['From this we determined that of the 41,914 transcripts interrogated only 0.03% (NÂ\xa0=â\x80\x8913) genes maintain expression levels that differ based on age group (Fig.']	(20392, 20552)	FALSE
+PMC7222517.nxml.gz	138	['3d).']	(20553, 20557)	FALSE
+PMC7222517.nxml.gz	139	['The encoded genes include a long intergenic non-protein coding gene, innate immune system related genes, a chromosomal open reading frame, and a keratin metabolism related gene.']	(20558, 20735)	FALSE
+PMC7222517.nxml.gz	140	['When cross-checked with canonical differential analysis methods, four genes (FBXL16, COG8, CHST2, and TMCC2) were statistically significant as determined by p-value.']	(20736, 20901)	FALSE
+PMC7222517.nxml.gz	141	['However, Log Fold Change (LFC) magnitudes were less than 1 for all but FBXL16 (LFCâ\x80\x89=â\x80\x891.38).']	(20902, 20997)	FALSE
+PMC7222517.nxml.gz	142	['Of the seven genes identified, none are currently of therapeutic interest.']	(20998, 21072)	FALSE
+PMC7222517.nxml.gz	143	['Ontology assessment of deep learning identified age group-differentiable transcripts\n\nCaption (Fig): FIG 4\n\nDeep Learning Approach HD Spot Identifies Genes Related to Adult and Pediatric Cohort Differences From Raw Feature Counts.']	(21074, 21304)	FALSE
+PMC7222517.nxml.gz	144	['a Summary plot of the top 50 genes identified by HD Spot as being the most important in separating adult and pediatric ACP transcriptomes.']	(21305, 21443)	TRUE
+PMC7222517.nxml.gz	145	['b Heatmap of GO terms found to be enriched in Metascape analysis comparing HD Spot-identified and the 20 previously identified therapeutic targets.']	(21444, 21591)	FALSE
+PMC7222517.nxml.gz	146	['Heatmap color represents ontology term enrichment\n\nFollowing classification using the HD Spot algorithm, the 50 (0.20%) transcripts with the highest Shapley values (Fig.Â\xa04a) and the 20 previously identified potential therapeutic targets were examined using a Metascape analysis (Fig.']	(21592, 21876)	FALSE
+PMC7222517.nxml.gz	147	['4b).']	(21877, 21881)	FALSE
+PMC7222517.nxml.gz	148	['HD Spot identified primarily pseudogenes, novel transcripts, and non-coding transcripts as most differentiable between age groups.']	(21882, 22012)	FALSE
+PMC7222517.nxml.gz	149	['Only one ontology group (GO:0051222) is enriched in HD spot analysis and it is also enriched (though more significantly) with respect to the therapeutic targets.']	(22013, 22174)	FALSE
+PMC7222517.nxml.gz	150	['The lack of enrichment returned from Metascape analysis reinforces that the differential genes identified are not well studied and are currently not of therapeutic interest.']	(22175, 22348)	FALSE
+PMC7222517.nxml.gz	151	['Importantly, HD Spot achieved a mean 5-fold cross-validation area under precision-recall curve value of 0.97, indicating that the derived classifier was well optimized.']	(22349, 22517)	FALSE
+PMC7222517.nxml.gz	152	['In total, these findings indicate that while there may be underlying transcriptional difference for ACP pathogensis relative to pediatric and adult patients, current therapeutic targets do not maintain age-dependent linear or non-linear expression signatures.']	(22518, 22777)	FALSE
+PMC7222517.nxml.gz	153	['Discussion\n\nUsing a thorough comparative bioinformatic analysis following bulk tissue RNA sequencing of pediatric and adult ACP tissue, we identified no gene expression differences that have implications regarding potential therapies.']	(22780, 23014)	TRUE
+PMC7222517.nxml.gz	154	['This implies that potential therapies identified or initially tested in either the adult or pediatric population will have relevance in the other age group.']	(23015, 23171)	TRUE
+PMC7222517.nxml.gz	155	['To our knowledge this work consists of the largest analysed cohort of ACP transcriptome data to date.']	(23172, 23273)	FALSE
+PMC7222517.nxml.gz	156	['Canonical differential expression techniques demonstrated no clear differences between age groups.']	(23275, 23373)	FALSE
+PMC7222517.nxml.gz	157	['At the global level, only 12 and 13% of transcripts yielded a Log Fold Change (LFC) with an IHW-adjusted p-value <â\x80\x890.1.']	(23374, 23495)	TRUE
+PMC7222517.nxml.gz	158	['Using divisive, agglomerative, and probabilistic hierarchical clustering approaches, we observed that while clustering was at a relative optimum with kÂ\xa0=â\x80\x892 clusters, cluster memberships were arbitrary (mean silhouette widths <â\x80\x890.35) and contained a mixture of age groups in each branch.']	(23496, 23787)	FALSE
+PMC7222517.nxml.gz	159	['In the context of the twenty previously identified potential therapeutic targets, we found that only SHH, AREG, and MAPK14 were differentially expressed with adjusted p-value <â\x80\x890.1.']	(23788, 23971)	FALSE
+PMC7222517.nxml.gz	160	['Analysis of these 20 transcripts demonstrated the same clustering performance results that were observed with analysis of the entire transcriptome.']	(23972, 24119)	FALSE
+PMC7222517.nxml.gz	161	['Specifically, adult and pediatric patients did not cluster uniquely and inter-cluster members could arbitrarily be replaced by intra-cluster members.']	(24120, 24269)	FALSE
+PMC7222517.nxml.gz	162	['The findings from the canonical techniques were confirmed through further analysis using information theory principles.']	(24271, 24390)	FALSE
+PMC7222517.nxml.gz	163	['This demonstrated that 99.97% of the transcriptome has no expression level relationship with the age group of the patient.']	(24391, 24513)	FALSE
+PMC7222517.nxml.gz	164	['The remaining 0.03% was composed of a mixed collection of transcripts that have not been implicated in tumor pathogenesis or therapy, and LFCs were modest.']	(24514, 24669)	FALSE
+PMC7222517.nxml.gz	165	['Next, we sought to qualitatively examine non-linear transcriptional relationships to age group by utilizing KL-divergence.']	(24671, 24793)	FALSE
+PMC7222517.nxml.gz	166	['This again demonstrated that the global transcriptome profile for pediatric ACP differs very little from that of adult ACP.']	(24794, 24917)	FALSE
+PMC7222517.nxml.gz	167	['Quantitative assessment of linear and non-linear relationships using MIC vs. Pearsonâ\x80\x99s R plots revealed that over 99% of transcripts do not possess strong relationships of any type to age group.']	(24918, 25114)	FALSE
+PMC7222517.nxml.gz	168	['Importantly, the required synthetic expansion of the dataset (see Methods) in order to calculate DKL and MIC would be expected to artificially magnify any data relationships.']	(25115, 25289)	TRUE
+PMC7222517.nxml.gz	169	['Therefore, the lack of any clear relationship between transcript expression and age group in this context further supports the assertion that the adult and pediatric transcriptomes lack therapeutically relevant differeces.']	(25290, 25512)	FALSE
+PMC7222517.nxml.gz	170	['The threshold selected to distinguish adult from pediatric ACP (age 18â\x80\x89years) may be considered arbitrary.']	(25514, 25622)	FALSE
+PMC7222517.nxml.gz	171	['However, the bimodal age distribution of ACP incidence includes a nadir between age 20 and age 39.']	(25623, 25721)	FALSE
+PMC7222517.nxml.gz	172	['This implies that there may be a distinction, on some level, between the tumors that present before and after this window.']	(25722, 25844)	FALSE
+PMC7222517.nxml.gz	173	['The age threshold of 18â\x80\x89years has further clinical significance because it relates to the clinical environment (pediatric vs. adult) in which a patient may receive care.']	(25845, 26016)	FALSE
+PMC7222517.nxml.gz	174	['Furthermore, by leveraging the deep learning technique HD Spot, we identified genes, in a manner free of human-interpreter bias, that have age group dependent expression profiles.']	(26017, 26196)	FALSE
+PMC7222517.nxml.gz	175	['HD Spot accurately discriminated between pediatric and adult transcriptomes.']	(26197, 26273)	FALSE
+PMC7222517.nxml.gz	176	['The top 50 genes contributing to this classification were primarily comprised of genomic features that are currently poorly understood (e.g., pseudogenes, novel transcripts, etc.).']	(26274, 26454)	FALSE
+PMC7222517.nxml.gz	177	['Through utilizing classical genomic analysis protocols, information theoretic models, and deep learning this work rigorously interrogated linear and non-linear relationships to demonstrate that, at the transcript level, there is no evidence to differentiate therapy between adult and pediatric ACP patients strictly based on age at diagnosis.']	(26455, 26797)	FALSE
+PMC7222517.nxml.gz	178	['Limitations\n\nDespite the rigorous characterization of the transcriptional relationship between pediatric and adult ACP tumor tissue, our findings are limited by the fact that only RNA expression profiles were considered.']	(26799, 27019)	FALSE
+PMC7222517.nxml.gz	179	['This provides a specific window into the genomic landscape.']	(27020, 27079)	FALSE
+PMC7222517.nxml.gz	180	['It does not provide thorough insight into potential differences in the epigenetic environment or extracellular milieu between pediatric and adult ACP.']	(27080, 27230)	FALSE
+PMC7222517.nxml.gz	181	['Furthermore, the transcriptome data analyzed was generated through bulk RNA sequencing.']	(27231, 27318)	FALSE
+PMC7222517.nxml.gz	182	['Given heterogeneous nature of ACP tissue, bulk sequencing is likely to lose some information, which may be explored in more detail with techniques such as single cell RNAseq, RNA mutation analysis or protein-level quantification.']	(27319, 27548)	FALSE
+PMC7222517.nxml.gz	183	['Lastly, there is also still potential that an even larger dataset contrasting these age groups (which to our knowledge does not exist) may still reveal more therapeutically important differences.']	(27549, 27744)	TRUE
+PMC7222517.nxml.gz	184	['Such studies may identify biological distinctions that could guide therapeutic intervention, even if this is at the level of second or third line therapy.']	(27745, 27899)	FALSE
+PMC7222517.nxml.gz	185	['Conclusions\n\nAnalysis using multiple bioinformatic techniques, including the Deep Learning method, HD Spot, indicates that there is no therapeutically relevant distinction between ACP tissuein adult and pediatric patient.']	(27901, 28122)	FALSE
+PMC7222517.nxml.gz	186	['This implies that the identification of biologically-guided therapeutic targets, and the potential clinical translation of such targets in either group of patients may also be relevant in the other.']	(28123, 28321)	TRUE
+PMC7222517.nxml.gz	187	['As such, recent and future findings regarding ACP may be applied for the benefit of a larger group of patients.']	(28322, 28433)	FALSE
+PMC7222517.nxml.gz	188	['Future work including more in depth study of RNA features, protein expression and extracellular characteristics of these tumors will be necessary.']	(28434, 28580)	TRUE
+PMC7222517.nxml.gz	189	['Supplementary information\n\nPublisherâ\x80\x99s Note\n\nSpringer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.']	(28582, 28747)	FALSE
+PMC7222517.nxml.gz	190	['Supplementary information\n\nSupplementary information accompanies this paper at 10.1186/s40478-020-00939-0.']	(28749, 28855)	FALSE
+PMC7222517.nxml.gz	191	['Authorsâ\x80\x99 contributions\n\nPrimary Authors: EP, RW.']	(28857, 28907)	FALSE
+PMC7222517.nxml.gz	192	['Analysis and Interpretation of Data: EP.']	(28908, 28948)	FALSE
+PMC7222517.nxml.gz	193	['Experimental Design: TCH.']	(28949, 28974)	FALSE
+PMC7222517.nxml.gz	194	['Experimental Implementation: RW, AD, SS, AH, TV, CA.']	(28975, 29027)	FALSE
+PMC7222517.nxml.gz	195	['Internal Reviewers/Editors: KL, NF, MH, TCH.']	(29028, 29072)	FALSE
+PMC7222517.nxml.gz	196	['Advancing Treatment for Pediatric Craniopharyngioma (ATPC) Consortium Members: JJ, LM, RA, MS, RN, DL, GG, TN, RD, LK, EJ, GJ, KG, AS, JC, AL, AD, MK, TCH.']	(29073, 29228)	FALSE
+PMC7222517.nxml.gz	197	['The author(s) read and approved the final manuscript.']	(29229, 29282)	FALSE
+PMC7222517.nxml.gz	198	['Funding\n\nThe authors wish to acknowledge The Brain Tumor Charity for funding which made this work possible (GN-000522 (181477)).']	(29284, 29412)	FALSE
+PMC7222517.nxml.gz	199	['Availability of data and materials\n\nThe datasets during and/or analyzed during the current study is available from the corresponding author on reasonable request.']	(29414, 29576)	FALSE
+PMC7222517.nxml.gz	200	['Ethics approval and consent to participate\n\nAll patient samples were acquired after consent was granted according to the Colorado Multiple Institutional Review Board (COMIRB) approved study guidelines.']	(29578, 29779)	FALSE
+PMC7222517.nxml.gz	201	['Consent for publication\n\nNot applicable.']	(29781, 29821)	FALSE
+PMC7222517.nxml.gz	202	['Competing interests\n\nThe authors declare they have no competing interests.']	(29823, 29897)	FALSE

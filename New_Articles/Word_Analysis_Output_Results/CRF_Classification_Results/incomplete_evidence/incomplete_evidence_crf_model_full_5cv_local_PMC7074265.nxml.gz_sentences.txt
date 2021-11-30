@@ -1,0 +1,248 @@
+PMCID	SENTENCE_NUMBER	SENTENCE	SENTENCE_INDICES	IGNORANCE_CLASSIFICATION
+PMC7074265.nxml.gz	0	['The Inflammatory Milieu of Adamantinomatous Craniopharyngioma and Its Implications for Treatment\n\nAbstract\n\nPediatric Adamantinomatous Craniopharyngiomas (ACPs) are histologically benign brain tumors that often follow an aggressive clinical course.']	(0, 248)	FALSE
+PMC7074265.nxml.gz	1	['Their suprasellar location leaves them in close proximity to critical neurological and vascular structures and often results in significant neuroendocrine morbidity.']	(249, 414)	FALSE
+PMC7074265.nxml.gz	2	['Current treatment paradigms, involving surgical resection and radiotherapy, confer significant morbidity to patients and there is an obvious need to discover effective and safe alternative treatments.']	(415, 615)	FALSE
+PMC7074265.nxml.gz	3	['Recent years have witnessed significant efforts to fully detail the genomic, transcriptomic and proteomic make-up of these tumors, in an attempt to identify potential therapeutic targets.']	(616, 803)	TRUE
+PMC7074265.nxml.gz	4	['These studies have resulted in ever mounting evidence that inflammatory processes and the immune response play a critical role in the pathogenesis of both the solid and cystic portion of ACPs.']	(804, 996)	TRUE
+PMC7074265.nxml.gz	5	['Several inflammatory and immune markers have been identified in both the cyst fluid and solid tumor tissue of ACP.']	(997, 1111)	TRUE
+PMC7074265.nxml.gz	6	['Due to the existence of effective agents that target them, IL-6 and immune checkpoint inhibitors seem to present the most likely immediate candidates for clinical trials of targeted immune-related therapy in ACP.']	(1112, 1324)	TRUE
+PMC7074265.nxml.gz	7	['If effective, such agents may result in a paradigm shift in treatment that ultimately reduces morbidity and results in better outcomes for our patients.']	(1325, 1477)	TRUE
+PMC7074265.nxml.gz	8	['1.']	(1479, 1481)	FALSE
+PMC7074265.nxml.gz	9	['Introduction\n\nPediatric Adamantinomatous Craniopharyngiomas (ACPs) are histologically benign brain tumors that often follow an aggressive clinical course.']	(1482, 1636)	FALSE
+PMC7074265.nxml.gz	10	['The tumors are most commonly centered in the suprasellar region and are believed to develop from remnants of Rathkeâ\x80\x99s pouch.']	(1637, 1763)	TRUE
+PMC7074265.nxml.gz	11	['Radiologically and grossly, these tumors appear as mixed solid and cystic lesions often with areas of calcification (Figure 1).']	(1764, 1891)	FALSE
+PMC7074265.nxml.gz	12	['Histologically, ACPs are heterogeneous tumors of epithelial origin.']	(1892, 1959)	FALSE
+PMC7074265.nxml.gz	13	['The classic features consist of palisading epithelium, stellate cells, nodules of anuclear â\x80\x9cghost cellsâ\x80\x9d and â\x80\x9cwet keratinâ\x80\x9d as well as large areas of regressive changes (i.e., inflammation and calcifications, multinucleated giant cells, hemosiderin deposits, cholesterol clefts) (Figure 2).']	(1960, 2257)	FALSE
+PMC7074265.nxml.gz	14	['Their proximity to critical neurological and vascular structures often confers significant neuroendocrine morbidity on patients.']	(2258, 2386)	FALSE
+PMC7074265.nxml.gz	15	['Surgery remains the primary treatment strategy, but can result in significant morbidity, specifically damage to the hypothalamus, pituitary and optic apparatus, which results in long-term sequelae that can greatly impact a childâ\x80\x99s quality of life.']	(2387, 2636)	TRUE
+PMC7074265.nxml.gz	16	['In an era of personalized medicine and targeted therapies, ACP remains resistant to such advances.']	(2637, 2735)	FALSE
+PMC7074265.nxml.gz	17	['On the other hand, recent case reports of the response of papillary craniopharyngioma, a different tumor of the suprasellar region, to BRAF inhibitors have elucidated the great potential of targeted therapies in treating these tumors.']	(2736, 2970)	TRUE
+PMC7074265.nxml.gz	18	['As a result, recent years have witnessed significant efforts to fully elucidate the genomic, transcriptomic and proteomic make-up of ACP in an attempt to identify potential therapeutic targets for the treatment of this disease.']	(2971, 3198)	FALSE
+PMC7074265.nxml.gz	19	['1.1.']	(3200, 3204)	FALSE
+PMC7074265.nxml.gz	20	['The Central Role of WNT Pathway Overactivation in the Tumorigenesis of ACP\n\nThe one consistent genomic mutation that appears to be present in the majority, if not all, of ACPs is an activation mutation in the CTNNB1 gene of the WNT/wingless pathway.']	(3205, 3454)	TRUE
+PMC7074265.nxml.gz	21	['Most commonly this involves a point mutation in exon 3 of the CTNNB1 gene.']	(3455, 3529)	FALSE
+PMC7074265.nxml.gz	22	['A number of studies have demonstrated various different mutations, most commonly involving serine or threonine phosphorylation sites encoded by exon 3.']	(3530, 3681)	TRUE
+PMC7074265.nxml.gz	23	['Ordinarily, and in the absence of WNT activation, beta-catenin is marked for destruction by a destruction complex consisting of AXIN, glycogen synthase kinase-3Î² (GSK3Î²), and APC, among other proteins.']	(3682, 3885)	FALSE
+PMC7074265.nxml.gz	24	['This complex binds to and phosphorylates specific residues encoded by exon 3 of CTNNB1 and results in degradation of the protein.']	(3886, 4015)	FALSE
+PMC7074265.nxml.gz	25	['In the presence of WNT activation, WNT ligands bind to Frizzled and its co-receptor LRP (Low-density lipoprotein receptor-related protein) at the cell membrane.']	(4016, 4176)	FALSE
+PMC7074265.nxml.gz	26	['This in turn leads to the activation of Disheveled (DVL) and the binding of AXIN at the cell membrane.']	(4177, 4279)	FALSE
+PMC7074265.nxml.gz	27	['Consequently, the normal destruction complex is broken up and beta-catenin is released.']	(4280, 4367)	FALSE
+PMC7074265.nxml.gz	28	['Eventually this stabilized beta-catenin will accumulate in first the cytoplasm, and subsequently the nucleus resulting in the expression of WNT pathway target genes.']	(4368, 4533)	FALSE
+PMC7074265.nxml.gz	29	['In the pathological state present in ACP, the various point mutations prevent the binding of GSK3Î² to beta-catenin, and the subsequent phosphorylation of the serine and threonine residues.']	(4534, 4723)	FALSE
+PMC7074265.nxml.gz	30	['This results in a degradation-resistant form of beta-catenin, resulting in aberrant nuclear accumulation of the protein in certain cells within the tumor.']	(4724, 4878)	FALSE
+PMC7074265.nxml.gz	31	['In the nucleus, beta-catenin acts as a transcription factor, leading to overactivation of the WNT/beta-catenin pathway.']	(4879, 4998)	FALSE
+PMC7074265.nxml.gz	32	['Although this aberrant overactivation of the WNT pathway is thought to be crucial in the pathogenesis of ACPs, the resulting nuclear accumulation of beta-catenin is only observed in a minority of cells, specifically in whorl like epithelial cell clusters (Figure 1D).']	(4999, 5266)	TRUE
+PMC7074265.nxml.gz	33	['These cells are thought to be crucial in the tumorigenesis of ACP and various mechanisms have been proposed as to how they may drive tumor growth (Figure 2).']	(5267, 5424)	TRUE
+PMC7074265.nxml.gz	34	['One such theory involves a paracrine mechanism whereby these cell clusters induce tumor growth by expressing a large array of growth factors, chemokines, and cytokines and act as a kind of signaling center that promotes tumor progression.']	(5426, 5664)	TRUE
+PMC7074265.nxml.gz	35	['It has also been hypothesized that the nuclear accumulation of beta-catenin and overactivation of the WNT pathway in these cell clusters might also play a crucial role in the invasion of adjacent structures (e.g.']	(5665, 5877)	TRUE
+PMC7074265.nxml.gz	36	['hypothalamus and pituitary) in ACP.']	(5878, 5913)	FALSE
+PMC7074265.nxml.gz	37	['Microscopically, a digitate invasion/growth pattern into structures such as the hypothalamus can be seen and is thought to be an important factor in the neuro-endocrine disorders frequently seen in children with ACP.']	(5914, 6130)	TRUE
+PMC7074265.nxml.gz	38	['In addition, this invasive nature can preclude the neurosurgeon from obtaining a gross total resection at the time of surgery leading to tumor recurrence and a more aggressive clinical course.']	(6131, 6323)	FALSE
+PMC7074265.nxml.gz	39	['HÃ¶lsken et al.']	(6324, 6339)	FALSE
+PMC7074265.nxml.gz	40	['noted that beta-catenin accumulating whorls/clusters are found at the tips of these invading projections of tumor and hypothesized that this may suggest a role for these clusters in the promotion of tumor invasion.']	(6340, 6554)	TRUE
+PMC7074265.nxml.gz	41	['In addition, Apps et al.']	(6555, 6579)	FALSE
+PMC7074265.nxml.gz	42	['used micro-CT to produce 3-D models of ACP tumor samples.']	(6580, 6637)	FALSE
+PMC7074265.nxml.gz	43	['Using this novel technique, they visualized cell clusters in tumor protrusions into surrounding tissue.']	(6638, 6741)	FALSE
+PMC7074265.nxml.gz	44	['In a separate paper, the same group used laser capture microdissection to separate out these cell clusters and analyze their transcriptomic profiles.']	(6742, 6891)	FALSE
+PMC7074265.nxml.gz	45	['They found that these cell clusters express high levels of the FGF, BMP and WNT families of secreted factors and were able to demonstrate downstream activation of the MAPK/ERK that was particularly prominent at the tips of the invading tumor epithelium.']	(6892, 7145)	TRUE
+PMC7074265.nxml.gz	46	['These facts lend further credence to the theory that these clusters drive tumor invasion in a paracrine manner.']	(7146, 7257)	TRUE
+PMC7074265.nxml.gz	47	['HÃ¶lsken et al.']	(7258, 7273)	FALSE
+PMC7074265.nxml.gz	48	['cultured a total of 6 ACP samples and measured their invasion capacity via two methods, namely Boyden chamber assays, and wound-healing assays.']	(7274, 7417)	FALSE
+PMC7074265.nxml.gz	49	['They then suppressed beta-catenin expression in the samples by introducing small interfering RNA (siRNA) directed against the CTNNB1 gene and repeated the assays.']	(7418, 7580)	FALSE
+PMC7074265.nxml.gz	50	['They found that after treatment with the siRNA the accumulation of beta-catenin was significantly reduced and resulted in a significant decrease in tumor cell migration and invasion capacity.']	(7581, 7772)	TRUE
+PMC7074265.nxml.gz	51	['They also demonstrated that the treatment with siRNA resulted in the reduced expression of the Fascin protein.']	(7773, 7883)	TRUE
+PMC7074265.nxml.gz	52	['Fascin is a member of the actin cross-linking family of proteins and plays a crucial role in cell-matrix adhesion, cell migration, and remodeling of the cell cytoskeleton/architecture.']	(7884, 8068)	FALSE
+PMC7074265.nxml.gz	53	['In addition, the aberrant overexpression of the Fascin protein has been demonstrated in a number of cancers, including oral squamous cell carcinoma, and prostate cancer.']	(8069, 8238)	TRUE
+PMC7074265.nxml.gz	54	['HÃ¶lsken et al.']	(8239, 8254)	FALSE
+PMC7074265.nxml.gz	55	['demonstrated that the beta-catenin accumulating cells in ACP also over expressed Fascin.']	(8255, 8343)	TRUE
+PMC7074265.nxml.gz	56	['They then showed that treatment with the siRNA lead to a decrease in not only beta-catenin accumulation, but also Fascin levels.']	(8344, 8472)	TRUE
+PMC7074265.nxml.gz	57	['They proposed that this increase in Fascin expression may represent the mechanism by which WNT overactivation in these ACP cells may increase tumor cell migration and invasion into adjacent structures.']	(8473, 8674)	TRUE
+PMC7074265.nxml.gz	58	['Given the seemingly crucial role of WNT overactivation in ACPs, targeting the WNT pathway would appear to represent an attractive strategy for tackling these tumors.']	(8676, 8841)	FALSE
+PMC7074265.nxml.gz	59	['The WNT pathway has been shown to play a crucial role in a number of cancers such as colorectal cancers, non-small cell lung cancer, and chronic myeloid leukemia.']	(8842, 9004)	TRUE
+PMC7074265.nxml.gz	60	['This has resulted in significant efforts to better understand the pathway and to develop therapies that target it.']	(9005, 9119)	TRUE
+PMC7074265.nxml.gz	61	['Despite all these efforts, no drug targeting the WNT pathway has been approved.']	(9120, 9199)	FALSE
+PMC7074265.nxml.gz	62	['The reasons for the difficulty in targeting the WNT pathway are legion and complex but one major area of concern is the important role the pathway plays in the maintenance of normal stem cells for tissue regeneration.']	(9200, 9417)	FALSE
+PMC7074265.nxml.gz	63	['The potential issues that may arise with WNT pathway targeting was illustrated by Zhong et al.']	(9418, 9512)	TRUE
+PMC7074265.nxml.gz	64	['who demonstrated significant intestinal toxicity associated with tankyrase inhibitors in mice.']	(9513, 9607)	FALSE
+PMC7074265.nxml.gz	65	['Due to the difficulties that have been encountered in targeting the WNT pathway in more aggressive cancers, it seems likely that such therapies with acceptable efficacy and toxicity will remain elusive for some time to come.']	(9609, 9833)	FALSE
+PMC7074265.nxml.gz	66	['It is unlikely such a therapy will become a viable option in the treatment of ACP in the near future and as a result, the need to discover other effective therapies has become imperative.']	(9834, 10021)	FALSE
+PMC7074265.nxml.gz	67	['ACP is a very rare disease and developing novel therapies specifically for this tumor type is currently not practical or realistic.']	(10022, 10153)	TRUE
+PMC7074265.nxml.gz	68	['As a result, much work has focused on identifying alternative targets with extant treatments, which may offer better results in the treatment of ACP.']	(10154, 10303)	TRUE
+PMC7074265.nxml.gz	69	['These efforts have resulted in the identification of multiple molecular pathways involved in the pathogenesis of ACP.']	(10304, 10421)	FALSE
+PMC7074265.nxml.gz	70	['A number of these pathways result in the upregulation of pro-inflammatory/immune genes that may be amenable to targeted therapies.']	(10422, 10552)	TRUE
+PMC7074265.nxml.gz	71	['The immune/inflammatory cells seen in ACP samples are varied and can include CD4-T-Lymphocytes, CD20-B-Lymphocytes, CD-68-Macrophages, and CD-56-NK cells.']	(10553, 10707)	TRUE
+PMC7074265.nxml.gz	72	['The presence of all these cells is not consistent among all ACP samples and this fact is reflective of the histologically heterogeneous nature of these tumors.']	(10708, 10867)	FALSE
+PMC7074265.nxml.gz	73	['Work is ongoing to investigate whether these pathways may present potential therapeutic targets and ultimately leads to better outcomes and reduced morbidity for patients.']	(10868, 11039)	TRUE
+PMC7074265.nxml.gz	74	['The following is a review of the evidence that highlights the potential importance of the inflammatory/immune response in the generation of these tumors and the potential in targeting these pathways in the treatment of this often-devastating disease.']	(11040, 11290)	TRUE
+PMC7074265.nxml.gz	75	['1.2.']	(11292, 11296)	FALSE
+PMC7074265.nxml.gz	76	['The role of the Inflammatory Response in Generating the Cystic Compartment in ACP\n\nACPs often have large cystic components that contribute to the adverse clinical outcomes associated with the disease (Figure 3).']	(11297, 11508)	FALSE
+PMC7074265.nxml.gz	77	['Their large size and at times rapid growth can injure or exert mass effect on critical adjacent structures, such as the pituitary, the hypothalamus, the optic apparatus and third ventricle, which may necessitate urgent surgical intervention to preserve function and prevent morbidity and mortality.']	(11509, 11807)	TRUE
+PMC7074265.nxml.gz	78	['As a result, a better understanding of the pathogenesis of ACP cysts and the development of better treatments to limit their growth is clearly desirable.']	(11808, 11961)	TRUE
+PMC7074265.nxml.gz	79	['Numerous studies have analyzed the content of these cysts and the results of these studies have demonstrated a significant inflammatory content within them.']	(11962, 12118)	TRUE
+PMC7074265.nxml.gz	80	['A summary of some of these papers is presented in Table 1.']	(12119, 12177)	TRUE
+PMC7074265.nxml.gz	81	['Some of the first work examining the role of inflammation in ACP pathogenesis was carried out by Mori et al.']	(12179, 12287)	TRUE
+PMC7074265.nxml.gz	82	['who demonstrated highly elevated levels of IL-6 in the cyst fluid of 15 pediatric ACPs and posited that IL-6 plays an important role in the inflammatory reaction associated with ACPs.']	(12288, 12471)	FALSE
+PMC7074265.nxml.gz	83	['Another study that demonstrated the role played by the inflammatory response in the generation of the ACP cyst was that by Pettorini et al..']	(12472, 12612)	TRUE
+PMC7074265.nxml.gz	84	['Using high-performance liquid chromatography and mass spectrometry to analyze cyst fluid from 6 patients, they found high levels of alpha defensins 1â\x80\x933, proteins that are present in neutrophils and are involved in the inflammatory-mediated response.']	(12613, 12864)	FALSE
+PMC7074265.nxml.gz	85	['Furthermore, their group demonstrated that these levels were significantly reduced after treatment with intracystic interferon alpha (IFN-alpha).']	(12865, 13010)	TRUE
+PMC7074265.nxml.gz	86	['They posited that the detection of these proteins suggested that the innate immune response was playing a critical role in cyst generation and that a possible mechanism of action of IFN-alpha in treating the cyst was via an immune-modulatory effect.']	(13011, 13260)	TRUE
+PMC7074265.nxml.gz	87	['A later study by the same group performed more extensive proteomic analysis on nineteen patient samples.']	(13261, 13365)	FALSE
+PMC7074265.nxml.gz	88	['In this study, they used reverse phase liquid chromatography in conjunction with high resolution ESI-I TQ-Orbitrap mass spectrometry to analyze ACP cyst fluid from nineteen children.']	(13366, 13548)	FALSE
+PMC7074265.nxml.gz	89	['In addition to again revealing elevated levels of alpha-defensins (that again were reduced after treatment with IFN-alpha), they also demonstrated elevated levels of several other proteins of inflammation.']	(13549, 13754)	TRUE
+PMC7074265.nxml.gz	90	['Specifically, these included alpha2-HS-glycoprotein, alpha1-antichymotrypsin and apolipoproteins.']	(13755, 13852)	FALSE
+PMC7074265.nxml.gz	91	['In another study, Donson et al.']	(13854, 13885)	FALSE
+PMC7074265.nxml.gz	92	['used cytometric bead analysis to measure the concentration of 24 cytokines and 11 chemokines in cyst fluid from five pediatric ACPs and five pediatric pilocytic astrocytomas (PAs).']	(13886, 14066)	FALSE
+PMC7074265.nxml.gz	93	['Their analysis demonstrated that six cytokines were present at statistically significant increased levels in ACPs versus PAs.']	(14067, 14192)	TRUE
+PMC7074265.nxml.gz	94	['These cytokines included IL-6, IL-10, CXCL8 (IL-8), and CXCL1 (GRO).']	(14193, 14261)	FALSE
+PMC7074265.nxml.gz	95	['Of these, levels of IL-6 demonstrated the greatest difference between ACPs and PAs.']	(14262, 14345)	TRUE
+PMC7074265.nxml.gz	96	['Apps et al.']	(14346, 14357)	FALSE
+PMC7074265.nxml.gz	97	['also demonstrated similar findings when analyzing the protein content of ACP cyst fluid.']	(14358, 14446)	TRUE
+PMC7074265.nxml.gz	98	['They analyzed the content of cyst fluid from 6 patients with ACP using multiplex ELISA (Enzyme-linked immunsorbent assay).']	(14447, 14569)	FALSE
+PMC7074265.nxml.gz	99	['They found that the cyst fluid contained several proteins associated with inflammation, such as apolipoproteins, complement system proteins and immunoglobulins.']	(14570, 14730)	TRUE
+PMC7074265.nxml.gz	100	['In addition, their analysis revealed the presence of cytokines such as IL-1B, IL-6, IL-8, IL-10, IL-18 as well as TNF (Tumor necrosis factor) and Interferon gamma.']	(14731, 14894)	TRUE
+PMC7074265.nxml.gz	101	['Further evidence for the role of inflammation in the genesis of the cystic component in ACPs is provided by the efficacy of treatment with IFN-alpha.']	(14896, 15045)	TRUE
+PMC7074265.nxml.gz	102	['IFN-alpha has been used with varying degrees of success in the treatment of multiple cancers.']	(15046, 15139)	TRUE
+PMC7074265.nxml.gz	103	['The mechanism of action in the treatment of neoplasms is complex and multifaceted but likely involves the stimulation of an anti-cancer immune response.']	(15140, 15292)	FALSE
+PMC7074265.nxml.gz	104	['The use of intracystic IFN-alpha in the treatment of cystic ACP has been established for several years and numerous studies have demonstrated its safety and efficacy.']	(15293, 15459)	TRUE
+PMC7074265.nxml.gz	105	['The treatment involves the surgical placement of a catheter within the cyst with the position of the catheter confirmed radiologically prior to the administration of the drug.']	(15460, 15635)	FALSE
+PMC7074265.nxml.gz	106	['This method of treatment has been shown to delay disease progression and can allow the clinical team to delay a more definitive treatment via surgical resection and radiotherapy.']	(15636, 15814)	TRUE
+PMC7074265.nxml.gz	107	['Such a delay is often desirable, as it by may allow a childâ\x80\x99s developing brain to mature further prior to undergoing inherently risky surgery and radiation therapy.']	(15815, 15981)	TRUE
+PMC7074265.nxml.gz	108	['The mechanism of action of intracystic IFN-alpha in treating ACP has not been confirmed but, as in other cancers, is likely to involve an immunomodulatory effect.']	(15982, 16144)	TRUE
+PMC7074265.nxml.gz	109	['Indeed, the previously mentioned proteomic analyses would seem to lend significant weight to this argument.']	(16145, 16252)	FALSE
+PMC7074265.nxml.gz	110	['1.3.']	(16254, 16258)	FALSE
+PMC7074265.nxml.gz	111	['The Solid Component of ACP Also Demonstrates Elevated Levels of Several Inflammatory Markers\n\nMultiple studies have also identified high levels of cytokines and inflammatory markers in the solid component of ACPs, lending further support to the theory that inflammation plays a critical role in pathogenesis.']	(16259, 16567)	TRUE
+PMC7074265.nxml.gz	112	['Gump et al.']	(16568, 16579)	FALSE
+PMC7074265.nxml.gz	113	['used micro-array data to demonstrate elevated levels of IL-6R in ACP relative to other pediatric brain tumors.']	(16580, 16690)	FALSE
+PMC7074265.nxml.gz	114	['Subsequently, Donson et al., utilized detailed transcriptomic analysis to demonstrate increased expression of pro-inflammatory mediators in ACP solid tumor tissue including IL-6, CXCL1, CLCL8, CXCR2, IL-10 and IDO-1.']	(16691, 16907)	FALSE
+PMC7074265.nxml.gz	115	['Separate work by Martelli et al.']	(16908, 16940)	FALSE
+PMC7074265.nxml.gz	116	['used advanced proteomics to investigate the protein signature in ACP.']	(16941, 17010)	FALSE
+PMC7074265.nxml.gz	117	['In addition to identifying beta-catenin and its related proteins in solid tumor tissue from seven patients, their analysis also identified the presence of increased levels of alpha-defensins 1â\x80\x934.']	(17011, 17208)	TRUE
+PMC7074265.nxml.gz	118	['As previously stated, these proteins are neutrophil-derived proteins that play an important role in the innate immune response and in inflammation.']	(17209, 17356)	FALSE
+PMC7074265.nxml.gz	119	['Their detection in the solid portion of ACP again seems to confirm that the inflammatory response plays an important role in ACP tumorigenesis.']	(17357, 17500)	TRUE
+PMC7074265.nxml.gz	120	['A recent paper by Apps et al.']	(17502, 17531)	TRUE
+PMC7074265.nxml.gz	121	['used transcriptome analysis of tumor tissue from 18 patients to identify a pattern of elevated expression of several immune cell markers and immune system genes in ACP.']	(17532, 17700)	FALSE
+PMC7074265.nxml.gz	122	['Furthermore, their analysis used immunohistochemistry to reveal the presence of both myeloid-derived and lymphoid-derived cells infiltrating both the reactive glial and tumor epithelial compartments in the ACP samples.']	(17701, 17919)	FALSE
+PMC7074265.nxml.gz	123	['They also found that multiple cytokine encoding genes were highly upregulated in ACP and that the expression of such genes correlated with the immune infiltrate and inflammatory cell markers.']	(17920, 18111)	TRUE
+PMC7074265.nxml.gz	124	['This would suggest that this upregulated cytokine expression is mostly derived from the infiltrating immune cells rather than from the tumor cells that are over expressing beta-catenin.']	(18112, 18297)	TRUE
+PMC7074265.nxml.gz	125	['Finally, they also utilized multiplex ELISA to analyze protein lysates from eight patient ACP samples and this analysis revealed the expression of IL-1B, Il-6, IL-8, IL-10, IL-18, and TNF-alpha in all the samples.']	(18298, 18511)	TRUE
+PMC7074265.nxml.gz	126	['1.4.']	(18513, 18517)	FALSE
+PMC7074265.nxml.gz	127	['Immune Checkpoint Inhibitors and Their Potential Use in ACP\n\nImmune checkpoint inhibitors have shown promise in the treatment of a number of cancers.']	(18518, 18667)	TRUE
+PMC7074265.nxml.gz	128	['Specifically, inhibition of the programmed cell death protein (PD1) and its ligand (PD-L1) with the agents, nivolumab and pembrolizumab, has resulted in improved survival in cancers including melanoma and non-small cell lung adenocarcinoma.']	(18668, 18908)	FALSE
+PMC7074265.nxml.gz	129	['The availability of these agents and their relatively favorable side effect profile has resulted in numerous studies investigating their efficacy in various cancers/tumor types.']	(18909, 19086)	FALSE
+PMC7074265.nxml.gz	130	['PD-1 is an important protein involved in inhibitory immune signaling and is an essential regulator of the adaptive immune response.']	(19088, 19219)	FALSE
+PMC7074265.nxml.gz	131	['In cancers, PD-1-expressing tumor-infiltrating T cells can be disabled by PD-L1 expressed on the surfaces of tumor cells themselves or alternatively by PD-L1 on the surface of other infiltrating immune cells.']	(19220, 19428)	FALSE
+PMC7074265.nxml.gz	132	['The binding of PD-1 to its ligand results in the suppression of the immune response to the cancer cells.']	(19429, 19533)	FALSE
+PMC7074265.nxml.gz	133	['Checkpoint Inhibitors reverse this process and allow T cells to once again attack the cancer.']	(19534, 19627)	FALSE
+PMC7074265.nxml.gz	134	['Predicting the response of a particular tumor or cancer to PD1 inhibitors such as nivolumab and pembrolizumab is difficult and Taube et al.']	(19628, 19767)	FALSE
+PMC7074265.nxml.gz	135	['aimed to identify those factors that best predicted a robust and meaningful response to therapy.']	(19768, 19864)	FALSE
+PMC7074265.nxml.gz	136	['In a prior study by the same group they found that anti-PD-1 therapy produced an objective response in 20â\x80\x9325% of patients with treatment-resistant NSCLC, renal cell carcinoma and melanoma and that PD-L1 expression by tumor cells seemed to be associated with a response to therapy.']	(19865, 20147)	TRUE
+PMC7074265.nxml.gz	137	['In their follow up study they aimed to further investigate various factors that might predict a response to anti-PD-1 therapy including PD-L1 expression by tumor cells, PD-L1 expression by infiltrating immune cells, PD-L2 expression by tumor cells and other tumor microenvironment factors.']	(20148, 20437)	TRUE
+PMC7074265.nxml.gz	138	['They found that in their cohort only the expression of PD-L1 by tumor cells correlated with both an objective response (as defined by the â\x80\x9cResponse evaluation criteria in Solid Tumorsâ\x80\x9d or RECIST criteria) and clinical benefit (p = 0.025 and 0.005 respectively).']	(20438, 20703)	TRUE
+PMC7074265.nxml.gz	139	['The correlation of the expression of PD-L1 by infiltrating immune cells with a clinical response did not reach statistical significance although the correlation with clinical benefit was statistically significant (p = 0.038).']	(20704, 20929)	FALSE
+PMC7074265.nxml.gz	140	['Of note, expression of the PD-1 receptor on tumor infiltrating lymphocytes (TILs), expression of PD-L2 by tumor cells or TILs, and other microenvironment immune factors did not correlate with outcomes.']	(20930, 21131)	FALSE
+PMC7074265.nxml.gz	141	['In addition, it is important to reiterate that even in those tumors expressing PD-L1 on tumor cells, only 39% of patients (9 out of 23) had an objective response.']	(21132, 21294)	FALSE
+PMC7074265.nxml.gz	142	['That being said, these therapies have provided an option for patients with aggressive and treatment-resistant cancers for whom previously there were few if any good options.']	(21295, 21468)	FALSE
+PMC7074265.nxml.gz	143	['Due to the efficacy of immune checkpoint inhibitors more and more work is being undertaken to identify other cancers and tumors that may be amenable to such therapy including craniopharyngiomas.']	(21469, 21663)	TRUE
+PMC7074265.nxml.gz	144	['Recent work by Coy et al.']	(21665, 21690)	FALSE
+PMC7074265.nxml.gz	145	['demonstrated the expression of PD-L1 in epithelial cells lining the cysts and intrinsic PD-1 expression in the beta-catenin over expressing whorl-like epithelial cell clusters in ACP.']	(21691, 21874)	TRUE
+PMC7074265.nxml.gz	146	['As previously discussed, these clusters are thought to play a pivotal role in tumor growth in ACP via a number of mechanisms, rendering targeting of PD-1 as an attractive potential therapy.']	(21875, 22064)	TRUE
+PMC7074265.nxml.gz	147	['Another study by Witt et al.']	(22065, 22093)	FALSE
+PMC7074265.nxml.gz	148	['also demonstrated elevated PD-L1 expression in ACP.']	(22094, 22145)	TRUE
+PMC7074265.nxml.gz	149	['As mentioned above, numerous previous studies on other solid cancers have demonstrated that the expression of PD-L1 can be predictive of the response to the PD-1/PD-L1 inhibitors.']	(22146, 22325)	TRUE
+PMC7074265.nxml.gz	150	['Again, as previously mentioned, such a finding far from guarantees a response and in these landmark papers they found that even in patients that expressed PD-L1 on tumor cells, the response rate to the treatment was only 39%.']	(22326, 22551)	TRUE
+PMC7074265.nxml.gz	151	['In addition, Witt et al.']	(22552, 22576)	FALSE
+PMC7074265.nxml.gz	152	['nicely demonstrated, using T cell exhaustion testing of various types of ependymomas, that elevated PD-L1 expression in tumors can be indicative of either tumor adaptations to hide from the innate immune response or due to normal T-cell antigen-activation, a known function of PD-1.']	(22577, 22859)	TRUE
+PMC7074265.nxml.gz	153	['In their study they utilized functional T cell exhaustion assays that stimulate T cells via exposure to Phorbol 12-myristate 13-acetate (PMA)/ionomycin.']	(22860, 23012)	FALSE
+PMC7074265.nxml.gz	154	['Subsequent to stimulations their group used a Milliplex Map Kit (Millipore) to measure the concentration of several cytokines including IFN-gamma.']	(23013, 23159)	FALSE
+PMC7074265.nxml.gz	155	['They found that infiltrating T-cells in RELA fusion supratentorial ependymoma did not secrete IFN-gamma.']	(23160, 23264)	TRUE
+PMC7074265.nxml.gz	156	['They concluded that this suggested that in the case of RELA fusion ependymoma, the increased expression of PD-1/PD-L1 results in the exhaustion of infiltrating T-cells and immune evasion by the tumor.']	(23265, 23465)	TRUE
+PMC7074265.nxml.gz	157	['On the contrary, they found that in group B ependymomas (which also express high levels of PD-1), infiltrating T-cells were, in fact, capable of secreting IFN-gamma after stimulation with PMA/ionomycin.']	(23466, 23668)	TRUE
+PMC7074265.nxml.gz	158	['They posited that in these tumors, elevated expression of PD-1 was representative of normal T-cell activation in response to the tumor.']	(23669, 23804)	FALSE
+PMC7074265.nxml.gz	159	['As such, although the findings by Coy et al.']	(23805, 23849)	FALSE
+PMC7074265.nxml.gz	160	['of elevated PD-1/PD-L1 expression in ACP are exciting and may result in an alternative treatment strategy in resistant and multiply recurrent cases, further investigation is necessary to fully elucidate the implications of this increased PD-1/PD-L1 expression in ACP before any widespread implementation.']	(23850, 24154)	TRUE
+PMC7074265.nxml.gz	161	['1.5.']	(24156, 24160)	FALSE
+PMC7074265.nxml.gz	162	['CTLA-4 Inhibition and Its Potential Use in the Treatment of ACP\n\nThe other major group of immune checkpoint inhibitors that have become increasingly utilized in cancer are the CTLA-4 inhibitors of which ipilimumab is the classic example.']	(24161, 24398)	FALSE
+PMC7074265.nxml.gz	163	['One of the first major studies to demonstrate the efficacy of these agents was that by Hodi et al.']	(24399, 24497)	FALSE
+PMC7074265.nxml.gz	164	['in 2010.']	(24498, 24506)	FALSE
+PMC7074265.nxml.gz	165	['In their study they randomized 676 patients with stage 3 or 4 treatment-resistant melanoma to treatment with ipilimumab plus glycoprotein 100 (gp100) or gp100 alone.']	(24507, 24672)	FALSE
+PMC7074265.nxml.gz	166	['They demonstrated a statistically significant, although modest benefit, in terms of survival for patients in the ipilimumab group.']	(24673, 24803)	TRUE
+PMC7074265.nxml.gz	167	['Subsequent work by Ji et al.']	(24804, 24832)	FALSE
+PMC7074265.nxml.gz	168	['aimed to elucidate what specific factors might be predictive of response to treatment with CTLA-4 blockade.']	(24833, 24940)	TRUE
+PMC7074265.nxml.gz	169	['This group utilized gene expression profiling to demonstrate that in pre-treatment samples of patients with metastatic melanoma a higher baseline expression of immune related genes was predictive of an increased response to treatment with ipilimumab.']	(24941, 25191)	FALSE
+PMC7074265.nxml.gz	170	['Specifically, they analyzed the gene expression in tumor samples from 45 patients with melanoma both before, and three weeks after treatment with ipilimumab.']	(25192, 25349)	FALSE
+PMC7074265.nxml.gz	171	['They found that tumors that had increased expression of immune related genes pre-treatment, were more likely to respond to the therapy.']	(25350, 25485)	TRUE
+PMC7074265.nxml.gz	172	['Indeed, when they clustered genes based on biological functions and examined the differential expression of these groups of genes between responders and non-responders, they demonstrated that genes related to the inflammatory response were those that were most differentially expressed between the two groups.']	(25486, 25795)	TRUE
+PMC7074265.nxml.gz	173	['This led their group to conclude that a â\x80\x9cpre-existing immune-active tumor microenvironment might favor clinical response to ipilimumabâ\x80\x9d.']	(25796, 25936)	TRUE
+PMC7074265.nxml.gz	174	['As previously stated, ACPs have been shown to harbor a significant inflammatory/immune component in both the solid and cystic component and there is mounting evidence that this pro-inflammatory environment plays an active role in tumorigenesis.']	(25937, 26181)	TRUE
+PMC7074265.nxml.gz	175	['A 2017 study by Donson et al.']	(26182, 26211)	FALSE
+PMC7074265.nxml.gz	176	['utilized various methods to demonstrate upregulation of several pro-inflammatory genes in both the solid and cystic component of these tumors.']	(26212, 26354)	FALSE
+PMC7074265.nxml.gz	177	['This begs the question, could the use of a CTLA-4 inhibitor such as ipilimumab lead to improved outcomes in ACP?']	(26355, 26467)	TRUE
+PMC7074265.nxml.gz	178	['Furthermore, recent trials have demonstrated that combining different types of immune checkpoint inhibitors can lead to a survival advantage for patients with treatment refractory cancers.']	(26468, 26656)	TRUE
+PMC7074265.nxml.gz	179	['Specifically, combining ant-PD1 and anti-CTLA-4 therapy can result in improved survival in treatment-resistant metastatic melanoma, renal cell carcinoma and non-small cell lung cancer.']	(26657, 26841)	TRUE
+PMC7074265.nxml.gz	180	['Given the expression of PD-L1 and the significant immune cell and inflammatory milieu present in ACP, the use of such combinations in the treatment of this disease would appear promising.']	(26842, 27029)	FALSE
+PMC7074265.nxml.gz	181	['As a result, a lot of work remains to be done to fully elucidate the potential of such treatments in ACP.']	(27030, 27135)	TRUE
+PMC7074265.nxml.gz	182	['Given the often-aggressive clinical course, and devastating effects this disease can have on patientâ\x80\x99s quality of life such potential is surely worth investigating.']	(27136, 27302)	TRUE
+PMC7074265.nxml.gz	183	['1.6.']	(27304, 27308)	FALSE
+PMC7074265.nxml.gz	184	['The Role of Senescence and the Senescence Associated Secretory Phenotype (SASP) in the Pathogenesis of ACP\n\nIn the normal physiological state, cellular senescence develops in response to both extracellular and intracellular stressors and pushes the cell into cell cycle arrest.']	(27309, 27586)	FALSE
+PMC7074265.nxml.gz	185	['This prevents propagation of the damaged cell and, when this occurs in the context of cancer, can ultimately result in tumor suppression.']	(27587, 27724)	TRUE
+PMC7074265.nxml.gz	186	['Paradoxically, senescent cells can go on to develop secretory functions that result in changes to the cellular microenvironment and may ultimately promote tumor growth.']	(27725, 27893)	TRUE
+PMC7074265.nxml.gz	187	['Senescent cells can persist in a metabolically active state, ultimately developing what is termed the Senescence Associated Secretory Phenotype (SASP).']	(27894, 28045)	FALSE
+PMC7074265.nxml.gz	188	['In such a state, cells can secrete a variety of interleukins, inflammatory cytokines, growth factors, and proteases, which can affect the surrounding cells and tumor microenvironment.']	(28046, 28229)	TRUE
+PMC7074265.nxml.gz	189	['SASP factors include pro-inflammatory mediators such as IL-6, IL-1, certain Matrix Metalloproteinases, and various chemokines.']	(28230, 28356)	FALSE
+PMC7074265.nxml.gz	190	['Of these, Rodier et al.']	(28357, 28380)	FALSE
+PMC7074265.nxml.gz	191	['found that IL-6 was the most important in allowing senescent cells to promote cell invasion.']	(28381, 28473)	TRUE
+PMC7074265.nxml.gz	192	['Gonzalez-Meljem et al.']	(28474, 28496)	FALSE
+PMC7074265.nxml.gz	193	['demonstrated that the SASP plays a prominent role in both genetically engineered mouse models of ACP and human ACP.']	(28497, 28612)	TRUE
+PMC7074265.nxml.gz	194	['They used gene set enrichment analysis (GSEA) to demonstrate that beta-catenin accumulating cluster cells in the mouse models of ACP had gene expression profiles that were significantly enriched for SASP genes.']	(28613, 28823)	TRUE
+PMC7074265.nxml.gz	195	['Similarly, they utilized ELISA cytokine arrays to demonstrate that multiple SASP associated proteins such as IL-6, IL-1a, MMP2, MMP3, CXCL1, and CXCL11 were all upregulated in the murine cluster cells.']	(28824, 29025)	FALSE
+PMC7074265.nxml.gz	196	['In addition, other studies, such as those by Gump et al., and Apps et al., used various techniques to demonstrate the overexpression of several of these proteins in human ACP.']	(29026, 29201)	FALSE
+PMC7074265.nxml.gz	197	['Meljem et al.']	(29202, 29215)	FALSE
+PMC7074265.nxml.gz	198	['then used laser-capture microdissection and RNA sequencing to analyze the molecular signature of the beta-catenin accumulating cell clusters in human ACP.']	(29216, 29370)	FALSE
+PMC7074265.nxml.gz	199	['They performed hierarchical clustering analysis that demonstrated similar molecular profiles between the cluster cells from the mouse models and those from human ACP.']	(29371, 29537)	TRUE
+PMC7074265.nxml.gz	200	['Subsequent GSEA of human clusters also demonstrated a strong SASP signature.']	(29538, 29614)	TRUE
+PMC7074265.nxml.gz	201	['They thus concluded that the human and mouse clusters represent equivalent structures and share a common senescent molecular signature.']	(29615, 29750)	TRUE
+PMC7074265.nxml.gz	202	['Given the critical role that these cell clusters are thought to play in ACP tumorigenesis, they posited that the SASP may play a critical role in the pathogenesis of ACP.']	(29751, 29921)	TRUE
+PMC7074265.nxml.gz	203	['This paper aimed to demonstrate the critical role played by inflammation in the pathogenesis of ACP.']	(29922, 30022)	FALSE
+PMC7074265.nxml.gz	204	['Given that human ACPs seem to harbor a very strong SASP signature and the SASP induces a strong pro-inflammatory state, it is very possible that the SASP plays a critical role in producing the pro-inflammatory milieu and invasive nature of ACP.']	(30023, 30267)	TRUE
+PMC7074265.nxml.gz	205	['Trials examining the use of senolytic drugs are currently in their incipient stages and it is possible that such therapies may provide an attractive treatment strategy for ACP in the future.']	(30268, 30458)	TRUE
+PMC7074265.nxml.gz	206	['2.']	(30460, 30462)	FALSE
+PMC7074265.nxml.gz	207	['Conclusions\n\nA significant and growing body of evidence points to a critical role in the activation of inflammation and the immune response in the pathogenesis of ACP.']	(30463, 30630)	FALSE
+PMC7074265.nxml.gz	208	['Multiple studies have demonstrated high levels of inflammatory markers and cytokines in both ACP cyst fluid and solid tumor.']	(30631, 30755)	TRUE
+PMC7074265.nxml.gz	209	['Many of these employed advanced genomic, proteomic and transcriptomic techniques to demonstrate expression of multiple genes involved in the inflammatory and immune response in these tumors.']	(30756, 30946)	FALSE
+PMC7074265.nxml.gz	210	['A number of these markers represent attractive potential targets for directed therapy in the treatment of ACP.']	(30947, 31057)	TRUE
+PMC7074265.nxml.gz	211	['Specifically, due to existing experience combined with proven efficacy in other cancers and diseases, IL-6 and the immune checkpoint inhibitors (anti-PD-1/PD-L1 and anti-CTLA-4) may represent particularly good targets/therapies.']	(31058, 31286)	TRUE
+PMC7074265.nxml.gz	212	['Similarly, combinations of such agents have proven very effective in prolonging survival in malignant cancer such as melanoma, renal cell carcinoma and non-small-cell lung cancer that were failing more traditional treatment.']	(31287, 31511)	FALSE
+PMC7074265.nxml.gz	213	['Such combination therapy may also present a potential therapeutic strategy in the management of recurrent and treatment-resistant ACP.']	(31512, 31646)	TRUE
+PMC7074265.nxml.gz	214	['In addition, these agents might also be combined with agents that do not specifically interact with inflammatory/immune processes (e.g., MEK inhibition).']	(31647, 31800)	TRUE
+PMC7074265.nxml.gz	215	['In fact, Apps et al.']	(31801, 31821)	FALSE
+PMC7074265.nxml.gz	216	['demonstrated that MAPK/ERK pathway likely plays a pivotal role in the pathogenesis of both murine and human ACP.']	(31822, 31934)	TRUE
+PMC7074265.nxml.gz	217	['In addition, they showed that treating human ACP with trametinib ex vivo resulted in decreased proliferation and increased apoptosis.']	(31935, 32068)	TRUE
+PMC7074265.nxml.gz	218	['Finally, recent work has also demonstrated the pivotal role played by senescence and the SASP in the pathogenesis of these tumors.']	(32069, 32199)	TRUE
+PMC7074265.nxml.gz	219	['It is possible that the strong SASP signature drives much of the inflammation seen in ACP, and that targeting SASP associated pathways may provide an effective treatment strategy in the future.']	(32200, 32393)	TRUE
+PMC7074265.nxml.gz	220	['Due to the benign histological nature of the disease, it is likely that initial clinical trials of such agents will be reserved for patients with recurrent or progressive disease.']	(32394, 32573)	FALSE
+PMC7074265.nxml.gz	221	['In addition, due to the rarity of the disease and the scarcity of tumor tissue it is vital that pediatric centers continue to work together to share knowledge and tissue in an effort to accelerate the development of safe and efficacious treatments.']	(32574, 32822)	FALSE
+PMC7074265.nxml.gz	222	['Such efforts will hopefully result in improved outcomes for children suffering from this chronic and often devastating disease.']	(32823, 32950)	FALSE
+PMC7074265.nxml.gz	223	['Finally, other advanced techniques are being developed that continue to enhance our ability to better diagnose, and identify biomarkers in oncologic diseases that may result in the development of better therapeutics.']	(32951, 33167)	TRUE
+PMC7074265.nxml.gz	224	['It is possible that such techniques if applied to ACPs could result in significant advances in the diagnosis and treatment of ACP in the future.']	(33168, 33312)	TRUE
+PMC7074265.nxml.gz	225	['Author Contributions\n\nR.W.']	(33314, 33340)	FALSE
+PMC7074265.nxml.gz	226	['as the first author was primarily responsible for drafting the article manuscript.']	(33341, 33423)	FALSE
+PMC7074265.nxml.gz	227	['E.P.']	(33424, 33428)	FALSE
+PMC7074265.nxml.gz	228	['also helped draft the manuscript and helped with editing the final submission.']	(33429, 33507)	FALSE
+PMC7074265.nxml.gz	229	['A.G. provided the pathology figures and the descriptions of the same.']	(33508, 33577)	FALSE
+PMC7074265.nxml.gz	230	['T.H.']	(33578, 33582)	FALSE
+PMC7074265.nxml.gz	231	['acted as the lead author and guided the direction of the manuscript as well as being the primary editor of the final submission.']	(33583, 33711)	FALSE
+PMC7074265.nxml.gz	232	['All authors have read and agreed to the published version of the manuscript.']	(33712, 33788)	FALSE
+PMC7074265.nxml.gz	233	['Funding\n\nNo external funding was received for the production of this research.']	(33790, 33868)	FALSE
+PMC7074265.nxml.gz	234	['Conflicts of Interest\n\nThe authors declare no conflict of interest.']	(33870, 33937)	FALSE
+PMC7074265.nxml.gz	235	['Caption (Fig): FIG 1\n\nClassic histopathological findings in adamantinomatous craniopharyngioma: (A) H&E stained sections showing an epithelial tumor with palisading cells with aggregates of â\x80\x98wetâ\x80\x99 keratin; (B) higher magnification view demonstrating keratinized â\x80\x98ghost cellsâ\x80\x99; (C) Higher magnification view demonstrating calcifications and stellate reticulum; (D) Immunohistochemical staining for Beta-catenin that is nuclear positive in a subset of tumor cells.']	(33939, 34408)	FALSE
+PMC7074265.nxml.gz	236	['(E) The surrounding brain parenchyma shows extensive gliosis with Rosenthal fibers.']	(34409, 34492)	FALSE
+PMC7074265.nxml.gz	237	['Caption (Fig): FIG 2\n\nComputed Tomography (Left) andMagnetic resonance Imaging (Right) images from the same patient of a classic example of an adamantinomatous craniopharyngioma.']	(34494, 34672)	FALSE
+PMC7074265.nxml.gz	238	['This typical tumor is centered in the suprasellar region with mixed solid and cystic areas as well as areas of calcification as seen on the CT.\n\nCaption (Fig): FIG 3\n\nExample of an adamantinomatous craniopharyngioma with a massive cystic component.']	(34673, 34921)	FALSE
+PMC7074265.nxml.gz	239	['Caption (TABLE-WRAP): TABLE 1\n\nKey studies that have demonstrated the key role of the inflammatory/immune response in the pathogenesis of adamantinomatous craniopharyngioma.']	(34923, 35096)	TRUE
+PMC7074265.nxml.gz	240	['Study\tSummary of Study\tFindings\t \tKilday et al.']	(35098, 35145)	FALSE
+PMC7074265.nxml.gz	241	['2017 \tMultinational study assessing the efficacy of intra-cystic IFN-alpha in treating ACP\tDemonstrated a progression free survival advantage for intracystic IFN-alpha\t \tPettorini et al.']	(35146, 35332)	TRUE
+PMC7074265.nxml.gz	242	['2010 \tIdentified the presence of alpha-defensins 1â\x80\x933 in ACP cyst fluid\tDemonstrated the importance of inflammation the genesis of ACP cysts\t \tGump et al.']	(35333, 35488)	FALSE
+PMC7074265.nxml.gz	243	['2015 \tUsed mRNA microarray analysis to identify the overexpression of multiple inflammatory markers in ACP relative to other tumors\tIdentifies IL6R and IL2RB to be overexpressed in ACP relative to normal brain and other tumors\t \tDonson et al.']	(35489, 35731)	FALSE
+PMC7074265.nxml.gz	244	['2017 \tIdentified elevated levels of severeal inflammatory markers in both ACP cyst fluid and solid tumor\tOverexpressed inflammatory markers identified included IL-6, IL-8, CXCL1, and IL-10\t \tApps et al.']	(35732, 35934)	FALSE
+PMC7074265.nxml.gz	245	['2018 \tUsed various methods including RNA sequencing to identify activation of the inflammasome in ACP cyst fluid and solid tumor\tImflamatory genes that were overexpressed included IL-1B, IL-18, IL-6, IL-8, IL-10\t \tCoy et al.']	(35935, 36159)	FALSE
+PMC7074265.nxml.gz	246	['2018 \tdemonstrated the expression of PD-L1 in epithelial cells lining the cysts and intrinsic PD-1 expression in the beta-catenin over expressing whorl-like epithelial cell clusters in ACP\tThe first paper to demonstrate that immune checkpoint inhibitors may play a role in ACP treatments']	(36160, 36447)	TRUE
