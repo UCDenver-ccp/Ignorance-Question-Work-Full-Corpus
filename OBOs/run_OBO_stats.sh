@@ -13,7 +13,9 @@ ignorance_preprocess='Ignorance-Question-Work-Full-Corpus/Preprocess_Corpus/Outp
 concept_system_output='concept_system_output/' #the folder for the final output of the full concept recognition run
 article_folder='Articles/' #the folder with the PMC Articles text files
 tokenized_files='Tokenized_Files/' #preprocessed article files to be word tokenized for BIO- format
-
+obo_ignorance_overlap='OBO_ignorance_overlap/'
+section_info_bioc='section_info_BioC/'
+bioc_extension='.nxml.gz.txt.BioC-full_text.xml'
 
 ignorance_ontology_file_path='Ontologies/Ontology_Of_Ignorance.owl'
 ignorance_all_lcs_path='Ontologies/Ontology_Of_Ignorance_all_cues_2021-07-30.txt'
@@ -46,4 +48,4 @@ OBO_model_dict="{'CHEBI':'BIOBERT','CL':'BIOBERT','GO_BP':'CRF','GO_CC':'BIOBERT
 
 
 
-python3 OBO_stats.py -OBO_bionlp_file_path=$all_file_path$eval_path$concept_system_output -ignorance_ontologies=$ignorance_ontologies -ignorance_broad_categories=$ignorance_broad_categories -ignorance_all_lcs_path=$all_file_path$ignorance_corpus$ignorance_all_lcs_path -ignorance_extra_ontology_concepts=$ignorance_extra_ontology_concepts -ignorance_ontology_file_path=$all_file_path$ignorance_corpus$ignorance_ontology_file_path -ignorance_article_path=$all_file_path$ignorance_preprocess$article_folder -ignorance_tokenized_files_path=$all_file_path$ignorance_preprocess$tokenized_files -ignorance_sentence_folder_path=$all_file_path$ignorance_preprocess$pmcid_sentence_files_path -OBO_ontologies=$OBO_ontologies -evaluation_files=$all_files -OBO_model_dict=$OBO_model_dict -OBO_output_path=$all_file_path$eval_path
+python3 OBO_stats.py -OBO_bionlp_file_path=$all_file_path$eval_path$concept_system_output -ignorance_ontologies=$ignorance_ontologies -ignorance_broad_categories=$ignorance_broad_categories -ignorance_all_lcs_path=$all_file_path$ignorance_corpus$ignorance_all_lcs_path -ignorance_extra_ontology_concepts=$ignorance_extra_ontology_concepts -ignorance_ontology_file_path=$all_file_path$ignorance_corpus$ignorance_ontology_file_path -ignorance_article_path=$all_file_path$ignorance_preprocess$article_folder -ignorance_tokenized_files_path=$all_file_path$ignorance_preprocess$tokenized_files -ignorance_sentence_folder_path=$all_file_path$ignorance_preprocess$pmcid_sentence_files_path -OBO_ontologies=$OBO_ontologies -evaluation_files=$all_files -OBO_model_dict=$OBO_model_dict -OBO_output_path=$all_file_path$eval_path -OBO_ignorance_overlap_path=$all_file_path$eval_path$obo_ignorance_overlap -ignorance_date_info_path=$all_file_path$ignorance_corpus$section_info_bioc -ignorance_date_info_extension=$bioc_extension
