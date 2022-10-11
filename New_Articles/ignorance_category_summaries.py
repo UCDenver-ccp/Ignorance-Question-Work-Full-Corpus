@@ -13,7 +13,18 @@ def read_in_bionlp_files(bionlp_path, algo, article):
 	#T0	full_unknown 1697 1702	novel
 
 	article_info_list = []
-	with open('%s%s_%s.bionlp' %(bionlp_path, algo, article), 'r+') as article_bionlp_file:
+	if type(algo) == list:
+		for a in algo:
+			try:
+				article_bionlp_file = open('%s%s_%s.bionlp' %(bionlp_path, a.upper(), article), 'r+')
+			except FileNotFoundError:
+				continue
+	else:
+		article_bionlp_file = open('%s%s_%s.bionlp' %(bionlp_path, algo, article), 'r+')
+	# with open('%s%s_%s.bionlp' %(bionlp_path, algo, article), 'r+') as article_bionlp_file:
+
+
+	if article_bionlp_file:
 		for line in article_bionlp_file:
 			line_info = line.strip('\n').split('\t')
 			t_num = line_info[0]
@@ -28,6 +39,8 @@ def read_in_bionlp_files(bionlp_path, algo, article):
 						# indices1 = (s1,e1)
 						indices_list += [(int(s1), int(e1))]
 					else:
+						# print(line)
+						# print(d)
 						s, e = d.split(' ')
 						indices_list += [(int(s), int(e))]
 
@@ -50,6 +63,7 @@ def read_in_sentence_files(sentence_path, article):
 
 	article_sentence_info_dict = {} #dictionary from sentence_id (PMC+sentence number) to sentence text and span
 	with open('%s%s.nxml.gz_sentence_info.txt' %(sentence_path, article,), 'r+') as article_sentence_file:
+		# print(article_sentence_file)
 		next(article_sentence_file)
 		for line in article_sentence_file:
 			pmc_file, sent_num, sentence_text_list, sent_span = line.strip('\n').split('\t')
@@ -71,6 +85,7 @@ def combine_sentence_bionlp(evaluation_files, bionlp_path, algo, sentence_path):
 
 
 	for article in evaluation_files:
+		print(article)
 		article_info_list = read_in_bionlp_files(bionlp_path, algo, article) #[ignorance_category, article, indices_list, text, None, None]
 		article_sentence_info_dict = read_in_sentence_files(sentence_path, article) #sent_id -> [sentence_text_list, sent_span]
 
@@ -113,6 +128,8 @@ def combine_sentence_bionlp(evaluation_files, bionlp_path, algo, sentence_path):
 			if sent_id in list(cue_sentences_set):
 				pass
 			else:
+
+				###TODO: sent_id.split('_')[-1]
 				sentences_no_cues += [[article, sent_id.split('_')[-1], article_sentence_info_dict[sent_id][0], article_sentence_info_dict[sent_id][1]]]
 
 
@@ -149,32 +166,75 @@ if __name__ == '__main__':
 	parser.add_argument('-sentence_path', type=str,help='file path to the sentence folder')
 	parser.add_argument('-output_path', type=str, help='the file path for the output of the summaries')
 	parser.add_argument('-evaluation_files', type=str, help='a list of the files to be evaluated delimited with ,')
+	parser.add_argument('--article_path', type=str,
+						help='the file path to all of the txt articles if you do not provide a list of the articles',
+						default=None)
 	args = parser.parse_args()
 
 
 	ontologies = args.ontologies.split(',')
-	evaluation_files = args.evaluation_files.split(',')
-	algos = args.algos.split(',')
+	# evaluation_files = args.evaluation_files.split(',')
+	try:
+		algos_list = ast.literal_eval(args.algos)
+	except ValueError:
+		algos_list = None
+		algos = args.algos.split(',')
+
+
 	# print(args.best_model_dict)
 
+
+	if args.evaluation_files.lower() == 'all':
+		evaluation_files = []
+		if args.article_path:
+			for root, directories, filenames in os.walk(args.article_path):
+				for filename in sorted(filenames):
+					if filename.endswith('.nxml.gz.txt'):
+						evaluation_files += [filename.replace('.nxml.gz.txt', '')]
+					else:
+						pass
+		else:
+			raise Exception('NEED TO PROVIDE ARTICLE PATH SO WE CAN GATHER THE LIST OF ARTICLES!')
+
+	else:
+		evaluation_files = args.evaluation_files.split(',')
+
 	print(evaluation_files)
+
 	cue_columns = ['IGNORANCE CATEGORY', 'ARTICLE', 'CUE SPAN', 'CUE', 'SENTENCE',
 				   'SENTENCE SPAN']  # 6 TOTAL THINGS WE NEED
 	no_cue_columns = ['ARTICLE', 'SENTENCE_NUMBER', 'SENTENCE', 'SENTENCE_INDICES']
 
+	if algos_list:
+		full_cue_info_list, sentences_no_cues = combine_sentence_bionlp(evaluation_files, args.bionlp_path, algos_list,args.sentence_path)
 
-	for algo in algos:
-		full_cue_info_list, sentences_no_cues = combine_sentence_bionlp(evaluation_files, args.bionlp_path, algo, args.sentence_path)
-
-		full_cue_info_list_df = output_summaries_df(full_cue_info_list, cue_columns, '%s%s.txt' %(args.output_path, 'ALL_CUES_FULL_SUMMARY'))
+		full_cue_info_list_df = output_summaries_df(full_cue_info_list, cue_columns,
+													'%s%s.txt' % (args.output_path, 'ALL_CUES_FULL_SUMMARY'))
 
 		##separate out by ignorance category:
 		for ont in ontologies:
 			# print(ont)
 			ont_specific_df = full_cue_info_list_df.loc[full_cue_info_list_df['IGNORANCE CATEGORY'] == ont.lower()]
 			# print(ont_specific_df)
-			ont_specific_df = output_summaries_df(ont_specific_df, cue_columns, '%s%s_%s.txt' %(args.output_path, ont.upper(), 'CUES_FULL_SUMMARY'))
+			ont_specific_df = output_summaries_df(ont_specific_df, cue_columns,
+												  '%s%s_%s.txt' % (args.output_path, ont.upper(), 'CUES_FULL_SUMMARY'))
+
+		sentences_no_cues_df = output_summaries_df(sentences_no_cues, no_cue_columns,  '%s%s.txt' % (args.output_path, 'NO_CUES_FULL_SUMMARY'))
 
 
-		sentences_no_cues_df = output_summaries_df(sentences_no_cues, no_cue_columns, '%s%s.txt' %(args.output_path, 'NO_CUES_FULL_SUMMARY'))
+	else:
+		for algo in algos:
+			full_cue_info_list, sentences_no_cues = combine_sentence_bionlp(evaluation_files, args.bionlp_path, algo, args.sentence_path)
+
+			full_cue_info_list_df = output_summaries_df(full_cue_info_list, cue_columns, '%s%s.txt' %(args.output_path, 'ALL_CUES_FULL_SUMMARY'))
+
+			##separate out by ignorance category:
+			for ont in ontologies:
+				# print(ont)
+				ont_specific_df = full_cue_info_list_df.loc[full_cue_info_list_df['IGNORANCE CATEGORY'] == ont.lower()]
+				# print(ont_specific_df)
+				ont_specific_df = output_summaries_df(ont_specific_df, cue_columns, '%s%s_%s.txt' %(args.output_path, ont.upper(), 'CUES_FULL_SUMMARY'))
+
+
+			sentences_no_cues_df = output_summaries_df(sentences_no_cues, no_cue_columns, '%s%s.txt' %(args.output_path, 'NO_CUES_FULL_SUMMARY'))
 

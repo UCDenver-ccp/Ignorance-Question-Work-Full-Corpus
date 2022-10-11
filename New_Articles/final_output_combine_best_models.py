@@ -47,6 +47,9 @@ if __name__ == '__main__':
 	parser.add_argument('-evaluation_files', type=str, help='a list of the files to be evaluated delimited with ,')
 	parser.add_argument('-best_model_type', type=str, help='folder name of the output for all the separate categories combined')
 	parser.add_argument('-best_model_dict', type=str, help='a string of a dictionary for the algorithm to a list of the ontologies that use this algorithm all in string with no spaces')
+	parser.add_argument('--article_path', type=str,
+						help='the file path to all of the txt articles if you do not provide a list of the articles',
+						default=None)
 	args = parser.parse_args()
 
 	# ontologies = ['CHEBI', 'CL', 'GO_BP', 'GO_CC', 'GO_MF', 'MOP', 'NCBITaxon', 'PR', 'SO', 'UBERON']
@@ -59,12 +62,27 @@ if __name__ == '__main__':
 	algos = args.algos.split(',')
 	result_folders = args.result_folders.split(',')
 	ontologies = args.ontologies.split(',')
-	evaluation_files = args.evaluation_files.split(',')
+	# evaluation_files = args.evaluation_files.split(',')
 	# print(args.best_model_dict)
 	best_model_dict = ast.literal_eval(args.best_model_dict)
 	print(best_model_dict)
 
-	print(evaluation_files)
+	if args.evaluation_files.lower() == 'all':
+		evaluation_files = []
+		if args.article_path:
+			for root, directories, filenames in os.walk(args.article_path):
+				for filename in sorted(filenames):
+					if filename.endswith('.nxml.gz.txt'):
+						evaluation_files += [filename.replace('.nxml.gz.txt','')]
+					else:
+						pass
+		else:
+			raise Exception('NEED TO PROVIDE ARTICLE PATH SO WE CAN GATHER THE LIST OF ARTICLES!')
+
+	else:
+		evaluation_files = args.evaluation_files.split(',')
+
+	# print(evaluation_files)
 
 	for article in evaluation_files:
 		create_new_bionlp_files_best_model(article, algos, result_folders, args.results_path, best_model_dict, args.best_model_type, args.output_path)
