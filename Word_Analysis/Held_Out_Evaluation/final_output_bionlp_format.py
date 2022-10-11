@@ -15,9 +15,7 @@ def split_up_0_all_combined_data(tokenized_file_path, ontology, shorthand_ont_di
 
             ##per pmcid file - want to combine per ontology
             # print([filename.endswith('.nxml.gz.txt'), ontology in filename, 'local' in filename, 'pred' not in filename, (filename.split('_')[-1].replace('.txt','') in evaluation_files or evaluation_files == ['all'])])
-            if (filename.endswith(
-                    '.nxml.gz.txt') or filename.endswith('.txt')) and ontology in filename and 'local' in filename and 'pred' not in filename and ('crf_model_full' in filename or 'biobert' in filename) and (
-                    filename.split('_')[-1].replace('.nxml.gz.txt', '') in evaluation_files or evaluation_files == ['all'] or filename.split('_')[-1].replace('.txt','') in evaluation_files):
+            if (filename.endswith('.nxml.gz.txt') or filename.endswith('.txt')) and ontology in filename and 'local' in filename and 'pred' not in filename and ('crf_model_full' in filename or 'biobert' in filename) and (filename.split('local_')[-1].replace('.nxml.gz.txt', '') in evaluation_files or filename.split('local_')[-1].replace('.txt','') in evaluation_files or evaluation_files[0].lower() == 'all') and 'sentence' not in filename:
                 # print(filename)
 
                 for shorthand, ont in shorthand_ont_dict.items():
@@ -111,7 +109,7 @@ def preprocess_data(tokenized_file_path, ontology, ontology_dict, evaluation_fil
             # print([filename.endswith('.nxml.gz.txt'), ontology in filename, 'local' in filename, 'pred' not in filename, (filename.split('_')[-1].replace('.txt','') in evaluation_files or evaluation_files == ['all'])])
             if (filename.endswith(
                     '.nxml.gz.txt') or filename.endswith('.txt')) and ontology in filename and 'local' in filename and 'pred' not in filename and ('crf_model_full' in filename or 'biobert' in filename) and (
-                    filename.split('_')[-1].replace('.nxml.gz.txt', '') in evaluation_files or evaluation_files == ['all'] or filename.split('_')[-1].replace('.txt','') in evaluation_files) and 'sentences' not in filename:
+                    filename.split('local_')[-1].replace('.nxml.gz.txt', '') in evaluation_files or evaluation_files[0].lower() == 'all' or filename.split('local_')[-1].replace('.txt','') in evaluation_files) and 'sentences' not in filename:
                 # print(filename)
                 pmc_mention_id_index += 1  ##need to ensure we go up one always
 
@@ -232,7 +230,7 @@ def preprocess_data(tokenized_file_path, ontology, ontology_dict, evaluation_fil
 
 
 
-def output_all_files(pmcid_output_dict, ontology, ontology_dict, disc_error_output_file):
+def output_all_files(pmcid_output_dict, ontology, ontology_dict, disc_error_output_file, article_path):
 
 
     ##ONTOLOGY_DICT - pmc_mention_id -> [sentence_num, [word], [(word_indices)], span_model, [biotag]]
@@ -249,6 +247,10 @@ def output_all_files(pmcid_output_dict, ontology, ontology_dict, disc_error_outp
         word_list = ontology_dict[pmc_mention_id][1]  # list of words
         word_indices_list = ontology_dict[pmc_mention_id][2]
         span_model = ontology_dict[pmc_mention_id][3]
+
+        ##bring in the article text so we can check all the annotation indices that we update
+        pmcid_file = open('%s/%s.nxml.gz.txt' %(article_path, current_pmcid), 'r')
+        pmcid_file_text = pmcid_file.read()
 
 
         # print(sentence_num, word_list, word_indices_list, span_model)
@@ -277,6 +279,8 @@ def output_all_files(pmcid_output_dict, ontology, ontology_dict, disc_error_outp
                 updated_word_indices_list = []  # [(start,end)]
                 disc_sign = False
                 for i, w in enumerate(word_list):
+
+
                     ##I is first with no B
                     if i == 0:  # always take the first word to start
                         updated_word += '%s' % w
@@ -350,7 +354,8 @@ def output_all_files(pmcid_output_dict, ontology, ontology_dict, disc_error_outp
                             # if e2 == last_e:
                             #     final_word_indices_list += [(current_s, e2)]
 
-                            if (int(e1) + 1 == int(s2) or int(e1) == int(s2)) and updated_word.split(' ')[j+1] != '...':
+                            if (int(e1) + 1 == int(s2) or int(e1) == int(s2)):
+                                #and updated_word.split(' ')[j+1] != '...': #we can get rid of this because the step before for the updated_word_indices_list_short gets rid of the indicies for the ...
                                 pass
                             else:
                                 if final_word_indices_list:
@@ -372,15 +377,46 @@ def output_all_files(pmcid_output_dict, ontology, ontology_dict, disc_error_outp
                         continue
 
 
-                if len(updated_word.split(' ... ')) != len(final_word_indices_list):
+                ###check that we are indices and updated word are good!!!
+                #check word = word without any ... or spaces
+
+                pmcid_text_word = ''
+                for pmcid_s, pmcid_e in final_word_indices_list:
+                    pmcid_text_word += '%s' %(pmcid_file_text[int(pmcid_s):int(pmcid_e)])
+
+                check_word = updated_word.replace(' ','').replace('...','')
+                check_word_alphanum = ''.join(filter(str.isalnum, check_word))
+
+                pmcid_text_word_alphanum = ''.join(filter(str.isalnum, pmcid_text_word.replace(' ','')))
+
+
+                if check_word_alphanum != pmcid_text_word_alphanum:
                     print(updated_word)
                     print(updated_word_indices_list)
                     print(updated_word_indices_list_short)
                     print(final_word_indices_list)
-                    print(current_s, e2, last_e)
-                    raise Exception('ERROR: Issue with the final word indices list being the wrong length!')
+                    try:
+                        print(current_s, e2, last_e)
+                    except UnboundLocalError:
+                        print(current_s, last_e)
+                    print(check_word)
+                    print(pmcid_text_word)
+                    print(pmcid_text_word.replace(' ',''))
+                    print(pmcid)
+                    raise Exception('ERROR: Issue with the final word and indices list not matching the text!')
                 else:
                     pass
+
+
+                # if len(updated_word.split(' ... ')) == len(final_word_indices_list):
+                #     pass
+                # else:
+                #     print(updated_word)
+                #     print(updated_word_indices_list)
+                #     print(updated_word_indices_list_short)
+                #     print(final_word_indices_list)
+                #     print(current_s, e2, last_e)
+                #     raise Exception('ERROR: Issue with the final word indices list being the wrong length!')
 
                 # if updated_word == 'not only ...':
                 #     print(updated_word)
@@ -392,6 +428,7 @@ def output_all_files(pmcid_output_dict, ontology, ontology_dict, disc_error_outp
 
                 for (s, e) in final_word_indices_list:
                     word_indices_output += '%s %s;' % (s, e)
+
                 word_indices_output = word_indices_output[:len(word_indices_output) - 1]  ##get rid of the last ;
                 # print('PROCESSED')
                 # print(updated_word, updated_word_indices_list, word_indices_output)
@@ -437,6 +474,8 @@ if __name__ == '__main__':
     parser.add_argument('-evaluation_files', type=str, help='a list of the files to be evaluated delimited with ,')
     parser.add_argument('-separate_all_combined_output', type=str, help='folder name of the output for all the separate categories combined')
     parser.add_argument('-shorthand_ont_dict', type=str, help='a string of a dictionary for all the shorthands from 0_all_combined to the ontology information')
+    parser.add_argument('-article_path', type=str, help='the file path to all of the txt articles if you do not provide a list of the articles')
+
     args = parser.parse_args()
 
     # ontologies = ['CHEBI', 'CL', 'GO_BP', 'GO_CC', 'GO_MF', 'MOP', 'NCBITaxon', 'PR', 'SO', 'UBERON']
@@ -449,9 +488,22 @@ if __name__ == '__main__':
     algos = args.algos.split(',')
     result_folders = args.result_folders.split(',')
     ontologies = args.ontologies.split(',')
-    evaluation_files = args.evaluation_files.split(',')
     shorthand_ont_dict = ast.literal_eval(args.shorthand_ont_dict)
 
+    if args.evaluation_files.lower() == 'all':
+        evaluation_files = []
+        for root, directories, filenames in os.walk(args.article_path):
+            for filename in sorted(filenames):
+                if filename.endswith('.nxml.gz.txt'):
+                    evaluation_files += [filename.replace('.nxml.gz.txt','')]
+                else:
+                    pass
+
+
+    else:
+        evaluation_files = args.evaluation_files.split(',')
+
+    print('FINISHED WITH GETTING ALL EVALUATION FILES')
     print(evaluation_files)
 
 
@@ -461,6 +513,7 @@ if __name__ == '__main__':
         ##output_dictionary for each pmcid -> [(sentence_num, ignorance_category, word_indices, word)]
         pmcid_output_dict = {}
         pmcid_all_combined_dict = {}
+
         for e in evaluation_files:
             pmcid_output_dict[e] = []
             pmcid_all_combined_dict[e] = []
@@ -494,7 +547,7 @@ if __name__ == '__main__':
                     all_combined_ontology_dict = preprocess_data(split_all_combined_output_folder, ont, all_combined_ontology_dict, evaluation_files)
 
                     pmcid_all_combined_dict = output_all_files(pmcid_all_combined_dict, ont, all_combined_ontology_dict,
-                                                         disc_error_output_file)
+                                                         disc_error_output_file, args.article_path)
 
             else:
                 # ONTOLOGY_DICT - pmc_mention_id -> [sentence_num, word, [(word_indices)], span_model]
@@ -504,7 +557,7 @@ if __name__ == '__main__':
 
 
                 ##TODO!!! TODO: make all of them lowercase and uniform! also duplicates!
-                pmcid_output_dict = output_all_files(pmcid_output_dict, ontology, ontology_dict, disc_error_output_file)
+                pmcid_output_dict = output_all_files(pmcid_output_dict, ontology, ontology_dict, disc_error_output_file, args.article_path)
 
 
         ##final pmcid_output_dict

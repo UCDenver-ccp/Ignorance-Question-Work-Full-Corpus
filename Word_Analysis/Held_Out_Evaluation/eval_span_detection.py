@@ -1413,7 +1413,15 @@ def run_models(tokenized_file_path, ontology, save_models_path, output_path, exc
                             for i, b in enumerate(binary_X_eval_crf_pred):
                                 b_sentence = all_sents[i]
                                 b_sentence_id = all_sents_ids[i]  # (pmcid, sentence_number, sentence_indices) delimited with _
-                                (b_pmcid, b_sentence_number, b_sentence_indices) = b_sentence_id.split('_')
+                                # print(i,b)
+                                # print(b_sentence_id)
+                                ##BMJ_2008_Nov_7_337_a2001.nxml.gz_0_(0, 450)
+                                if len(b_sentence_id.split('_')) > 3:
+                                    b_pmcid_partial, rest_partial = b_sentence_id.split('.nxml.gz_')
+                                    b_pmcid = '%s%s' %(b_pmcid_partial, '.nxml.gz')
+                                    b_sentence_number, b_sentence_indices = rest_partial.split('_')
+                                else:
+                                    (b_pmcid, b_sentence_number, b_sentence_indices) = b_sentence_id.split('_')
 
                                 with open('%s%s/%s_%s_sentences.txt' % (output_path, ontology, filename2.replace('.joblib', ''), b_pmcid),
                                           'a+') as b_output:

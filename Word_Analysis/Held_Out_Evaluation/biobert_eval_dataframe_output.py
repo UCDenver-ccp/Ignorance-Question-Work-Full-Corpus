@@ -178,9 +178,11 @@ def biobert_eval_results_span_detection(tokenized_file_path, ontology, biobert_p
     for root, directories, filenames in os.walk(tokenized_file_path):
 
         for filename in sorted(filenames):
-            if (filename.endswith('.pkl') and (filename.replace('.pkl', '') in excluded_files)) or filename.replace('.nxml.gz.pkl','') in excluded_files or (filename.endswith('.nxml.gz.pkl') and excluded_files[0].lower() == 'all'):
+            if (filename.endswith('.pkl') and (filename.replace('.pkl', '') in excluded_files)) or filename.replace('.nxml.gz.pkl','') in excluded_files:
                 valid_filename = True
             elif 'covid' == ontology.lower() and filename.endswith('.pkl'):
+                valid_filename = True
+            elif excluded_files[0].lower() == 'all' and filename.endswith('.pkl'):
                 valid_filename = True
             else:
                 valid_filename = False

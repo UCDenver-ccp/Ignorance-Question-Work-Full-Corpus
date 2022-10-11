@@ -1,23 +1,23 @@
 import os
-import re
-import gzip
+# import re
+# import gzip
 import argparse
-import numpy as np
-import nltk.data
-import sys
+# import numpy as np
+# import nltk.data
+# import sys
 # import termcolor
 # from termcolor import colored, cprint
 from xml.etree import ElementTree as ET
 from xml.dom import minidom
-import multiprocessing as mp
-import functools
-import resource, sys
-from emoji import UNICODE_EMOJI
-import demoji
+# import multiprocessing as mp
+# import functools
+# import resource, sys
+# from emoji import UNICODE_EMOJI
+# import demoji
 # demoji.download_codes()
-from datetime import date
+# from datetime import date
 from lxml import etree
-from nltk.tokenize.punkt import PunktSentenceTokenizer
+# from nltk.tokenize.punkt import PunktSentenceTokenizer
 
 ##based on automatic_ontology_insertion.py script in corpus construction under IAA
 
@@ -127,7 +127,7 @@ def xml_creation(pmc_doc_path, pmc_article_file_path, algo, file_type, pmc_bionl
 	##FILE OUTPUT NAME
 	# print(pmc_doc_path)
 	print(pmc_doc_path)
-	pmc_output_name = pmc_doc_path.split('/')[-1].replace('.bionlp', '').split('_')[-1]
+	pmc_output_name = pmc_doc_path.split('/')[-1].replace('.bionlp', '').split('%s_' %(algo))[-1]
 	print(pmc_output_name)
 
 	##THE FULL TEXT DOCUMENT
@@ -198,50 +198,80 @@ def xml_creation(pmc_doc_path, pmc_article_file_path, algo, file_type, pmc_bionl
 		else:
 			pass
 
-		spanned_text_list = lexical_cue_text.split('...')
+		lexical_cue_text_no_outer_dots_list = [s for s in lexical_cue_text.split('...') if s != '']
+		if len(lexical_cue_text_no_outer_dots_list) == len(span_list):
+			spanned_text_list = lexical_cue_text_no_outer_dots_list
+		else:
+			spanned_text_list = [lexical_cue_text]
 
 		final_lc_list = [] #list of all the pieces with no spaces for lexical cue stuff
 		final_spanned_text_list = [] #list of all the pieces with spaces
+		updated = False
+
 		##confirm the span is good and we have the correct lexical cue
 		for j, indices in enumerate(span_list):
 			s, e = indices
-			spanned_text = spanned_text_list[j]
+
+			if updated and len(spanned_text_list) == 1:
+				pass
+			else:
+				spanned_text = spanned_text_list[j]
 
 
 			#check that the text is the same as from the article - confirming the indices
 			if spanned_text.lower() != pmc_full_text[int(s):int(e)].lower():
+
+				##if it is already updated because of fudgning the indices with discontinuities we are good to go and we reset
+				if updated:
+					updated = False
+					pass
+				else:
+					spanned_text_alphanum = ''.join(filter(str.isalnum, spanned_text)).lower()
+
+				pmc_text_alphanum = ''.join(filter(str.isalnum, pmc_full_text[int(s):int(e)])).lower()
+
+				if spanned_text_alphanum == pmc_text_alphanum:
+					spanned_text = pmc_full_text[int(s):int(e)]
 				# print(spanned_text.lower())
 				# print(pmc_full_text[int(s):int(e)].lower())
-				#dash issue
-				if '-' in spanned_text.lower() and (spanned_text.lower().replace(' - ','-') == pmc_full_text[int(s):int(e)].lower() or spanned_text.lower().replace('- ','-') == pmc_full_text[int(s):int(e)].lower() or spanned_text.lower().replace(' -','-') == pmc_full_text[int(s):int(e)].lower()):
-					# print('got here')
+				# #dash issue
+				# if '-' in spanned_text.lower() and (spanned_text.lower().replace(' - ','-').replace('- ','-').replace(' -','-') == pmc_full_text[int(s):int(e)].lower()):
+				# 	# print('got here')
+				# 	spanned_text = pmc_full_text[int(s):int(e)]
+				# elif '–' in spanned_text.lower() and (spanned_text.lower().replace(' – ','–').replace('– ','–').replace(' –','–') == pmc_full_text[int(s):int(e)].lower()):
+				# 	spanned_text = pmc_full_text[int(s):int(e)]
+				# #comma issue
+				# elif ',' in spanned_text.lower() and spanned_text.lower().replace(' ,', ',') == pmc_full_text[int(s):int(e)].lower():
+				# 	spanned_text = pmc_full_text[int(s):int(e)]
+				# ##contraction issue
+				# elif '’' in spanned_text.lower() and (spanned_text.lower().replace(' ’ ', '’').replace('’ ', '’') == pmc_full_text[int(s):int(e)].lower()):
+				# 	spanned_text = pmc_full_text[int(s):int(e)]
+				# ##parentheses issue
+				# elif ')' in spanned_text.lower() and spanned_text.lower().replace(' )', ')').replace('( ', '(') == pmc_full_text[int(s):int(e)].lower():
+				# 	spanned_text = pmc_full_text[int(s):int(e)]
+				# elif '[' in spanned_text.lower() and spanned_text.lower().replace('[ ', '[').replace(' ]', ']') == pmc_full_text[int(s):int(e)].lower():
+				# 	spanned_text = pmc_full_text[int(s):int(e)]
+				# ##slash issue
+				# elif '/' in spanned_text.lower() and spanned_text.lower().replace(' / ', '/') == pmc_full_text[int(s):int(e)].lower():
+				# 	spanned_text = pmc_full_text[int(s):int(e)]
+				elif spanned_text_alphanum.startswith(pmc_text_alphanum):
+					updated = True
+					spanned_text_alphanum = spanned_text_alphanum.lstrip(pmc_text_alphanum)
 					spanned_text = pmc_full_text[int(s):int(e)]
-				elif '–' in spanned_text.lower() and (spanned_text.lower().replace(' – ','–') == pmc_full_text[int(s):int(e)].lower() or spanned_text.lower().replace('– ','–') == pmc_full_text[int(s):int(e)].lower() or spanned_text.lower().replace(' –','–') == pmc_full_text[int(s):int(e)].lower()):
-					spanned_text = pmc_full_text[int(s):int(e)]
-				#comma issue
-				elif ',' in spanned_text.lower() and spanned_text.lower().replace(' ,', ',') == pmc_full_text[int(s):int(e)].lower():
-					spanned_text = pmc_full_text[int(s):int(e)]
-				##contraction issue
-				elif '’' in spanned_text.lower() and (spanned_text.lower().replace(' ’ ', '’') == pmc_full_text[int(s):int(e)].lower() or spanned_text.lower().replace('’ ', '’') == pmc_full_text[int(s):int(e)].lower()):
-					spanned_text = pmc_full_text[int(s):int(e)]
-				##parentheses issue
-				elif ')' in spanned_text.lower() and spanned_text.lower().replace(' )', ')').replace('( ', '(') == pmc_full_text[int(s):int(e)].lower():
-					spanned_text = pmc_full_text[int(s):int(e)]
-				elif '[' in spanned_text.lower() and spanned_text.lower().replace('[ ', '[').replace(' ]', ']') == pmc_full_text[int(s):int(e)].lower():
-					spanned_text = pmc_full_text[int(s):int(e)]
-				##slash issue
-				elif '/' in spanned_text.lower() and spanned_text.lower().replace(' / ', '/') == pmc_full_text[int(s):int(e)].lower():
-					spanned_text = pmc_full_text[int(s):int(e)]
-				else:
 
+
+				else:
 					print(pmc_doc_path)
 					print(algo)
-
 					print(indices)
 					print([lexical_cue_text])
 					print(span_list)
+					print(spanned_text_list)
 					print([spanned_text.lower()])
 					print([pmc_full_text[int(s):int(e)].lower()])
+					print(spanned_text_alphanum)
+					print(pmc_text_alphanum)
+					print(lexical_cue_text_no_outer_dots_list)
 					raise Exception('ERROR: Issue with spanned text continuing throughout!')
 			else:
 				pass
@@ -363,6 +393,7 @@ if __name__=='__main__':
 	algos = args.algos.split(',')
 	evaluation_files = args.evaluation_files.split(',')
 	file_types = args.file_types.split(',')
+	print(file_types)
 
 
 	##grab all lexical cues!
@@ -379,26 +410,38 @@ if __name__=='__main__':
 
 		##loop over the type of files - '0_all_combined,1_binary_combined,13_separate_combined'
 		for file_type in file_types:
-			print(file_type)
-			bionlp_file_path = args.results_path + result_folders[i] + '/' + args.bionlp_folder + file_type + '/'
-			xml_output_file_path = args.results_path + result_folders[i] + '/' + args.xml_folder + file_type + '/'
+			# print('file type', [file_type])
+			if file_type == '':
+				bionlp_file_path = args.results_path + args.bionlp_folder
+				xml_output_file_path = args.results_path + args.xml_folder
+			else:
+				bionlp_file_path = args.results_path + result_folders[i] + '/' + args.bionlp_folder + file_type + '/'
+
+				xml_output_file_path = args.results_path + result_folders[i] + '/' + args.xml_folder + file_type + '/'
+
+
+
+			print(bionlp_file_path)
+			print(xml_output_file_path)
 
 			##read in the bionlp files - make sure we only take the evaluation files
 			directory_new_pred_count_lcs_count = 0
 			for root, directories, filenames in os.walk(bionlp_file_path):
 				for filename in sorted(filenames):
-					if filename.endswith('.bionlp') and algo.upper() in filename and filename.replace('.bionlp', '').split('_')[
-						-1] in evaluation_files:
+					print(filename)
+					if filename.endswith('.bionlp') and algo.upper() in filename and (filename.replace('.bionlp', '').split('_')[
+						-1] in evaluation_files or evaluation_files[0].lower() == 'all'):
 						print(filename)
 
 						##read in the bionlp files
 						pmc_bionlp_dict = read_in_bionlp_data(root+filename) #dict from relation (T#) -> (ignorance_categry, [span], text)
 
 						print(len(pmc_bionlp_dict.keys()))
-						if '.nxml' in filename:
-							pmc_article_file_path = '%s%s' %(args.article_path, filename.split('_')[-1].replace('bionlp', 'nxml.gz.txt'))
-						else:
-							pmc_article_file_path = '%s%s' %(args.article_path, filename.split('_')[-1].replace('bionlp', 'txt'))
+						# if '.nxml' in filename:
+						# article_file = filename.split('%s_' %algo)[-1]
+						pmc_article_file_path = '%s%s' %(args.article_path, filename.split('%s_' %algo)[-1].replace('bionlp', 'nxml.gz.txt'))
+						# else:
+						# 	pmc_article_file_path = '%s%s' %(args.article_path, filename.split('_')[-1].replace('bionlp', 'txt'))
 						##use these to create the xml file
 						new_pred_lcs_count = xml_creation(root+filename, pmc_article_file_path, algo, file_type, pmc_bionlp_dict, all_lcs_dict, xml_output_file_path, all_weird_lcs)
 						directory_new_pred_count_lcs_count += new_pred_lcs_count
